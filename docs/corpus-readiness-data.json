@@ -1,0 +1,4676 @@
+{
+  "scope": "Retained records in platforms with exactly 10 records; original retention flags are not certification.",
+  "parsedRecords": 571,
+  "invalidRecords": [
+    {
+      "path": "data/forms/teamtailor__doodle__value-consultant.json",
+      "error": "Extra data: line 561 column 2 (char 16566)"
+    }
+  ],
+  "retainedAllPlatforms": 165,
+  "platforms": [
+    {
+      "platform": "ashby",
+      "retained": 10,
+      "fieldTotal": 104,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/ashby__clickhouse__senior-cloud-software-engineer-efficienc.json",
+          "title": "Senior Cloud Software Engineer - Efficiency Engineering",
+          "location": "AMER",
+          "pageTitle": "Senior Cloud Software Engineer - Efficiency Engineering @ ClickHouse",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 9,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "e2ce1b97c761",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/clickhouse__senior-cloud-software-engineer-efficienc.png",
+              "exists": true,
+              "bytes": 465446,
+              "sha256": "538af1562503105259f7989714b5c167e03a9a7c604d046654649b7fd7ff4df4",
+              "width": 1366,
+              "height": 4306
+            },
+            "html": {
+              "path": "data/html/ashby/clickhouse__senior-cloud-software-engineer-efficienc.html",
+              "exists": true,
+              "bytes": 74239,
+              "sha256": "ad88c2f37b15d919fdcd6b3802edabe6b5c41c7a83d4c523718cdba8466f558d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__linear__senior-staff-fullstack-engineer.json",
+          "title": "Senior / Staff Fullstack Engineer",
+          "location": "Europe",
+          "pageTitle": "Senior / Staff Fullstack Engineer @ Linear",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 14
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4398c001588d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/linear__senior-staff-fullstack-engineer.png",
+              "exists": true,
+              "bytes": 200107,
+              "sha256": "dbd61aff9ff0e06c15bd6134432141c80eb3c4487ca0db6e9ae9c8966f1f697e",
+              "width": 1440,
+              "height": 3022
+            },
+            "html": {
+              "path": "data/html/ashby/linear__senior-staff-fullstack-engineer.html",
+              "exists": true,
+              "bytes": 70623,
+              "sha256": "765e0737b189f58190494705d46f3c8b21942c748d815fbc6be115388cf0ac3b"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__notion__software-engineer-developer-experience-g.json",
+          "title": "Software Engineer, Developer Experience (Go Lead)",
+          "location": "New York, New York",
+          "pageTitle": "Software Engineer, Developer Experience (Go Lead) @ Notion",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 7,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "7778c8ef4f27",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/notion__software-engineer-developer-experience-g.png",
+              "exists": true,
+              "bytes": 583898,
+              "sha256": "76b09726e4b3fccf7c0069f37dc515a35daf5487065246d45d4c609c71a2ce65",
+              "width": 1366,
+              "height": 4276
+            },
+            "html": {
+              "path": "data/html/ashby/notion__software-engineer-developer-experience-g.html",
+              "exists": true,
+              "bytes": 100427,
+              "sha256": "3e93c1e8c6cd519bb4f85cc7c0342664be2e06617240ab05105afaf594a7616e"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__openai__principal-security-engineer-infrastructu.json",
+          "title": "Principal Security Engineer, Infrastructure Security",
+          "location": "US - Remote",
+          "pageTitle": "Principal Security Engineer, Infrastructure Security @ OpenAI",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 9,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "calendar-widget": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "af4c510c7fce",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/openai__principal-security-engineer-infrastructu.png",
+              "exists": true,
+              "bytes": 1297193,
+              "sha256": "1860820e99b2fed4a1f2ccd46ddecad6ddd4460166847cd8b22b076c19c5dc1c",
+              "width": 1366,
+              "height": 7160
+            },
+            "html": {
+              "path": "data/html/ashby/openai__principal-security-engineer-infrastructu.html",
+              "exists": true,
+              "bytes": 106894,
+              "sha256": "8a4eb43372e68786b710d37e26992ed4cf39649d14953e1ef48fc6f891f3e38c"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__openai__principal-software-engineer-infrastructu.json",
+          "title": "Principal Software Engineer, Infrastructure Security",
+          "location": "US - Remote",
+          "pageTitle": "Principal Software Engineer, Infrastructure Security @ OpenAI",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 9,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "calendar-widget": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "af4c510c7fce",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/openai__principal-software-engineer-infrastructu.png",
+              "exists": true,
+              "bytes": 1307463,
+              "sha256": "d44504eade8a8570cd3c9fd50b18d80d5a7c0998b8e312ca758f48dc25fc6036",
+              "width": 1440,
+              "height": 7160
+            },
+            "html": {
+              "path": "data/html/ashby/openai__principal-software-engineer-infrastructu.html",
+              "exists": true,
+              "bytes": 108214,
+              "sha256": "3bf71e1b2b2f465876eb2d9325eb71763aa348c9e1ed3d12a69fca569690177f"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__ramp__senior-security-engineer-endpoint.json",
+          "title": "Senior Security Engineer, Endpoint",
+          "location": "New York, NY (HQ)",
+          "pageTitle": "Senior Security Engineer, Endpoint @ Ramp",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 8,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "dom-static": 1,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "955b9973ba91",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/ramp__senior-security-engineer-endpoint.png",
+              "exists": true,
+              "bytes": 159015,
+              "sha256": "366af04aa143684c28bd4c1a3f88dc35a96579984e170cd81a3f2c3b3b22ad2e",
+              "width": 1512,
+              "height": 1588
+            },
+            "html": {
+              "path": "data/html/ashby/ramp__senior-security-engineer-endpoint.html",
+              "exists": true,
+              "bytes": 68670,
+              "sha256": "f3de04fc5785dca40b614f8d4d5ffd2c6997fd648b4e1cdfd08d715ac00a8e18"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__replit__staff-infrastructure-engineer.json",
+          "title": "Staff Infrastructure Engineer",
+          "location": "Foster City, CA",
+          "pageTitle": "Staff Infrastructure Engineer @ Replit",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 12,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83d1e96aa178",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/replit__staff-infrastructure-engineer.png",
+              "exists": true,
+              "bytes": 642090,
+              "sha256": "185024b5734da04693257505676d5ae3c3039f835302a5aff7ff81bf79b16748",
+              "width": 1440,
+              "height": 5327
+            },
+            "html": {
+              "path": "data/html/ashby/replit__staff-infrastructure-engineer.html",
+              "exists": true,
+              "bytes": 98885,
+              "sha256": "dfa812f6a3bc632cec6c17cae749000c033a9045a7bb132c1038060573c61655"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__replit__staff-software-engineer-product.json",
+          "title": "Staff Software Engineer, Product",
+          "location": "Foster City, CA",
+          "pageTitle": "Staff Software Engineer, Product @ Replit",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 12,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83d1e96aa178",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/replit__staff-software-engineer-product.png",
+              "exists": true,
+              "bytes": 640525,
+              "sha256": "f60f232ec28dfc1f9d8e44a6cfe00b32238ef0546af1286cd683d74cf5173299",
+              "width": 1512,
+              "height": 5292
+            },
+            "html": {
+              "path": "data/html/ashby/replit__staff-software-engineer-product.html",
+              "exists": true,
+              "bytes": 80702,
+              "sha256": "0b7b8e5b05a4af9e11f169df0f2c0938ddb491ed6c937dd339bc875f17402558"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__vanta__senior-fullstack-software-engineer-grc.json",
+          "title": "Senior Fullstack Software Engineer, GRC",
+          "location": "Remote U.S.",
+          "pageTitle": "Senior Fullstack Software Engineer, GRC @ Vanta",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 11,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "dom-static": 1,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "5d71d2e60e5e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/vanta__senior-fullstack-software-engineer-grc.png",
+              "exists": true,
+              "bytes": 611614,
+              "sha256": "8e4d3db2b35a7d5394e49e9f67b8ab6e73f37247b7aa678c9258b194674062c4",
+              "width": 1512,
+              "height": 4305
+            },
+            "html": {
+              "path": "data/html/ashby/vanta__senior-fullstack-software-engineer-grc.html",
+              "exists": true,
+              "bytes": 88147,
+              "sha256": "d062ac9e48e8aed3f12245620a1bc714c528ddeccc51db1e5b9e9dfc5ba657ef"
+            }
+          }
+        },
+        {
+          "record": "data/forms/ashby__vanta__senior-software-engineer-developer-exper.json",
+          "title": "Senior Software Engineer, Developer Experience ",
+          "location": "Remote U.S.",
+          "pageTitle": "Senior Software Engineer, Developer Experience @ Vanta",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 11,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "dom-static": 1,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "5d71d2e60e5e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/ashby/vanta__senior-software-engineer-developer-exper.png",
+              "exists": true,
+              "bytes": 612472,
+              "sha256": "83fdc106aeb9561bdb4258fc4c3718243c81c19917d42b24ab88a6a5600eb7ca",
+              "width": 1512,
+              "height": 4305
+            },
+            "html": {
+              "path": "data/html/ashby/vanta__senior-software-engineer-developer-exper.html",
+              "exists": true,
+              "bytes": 70807,
+              "sha256": "6530b107b2536f269bb637571da5f421d50e3a0ee9a51df6ebece847642c6adf"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "avature",
+      "retained": 10,
+      "fieldTotal": 30,
+      "kinds": {
+        "login_upload_gate": 6,
+        "listing_or_job_detail": 4
+      },
+      "records": [
+        {
+          "record": "data/forms/avature__mantech__apply.json",
+          "title": "Apply",
+          "location": "",
+          "pageTitle": "Applying to Senior Program Control Analyst | MANTECH",
+          "observedKind": "login_upload_gate",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b55f22339a2e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/mantech__apply.png",
+              "exists": true,
+              "bytes": 555330,
+              "sha256": "dc0daa4ad89058214704208f27a27d6385952bf8498df1b0f854edd24b0d3656",
+              "width": 1512,
+              "height": 1332
+            },
+            "html": {
+              "path": "data/html/avature/mantech__apply.html",
+              "exists": true,
+              "bytes": 50883,
+              "sha256": "f4ea1488bca522b7c53b30d45e2c1aa8f6796f61bb0c512849e4cad1d0291304"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__mantech__associate-cno-developer.json",
+          "title": "Associate CNO Developer",
+          "location": "",
+          "pageTitle": "Applying to CNO Vulnerability Researcher | MANTECH",
+          "observedKind": "login_upload_gate",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b55f22339a2e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/mantech__associate-cno-developer.png",
+              "exists": true,
+              "bytes": 621797,
+              "sha256": "787b2cf9c991fcf42e8d2615a2e17a7a080fdd66332e03a90b0594b76f03456c",
+              "width": 1440,
+              "height": 1332
+            },
+            "html": {
+              "path": "data/html/avature/mantech__associate-cno-developer.html",
+              "exists": true,
+              "bytes": 51302,
+              "sha256": "23db46f31e92deea84c51f67fdc486638a4664f9aafb85b34bb21aca83d7d92d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__mantech__freight-coordinators.json",
+          "title": "Freight Coordinators",
+          "location": "",
+          "pageTitle": "Applying to Lead Commercial Logistics Planner | MANTECH",
+          "observedKind": "login_upload_gate",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b55f22339a2e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/mantech__freight-coordinators.png",
+              "exists": true,
+              "bytes": 554552,
+              "sha256": "62751d7e2d335418e6343730a435521f2f3729418a7ba1699c1142177385b93c",
+              "width": 1440,
+              "height": 1332
+            },
+            "html": {
+              "path": "data/html/avature/mantech__freight-coordinators.html",
+              "exists": true,
+              "bytes": 51301,
+              "sha256": "aad999944a9cc4ca6bfcd3b3db3db0055a0b8acb657c6aefe4b9db0037ac1db9"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__mantech__liaison-officer.json",
+          "title": "Liaison Officer",
+          "location": "",
+          "pageTitle": "Applying to Liaison Officer | MANTECH",
+          "observedKind": "login_upload_gate",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b55f22339a2e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/mantech__liaison-officer.png",
+              "exists": true,
+              "bytes": 616826,
+              "sha256": "1ba508c22d2892d08cf2cf7279abdf8dbee52c740d065991b0a09c221464395b",
+              "width": 1512,
+              "height": 1332
+            },
+            "html": {
+              "path": "data/html/avature/mantech__liaison-officer.html",
+              "exists": true,
+              "bytes": 51175,
+              "sha256": "2337126031f8ce5a023378feb952aa2c8c0151811ce083bef4ca65e0be5bc3d6"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__mantech__senior-program-control-analyst.json",
+          "title": "Senior Program Control Analyst",
+          "location": "",
+          "pageTitle": "Applying to Procurement Manager | MANTECH",
+          "observedKind": "login_upload_gate",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b55f22339a2e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/mantech__senior-program-control-analyst.png",
+              "exists": true,
+              "bytes": 611534,
+              "sha256": "7b5b07c6ca7ed750d6352c4bad0bbf4af82bebd837a01fdaf4e28e68988b6efa",
+              "width": 1366,
+              "height": 1332
+            },
+            "html": {
+              "path": "data/html/avature/mantech__senior-program-control-analyst.html",
+              "exists": true,
+              "bytes": 51221,
+              "sha256": "177e22dc2fc6f1ce43e1757343e0e388797a7befaa81f68cfc287ebb9bbc7d5e"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__mantech__sharepoint-solutions-engineer.json",
+          "title": "SharePoint Solutions Engineer",
+          "location": "",
+          "pageTitle": "Applying to Senior Systems Engineer | MANTECH",
+          "observedKind": "login_upload_gate",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b55f22339a2e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/mantech__sharepoint-solutions-engineer.png",
+              "exists": true,
+              "bytes": 612760,
+              "sha256": "969eec83dacf51da8f627c529c78b993be4f0f44b16dc1609c7c74ad62db0e5e",
+              "width": 1366,
+              "height": 1332
+            },
+            "html": {
+              "path": "data/html/avature/mantech__sharepoint-solutions-engineer.html",
+              "exists": true,
+              "bytes": 51231,
+              "sha256": "4041d22e3cdb2de129fcff209bcf5179f8b1ed81428b1f708dec3dd4b9dfe139"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__massmutual__client-portfolio-manager-boston-ma.json",
+          "title": "Client Portfolio Manager Boston, MA",
+          "location": "",
+          "pageTitle": "Client Portfolio Manager at MassMutual",
+          "observedKind": "listing_or_job_detail",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 2,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "1cf679b93e23",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/massmutual__client-portfolio-manager-boston-ma.png",
+              "exists": true,
+              "bytes": 1936879,
+              "sha256": "39c7793ec0d71b95dd6d3b00257e4ba370797a71d1c6a456a267e393e705c441",
+              "width": 1950,
+              "height": 10824
+            },
+            "html": {
+              "path": "data/html/avature/massmutual__client-portfolio-manager-boston-ma.html",
+              "exists": true,
+              "bytes": 110984,
+              "sha256": "65492f6dfc21b28975e46220bb99f08462a9637af97a7f2392c670fac011a4ee"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__massmutual__director-of-expense-accounting-springfie.json",
+          "title": "Director of Expense Accounting Springfield, MA",
+          "location": "",
+          "pageTitle": "Director of Expense Accounting at MassMutual",
+          "observedKind": "listing_or_job_detail",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 2,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "1cf679b93e23",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/massmutual__director-of-expense-accounting-springfie.png",
+              "exists": true,
+              "bytes": 2143406,
+              "sha256": "6c90b16c66c90ade4006b06252fa1e1bae4c7f03d549d369ac931150940568e2",
+              "width": 1950,
+              "height": 11327
+            },
+            "html": {
+              "path": "data/html/avature/massmutual__director-of-expense-accounting-springfie.html",
+              "exists": true,
+              "bytes": 116027,
+              "sha256": "dfee0c16b3a69b280891b555ad69b52dcb5cfc09aac73d5c8ffb79a30ba38f63"
+            }
+          }
+        },
+        {
+          "record": "data/forms/avature__massmutual__investment-professional-boston-ma.json",
+          "title": "Investment Professional Boston, MA",
+          "location": "",
+          "pageTitle": "Investment Professional at MassMutual",
+          "observedKind": "listing_or_job_detail",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 2,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "1cf679b93e23",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/massmutual__investment-professional-boston-ma.png",
+              "exists": true,
+              "bytes": 2042533,
+              "sha256": "a26c1d41cefc431d2e0ccb0a6f218d85d6ec8cf0bc4cc3f5fca78a9426a95f09",
+              "width": 1950,
+              "height": 10668
+            },
+            "html": {
+              "path": "data/html/avature/massmutual__investment-professional-boston-ma.html",
+              "exists": true,
+              "bytes": 112036,
+              "sha256": "85ec2f6e492b47c2140fc552a5974755f15b2ca2423245eae5319c8617aa7a5e"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-careers-massmutual-com__massmutual__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Financial Services and Insurance Jobs and Careers with MassMutual",
+          "observedKind": "listing_or_job_detail",
+          "fields": 3,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 2,
+            "unknown": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "1cf679b93e23",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/avature/massmutual__software-engineer.png",
+              "exists": true,
+              "bytes": 3113133,
+              "sha256": "17b51e62e3dc0ba1e8b0aff2b4f3ea20c65872ed66d309c474a6b8ed0be6f943",
+              "width": 1440,
+              "height": 7459
+            },
+            "html": {
+              "path": "data/html/avature/massmutual__software-engineer.html",
+              "exists": true,
+              "bytes": 96143,
+              "sha256": "69be9f61c3e07d7707282c31f3f5581ed42b3a4c237663389d9cd5d851131399"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "custom:shopify.com",
+      "retained": 10,
+      "fieldTotal": 126,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/custom-shopify-com__bt-shopify__commercial-drive-merchant-acquisition-an.json",
+          "title": "COMMERCIAL Drive merchant acquisition and value acceleration to scale the world\u2019s best commerce platform. TYPES OF ROLES",
+          "location": "",
+          "pageTitle": "Senior Solution Engineer, Mid Market - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "caf8fe52ed05",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/bt-shopify__commercial-drive-merchant-acquisition-an.png",
+              "exists": true,
+              "bytes": 767434,
+              "sha256": "5487df4b443219b22d7ccdc6d8897cfeaffe3fbe3f94e181bedda31db4c22750",
+              "width": 1512,
+              "height": 5481
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/bt-shopify__commercial-drive-merchant-acquisition-an.html",
+              "exists": true,
+              "bytes": 263380,
+              "sha256": "cad4816eed9fc224834807172cb65f02bb4f8c4be41df7a1d0ddfb80ad8874e8"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__design-design-the-world-s-best-tools-for.json",
+          "title": "DESIGN Design the world's best tools for entrepreneurs. TYPES OF ROLES: Product DesignDesign ManagementWritingBrand Desi",
+          "location": "",
+          "pageTitle": "Designers - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-static": 6
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "f07d1b72ff27",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__design-design-the-world-s-best-tools-for.png",
+              "exists": true,
+              "bytes": 243205,
+              "sha256": "68b7373705862b244cbe74867b20c47c48e8d25de18042a9a94f36b24f84bab3",
+              "width": 1366,
+              "height": 3069
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__design-design-the-world-s-best-tools-for.html",
+              "exists": true,
+              "bytes": 259846,
+              "sha256": "6f35e2af179f2234bf66925132e81bc1b8db79a50ba82b101a67cde8aad4ba32"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__head-of-merch-programs-remote-americas.json",
+          "title": "Head of Merch Programs REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Head of Merch Programs - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 12,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "dom-static": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "085f8331904d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__head-of-merch-programs-remote-americas.png",
+              "exists": true,
+              "bytes": 922752,
+              "sha256": "3cfbcb146957dd2750a614633e33ef60c58f2fa2797161a4bfb9d6dc4da58c1c",
+              "width": 1512,
+              "height": 6224
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__head-of-merch-programs-remote-americas.html",
+              "exists": true,
+              "bytes": 269648,
+              "sha256": "852d4c312f31aec22bbad23861abf06efcab029aeb5bcb249d948e0d38ef5a8c"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__security-incident-response-senior-analys.json",
+          "title": "Security Incident Response, Senior Analyst REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Security Incident Response, Senior Analyst - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 5,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "61db066e2aff",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__security-incident-response-senior-analys.png",
+              "exists": true,
+              "bytes": 649364,
+              "sha256": "de97c9482a3323dc5e10d3c5d1c30bc498574256b06804e01a685ad17da69928",
+              "width": 1512,
+              "height": 4665
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__security-incident-response-senior-analys.html",
+              "exists": true,
+              "bytes": 259088,
+              "sha256": "2ce89aad645a982bff7525a4093a609087c3948440c8879e905740bf22fd16d0"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__senior-deal-strategy-manager-payments-pl.json",
+          "title": "Senior Deal Strategy Manager, Payments & Platform Pricing REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Senior Deal Strategy Manager, Payments & Platform Pricing - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "953e93131097",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__senior-deal-strategy-manager-payments-pl.png",
+              "exists": true,
+              "bytes": 679459,
+              "sha256": "ad9554f799bce0e0476a982d7f03bce4b95ede65a207af4896c443f6a65e4e2d",
+              "width": 1512,
+              "height": 5145
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__senior-deal-strategy-manager-payments-pl.html",
+              "exists": true,
+              "bytes": 260942,
+              "sha256": "22f2dabf43a5ac86ce9b8c3e19ec98be0b383a502a344441b4e0da4b79cd4cc4"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__senior-financial-analyst-multiple-roles-.json",
+          "title": "Senior Financial Analyst - Multiple Roles REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Senior Financial Analyst - Multiple Roles - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 20,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "dom-static": 13
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "f86cc368189d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__senior-financial-analyst-multiple-roles-.png",
+              "exists": true,
+              "bytes": 886575,
+              "sha256": "48136bab9208f125a7adecb4c5ee3da0252b816731f1138bfc0872a68dc8c4e0",
+              "width": 1440,
+              "height": 6757
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__senior-financial-analyst-multiple-roles-.html",
+              "exists": true,
+              "bytes": 284922,
+              "sha256": "5c93c6ef94a40e1021bd2b3dc482872c3ec0b2c0e4401296d8a6bb72dd9cd7cc"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__senior-indirect-tax-analyst-remote-ameri.json",
+          "title": "Senior Indirect Tax Analyst REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Senior Indirect Tax Analyst - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "dom-static": 4
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "99a8d80e3556",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__senior-indirect-tax-analyst-remote-ameri.png",
+              "exists": true,
+              "bytes": 760951,
+              "sha256": "d634b407ceb08b39732682886eb3eed39b6b5952fb55387d56d302c69b8410bc",
+              "width": 1512,
+              "height": 5254
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__senior-indirect-tax-analyst-remote-ameri.html",
+              "exists": true,
+              "bytes": 262038,
+              "sha256": "fd26968ea912c0622bd65c9ba337ced3b697a2a1e89d5e81c5697bae95099061"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__senior-lead-federal-government-affairs-u.json",
+          "title": "Senior Lead, Federal Government Affairs (US) REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Senior Lead, Federal Government Affairs (US) - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 5,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "ea5674791a7c",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__senior-lead-federal-government-affairs-u.png",
+              "exists": true,
+              "bytes": 881715,
+              "sha256": "cc1a8310c13e57e67115624194bc07e7fdc38fb6940c226ad5f1d09ac7437495",
+              "width": 1366,
+              "height": 5585
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__senior-lead-federal-government-affairs-u.html",
+              "exists": true,
+              "bytes": 268273,
+              "sha256": "38cfe2593c2cd590fad375c8b5feff0b51077f51f687e89acc16cb8d83eb6ca1"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__senior-lead-strategy-operations-revenue-.json",
+          "title": "Senior Lead, Strategy & Operations -Revenue Marketing REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Senior Lead, Strategy & Operations -Revenue Marketing - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 12,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "40e2fea77c58",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__senior-lead-strategy-operations-revenue-.png",
+              "exists": true,
+              "bytes": 768248,
+              "sha256": "e43b350a68d1b5f916d33fc4ea9c8749a13b2d531bb40dd820da300ec45a44db",
+              "width": 1440,
+              "height": 5521
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__senior-lead-strategy-operations-revenue-.html",
+              "exists": true,
+              "bytes": 264870,
+              "sha256": "e3c207f82b10e64d75e31d731e27e7c04febd0321693321969ef67ff572ddb32"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-shopify-com__shopify__social-lead-product-remote-americas.json",
+          "title": "Social Lead, Product REMOTE - AMERICAS",
+          "location": "",
+          "pageTitle": "Social Lead, Product - Shopify",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 11,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "55250559eeee",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-shopify-com/shopify__social-lead-product-remote-americas.png",
+              "exists": true,
+              "bytes": 623718,
+              "sha256": "bf40e7f1330a3962c8edaf3e58c0fa00634de8b48f9de17910f628680ac006a5",
+              "width": 1366,
+              "height": 4678
+            },
+            "html": {
+              "path": "data/html/custom-shopify-com/shopify__social-lead-product-remote-americas.html",
+              "exists": true,
+              "bytes": 259476,
+              "sha256": "b98aa1d99b2fb56658dc4410fe557e25a0221e2641aaf02184530d575d3f9109"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "custom:wellfound.com",
+      "retained": 10,
+      "fieldTotal": 100,
+      "kinds": {
+        "application_with_account_registration": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__remote-principal-full-stack-software-eng.json",
+          "title": "Remote Principal Full Stack Software Engineer",
+          "location": "",
+          "pageTitle": "Remote Principal Full Stack Software Engineer at Butterfly Network \u2022 Alabama \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__remote-principal-full-stack-software-eng.png",
+              "exists": true,
+              "bytes": 1309112,
+              "sha256": "5fe55772343bf22437fdeef0afcc4d6b28d3ad8e68244a20536eb69a861eb2a1",
+              "width": 1440,
+              "height": 8967
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__remote-principal-full-stack-software-eng.html",
+              "exists": true,
+              "bytes": 194383,
+              "sha256": "1382930701d331a8574a3800b41a03c0648f044f50592bfde603071055b678ab"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__senior-backend-engineer-experimentation.json",
+          "title": "Senior Backend Engineer, Experimentation",
+          "location": "",
+          "pageTitle": "Senior Backend Engineer, Experimentation at LaunchDarkly \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__senior-backend-engineer-experimentation.png",
+              "exists": true,
+              "bytes": 1445166,
+              "sha256": "7efa122358c36a6f966067e99f5c877aa063db0e8a8f64ad09352378c7c41405",
+              "width": 1440,
+              "height": 9741
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__senior-backend-engineer-experimentation.html",
+              "exists": true,
+              "bytes": 231684,
+              "sha256": "b2d763b85098550fef0fdb773465e5ec778878b6df1961f206c6032035c9a3b3"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__senior-infrastructure-engineer-sre.json",
+          "title": "Senior Infrastructure Engineer, SRE",
+          "location": "",
+          "pageTitle": "Senior Infrastructure Engineer, SRE at Rocket Money \u2022 New York City \u2022 San Francisco \u2022 Washington DC \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "432e7d59a9bd",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__senior-infrastructure-engineer-sre.png",
+              "exists": true,
+              "bytes": 1172540,
+              "sha256": "b6696bc12dc5c5ed26457a1f370e9cfcf5067f94a8fba006127a6db38e61e4c2",
+              "width": 1366,
+              "height": 8175
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__senior-infrastructure-engineer-sre.html",
+              "exists": true,
+              "bytes": 203459,
+              "sha256": "16ca4c3d6d7668e2ace9fd434828fd427c28294e941a82b4844d3226c37690e0"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__senior-research-engineer.json",
+          "title": "Senior Research Engineer",
+          "location": "",
+          "pageTitle": "Senior Research Engineer at AssemblyAI \u2022 New York \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "36179ad0193a",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__senior-research-engineer.png",
+              "exists": true,
+              "bytes": 1202692,
+              "sha256": "ba078407985d1788f67b47d402a101421673d1122ecca44a1b45b6b1d0e446e9",
+              "width": 1512,
+              "height": 8609
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__senior-research-engineer.html",
+              "exists": true,
+              "bytes": 228532,
+              "sha256": "1e4d01c90c7c1b37f0a3083b0ab0e9bdc924994df0e82ab7c5ab16537cc5d2ac"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__senior-site-reliability-engineer-fedramp.json",
+          "title": "Senior Site Reliability Engineer - FedRAMP",
+          "location": "",
+          "pageTitle": "Senior Site Reliability Engineer - FedRAMP at Bitwarden \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "0994efcb952d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__senior-site-reliability-engineer-fedramp.png",
+              "exists": true,
+              "bytes": 1055298,
+              "sha256": "022866ba451878cfa68a9af0aa1b68d2dc346035a22cc03b363adbdee25b571a",
+              "width": 1440,
+              "height": 8349
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__senior-site-reliability-engineer-fedramp.html",
+              "exists": true,
+              "bytes": 167257,
+              "sha256": "7a34ffdad079924adb391ecdf54c536a21135d93fc06054a07b02cb6d927bb72"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__senior-software-engineer-ii-auth.json",
+          "title": "Senior Software Engineer II (Auth)",
+          "location": "",
+          "pageTitle": "Senior Software Engineer II (Auth) at Bitwarden \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__senior-software-engineer-ii-auth.png",
+              "exists": true,
+              "bytes": 888454,
+              "sha256": "5f2b4b042a21e9866d7150ffa2dbf94cfba3c0eca27ef647bbac2f5e06919409",
+              "width": 1366,
+              "height": 7535
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__senior-software-engineer-ii-auth.html",
+              "exists": true,
+              "bytes": 158426,
+              "sha256": "127d280f376fd2a8285156d5c4952777ae26a7ee4328ab06d4b9fc6c3fb8913c"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__senior-software-engineer-security.json",
+          "title": "Senior Software Engineer, Security",
+          "location": "",
+          "pageTitle": "Senior Software Engineer, Security at AssemblyAI \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__senior-software-engineer-security.png",
+              "exists": true,
+              "bytes": 1277522,
+              "sha256": "843591ea86420232f171a0a7b635255fe7d7005e363982f300f73f8f56520521",
+              "width": 1440,
+              "height": 9160
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__senior-software-engineer-security.html",
+              "exists": true,
+              "bytes": 226526,
+              "sha256": "42109ed9f4d2830b1ce22ddf7016f0a87dc4cc02bb773cafafa0e32519c1f7f0"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__staff-ml-engineer-product.json",
+          "title": "Staff ML Engineer, Product",
+          "location": "",
+          "pageTitle": "Staff ML Engineer, Product at Rocket Money \u2022 New York City \u2022 San Francisco \u2022 Denver \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__staff-ml-engineer-product.png",
+              "exists": true,
+              "bytes": 1311507,
+              "sha256": "34deedb296c24f22121a691405902d495f715866e293c4bd0f72bb496226572d",
+              "width": 1512,
+              "height": 8863
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__staff-ml-engineer-product.html",
+              "exists": true,
+              "bytes": 206856,
+              "sha256": "0d7a2b44e8b2853ff6072ed9cc3718186ba12b28563a9c390cdb5146b0a84013"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__staff-software-engineer-cloud-platform.json",
+          "title": "Staff Software Engineer, Cloud Platform",
+          "location": "",
+          "pageTitle": "Staff Software Engineer, Cloud Platform at Signifyd \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__staff-software-engineer-cloud-platform.png",
+              "exists": true,
+              "bytes": 1606174,
+              "sha256": "a49d5c3f9bcd13a2c9929986dc8ff15a3a4500048918027e32b7149e851ea73b",
+              "width": 1512,
+              "height": 10884
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__staff-software-engineer-cloud-platform.html",
+              "exists": true,
+              "bytes": 240662,
+              "sha256": "fdf9d530437a39e7c821311b52cb17bbcdfa9338e9c7cc7ba42b5cd76191908f"
+            }
+          }
+        },
+        {
+          "record": "data/forms/custom-wellfound-com__wellfound__staff-system-software-engineer-aosp-andr.json",
+          "title": "Staff System Software Engineer, AOSP (Android OS)",
+          "location": "",
+          "pageTitle": "Staff System Software Engineer, AOSP (Android OS) at Motive \u2022 Remote (Work from Home)",
+          "observedKind": "application_with_account_registration",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "network-on-type": 1,
+            "unresolved-selector": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "83f569f3a535",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/custom-wellfound-com/wellfound__staff-system-software-engineer-aosp-andr.png",
+              "exists": true,
+              "bytes": 796329,
+              "sha256": "8dac3bb53da65d42883d6cad621ecbd17067c80f02ab60a35967f4997b7ebc2d",
+              "width": 1366,
+              "height": 6660
+            },
+            "html": {
+              "path": "data/html/custom-wellfound-com/wellfound__staff-system-software-engineer-aosp-andr.html",
+              "exists": true,
+              "bytes": 197934,
+              "sha256": "9515a8adbe9ba050f0a95f07873734b1601c005c3c864d6ed07dc842d7bac45d"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "eightfold",
+      "retained": 10,
+      "fieldTotal": 74,
+      "kinds": {
+        "listing_or_job_detail": 8,
+        "application_candidate_requires_live_validation": 2
+      },
+      "records": [
+        {
+          "record": "data/forms/eightfold__deere__2027-intern-manufacturing-engineering.json",
+          "title": "2027 Intern - Manufacturing Engineering",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d94374cb5398",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__2027-intern-manufacturing-engineering.png",
+              "exists": true,
+              "bytes": 1574831,
+              "sha256": "76b6d43ed7783d724a48c9b620a03242fd26074e97fa8d2fac48a080d1229b48",
+              "width": 1512,
+              "height": 4126
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__2027-intern-manufacturing-engineering.html",
+              "exists": true,
+              "bytes": 2137983,
+              "sha256": "d179d99725aeb0e5a3fb65b820eaeed0a698c9fa44857fdd7b77a24104c73df5"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__2027-intern-product-engineering.json",
+          "title": "2027 Intern - Product Engineering",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "1053b1b7ba99",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__2027-intern-product-engineering.png",
+              "exists": true,
+              "bytes": 1482407,
+              "sha256": "8b713b05fd794a2ef8cf7b0a538f6b23d448bfeb2c283fbe0455c0d8d9923cb6",
+              "width": 1440,
+              "height": 4056
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__2027-intern-product-engineering.html",
+              "exists": true,
+              "bytes": 2127445,
+              "sha256": "984a60c4adce5dfff8b41775d9951bb56504a95f7363ba022e06f6a03c8190ac"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__backhoe-engine-application-engineer.json",
+          "title": "Backhoe Engine Application Engineer",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "95e40c9cd561",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__backhoe-engine-application-engineer.png",
+              "exists": true,
+              "bytes": 1558727,
+              "sha256": "e832bb80c052c650e40148d187bc730d8cced658adaced0c1985c41b669e2246",
+              "width": 1512,
+              "height": 4223
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__backhoe-engine-application-engineer.html",
+              "exists": true,
+              "bytes": 2127602,
+              "sha256": "add22dda2734f851afbd75ac18e4d5cfe81e253f1fa6213b6456fc19ca23f54d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__engineering-development-program-product.json",
+          "title": "Engineering Development Program - Product",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "f50c0208a308",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__engineering-development-program-product.png",
+              "exists": true,
+              "bytes": 1493679,
+              "sha256": "513e6e3d32812d40797b6a5659e82394ce7c68b9bbbe69739f092f3a91957484",
+              "width": 1440,
+              "height": 4265
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__engineering-development-program-product.html",
+              "exists": true,
+              "bytes": 2128063,
+              "sha256": "3ce0577f65f027083ad00bd44a5987eb21d4c2b83488fd08295f2c5ea20f0fad"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "aabc6a5c1a7d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__software-engineer.png",
+              "exists": true,
+              "bytes": 1637799,
+              "sha256": "beb057666a19003c6370adff998408c72a365014272de8eb9459b3ecc8ddf760",
+              "width": 1440,
+              "height": 4438
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__software-engineer.html",
+              "exists": true,
+              "bytes": 2133983,
+              "sha256": "ea5debc0bfe5ecc6d522346911bf7f7f36b9e3bfe97071f3a9c8f9cabc1c8186"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__sr-staff-engineer-electrical-engineering.json",
+          "title": "Sr Staff Engineer Electrical Engineering",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "157d955c98b0",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__sr-staff-engineer-electrical-engineering.png",
+              "exists": true,
+              "bytes": 1417732,
+              "sha256": "72d3d5e125c8bbf0977ac6320441d7eeb1098f9296831f5943f51a317195da9a",
+              "width": 1366,
+              "height": 4135
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__sr-staff-engineer-electrical-engineering.html",
+              "exists": true,
+              "bytes": 2115369,
+              "sha256": "99f54e652dbbb5a1048c5f36e9b176d4e08c138e3a2b7fade91fcc12be39827d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__staff-engineer-engine-oils.json",
+          "title": "Staff Engineer, Engine Oils",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "ee35e5da42a1",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__staff-engineer-engine-oils.png",
+              "exists": true,
+              "bytes": 1526215,
+              "sha256": "eb0d8b57b18ea518cf0fd8f0cf352dfa3ce3d723e66659b117f24923138deee7",
+              "width": 1440,
+              "height": 4385
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__staff-engineer-engine-oils.html",
+              "exists": true,
+              "bytes": 2130904,
+              "sha256": "d5f386e441c7739f4569eb6e645326e2db4bab11d9309410ad4273d608fc9379"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__deere__staff-software-engineer-python-react.json",
+          "title": "Staff Software Engineer - Python+React",
+          "location": "",
+          "pageTitle": "Careers at John Deere | John Deere",
+          "observedKind": "listing_or_job_detail",
+          "fields": 6,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "network-on-type": 2,
+            "not_applicable_or_unspecified": 2,
+            "none-observed": 1,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "aabc6a5c1a7d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/deere__staff-software-engineer-python-react.png",
+              "exists": true,
+              "bytes": 1610025,
+              "sha256": "b4a99e8cb8b7352f52672084dff1a519edb4b8968386fd4efe1604786e5908f0",
+              "width": 1366,
+              "height": 4689
+            },
+            "html": {
+              "path": "data/html/eightfold/deere__staff-software-engineer-python-react.html",
+              "exists": true,
+              "bytes": 2131188,
+              "sha256": "eaf85706ffd35b5755ee85b59c4562e8152d685fda0a2a82abe7376b05fe1244"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__netflix__senior-software-engineer-design-systems.json",
+          "title": "Senior Software Engineer - Design Systems",
+          "location": "USA - Remote",
+          "pageTitle": "Submit application for Senior Software Engineer - Design Systems",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 2,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "5a8edea9cc38",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/netflix__senior-software-engineer-design-systems.png",
+              "exists": true,
+              "bytes": 189489,
+              "sha256": "d1d8e3fb22b5dd97247acf1b7096187b84347ce27395a166340a01f0e70daee8",
+              "width": 2300,
+              "height": 3360
+            },
+            "html": {
+              "path": "data/html/eightfold/netflix__senior-software-engineer-design-systems.html",
+              "exists": true,
+              "bytes": 1167217,
+              "sha256": "2f310ca89ce49ffca2843280928d73279005eebd1f4d767b2321a72c8f05c462"
+            }
+          }
+        },
+        {
+          "record": "data/forms/eightfold__netflix__senior-software-engineer-l5-personalizat.json",
+          "title": "Senior Software Engineer (L5) - Personalization Data",
+          "location": "USA - Remote",
+          "pageTitle": "Submit application for Senior Software Engineer (L5) - Personalization Data",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 2,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "5a8edea9cc38",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/eightfold/netflix__senior-software-engineer-l5-personalizat.png",
+              "exists": true,
+              "bytes": 190163,
+              "sha256": "734a4c1042b2f8d4db735b73cd04ef3be74dab8f7870baf3774db9c24b5fb188",
+              "width": 2300,
+              "height": 3360
+            },
+            "html": {
+              "path": "data/html/eightfold/netflix__senior-software-engineer-l5-personalizat.html",
+              "exists": true,
+              "bytes": 1165481,
+              "sha256": "e6dd8c61a4254df5f1cd039962ea7d4ee92e993b8eed5d182f4e80c2447b4c56"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "greenhouse",
+      "retained": 10,
+      "fieldTotal": 234,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/greenhouse__airbnb__principal-machine-learning-engineer-llm-.json",
+          "title": "Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ",
+          "location": "United States",
+          "pageTitle": "Job Application for Principal Machine Learning Engineer- LLM Fine-tuning and Optimization at Airbnb",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 19,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "dom-on-open": 10,
+            "country-picker-unprobed": 1,
+            "network-on-type": 1,
+            "dom-static": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "e42592d41f1f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/airbnb__principal-machine-learning-engineer-llm-.png",
+              "exists": true,
+              "bytes": 196707,
+              "sha256": "af6822bf7aa3d48be3dab28dbd44508b3397bbc13239f06407de7ffcda7f5fa1",
+              "width": 1366,
+              "height": 4481
+            },
+            "html": {
+              "path": "data/html/greenhouse/airbnb__principal-machine-learning-engineer-llm-.html",
+              "exists": true,
+              "bytes": 104617,
+              "sha256": "d07a705b42c805d8015bce5d63b65c8205fc618652a834547cee108ead3a26ed"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__anthropic__senior-software-engineer-full-stack.json",
+          "title": "Senior Software Engineer, Full-stack",
+          "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+          "pageTitle": "Job Application for Senior Software Engineer, Full-stack at Anthropic",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 27,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 12,
+            "dom-on-open": 14,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "526569f0a151",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/anthropic__senior-software-engineer-full-stack.png",
+              "exists": true,
+              "bytes": 2207715,
+              "sha256": "2958124fe5c6132191ebaaef15e8e40d11dfdde8646cce1c3388a49f4fa99dca",
+              "width": 1512,
+              "height": 10121
+            },
+            "html": {
+              "path": "data/html/greenhouse/anthropic__senior-software-engineer-full-stack.html",
+              "exists": true,
+              "bytes": 170030,
+              "sha256": "82e965da79c3ef27d0309ea805a375e949e0127119668cee4cb9b2d2dfe07ce3"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__anthropic__senior-software-security-engineer.json",
+          "title": "Senior Software Security Engineer",
+          "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+          "pageTitle": "Job Application for Senior Software Security Engineer at Anthropic",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 26,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 12,
+            "dom-on-open": 13,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "418f3455fc42",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/anthropic__senior-software-security-engineer.png",
+              "exists": true,
+              "bytes": 1859276,
+              "sha256": "fa37b38547ea65669b050421bb19fc1b5d00a7642e08aee9665a65cc1f7701f7",
+              "width": 1366,
+              "height": 9291
+            },
+            "html": {
+              "path": "data/html/greenhouse/anthropic__senior-software-security-engineer.html",
+              "exists": true,
+              "bytes": 163523,
+              "sha256": "25fecaac17a0ffc68d7c8b6beeb9716163963fa78d4daf1d9ca47687876b0a08"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__discord__senior-full-stack-software-engineer-ads.json",
+          "title": "Senior Full-Stack Software Engineer, Ads",
+          "location": "San Francisco Bay Area",
+          "pageTitle": "Job Application for Senior Full-Stack Software Engineer, Ads at Discord",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 27,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 10,
+            "dom-on-open": 15,
+            "country-picker-unprobed": 1,
+            "network-on-type": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "efba3e29fd38",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/discord__senior-full-stack-software-engineer-ads.png",
+              "exists": true,
+              "bytes": 1450467,
+              "sha256": "2f44bb2904f9f9f33781884abec331383f82c9f8be7bd8a4b604ab847d676e33",
+              "width": 1512,
+              "height": 7903
+            },
+            "html": {
+              "path": "data/html/greenhouse/discord__senior-full-stack-software-engineer-ads.html",
+              "exists": true,
+              "bytes": 158620,
+              "sha256": "9cf293773234738cdae95aed104dab26c094c8f88dcdd23299b256b99e50d787"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__stripe__abuse-investigator.json",
+          "title": "Abuse Investigator",
+          "location": "",
+          "pageTitle": "Job Application for Abuse Investigator at Stripe",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 20,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "dom-on-open": 9,
+            "country-picker-unprobed": 1,
+            "network-on-type": 2,
+            "dom-static": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "e817fca2cfe9",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/stripe__abuse-investigator.png",
+              "exists": true,
+              "bytes": 293859,
+              "sha256": "628fdbe4dc14117c0b1af20d8c1b9e986159f7b4cc27221e491cd5cd513b1329",
+              "width": 1440,
+              "height": 6474
+            },
+            "html": {
+              "path": "data/html/greenhouse/stripe__abuse-investigator.html",
+              "exists": true,
+              "bytes": 157536,
+              "sha256": "c640bed1bd39c683f2881dcc31ca935bc08b15baac80596b4eb214801cb4b33b"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__stripe__account-executive-grower-iberia-market.json",
+          "title": "Account Executive , Grower - Iberia Market",
+          "location": "",
+          "pageTitle": "Job Application for Account Executive , Grower - Iberia Market at Stripe",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 23,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 7,
+            "dom-on-open": 12,
+            "country-picker-unprobed": 1,
+            "network-on-type": 2,
+            "dom-static": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b7f63f1d3421",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/stripe__account-executive-grower-iberia-market.png",
+              "exists": true,
+              "bytes": 306507,
+              "sha256": "18076798743a9a467de09e4036e60da494f26d32ef2cea381d4750af6b63c0eb",
+              "width": 1512,
+              "height": 7016
+            },
+            "html": {
+              "path": "data/html/greenhouse/stripe__account-executive-grower-iberia-market.html",
+              "exists": true,
+              "bytes": 157197,
+              "sha256": "10286d6876bc168c5e25bd81959d1f77ab2d39e105f3d724e042598246d0da09"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__stripe__aeo-and-geo-marketing-manager.json",
+          "title": "AEO and GEO Marketing Manager",
+          "location": "",
+          "pageTitle": "Job Application for AEO and GEO Marketing Manager at Stripe",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 21,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "dom-on-open": 9,
+            "country-picker-unprobed": 1,
+            "network-on-type": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "89e0f617277a",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/stripe__aeo-and-geo-marketing-manager.png",
+              "exists": true,
+              "bytes": 300442,
+              "sha256": "0e2d841590989e2a6451a783ce16037f3acb25775472f9109709505dd1e809bb",
+              "width": 1512,
+              "height": 5838
+            },
+            "html": {
+              "path": "data/html/greenhouse/stripe__aeo-and-geo-marketing-manager.html",
+              "exists": true,
+              "bytes": 157572,
+              "sha256": "9dbd56020b30882c6239bb9beb10c50de213285613bf854173984b083b08a339"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__stripe__ai-engineer.json",
+          "title": "AI Engineer",
+          "location": "",
+          "pageTitle": "Job Application for AI Engineer at Stripe",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 24,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 12,
+            "country-picker-unprobed": 1,
+            "network-on-type": 2,
+            "dom-static": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "23ddd9a8c420",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/stripe__ai-engineer.png",
+              "exists": true,
+              "bytes": 253009,
+              "sha256": "986439b845aae2c65e4f914922584a9fc2b412660096d4fa96a38245a64c3ec2",
+              "width": 1512,
+              "height": 7048
+            },
+            "html": {
+              "path": "data/html/greenhouse/stripe__ai-engineer.html",
+              "exists": true,
+              "bytes": 159753,
+              "sha256": "494a81eddc979be056759be5572fdfc0d89f4e6257c2ac4c518e1de746908197"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__stripe__arg-engineering-manager.json",
+          "title": "ARG Engineering Manager",
+          "location": "",
+          "pageTitle": "Job Application for ARG Engineering Manager at Stripe",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 24,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 12,
+            "country-picker-unprobed": 1,
+            "network-on-type": 2,
+            "dom-static": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "5af8b10befb3",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/stripe__arg-engineering-manager.png",
+              "exists": true,
+              "bytes": 311670,
+              "sha256": "3bc1eb2358b11d38f8110fffcb90d4ddd743b3e0c8fdb39b1d9cb940d31e2b45",
+              "width": 1512,
+              "height": 7102
+            },
+            "html": {
+              "path": "data/html/greenhouse/stripe__arg-engineering-manager.html",
+              "exists": true,
+              "bytes": 159489,
+              "sha256": "5ace32bf150a3cb2ae8c2727a21c4d8803619e41800bb0d7cb3c59e449de18db"
+            }
+          }
+        },
+        {
+          "record": "data/forms/greenhouse__stripe__senior-software-engineer-docs-product.json",
+          "title": "Senior Software Engineer, Docs Product",
+          "location": "New York, NY",
+          "pageTitle": "Job Application for Senior Software Engineer, Docs Product at Stripe",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 23,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 12,
+            "country-picker-unprobed": 1,
+            "network-on-type": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "436f9ef258f9",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/greenhouse/stripe__senior-software-engineer-docs-product.png",
+              "exists": true,
+              "bytes": 302810,
+              "sha256": "9f1bc1ec64a8f4bb02c1075aedeb0cf7fa6b57764c5d2a05c0a8ba0311545ca8",
+              "width": 1512,
+              "height": 6326
+            },
+            "html": {
+              "path": "data/html/greenhouse/stripe__senior-software-engineer-docs-product.html",
+              "exists": true,
+              "bytes": 156208,
+              "sha256": "5432bddc7d0336e8f8bd0056df36a71d462974e9b5e26ce3f90999ffd6a83b5c"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "janestreet",
+      "retained": 10,
+      "fieldTotal": 160,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/janestreet__janestreet__accounting-coordinator-new-york-finance-.json",
+          "title": "Accounting Coordinator New York Finance and Operations Accounting",
+          "location": "",
+          "pageTitle": "Accounting Coordinator :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__accounting-coordinator-new-york-finance-.png",
+              "exists": true,
+              "bytes": 317395,
+              "sha256": "d1f5625f32d451da8e1726bcc54177b2e9ab2d6aca160a909117e9000d4db52d",
+              "width": 1440,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__accounting-coordinator-new-york-finance-.html",
+              "exists": true,
+              "bytes": 531193,
+              "sha256": "4247986c5a62acdcab417ffe279b0f8c0642ae2a56fe5aedc1a9532961673256"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__asic-engineer-new-york-technology-softwa.json",
+          "title": "ASIC Engineer New York Technology Software Engineering",
+          "location": "",
+          "pageTitle": "ASIC Engineer :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__asic-engineer-new-york-technology-softwa.png",
+              "exists": true,
+              "bytes": 315767,
+              "sha256": "f954ac775c5a820584055114654c83d756c210a41115791e6acf407e9db897a5",
+              "width": 1440,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__asic-engineer-new-york-technology-softwa.html",
+              "exists": true,
+              "bytes": 531154,
+              "sha256": "098d9785daf88e57c556b7b29e440d9e2315e9e0d54a380ff763f50c4e6a1696"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__asic-physical-design-engineer-new-york-t.json",
+          "title": "ASIC Physical Design Engineer New York Technology Software Engineering",
+          "location": "",
+          "pageTitle": "ASIC Physical Design Engineer :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__asic-physical-design-engineer-new-york-t.png",
+              "exists": true,
+              "bytes": 263071,
+              "sha256": "777d26238cae3d279f1d8127ed1302ac5c33253957e4bee7015524fd9e5da66e",
+              "width": 1512,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__asic-physical-design-engineer-new-york-t.html",
+              "exists": true,
+              "bytes": 531204,
+              "sha256": "693d752ba7e68252295c650d05a6ae659be3ff9b2132ffb2a9b74ef4f9a799c5"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__machine-learning-performance-engineer-ne.json",
+          "title": "Machine Learning Performance Engineer New York Trading, Research, and Machine Learning Machine Learning",
+          "location": "",
+          "pageTitle": "Machine Learning Performance Engineer :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__machine-learning-performance-engineer-ne.png",
+              "exists": true,
+              "bytes": 264529,
+              "sha256": "4605884538902324709a0bbd007e51aa7be2ae6f139ca7715368e6bddb71ae1b",
+              "width": 1512,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__machine-learning-performance-engineer-ne.html",
+              "exists": true,
+              "bytes": 531254,
+              "sha256": "124c9f32f3ba1e577ae77e53626bf47fbe7dd6a8e598076e22c3191920ebdae2"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__machine-learning-research-engineer-new-y.json",
+          "title": "Machine Learning Research Engineer New York Trading, Research, and Machine Learning Machine Learning",
+          "location": "",
+          "pageTitle": "Machine Learning Research Engineer :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__machine-learning-research-engineer-new-y.png",
+              "exists": true,
+              "bytes": 263054,
+              "sha256": "5d6147197ee256dd0b805a100fd277aa8cc32796aa2c0d315f4c821a1338d81f",
+              "width": 1512,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__machine-learning-research-engineer-new-y.html",
+              "exists": true,
+              "bytes": 531246,
+              "sha256": "8aef14b2ee42b48cf179edf855a46455671f1305c32d1df7019eec30d9e8f625"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__machine-learning-researcher-new-york-tra.json",
+          "title": "Machine Learning Researcher New York Trading, Research, and Machine Learning Machine Learning",
+          "location": "",
+          "pageTitle": "Machine Learning Researcher :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__machine-learning-researcher-new-york-tra.png",
+              "exists": true,
+              "bytes": 318067,
+              "sha256": "eb6b7ec8b4f8840d3165b84c308222c12a2af209045dd55cdb7193f8840dcf0e",
+              "width": 1440,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__machine-learning-researcher-new-york-tra.html",
+              "exists": true,
+              "bytes": 531225,
+              "sha256": "ec5f31431dc0edaa220d2725ec73adc3c3490a13ad7ee3b4021e18c0415cf87d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__quantitative-researcher-new-york-trading.json",
+          "title": "Quantitative Researcher New York Trading, Research, and Machine Learning Quantitative Research",
+          "location": "",
+          "pageTitle": "Quantitative Researcher :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__quantitative-researcher-new-york-trading.png",
+              "exists": true,
+              "bytes": 254664,
+              "sha256": "0a154eabd4c64820a5cb03a55d9ef30e809e85a3eed497f44b2e536569ed8d6f",
+              "width": 1440,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__quantitative-researcher-new-york-trading.html",
+              "exists": true,
+              "bytes": 531213,
+              "sha256": "117ff691354c020a760565df19d1a8f39c5d7d6cdfc5735cdbdeb70f68cd5e1f"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__quantitative-trader-new-york-trading-res.json",
+          "title": "Quantitative Trader New York Trading, Research, and Machine Learning Quantitative Trading",
+          "location": "",
+          "pageTitle": "Quantitative Trader :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__quantitative-trader-new-york-trading-res.png",
+              "exists": true,
+              "bytes": 252877,
+              "sha256": "c7414ac9c4112eb0d52fbceeef0810d3e5756ee94b7770518d7a283ac6434b94",
+              "width": 1440,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__quantitative-trader-new-york-trading-res.html",
+              "exists": true,
+              "bytes": 531201,
+              "sha256": "5bb20be273e0ebe87f8dc52a40308deea9bb658f598343f1e16c874e5d6fa6c5"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__senior-software-engineer-ocaml-experienc.json",
+          "title": "Senior Software Engineer (OCaml Experience) New York Technology Software Engineering",
+          "location": "",
+          "pageTitle": "Senior Software Engineer (OCaml Experience) :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__senior-software-engineer-ocaml-experienc.png",
+              "exists": true,
+              "bytes": 267691,
+              "sha256": "290cc269a8a58d3e453d03a82b83e501626404df16ea4e39fd0c4f3bfa2af6b9",
+              "width": 1512,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__senior-software-engineer-ocaml-experienc.html",
+              "exists": true,
+              "bytes": 531244,
+              "sha256": "5c706179a7ec937428f5003e8d0c090db7f2ed8f6cdd24a41257f8f073455ccc"
+            }
+          }
+        },
+        {
+          "record": "data/forms/janestreet__janestreet__software-engineer-new-york-technology-so.json",
+          "title": "Software Engineer New York Technology Software Engineering",
+          "location": "",
+          "pageTitle": "Software Engineer :: Jane Street",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 13,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4787d790d722",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/janestreet/janestreet__software-engineer-new-york-technology-so.png",
+              "exists": true,
+              "bytes": 316815,
+              "sha256": "90ffa02b7f31bdde012742961767748fdd3ccc1f28969e643f919fb2df4c72cd",
+              "width": 1440,
+              "height": 3518
+            },
+            "html": {
+              "path": "data/html/janestreet/janestreet__software-engineer-new-york-technology-so.html",
+              "exists": true,
+              "bytes": 531166,
+              "sha256": "4f5440867da25a468cfe3ac8c6c270a3cde45691017922a84f74d7d7d683ceaa"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "lever",
+      "retained": 10,
+      "fieldTotal": 286,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/lever__arcadia__lead-analytics-engineer-data-modeling-qu.json",
+          "title": "Lead Analytics Engineer - Data Modeling & Quality",
+          "location": "Remote (USA)",
+          "pageTitle": "Arcadia - Lead Analytics Engineer - Data Modeling & Quality",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 25,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 20,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d9280967ee73",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/arcadia__lead-analytics-engineer-data-modeling-qu.png",
+              "exists": true,
+              "bytes": 823906,
+              "sha256": "f7ef8cacf83a52913dba1597e063a567b881edfa1a1fc77f2c80a37d1e8cf9f5",
+              "width": 1512,
+              "height": 8266
+            },
+            "html": {
+              "path": "data/html/lever/arcadia__lead-analytics-engineer-data-modeling-qu.html",
+              "exists": true,
+              "bytes": 749774,
+              "sha256": "5a751d0f8e6c26c0cea1ec4d61abd4a0db9facd06711695f0afb53fe3f7e5171"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__includedhealth__senior-software-engineer-backend.json",
+          "title": "Senior Software Engineer, Backend",
+          "location": "Remote",
+          "pageTitle": "Included Health - Senior Software Engineer, Backend",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 24,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "dom-static": 15
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d10a8d3a4c1f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/includedhealth__senior-software-engineer-backend.png",
+              "exists": true,
+              "bytes": 939928,
+              "sha256": "39acdc5a9234f08ac753861f19c3b849b0bad05642c2a774cee8952be88c3eba",
+              "width": 1440,
+              "height": 8401
+            },
+            "html": {
+              "path": "data/html/lever/includedhealth__senior-software-engineer-backend.html",
+              "exists": true,
+              "bytes": 761363,
+              "sha256": "f2fb019b8d548f76af109c382bd2940e03b316d870bb31a1814fced85eede4c6"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__loftorbital__senior-cloud-infrastructure-engineer.json",
+          "title": "Senior Cloud Infrastructure Engineer",
+          "location": "Golden, CO or San Francisco",
+          "pageTitle": "Loft Orbital Solutions - Senior Cloud Infrastructure Engineer",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 27,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 19,
+            "dom-static": 8
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "2b75de2aa844",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/loftorbital__senior-cloud-infrastructure-engineer.png",
+              "exists": true,
+              "bytes": 755619,
+              "sha256": "80af57c5330264de2f495be440f196faae9457aa2f0bb3b91503c9f1472b58ca",
+              "width": 1512,
+              "height": 7702
+            },
+            "html": {
+              "path": "data/html/lever/loftorbital__senior-cloud-infrastructure-engineer.html",
+              "exists": true,
+              "bytes": 760591,
+              "sha256": "bab0c5de34716ccd69c1afe9d297af3837f29c491d49e3370be8e1d981f1a6df"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__lyrahealth__senior-ai-ml-backend-engineer.json",
+          "title": "Senior AI/ML Backend Engineer",
+          "location": "United States",
+          "pageTitle": "Lyra Health - Senior AI/ML Backend Engineer",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 30,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 15,
+            "dom-static": 15
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4b14adc81f05",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/lyrahealth__senior-ai-ml-backend-engineer.png",
+              "exists": true,
+              "bytes": 479061,
+              "sha256": "dfc51d26657cd2d29df3ce1d8dbc0b714fb4f6d6e0db3eb3af6e1c814c5ad609",
+              "width": 1512,
+              "height": 8076
+            },
+            "html": {
+              "path": "data/html/lever/lyrahealth__senior-ai-ml-backend-engineer.html",
+              "exists": true,
+              "bytes": 764559,
+              "sha256": "3c8cd8f1d91351fcd3c5660581289ed3663a7a7528e72f4987d9aa38b691e80c"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__lyrahealth__senior-ai-ml-platform-engineer.json",
+          "title": "Senior AI/ML Platform Engineer",
+          "location": "United States",
+          "pageTitle": "Lyra Health - Senior AI/ML Platform Engineer",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 30,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 15,
+            "dom-static": 15
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "69ad825bece8",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/lyrahealth__senior-ai-ml-platform-engineer.png",
+              "exists": true,
+              "bytes": 470780,
+              "sha256": "0fb8bb0a365b06ad47e636d918990e9d790d94112fb0b5714f1f6305c20e66be",
+              "width": 1512,
+              "height": 8053
+            },
+            "html": {
+              "path": "data/html/lever/lyrahealth__senior-ai-ml-platform-engineer.html",
+              "exists": true,
+              "bytes": 764418,
+              "sha256": "50f7197fc3a7daafdb2839dc6a8f2db90125e3f554087d4c5788f6fa684c55ee"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__palantir__senior-backend-software-engineer-applica.json",
+          "title": "Senior Backend Software Engineer - Application Development",
+          "location": "New York, NY",
+          "pageTitle": "Palantir Technologies - Senior Backend Software Engineer - Application Development",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 28,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 15,
+            "dom-static": 13
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "58042fe8738b",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/palantir__senior-backend-software-engineer-applica.png",
+              "exists": true,
+              "bytes": 826804,
+              "sha256": "72589dba0e7eddb45d11300039514798225956101c2ee217898cbcc38f4f4273",
+              "width": 1440,
+              "height": 9755
+            },
+            "html": {
+              "path": "data/html/lever/palantir__senior-backend-software-engineer-applica.html",
+              "exists": true,
+              "bytes": 1958892,
+              "sha256": "4e6b7898aa17bfc221fcc45f04ad0412da558a59804d373e96f04cef3429988a"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__shieldai__principal-engineer-fluid-thermal-systems.json",
+          "title": "Principal Engineer, Fluid & Thermal Systems (R4793)",
+          "location": "Seattle, Washington",
+          "pageTitle": "Shield AI - Principal Engineer, Fluid & Thermal Systems (R4793)",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 36,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-static": 15,
+            "not_applicable_or_unspecified": 21
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "7c6b1f4ebd01",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/shieldai__principal-engineer-fluid-thermal-systems.png",
+              "exists": true,
+              "bytes": 1013476,
+              "sha256": "e97ed369757c5e5e2b1d5519b470bba8afb751a0d17de5fd0e0fc6222cabfb8e",
+              "width": 1440,
+              "height": 11245
+            },
+            "html": {
+              "path": "data/html/lever/shieldai__principal-engineer-fluid-thermal-systems.html",
+              "exists": true,
+              "bytes": 785827,
+              "sha256": "9610031ce0142cb22a522fa21d4747340a2555e1886b2b817422b57c2f5ecf32"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__shieldai__principal-engineer-software-r5285.json",
+          "title": "Principal Engineer, Software (R5285)",
+          "location": "United States",
+          "pageTitle": "Shield AI - Principal Engineer, Software (R5285)",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 33,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-static": 13,
+            "not_applicable_or_unspecified": 20
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "40751ef1ea79",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/shieldai__principal-engineer-software-r5285.png",
+              "exists": true,
+              "bytes": 947190,
+              "sha256": "b75bc9ce325a9292f2836b9050b5627076b9e02d0cca5e078bfa2555444540ee",
+              "width": 1366,
+              "height": 10279
+            },
+            "html": {
+              "path": "data/html/lever/shieldai__principal-engineer-software-r5285.html",
+              "exists": true,
+              "bytes": 780630,
+              "sha256": "30b97d805763e1f25092e9ce02e4076b9016c6391572d4b59eaa2cec5ffb8a02"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__swordhealth__senior-devops-engineer.json",
+          "title": "Senior DevOps Engineer",
+          "location": "United States",
+          "pageTitle": "Sword Health - Senior DevOps Engineer",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 27,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 19,
+            "dom-static": 8
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "1559dab5ec3c",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/swordhealth__senior-devops-engineer.png",
+              "exists": true,
+              "bytes": 349752,
+              "sha256": "064edff09b8ba8285b66491cefc12d3d0f9e5816421b934c65e02679cd35a3cd",
+              "width": 1366,
+              "height": 6748
+            },
+            "html": {
+              "path": "data/html/lever/swordhealth__senior-devops-engineer.html",
+              "exists": true,
+              "bytes": 768901,
+              "sha256": "9c9c48d473d6edc77704d44a2ec6942c7c0e33d85eec07de49fcb16b89b22a53"
+            }
+          }
+        },
+        {
+          "record": "data/forms/lever__wealthfront__senior-software-engineer-network.json",
+          "title": "Senior Software Engineer, Network",
+          "location": "Palo Alto, CA",
+          "pageTitle": "Wealthfront - Senior Software Engineer, Network",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 26,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-static": 12,
+            "not_applicable_or_unspecified": 13,
+            "dom-on-open": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "028bd797158d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/lever/wealthfront__senior-software-engineer-network.png",
+              "exists": true,
+              "bytes": 303472,
+              "sha256": "25a1a1a1b4335bd0e50556bcc3c4cbfd34664cae779dbf568bec140ff4f32ad7",
+              "width": 1440,
+              "height": 5263
+            },
+            "html": {
+              "path": "data/html/lever/wealthfront__senior-software-engineer-network.html",
+              "exists": true,
+              "bytes": 994815,
+              "sha256": "bc7308ba487d4d49308e87bea2e59779a31151385385ce931ff02622ebb56301"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "meta",
+      "retained": 10,
+      "fieldTotal": 376,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/meta__meta__connectivity-engineer-data-center-design.json",
+          "title": "Connectivity Engineer - Data Center Design, Engineering, & C 867626",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 37,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 17,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "0fa7c99ae111",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__connectivity-engineer-data-center-design.png",
+              "exists": true,
+              "bytes": 493166,
+              "sha256": "95fb550c89e0ddee51f25d8ba90212cd2d5658ed120b2093781dc3cf8d79a08a",
+              "width": 2525,
+              "height": 4032
+            },
+            "html": {
+              "path": "data/html/meta/meta__connectivity-engineer-data-center-design.html",
+              "exists": true,
+              "bytes": 589030,
+              "sha256": "ef3befca387447bfe0ebc19a43d7d53369b46e05baed6e31b057dc62b4ddfe56"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__data-center-capacity-engineer-rayville-l.json",
+          "title": "Data Center Capacity Engineer Rayville, LA +5 locations \u22c5 Da 016608",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 39,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 19,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "6c4eeca70b1f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__data-center-capacity-engineer-rayville-l.png",
+              "exists": true,
+              "bytes": 486222,
+              "sha256": "690301335d104f14627a69febbd29af5e21504d3f3088bd92f1cc2b22aa1ca55",
+              "width": 2385,
+              "height": 4087
+            },
+            "html": {
+              "path": "data/html/meta/meta__data-center-capacity-engineer-rayville-l.html",
+              "exists": true,
+              "bytes": 591874,
+              "sha256": "67d494e1ea39b5a8b9a881a839fe9be5ff5b13828693cc23e9ef0614fe2fd7aa"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__data-center-production-operations-engine.json",
+          "title": "Data Center Production Operations Engineer Los Lunas, NM +6  913876",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 40,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 20,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "f3c268b29f6b",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__data-center-production-operations-engine.png",
+              "exists": true,
+              "bytes": 488121,
+              "sha256": "fcb6ad6111f5c1df4f72a0b38ecb7de13b092e3ab0303dd7ffb02f3b09313474",
+              "width": 2237,
+              "height": 4131
+            },
+            "html": {
+              "path": "data/html/meta/meta__data-center-production-operations-engine.html",
+              "exists": true,
+              "bytes": 593441,
+              "sha256": "6058a589059346a8d2002729f2d3f1b81eb1d0c54e5007e609d57fca3a8021e7"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__lincs-security-engineer-temple-tx-5-loca.json",
+          "title": "LINCS Security Engineer Temple, TX +5 locations \u22c5 Data Cente 624316",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 39,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 19,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "b838e69e650a",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__lincs-security-engineer-temple-tx-5-loca.png",
+              "exists": true,
+              "bytes": 483104,
+              "sha256": "643bad1d19e001bc4c04c6e2e7032c7f919d223468187a1c99ec60f6a9a45df3",
+              "width": 2525,
+              "height": 4087
+            },
+            "html": {
+              "path": "data/html/meta/meta__lincs-security-engineer-temple-tx-5-loca.html",
+              "exists": true,
+              "bytes": 591792,
+              "sha256": "1ac7ebcadca1fa36a2d7a1bf3277d6a57eb02cb8a2c8727e2b0bcf155af2e1b5"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__product-security-engineer-team-lead-bell.json",
+          "title": "Product Security Engineer - Team Lead Bellevue, WA +3 locati 966105",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 37,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 17,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "fb62dd1d9292",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__product-security-engineer-team-lead-bell.png",
+              "exists": true,
+              "bytes": 478129,
+              "sha256": "bb4f3492d4a2f930d1d1d74cfaa8787bd0e7e1bfc44a4aa979049e83d2387edc",
+              "width": 2237,
+              "height": 3998
+            },
+            "html": {
+              "path": "data/html/meta/meta__product-security-engineer-team-lead-bell.html",
+              "exists": true,
+              "bytes": 588847,
+              "sha256": "b4c7cad74ea9129d7b301ea1b253b8349d5fa8c6a489cfc97adac5acaed83ae9"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__security-engineer-applied-ai-menlo-park-.json",
+          "title": "Security Engineer, Applied AI Menlo Park, CA +2 locations \u22c5  853943",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 36,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 16,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d1f3632f1ac8",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__security-engineer-applied-ai-menlo-park-.png",
+              "exists": true,
+              "bytes": 476092,
+              "sha256": "cbfcd6c0a283c82a206a557980ab9aad5d32118962fc8ec6e6896c2832617616",
+              "width": 2385,
+              "height": 3954
+            },
+            "html": {
+              "path": "data/html/meta/meta__security-engineer-applied-ai-menlo-park-.html",
+              "exists": true,
+              "bytes": 587451,
+              "sha256": "2354945bef7ba08a6311dd6287fc8bc1d89302e7997543c3e812825983df5836"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__security-engineer-investigations-i3e-bel.json",
+          "title": "Security Engineer, Investigations - i3E Bellevue, WA +2 loca 900502",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 36,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 16,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "46f409ffb89e",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__security-engineer-investigations-i3e-bel.png",
+              "exists": true,
+              "bytes": 479288,
+              "sha256": "e5d2008575d7ca2094650194e6337687890000c9fd6ca1c4155e7493b1f3dd5f",
+              "width": 2385,
+              "height": 3954
+            },
+            "html": {
+              "path": "data/html/meta/meta__security-engineer-investigations-i3e-bel.html",
+              "exists": true,
+              "bytes": 587364,
+              "sha256": "944eebcdf4c7aa1c518ccf25e9966aa64a0b1d8294d1cf09f55f818a6c9ff1ba"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__security-engineer-investigator-genai-men.json",
+          "title": "Security Engineer, Investigator - GenAI Menlo Park, CA +3 lo 742168",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 37,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 17,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "cf4b5c110129",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__security-engineer-investigator-genai-men.png",
+              "exists": true,
+              "bytes": 485182,
+              "sha256": "4885762d3874b0f6e646c9fb9bafe8be41689a5d290f407fdf04d7213b66e4c0",
+              "width": 2525,
+              "height": 3998
+            },
+            "html": {
+              "path": "data/html/meta/meta__security-engineer-investigator-genai-men.html",
+              "exists": true,
+              "bytes": 589034,
+              "sha256": "65ce7b639879d5387a15cd95e6082498f606468706104531d1da4dda8bf98259"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__security-engineer-security-risk-manageme.json",
+          "title": "Security Engineer - Security Risk Management Menlo Park, CA  984519",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 37,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 17,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "4ec2d5ac0fe1",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__security-engineer-security-risk-manageme.png",
+              "exists": true,
+              "bytes": 480953,
+              "sha256": "a8dd8a4e20c4795e03a3b2178d44a763ff7439188fe73c2356b306b0ab068cc8",
+              "width": 2237,
+              "height": 3998
+            },
+            "html": {
+              "path": "data/html/meta/meta__security-engineer-security-risk-manageme.html",
+              "exists": true,
+              "bytes": 588892,
+              "sha256": "d367c5fefe80dc6dc07c7d85a76fca2c3f7bdf2c29b236507d138249d214ee2f"
+            }
+          }
+        },
+        {
+          "record": "data/forms/meta__meta__security-engineer-vulnerability-manageme.json",
+          "title": "Security Engineer - Vulnerability Management Menlo Park, CA  436241",
+          "location": "",
+          "pageTitle": "Meta Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 38,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 18,
+            "network-on-type": 1,
+            "dom-on-open": 1,
+            "dom-static": 18
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "99ed79f7727c",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/meta/meta__security-engineer-vulnerability-manageme.png",
+              "exists": true,
+              "bytes": 485650,
+              "sha256": "5fd4ca57d1a17ce51f39563273dbfd52564311d9c89fdf7a2c95a6fe4a0d5311",
+              "width": 2385,
+              "height": 4043
+            },
+            "html": {
+              "path": "data/html/meta/meta__security-engineer-vulnerability-manageme.html",
+              "exists": true,
+              "bytes": 590599,
+              "sha256": "920a66e0de29d9725c37ca23bc98e1cea178081b1ef7af94f7e4c130d83022fb"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "phenom",
+      "retained": 10,
+      "fieldTotal": 180,
+      "kinds": {
+        "first_wizard_step_only": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/phenom__cisco__backend-senior-software-engineer-cx-engi.json",
+          "title": "Backend Senior Software Engineer, CX Engineering(Hybrid)",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__backend-senior-software-engineer-cx-engi.png",
+              "exists": true,
+              "bytes": 222951,
+              "sha256": "6dba77cc2f93b9356a976df137cd9cb628ee27654de36c3d0a224b400e6f8baf",
+              "width": 1512,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__backend-senior-software-engineer-cx-engi.html",
+              "exists": true,
+              "bytes": 1731063,
+              "sha256": "26b478a399f6d8a415806e1a49bf5d3d31a34b3634c7fb392dac23000fe6713d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-finance-manager-cloud-economics-g.json",
+          "title": "Senior Finance Manager \u2013 Cloud Economics & Gross Margin",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-finance-manager-cloud-economics-g.png",
+              "exists": true,
+              "bytes": 222607,
+              "sha256": "a46e9714caf067fc47e488d293181209289ac317965c0b9475baa5509e1e9497",
+              "width": 1512,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-finance-manager-cloud-economics-g.html",
+              "exists": true,
+              "bytes": 1728753,
+              "sha256": "145d5adae0869186730b1f842571fb4c098d21c8e1012a16059120a5fc5a8aff"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-process-automation-engineer-suppl.json",
+          "title": "Senior Process & Automation Engineer -Supply Chain(Hybrid)",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-process-automation-engineer-suppl.png",
+              "exists": true,
+              "bytes": 222943,
+              "sha256": "e61fb0e5406fe3ae57ba03cdc98640bc9f3964671f5f940be223a65b0539f3e0",
+              "width": 1512,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-process-automation-engineer-suppl.html",
+              "exists": true,
+              "bytes": 1731117,
+              "sha256": "c76ad644f1a3b371c06ced57c4eb26ce67573b4285954bceca8fabbc1c9948a7"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-software-development-engineer-in-.json",
+          "title": "Senior Software Development Engineer in Test (SDET), Hybrid, RTP, NC",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-software-development-engineer-in-.png",
+              "exists": true,
+              "bytes": 224916,
+              "sha256": "6ed6cf5bd4d0c6995d1e6c1945c8760da1dfd44712baf9d48a745f3f5825f2cd",
+              "width": 1440,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-software-development-engineer-in-.html",
+              "exists": true,
+              "bytes": 1729000,
+              "sha256": "a19bd422fb8146ef1fdc5bef7b6c25f0f62724150b5ae899324ac365c328bec7"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-software-engineer-application-rel.json",
+          "title": "Senior Software Engineer \u2013 Application Reliability (Kubernetes, GCP, SQL), Hybrid",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-software-engineer-application-rel.png",
+              "exists": true,
+              "bytes": 230566,
+              "sha256": "540e8fa9c98a4f019dd11a99c688aaee79737bcda6415b44d167a59f6cee237c",
+              "width": 1366,
+              "height": 2593
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-software-engineer-application-rel.html",
+              "exists": true,
+              "bytes": 1729682,
+              "sha256": "c333519554bcaeb6a9cbe6629c3982570c4a88385c4b0c346f1962780deb8b41"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-software-engineer-dns.json",
+          "title": "Senior Software Engineer, DNS",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-software-engineer-dns.png",
+              "exists": true,
+              "bytes": 222103,
+              "sha256": "9443835e6bd8d5e6fd1c43dc8cfc6ba1ffc6b4b1160af253417fa1fd5cfe287b",
+              "width": 1440,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-software-engineer-dns.html",
+              "exists": true,
+              "bytes": 1729587,
+              "sha256": "eb773d66f20aaba0512d3c624a79e94c7da1b1f7a55da9bfdc3c819cfbe425fd"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-software-engineer-in-test-network.json",
+          "title": "Senior Software Engineer in Test (Network Security, Performance), Hybrid, RTP, NC",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-software-engineer-in-test-network.png",
+              "exists": true,
+              "bytes": 226182,
+              "sha256": "d1a6d75ff2fea664fa67344613ad007a0559f39f216de9896d9d5834fc91217d",
+              "width": 1366,
+              "height": 2593
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-software-engineer-in-test-network.html",
+              "exists": true,
+              "bytes": 1729108,
+              "sha256": "b029098657d208dd24620d3805a4b56c4354b0a268f5c7a09a5a3976259aadbb"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-software-engineer-remote.json",
+          "title": "Senior Software Engineer (Remote)",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-software-engineer-remote.png",
+              "exists": true,
+              "bytes": 222179,
+              "sha256": "fbd489dde902651e31238596904cb3b5ca19e649c100aa30490503160fb0afcf",
+              "width": 1440,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-software-engineer-remote.html",
+              "exists": true,
+              "bytes": 1768718,
+              "sha256": "a7a3552c663127d943703ff0859a408c954ff38f8b2ccd841b52c827ae770725"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__senior-staff-product-manager-cisco-cloud.json",
+          "title": "Senior Staff Product Manager - Cisco Cloud Control Integration",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__senior-staff-product-manager-cisco-cloud.png",
+              "exists": true,
+              "bytes": 224269,
+              "sha256": "6241e25772d1ecd982379f60a533796d5c99412789974f916ccb005929cf806e",
+              "width": 1440,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__senior-staff-product-manager-cisco-cloud.html",
+              "exists": true,
+              "bytes": 1729712,
+              "sha256": "431fce01a35cca8ffdbd0343e242a0d8eda312c80897e3530f9ff3ca517e6480"
+            }
+          }
+        },
+        {
+          "record": "data/forms/phenom__cisco__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Apply",
+          "observedKind": "first_wizard_step_only",
+          "fields": 18,
+          "unlabeled": 1,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 11,
+            "dom-static": 7
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "92f1389ddf1d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/phenom/cisco__software-engineer.png",
+              "exists": true,
+              "bytes": 220717,
+              "sha256": "b20698b56637fea4c598404bbac1b2a09af0fb9bc768c09d62060711fde24a2b",
+              "width": 1440,
+              "height": 2509
+            },
+            "html": {
+              "path": "data/html/phenom/cisco__software-engineer.html",
+              "exists": true,
+              "bytes": 1729216,
+              "sha256": "eed5f3e453df06db7054bd0323a4908014df81b12109a8242886efbefde0e6e1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "pinpoint",
+      "retained": 10,
+      "fieldTotal": 141,
+      "kinds": {
+        "application_candidate_requires_live_validation": 7,
+        "talent_interest_form": 3
+      },
+      "records": [
+        {
+          "record": "data/forms/pinpoint__arm__marketing-executive.json",
+          "title": "Marketing Executive",
+          "location": "",
+          "pageTitle": "New Application | Marketing Executive | Arm, inc Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 17,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "country-picker-unprobed": 1,
+            "dom-static": 6,
+            "none-observed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "51c83e0d270d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/arm__marketing-executive.png",
+              "exists": true,
+              "bytes": 236263,
+              "sha256": "5df3d72458be0a1f7d32aeb05e86346416600df3371df8a50c6aa71f1c39a9af",
+              "width": 1512,
+              "height": 4367
+            },
+            "html": {
+              "path": "data/html/pinpoint/arm__marketing-executive.html",
+              "exists": true,
+              "bytes": 823088,
+              "sha256": "43ca254453d813a0b51975f7d93add9c4956aa629055e81e91826ca40727b158"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__arm__senior-dft-engineer.json",
+          "title": "Senior DFT Engineer",
+          "location": "",
+          "pageTitle": "New Application | Senior DFT Engineer | Arm, inc Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1,
+            "dom-static": 6
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "f88a9a01e5c9",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/arm__senior-dft-engineer.png",
+              "exists": true,
+              "bytes": 210820,
+              "sha256": "0f526855f3cffc44f9cb1aba8abd9bb9830c2e27821e3d6c0d3bd596802325d3",
+              "width": 1512,
+              "height": 4029
+            },
+            "html": {
+              "path": "data/html/pinpoint/arm__senior-dft-engineer.html",
+              "exists": true,
+              "bytes": 852206,
+              "sha256": "3a38d2714205a859c9f83135e80c23eaee5b429a00bae7011b0fd617ce285e31"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__arm__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Register Your Interest | Arm, inc Careers",
+          "observedKind": "talent_interest_form",
+          "fields": 10,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "0d57f02be5d7",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/arm__software-engineer.png",
+              "exists": true,
+              "bytes": 212759,
+              "sha256": "139620fe1e855b5320dbc32c74c71522c97ed6ea69815498946fa5eaa4d6363d",
+              "width": 1512,
+              "height": 4005
+            },
+            "html": {
+              "path": "data/html/pinpoint/arm__software-engineer.html",
+              "exists": true,
+              "bytes": 764004,
+              "sha256": "bfa4627f777da1ff37bf263729807d984c302c26818b90bccef76bac06bf7814"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__arm__staff-information-developer.json",
+          "title": "Staff Information Developer",
+          "location": "",
+          "pageTitle": "New Application | Staff Information Developer | Arm, inc Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 17,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 9,
+            "country-picker-unprobed": 1,
+            "dom-static": 6,
+            "none-observed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "51c83e0d270d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/arm__staff-information-developer.png",
+              "exists": true,
+              "bytes": 235475,
+              "sha256": "16cda879db5af8dbf2fb3d28dbf1277904a5613ff7545fe4b3d7f910e620cb80",
+              "width": 1440,
+              "height": 4367
+            },
+            "html": {
+              "path": "data/html/pinpoint/arm__staff-information-developer.html",
+              "exists": true,
+              "bytes": 823129,
+              "sha256": "63a191f13da9038b1ac4fecc3f13a24cd8678d53bbbbb9d32db978b9c2f159c9"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__kpmg__customer-service-rep.json",
+          "title": "Customer Service Rep",
+          "location": "",
+          "pageTitle": "New Application | Customer Service Rep | KPMG Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 12,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1,
+            "dom-static": 5
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "36b4d9db6b18",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/kpmg__customer-service-rep.png",
+              "exists": true,
+              "bytes": 215846,
+              "sha256": "4c1cceca4b1d93f9ce709fc31da60bf72a65defb97ac77ecd1610b7200c53752",
+              "width": 1440,
+              "height": 3927
+            },
+            "html": {
+              "path": "data/html/pinpoint/kpmg__customer-service-rep.html",
+              "exists": true,
+              "bytes": 836293,
+              "sha256": "396a13f887fde98c097eea3de5cb21ec6b32298c44d0eefd8e8b8fd464de51fc"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__samsung__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Register Your Interest | Samsung Careers",
+          "observedKind": "talent_interest_form",
+          "fields": 15,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 8,
+            "country-picker-unprobed": 1,
+            "dom-on-open": 1,
+            "none-observed": 3,
+            "dom-static": 2
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "77cb5728db36",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/samsung__software-engineer.png",
+              "exists": true,
+              "bytes": 301253,
+              "sha256": "d01bb89cd510cca62871cb4f718923206d669b79ae85af972029b630cb8730dc",
+              "width": 1440,
+              "height": 5199
+            },
+            "html": {
+              "path": "data/html/pinpoint/samsung__software-engineer.html",
+              "exists": true,
+              "bytes": 827311,
+              "sha256": "098ee4aeae1f6590d2b560ded1422ef342a833f37637c37d1ef42a3827fad3ea"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__toyota__customer-service-rep.json",
+          "title": "Customer Service Rep",
+          "location": "",
+          "pageTitle": "New Application | Customer Service Rep | Toyota Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1,
+            "dom-static": 5,
+            "none-observed": 4
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d4518b37dc1f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/toyota__customer-service-rep.png",
+              "exists": true,
+              "bytes": 256174,
+              "sha256": "8da291f43d69e7945fdb4cae83436b11a6b9a59ba0d8f288405ff3c91d4449e0",
+              "width": 1440,
+              "height": 4838
+            },
+            "html": {
+              "path": "data/html/pinpoint/toyota__customer-service-rep.html",
+              "exists": true,
+              "bytes": 854777,
+              "sha256": "8668d618234fd1e96b91dc676a4de5f5fbd524c1abd25547c3e920abab32ce49"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__toyota__head-of-dei-uk.json",
+          "title": "Head of DEI - UK",
+          "location": "",
+          "pageTitle": "New Application | Head of DEI - UK | Toyota Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1,
+            "dom-static": 5,
+            "none-observed": 4
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d4518b37dc1f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/toyota__head-of-dei-uk.png",
+              "exists": true,
+              "bytes": 254968,
+              "sha256": "765fa6181104f2e6b85745ea0ae1c1b214d6b24af60c5c4996b356aadfede204",
+              "width": 1440,
+              "height": 4838
+            },
+            "html": {
+              "path": "data/html/pinpoint/toyota__head-of-dei-uk.html",
+              "exists": true,
+              "bytes": 854761,
+              "sha256": "822a0d4019a6108516f2e8486ee0ede5638a48c9dd463259b7e6847714a19098"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__toyota__head-of-dei-us.json",
+          "title": "Head of DEI - US",
+          "location": "",
+          "pageTitle": "New Application | Head of DEI - US | Toyota Careers",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1,
+            "dom-static": 5,
+            "none-observed": 4
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "d4518b37dc1f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/toyota__head-of-dei-us.png",
+              "exists": true,
+              "bytes": 236237,
+              "sha256": "7016842c24709a1db4db9cc9aa29a83c1d0833d205cc1c2d35e9d5e9206b52f8",
+              "width": 1366,
+              "height": 4539
+            },
+            "html": {
+              "path": "data/html/pinpoint/toyota__head-of-dei-us.html",
+              "exists": true,
+              "bytes": 768023,
+              "sha256": "f12b2bbf2eaf1dcf051a7c40eea67d2b1eb0011af63f4b151a2c7dbdc55c6abe"
+            }
+          }
+        },
+        {
+          "record": "data/forms/pinpoint__toyota__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Register Your Interest | Toyota Careers",
+          "observedKind": "talent_interest_form",
+          "fields": 9,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "not_applicable_or_unspecified": 5,
+            "country-picker-unprobed": 1,
+            "none-observed": 3
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "0fab610f07f3",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/pinpoint/toyota__software-engineer.png",
+              "exists": true,
+              "bytes": 217732,
+              "sha256": "c9ca258e2511d555311128e446d6e44f241917292260f3b24660b13890d9bdbf",
+              "width": 1512,
+              "height": 4033
+            },
+            "html": {
+              "path": "data/html/pinpoint/toyota__software-engineer.html",
+              "exists": true,
+              "bytes": 759044,
+              "sha256": "a070b7d3316ca171ce43de77c506eff91c9c2ec0b85919ed11f2f4bdfce4c166"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "teamtailor",
+      "retained": 10,
+      "fieldTotal": 136,
+      "kinds": {
+        "application_candidate_requires_live_validation": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/teamtailor__doodle__account-executive.json",
+          "title": "Account Executive",
+          "location": "",
+          "pageTitle": "Account Executive - Doodle",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 3,
+            "dom-static": 3,
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "5a40b16a889f",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/doodle__account-executive.png",
+              "exists": true,
+              "bytes": 1654500,
+              "sha256": "0269405b96d9610f3ff7f66aeb9d1524e5d3118efbd089e7c01251d6165ee1f6",
+              "width": 1366,
+              "height": 8764
+            },
+            "html": {
+              "path": "data/html/teamtailor/doodle__account-executive.html",
+              "exists": true,
+              "bytes": 342396,
+              "sha256": "f06562fb5443147f7982e6f12db63ed48f21ec1a0c5b142d81f56fdbd0be4773"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__doodle__head-of-growth.json",
+          "title": "Head of Growth",
+          "location": "",
+          "pageTitle": "Head of Growth - Doodle",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 20,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 4,
+            "dom-static": 8,
+            "not_applicable_or_unspecified": 7,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "41ebf50d126d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/doodle__head-of-growth.png",
+              "exists": true,
+              "bytes": 2123288,
+              "sha256": "484dffcca0dffcaf62ed195275bb832e8c494fa837c50f0adb20e1aba1f7a21f",
+              "width": 1366,
+              "height": 12511
+            },
+            "html": {
+              "path": "data/html/teamtailor/doodle__head-of-growth.html",
+              "exists": true,
+              "bytes": 367744,
+              "sha256": "6e82f0fa0000cc34f0fc4d6cee7485a6b067b1329f908645ca11aa4ff6aac1b6"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__doodle__sales-development-representative-uk-usa.json",
+          "title": "Sales Development Representative - UK/USA",
+          "location": "",
+          "pageTitle": "Sales Development Representative - UK/USA - Doodle",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 12,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 2,
+            "dom-static": 3,
+            "not_applicable_or_unspecified": 6,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "c6d112e743a0",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/doodle__sales-development-representative-uk-usa.png",
+              "exists": true,
+              "bytes": 1751185,
+              "sha256": "2bedc7387fa446d3072861fdb25c8e744a565666445ff1f6ee9f27b61566db45",
+              "width": 1512,
+              "height": 8746
+            },
+            "html": {
+              "path": "data/html/teamtailor/doodle__sales-development-representative-uk-usa.html",
+              "exists": true,
+              "bytes": 280983,
+              "sha256": "23280c8a969a14f0f3705beedea8996bbc1ef2d031d53e05218a8fb6d81f047d"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__scalr__senior-python-developer.json",
+          "title": "Senior Python Developer",
+          "location": "",
+          "pageTitle": "Senior Python Developer - Scalr",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 9,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "not_applicable_or_unspecified": 6,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "e9395e19b904",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/scalr__senior-python-developer.png",
+              "exists": true,
+              "bytes": 1507026,
+              "sha256": "0560fe0c458087ac10f565ca6ea75426eef311c845e38ba0cc9d734e5d44cda1",
+              "width": 1440,
+              "height": 7026
+            },
+            "html": {
+              "path": "data/html/teamtailor/scalr__senior-python-developer.html",
+              "exists": true,
+              "bytes": 246439,
+              "sha256": "49cc67bf7a5615af0efa75e3373e4e4cc6607a8dea795950b876032adc355ff1"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__spacelift__director-of-federal-sales-remote-washing.json",
+          "title": "Director of Federal Sales (Remote Washington DC) Remote United States \u00b7 Fully Remote",
+          "location": "",
+          "pageTitle": "Director of Federal Sales (Remote Washington DC) - Spacelift",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "not_applicable_or_unspecified": 8,
+            "dom-static": 3,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "163e1b9f2e13",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/spacelift__director-of-federal-sales-remote-washing.png",
+              "exists": true,
+              "bytes": 2103943,
+              "sha256": "3caca19dd68c803587cb8260f0b5ec96319eace7f021dd6adecacaed76ba01a0",
+              "width": 1440,
+              "height": 11062
+            },
+            "html": {
+              "path": "data/html/teamtailor/spacelift__director-of-federal-sales-remote-washing.html",
+              "exists": true,
+              "bytes": 406112,
+              "sha256": "4ea8f5179872ef26c3b815a22d74990cabe1799b86bcbbb8ac1f989a44d022ac"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__spacelift__partner-account-manager-remote-east-coas.json",
+          "title": "Partner Account Manager (Remote East Coast) Remote United States \u00b7 Fully Remote",
+          "location": "",
+          "pageTitle": "Partner Account Manager (Remote East Coast) - Spacelift",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "dom-static": 4,
+            "not_applicable_or_unspecified": 7,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "61e0cc6c46cb",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/spacelift__partner-account-manager-remote-east-coas.png",
+              "exists": true,
+              "bytes": 2075313,
+              "sha256": "c5f38f29a2ff904e5444fedc72c4becc4ca9e3da4a6ac74797a373b2de678e5d",
+              "width": 1512,
+              "height": 10193
+            },
+            "html": {
+              "path": "data/html/teamtailor/spacelift__partner-account-manager-remote-east-coas.html",
+              "exists": true,
+              "bytes": 403753,
+              "sha256": "c211abf4696f0938ca3e25729ed7d22388e3d7dd32f8a935a61420ddab8c521f"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__spacelift__platform-engineer-golang-iac-remote-euro.json",
+          "title": "Platform Engineer, Golang & IaC (Remote, Europe... Engineering \u00b7 Remote Europe \u00b7 Fully Remote",
+          "location": "",
+          "pageTitle": "Platform Engineer, Golang & IaC (Remote, European Union) - Spacelift",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "dom-static": 3,
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "cda3f08751cf",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/spacelift__platform-engineer-golang-iac-remote-euro.png",
+              "exists": true,
+              "bytes": 1996930,
+              "sha256": "b534630d33de3dc0ffd74c709bed23560bf093e166516d75343f111b19c3ac44",
+              "width": 1512,
+              "height": 13350
+            },
+            "html": {
+              "path": "data/html/teamtailor/spacelift__platform-engineer-golang-iac-remote-euro.html",
+              "exists": true,
+              "bytes": 448971,
+              "sha256": "5b570088dfc17127594da4dd64ef63343118061e8382b430a0df1b69f489c616"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__spacelift__product-manager-kubernetes-ansible-iac-r.json",
+          "title": "Product Manager - Kubernetes / Ansible / IaC (R... Product \u00b7 Remote Europe \u00b7 Fully Remote",
+          "location": "",
+          "pageTitle": "Product Manager - Kubernetes / Ansible / IaC (Remote, European Union) - Spacelift",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "dom-static": 3,
+            "not_applicable_or_unspecified": 8,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "3aea114d0cd4",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/spacelift__product-manager-kubernetes-ansible-iac-r.png",
+              "exists": true,
+              "bytes": 2201472,
+              "sha256": "46d93a0a2e799d3659cee739edec176adad89c3298b97890adde4f4e07dc5268",
+              "width": 1366,
+              "height": 11406
+            },
+            "html": {
+              "path": "data/html/teamtailor/spacelift__product-manager-kubernetes-ansible-iac-r.html",
+              "exists": true,
+              "bytes": 406968,
+              "sha256": "064b6ba62e41c5c12102785ce8cc73ccbe16738e0a8f71c070732ad3f8b8e0aa"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__spacelift__rvp-sales-remote-east-coast-remote-unite.json",
+          "title": "RVP Sales (Remote East Coast) Remote United States \u00b7 Fully Remote",
+          "location": "",
+          "pageTitle": "RVP Sales (Remote East Coast) - Spacelift",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "dom-static": 3,
+            "not_applicable_or_unspecified": 7,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "a59fa6221f0c",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/spacelift__rvp-sales-remote-east-coast-remote-unite.png",
+              "exists": true,
+              "bytes": 2249552,
+              "sha256": "4d39c0dafb150ac469ffb8302e9b7a4418edac9be9bbfd3e19b3edbcb7b9ed66",
+              "width": 1366,
+              "height": 11789
+            },
+            "html": {
+              "path": "data/html/teamtailor/spacelift__rvp-sales-remote-east-coast-remote-unite.html",
+              "exists": true,
+              "bytes": 407658,
+              "sha256": "c710c5264a5b1651d5977ffa7a3345d479c68d2eb28f7eecbad0208314859a30"
+            }
+          }
+        },
+        {
+          "record": "data/forms/teamtailor__spacelift__rvp-sales-remote-west-coast-remote-unite.json",
+          "title": "RVP Sales (Remote West Coast) Remote United States \u00b7 Fully Remote",
+          "location": "",
+          "pageTitle": "RVP Sales (Remote West Coast) - Spacelift",
+          "observedKind": "application_candidate_requires_live_validation",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "none-observed": 1,
+            "dom-static": 3,
+            "not_applicable_or_unspecified": 7,
+            "dom-on-open": 1,
+            "country-picker-unprobed": 1
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": false,
+          "labelSignature": "e6ee6d94f56d",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/teamtailor/spacelift__rvp-sales-remote-west-coast-remote-unite.png",
+              "exists": true,
+              "bytes": 2246920,
+              "sha256": "b3759536fe3f00daca175adb2a9f3b1887dc07dc25f24bc40a30a3c1ee45f491",
+              "width": 1440,
+              "height": 11817
+            },
+            "html": {
+              "path": "data/html/teamtailor/spacelift__rvp-sales-remote-west-coast-remote-unite.html",
+              "exists": true,
+              "bytes": 404888,
+              "sha256": "e7b79ee596c412b8f54a492a4f0c99e2b5d8514e04fde14197d6a87b5398f962"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "platform": "workday",
+      "retained": 10,
+      "fieldTotal": 151,
+      "kinds": {
+        "first_wizard_step_only": 10
+      },
+      "records": [
+        {
+          "record": "data/forms/workday__adobe__senior-software-engineer.json",
+          "title": "Senior Software Engineer",
+          "location": "2 Locations",
+          "pageTitle": "Senior Software Engineer",
+          "observedKind": "first_wizard_step_only",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 4,
+            "not_applicable_or_unspecified": 12
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "d169ea8bb303",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/adobe__senior-software-engineer.png",
+              "exists": true,
+              "bytes": 100284,
+              "sha256": "6e7c745cbb453589abb92396f61f7b816cc6e57822ebef3d056ebe4ecde74029",
+              "width": 1440,
+              "height": 2350
+            },
+            "html": {
+              "path": "data/html/workday/adobe__senior-software-engineer.html",
+              "exists": true,
+              "bytes": 158571,
+              "sha256": "cb53eb1ed2a7409861c56f6d926788057f81f6fdb58b3f081799fbc19689da78"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__boeing__associate-software-engineer.json",
+          "title": "Associate Software Engineer",
+          "location": "",
+          "pageTitle": "Associate Software Engineer",
+          "observedKind": "first_wizard_step_only",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 5,
+            "not_applicable_or_unspecified": 11
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "c25502bcc7d6",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/boeing__associate-software-engineer.png",
+              "exists": true,
+              "bytes": 128979,
+              "sha256": "a0b83b6a64594d6a22694aabf025296e107c8eb17ae2dd8c70118bdf7489790f",
+              "width": 1440,
+              "height": 2428
+            },
+            "html": {
+              "path": "data/html/workday/boeing__associate-software-engineer.html",
+              "exists": true,
+              "bytes": 159538,
+              "sha256": "cba6d878ad4b1ed25ac939d2109dd792483cd9b8653cf4e1b70654de6971e6d2"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__boeing__c-software-engineer.json",
+          "title": "C++ Software Engineer",
+          "location": "",
+          "pageTitle": "C++ Software Engineer",
+          "observedKind": "first_wizard_step_only",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 5,
+            "not_applicable_or_unspecified": 11
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "c25502bcc7d6",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/boeing__c-software-engineer.png",
+              "exists": true,
+              "bytes": 125707,
+              "sha256": "a2ffeea33260cd54f680aa6320e19ede226db159478f1d813c46c0106e4e67eb",
+              "width": 1512,
+              "height": 2428
+            },
+            "html": {
+              "path": "data/html/workday/boeing__c-software-engineer.html",
+              "exists": true,
+              "bytes": 160699,
+              "sha256": "751e8c016c09549daaeb113a75f84dd3932add4761d24a983efce19d0907ee55"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__boeing__lead-devsecops-software-engineer.json",
+          "title": "Lead DevSecOps Software Engineer",
+          "location": "",
+          "pageTitle": "Lead DevSecOps Software Engineer",
+          "observedKind": "first_wizard_step_only",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 5,
+            "not_applicable_or_unspecified": 11
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "c25502bcc7d6",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/boeing__lead-devsecops-software-engineer.png",
+              "exists": true,
+              "bytes": 128067,
+              "sha256": "aaf6802b4759e536de64a25d5ae2e42eadea30c039dce6e563c33f5a68665514",
+              "width": 1366,
+              "height": 2428
+            },
+            "html": {
+              "path": "data/html/workday/boeing__lead-devsecops-software-engineer.html",
+              "exists": true,
+              "bytes": 167941,
+              "sha256": "555b0e686faf8ccc737f3aec016c8bfcef1f1a17282c48e82ec3f17234de2315"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__boeing__software-engineer-devsecops.json",
+          "title": "Software Engineer\u2013DevSecOps",
+          "location": "",
+          "pageTitle": "Software Engineer\u2013DevSecOps",
+          "observedKind": "first_wizard_step_only",
+          "fields": 16,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 5,
+            "not_applicable_or_unspecified": 11
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "c25502bcc7d6",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/boeing__software-engineer-devsecops.png",
+              "exists": true,
+              "bytes": 130384,
+              "sha256": "0777d6937452a1a50b35b1040072fb9b160320262e27aa2f4708fdf304c9f422",
+              "width": 1512,
+              "height": 2428
+            },
+            "html": {
+              "path": "data/html/workday/boeing__software-engineer-devsecops.html",
+              "exists": true,
+              "bytes": 162985,
+              "sha256": "606231134acc0d377f002bf296b4e3ab0bc0ca5982f6a61fce0cfe20cfe4296a"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__hp__senior-machine-learning-engineer.json",
+          "title": "Senior Machine Learning Engineer",
+          "location": "2 Locations",
+          "pageTitle": "Senior Machine Learning Engineer",
+          "observedKind": "first_wizard_step_only",
+          "fields": 15,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 6,
+            "not_applicable_or_unspecified": 9
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "562e042e24a7",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/hp__senior-machine-learning-engineer.png",
+              "exists": true,
+              "bytes": 116351,
+              "sha256": "036fa21532e6a2d1aadd5a2fa918c545aa9f4fff8c5b18c8b202f5af7896ae27",
+              "width": 1440,
+              "height": 2242
+            },
+            "html": {
+              "path": "data/html/workday/hp__senior-machine-learning-engineer.html",
+              "exists": true,
+              "bytes": 171510,
+              "sha256": "100bcffecf9dc6365ef74e816eb6c7fb13e3844bc885009171aa4e6f226d7ea3"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__intel__senior-eda-tools-software-engineer.json",
+          "title": "Senior EDA Tools Software Engineer",
+          "location": "US, California, Santa Clara",
+          "pageTitle": "Senior EDA Tools Software Engineer",
+          "observedKind": "first_wizard_step_only",
+          "fields": 13,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 4,
+            "not_applicable_or_unspecified": 9
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "99d86b2fa3e3",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/intel__senior-eda-tools-software-engineer.png",
+              "exists": true,
+              "bytes": 117627,
+              "sha256": "9481364a899bfdf7807d8d95597d184cfff990fc555be34b82264fee28689ab9",
+              "width": 1440,
+              "height": 2185
+            },
+            "html": {
+              "path": "data/html/workday/intel__senior-eda-tools-software-engineer.html",
+              "exists": true,
+              "bytes": 159611,
+              "sha256": "0669ac22e95b6b9549387ea3beb61caf6e02576ee8473b9f0a5b71a50388c335"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__paypal__senior-devops-engineer-kafka-specialist.json",
+          "title": "Senior DevOps Engineer - Kafka Specialist",
+          "location": "2 Locations",
+          "pageTitle": "Senior DevOps Engineer - Kafka Specialist",
+          "observedKind": "first_wizard_step_only",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 4,
+            "not_applicable_or_unspecified": 10
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "a7eb03bcdee5",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/paypal__senior-devops-engineer-kafka-specialist.png",
+              "exists": true,
+              "bytes": 115707,
+              "sha256": "15b464119c683cc659a1fec0981a816fae97440727eacd11118a6d91f847c87f",
+              "width": 1440,
+              "height": 2340
+            },
+            "html": {
+              "path": "data/html/workday/paypal__senior-devops-engineer-kafka-specialist.html",
+              "exists": true,
+              "bytes": 165440,
+              "sha256": "baa282ef2775d8c35f194785df996c4b254bf952d1d5cf3cf947b51cdc54d329"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__philips__senior-software-engineer-image-reconstru.json",
+          "title": "Senior Software Engineer - Image Reconstruction (C++/CUDA)",
+          "location": "Orange (OH), Ohio, United States",
+          "pageTitle": "Senior Software Engineer - Image Reconstruction (C++/CUDA)",
+          "observedKind": "first_wizard_step_only",
+          "fields": 15,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 4,
+            "not_applicable_or_unspecified": 11
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "d8caee1117c0",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/philips__senior-software-engineer-image-reconstru.png",
+              "exists": true,
+              "bytes": 109519,
+              "sha256": "e66df02fbc625d132701b91fa70f4ee77a181c684af43fe5df9826e98ee3331f",
+              "width": 1512,
+              "height": 2262
+            },
+            "html": {
+              "path": "data/html/workday/philips__senior-software-engineer-image-reconstru.html",
+              "exists": true,
+              "bytes": 158928,
+              "sha256": "0b4aa82b27ea0d5434db13b2eee4b87a33efac09344c695057393ae47b53afe3"
+            }
+          }
+        },
+        {
+          "record": "data/forms/workday__pt-snap__software-engineer.json",
+          "title": "Software Engineer",
+          "location": "",
+          "pageTitle": "Sign In",
+          "observedKind": "first_wizard_step_only",
+          "fields": 14,
+          "unlabeled": 0,
+          "missingSelectors": 0,
+          "missingFillActions": 0,
+          "optionsSources": {
+            "dom-on-open": 5,
+            "not_applicable_or_unspecified": 9
+          },
+          "additionalSteps": 0,
+          "multiStepFlag": true,
+          "labelSignature": "297cff5f51fa",
+          "artifacts": {
+            "screenshot": {
+              "path": "data/screenshots/workday/pt-snap__software-engineer.png",
+              "exists": true,
+              "bytes": 111586,
+              "sha256": "e19989afb024ba6004238fe65752f50679b61719901cba40588c7bd3c3d7cd38",
+              "width": 1512,
+              "height": 2154
+            },
+            "html": {
+              "path": "data/html/workday/pt-snap__software-engineer.html",
+              "exists": true,
+              "bytes": 148875,
+              "sha256": "d0601f10cacb978544eb58619a1a2d77224d264976139e8309ba4156978f4e0e"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
