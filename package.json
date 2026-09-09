@@ -11,7 +11,9 @@
     "merge": "node src/merge.js",
     "crawl": "node src/crawl.js",
     "report": "node src/report.js",
-    "all": "npm run discover && npm run discover:sites && npm run probe && npm run merge && npm run crawl && npm run report"
+    "all": "npm run discover && npm run discover:sites && npm run probe && npm run merge && npm run crawl && npm run report",
+    "workspace:start": "node workspace/server.js",
+    "workspace:test": "node --test workspace/test/*.test.js"
   },
   "license": "ISC",
   "dependencies": {
