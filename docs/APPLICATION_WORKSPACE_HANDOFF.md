@@ -1,6 +1,6 @@
-# Build a parallel job-application workspace
+# Build a mobile job-application workspace over Tailscale
 
-You are the implementation agent. Build the working product described below in this repository, not just a mockup or design proposal. Read the audit first, inspect the existing code, choose a practical stack compatible with the workspace, and implement in reviewable stages. Preserve the corpus and existing user changes. Keep `README.md` as-is; put new documentation under `docs/`. Make routine implementation decisions yourself. Ask only for essential missing user information, and keep unrelated work moving.
+You are the implementation agent. Build this working product in your own current writable project. `/Users/jake/Projects/scrapeJobApplications` is a READ-ONLY reference project, not the implementation destination. Read its audit and selected captures; copy useful code or fixtures into your project before adapting them. Put all application code, dependencies, databases, documents, logs, generated reports and new documentation in your writable project. Do not modify the source repository or run its scripts in place if they write output. Make routine implementation decisions yourself and deliver a runnable interaction loop, not just a mockup.
 
 ## Product intent
 
@@ -8,18 +8,54 @@ I want one place to organize software-engineering opportunities, filter by pay/c
 
 I should be able to open any running session, see the real browser state, take control, and hand it back. Once an application is genuinely ready, it moves to a separate review queue. I review and submit applications one at a time. Starting a batch must never authorize final submission. The system must never invent candidate facts or quietly answer questions on my behalf.
 
-Build this first for a single user running locally with Chrome. An embedded live browser or an “Open live browser” action is acceptable for v1 if it opens the SAME owned session with its current state and supports pause/takeover/resume. A screenshot-only mockup or a new blank tab is not sufficient. Keep the architecture portable; do not add cloud deployment or multi-user infrastructure unless needed.
+Build a phone-first responsive web app for a single user, usable in iPhone Safari and Android Chrome, with optional home-screen installation. I want to use it from the beach, cellular data, or another Wi-Fi network through Tailscale. Browsing jobs, answering questions, managing runs, taking over a browser, and reviewing/submitting must work from my phone. Desktop layouts are a secondary enhancement.
+
+Chrome workers, the scheduler, database and application server run on my computer or another persistent host. The phone is the remote interface; it does not run Playwright or keep jobs alive. The host must stay powered, awake and connected while work runs. Phone locking, app backgrounding or closing the page must not cancel acknowledged preparation work.
+
+## Mobile interface requirements
+
+Use bottom navigation for Jobs, Running, Questions and Review, with meaningful counts and profile/settings access. Use readable job cards, full-screen details and filter sheets on phones; optionally show a table on desktop. Keep selection counts and primary actions visible without obscuring content. Support 360–430 CSS-pixel portrait widths, landscape, safe-area insets, browser zoom and the on-screen keyboard. Use at least 44-by-44 CSS-pixel touch targets, accessible labels and focus order. Avoid hover-only actions and horizontal scrolling for the main workflow.
+
+The questions inbox should show one focused question at a time with company/role context, large choice controls, Save and next, Defer and Open session. Preserve unsaved drafts when moving within the app; clearly distinguish a local draft from a server-confirmed answer. Support mobile file pickers for resume/cover-letter uploads, visible upload progress, retry and confirmation of the uploaded document version. Never assume a phone file path is accessible on the worker host.
+
+Review is a readable phone screen with expandable answer sections, document previews and a clearly labelled Submit this application action for the specific company and role. No swipe-to-submit or accidental submission from keyboard Return. Submission requires a fresh explicit per-application decision after reviewing the current version.
+
+## Private remote access through Tailscale
+
+Use this topology: phone with Tailscale connected → private HTTPS application URL → app/API and authenticated session stream → owned Chrome workers on the host. Serve the UI, API and live-session transport through one origin; frontend URLs must not point to localhost on the phone.
+
+Use Tailscale Serve to proxy the loopback app over HTTPS within the tailnet. Do not enable Funnel, public port forwarding or public browser-control endpoints. Serve provides private service sharing; Funnel exposes a service publicly. Example for an app listening on port 3000: `tailscale serve --bg http://127.0.0.1:3000`, then inspect `tailscale serve status` for its actual HTTPS URL. Adapt the port to the implemented app and inspect existing Serve configuration before changing it. Follow the current [official Tailscale Serve CLI documentation](https://tailscale.com/docs/reference/tailscale-cli/serve).
+
+Document installation/sign-in on both devices, the tailnet HTTPS/MagicDNS prerequisites, the exact URL to bookmark, host startup and sleep requirements, and troubleshooting a disconnected phone or sleeping host. Restrict tailnet access to the intended user/devices using the existing access policy. Do not broadly share the host with other users as a default. No cloud deployment is required for v1.
+
+Keep the application bound to loopback behind the private HTTPS proxy. Raw CDP, VNC and other browser-control ports remain loopback-only. Expose only authenticated application routes and an authenticated, per-session remote-control channel. Require application authentication, secure session cookies, CSRF/origin checks for mutations and WebSocket origin/authorization checks. Do not trust arbitrary forwarded identity headers. Do not serve the source repository as a directory listing. Keep setup details in operator documentation rather than in every application screen.
+
+The server owns durable execution; the phone subscribes to updates. Show connection status and last-confirmed state. On reconnect, reload a durable snapshot and reconcile events without duplicating jobs or answers. Disable remote mutations while disconnected; never queue final submissions or browser input for offline replay. If a submit request loses its response, retrieve the recorded attempt/outcome before permitting another decision. Optional notifications may alert me to blockers but must not be required for background work or correctness. Cache only the app shell by default, not private documents, screenshots, credentials or answers.
+
+## Phone access to the actual browser session
+
+Implement an interactive remote view of the SAME Chrome session owned by the application run. Opening the employer URL in a new phone tab does not restore that session. A screenshot preview alone is insufficient. Provide touch scrolling, zoom/pan, accurate coordinate mapping, text entry with the mobile keyboard and an explicit Take control / Resume automation control. Stream only the viewed session at an adaptive rate; idle thumbnails must not stream every browser continuously.
+
+Taking control must atomically pause the worker before accepting remote input and grant an exclusive ownership lease. On phone disconnect or lease expiry, reject stale input and keep that session paused until explicit resume and re-observation. Never replay queued touches or keystrokes after reconnect. Handle popup/new-tab ownership and document uploads through the application. Login, MFA and CAPTCHA tasks may require human interaction; report any mechanism that cannot work in the remote session honestly instead of pretending the phone takeover is complete. Test the remote input bridge with controlled fixtures before using real sites.
 
 ## Corpus facts you must not overstate
 
-Workspace: `/Users/jake/Projects/scrapeJobApplications`.
-Read `docs/CORPUS_READINESS_AUDIT.md` and `docs/corpus-readiness-data.json`. Reproduce the offline inventory with `python3 tools/audit-readiness.py` if necessary.
+Read-only source root: `/Users/jake/Projects/scrapeJobApplications`. All relative research paths in this section are relative to that root, not your new project.
+
+- Audit: `/Users/jake/Projects/scrapeJobApplications/docs/CORPUS_READINESS_AUDIT.md`.
+- Machine-readable audit: `/Users/jake/Projects/scrapeJobApplications/docs/corpus-readiness-data.json`.
+- Starter references: `/Users/jake/Projects/scrapeJobApplications/data/starter-corpus/jobs/`.
+- Original records: `/Users/jake/Projects/scrapeJobApplications/data/forms/`; original artifacts are under `data/html/` and `data/screenshots/` as referenced by records.
+
+The starter folder is incomplete and currently has no finalized manifest. Do not claim it contains 50+ validated jobs or import the full raw corpus to pad the count. Validate its individual records and artifact paths, start with credible Greenhouse/Lever application examples, then add Ashby after fixing its missing controls. Create your own import manifest with accepted/rejected reasons in your writable project. Starter-copy artifact paths are relative to `data/starter-corpus/`; original record artifact paths are relative to the source root. Preserve provenance when copying. Import these as form references until actual posting identity and live availability are verified.
+
+You may read `tools/audit-readiness.py` to understand the inventory. If reproducing it, adapt a copy so it reads the source and writes reports only in your project.
 
 Current research stack: Node ESM and `playwright-core`, system Chrome, no existing full product architecture. Useful source files: `src/extract.js`, `src/probe-widgets.js`, `src/board.js`, `src/capture.js`, `src/browser.js`, `src/fingerprint.js`, `src/shot.js`, and discovery adapters. These are research code to inspect and adapt, not production guarantees.
 
 Primary corpus records are individual `data/forms/*.json`; screenshots and HTML are referenced by each record's `artifacts`. Treat `data/captures.json` as a potentially stale aggregate. Never blindly import `data/identity.json`, `data/profiles/`, mailbox credentials, or research personas as candidate data. Archived captures are separate from the current set.
 
-The existing retention rule is `isApplicationForm && !duplicateOfSameForm && !nonUS && !overCap`. It yields 165 records overall and 130 across 13 nominal 10/10 families: Ashby, Avature, Shopify, Wellfound, Eightfold, Greenhouse, Jane Street, Lever, Meta, Phenom, Pinpoint, Teamtailor, Workday. Those counts are not validated application depth:
+The existing retention rule is `isApplicationForm && !duplicateOfSameForm && !nonUS && !overCap`. The saved audit reported 165 records overall and 130 across 13 nominal 10/10 families: Ashby, Avature, Shopify, Wellfound, Eightfold, Greenhouse, Jane Street, Lever, Meta, Phenom, Pinpoint, Teamtailor, Workday. Those counts are not validated application depth:
 
 - All 130 referenced screenshot/HTML pairs exist; none records an additional application step.
 - Workday's ten and Phenom's ten are first-step-only evidence. Phenom's multi-step detection missed a visibly six-step wizard.
@@ -34,7 +70,7 @@ Use the corpus to build fixtures and recognize mechanics. Inspect live pages to 
 
 ### 1. Jobs workspace
 
-Provide a fast table with a details panel, multi-select, saved views, sorting, tags, notes, favorites, and explicit selection count. Distinguish “select visible rows” from “select all matching.” Offer filters for company, title/search, seniority, location, US eligibility, remote/hybrid/on-site, offered pay range, currency/pay period, platform, source, and application status. Show unknown values honestly and allow “include unknown pay/location.”
+Provide a fast mobile card list with full-screen details, multi-select, saved views, sorting, tags, notes, favorites, and explicit selection count. A table and side panel may supplement this on desktop. Distinguish “select visible jobs” from “select all matching.” Offer filters for company, title/search, seniority, location, US eligibility, remote/hybrid/on-site, offered pay range, currency/pay period, platform, source, and application status. Show unknown values honestly and allow “include unknown pay/location.”
 
 Each job needs a durable ID, original/source URL, canonical posting URL, application URL, external requisition ID when available, actual employer and title, locations, work arrangement, employment type, seniority evidence, description, salary provenance, freshness/last-verified time, and lifecycle status. Preserve original strings beside normalized fields. Separate offered base pay, total compensation/equity, and candidate desired salary. Do not silently compare hourly and annual figures or convert currencies without an explicit policy and visible assumptions. Never use desired salary as offered pay.
 
@@ -70,7 +106,7 @@ Login, MFA, CAPTCHA, unfamiliar attestations, inaccessible widgets, or uncertain
 
 Provide one central inbox of blockers across all jobs. Each item shows company, role, exact question, relevant preceding context, options/constraints, required vs optional, proposed answer if any, why help is needed, and a deep link to its live session. Distinguish factual questions, draft approvals, consent choices, validation corrections, login/MFA/CAPTCHA tasks, and unsupported controls.
 
-Support answering and immediately moving to the next item with keyboard-friendly controls, deferring, opening the live browser, and optionally saving an answer for future use. Resume only dependent sessions when the answer is saved and confirmed. Other sessions keep working. A user should not repeatedly re-answer a previously approved identical question unless circumstances/options changed.
+Support answering and immediately moving to the next item with touch-friendly controls and keyboard accessibility, deferring, opening the live browser, and optionally saving an answer for future use. Resume only dependent sessions when the answer is saved and confirmed. Other sessions keep working. A user should not repeatedly re-answer a previously approved identical question unless circumstances/options changed.
 
 Group only semantically equivalent questions with matching scope and allowed choices; show affected jobs and require explicit choice to apply to all. Never group different countries' authorization questions, different compensation contexts, or materially different agreements. Preserve the original questions and per-job answer mappings. New conditional questions may arrive after each answer; support that progressively rather than pretending the first inbox batch is complete.
 
@@ -102,20 +138,25 @@ Suggested application states:
 `queued → preparing → needs_input ↔ preparing → ready_for_review → submitting → submitted`.
 Also support `paused`, `manual_control`, `failed`, `cancelled`, `expired`, and `submission_unknown`, with explicit allowed transitions. Persist the resume checkpoint when pausing/manual takeover. Restart recovery must reconcile the live browser and saved data before executing; restoring cookies alone is not restoring unsaved form state. Never silently replay a possible submit.
 
-Persist question states (open, answered, applied, deferred, obsolete), execution ownership, event timestamps, and stale-session heartbeats. Use events to update UI live and load a durable snapshot on reconnect. Keep credentials/session tokens out of logs, UI previews, source control, and fixtures. Bind local control endpoints to loopback with session authentication/origin checks so unrelated websites cannot drive Chrome. Do not serve arbitrary corpus HTML as trusted executable app content; render sanitized text or sandboxed references. Treat documents, screenshots, and answers as private local user data with explicit deletion controls.
+Persist question states (open, answered, applied, deferred, obsolete), execution ownership, event timestamps, and stale-session heartbeats. Use events to update UI live and load a durable snapshot on reconnect. Keep credentials/session tokens out of logs, UI previews, source control, and fixtures. Bind the application and raw browser-control endpoints to loopback; proxy only the authenticated app and session transport through private Tailscale Serve as specified above. Enforce session authentication/origin checks so unrelated websites cannot drive Chrome. Do not serve arbitrary corpus HTML as trusted executable app content; render sanitized text or sandboxed references. Treat documents, screenshots, and answers as private local user data with explicit deletion controls.
 
 Adapters should expose capability/evidence, navigation, extraction, filling, verification, safe advancement, review detection, and final submission classification. Track support per observed flow/tenant, not just a platform name. A generic fallback can assist but must escalate uncertainty instead of calling everything supported.
 
 ## Implementation order and definition of done
 
-1. Inventory existing code and add a robust corpus importer with invalid-record reporting, reference-vs-live distinction, and source provenance. Create the jobs workspace, candidate profile, status model, and persistent backend.
-2. Implement the scheduler, real owned Chrome sessions, live status, and manual takeover. Prove that three independent sessions run, one pauses for a question, others progress, and the paused session resumes after answering.
-3. Build live field extraction/verification and adapters using Greenhouse and Lever fixtures, then Ashby's missing button controls. Add generic/manual handling and visible capability states for all 13 families. Do not hold the entire product hostage to complete platform coverage.
+1. In your writable project, establish the mobile app shell, persistent backend and private remote-access configuration. Inventory the read-only reference code and add a robust corpus importer with invalid-record reporting, reference-vs-live distinction, and source provenance. Create the jobs workspace, candidate profile, status model, and persistent backend.
+2. Implement the scheduler, real owned Chrome sessions, live status, and interactive phone takeover through the authenticated remote channel. Prove that three independent sessions run, one pauses for a question, others progress, and the paused session resumes after answering.
+3. Build live field extraction/verification and adapters using Greenhouse and Lever fixtures, then Ashby's missing button controls. Limit the initial working set to validated starter references. Show unsupported families as deferred; do not expand the import to all 13 families just to increase counts. Do not hold the entire product hostage to complete platform coverage.
 4. Implement the progressive inbox, answer scope/versioning, conditional questions, and restart reconciliation.
 5. Implement final-state detection, review snapshots, and the isolated explicit-submit path using controlled local fixtures. Real submission stays disabled until the user intentionally enables it for their own reviewed application.
-6. Document working features, known unsupported flows, evidence and test results, setup/run steps, and remaining gaps in `docs/`. Do not describe mock data or untested adapters as live functionality.
+6. Document working features, known unsupported flows, evidence and test results, host startup, phone/Tailscale setup, reconnect recovery, and remaining gaps in your project’s `docs/`. Do not describe mock data or untested adapters as live functionality.
 
 Acceptance checks must include:
+
+- Complete the core flow at phone viewport sizes, including filters, selection, uploads, question answering and individual review. Verify safe areas, scrolling, focus and keyboard visibility. Record iOS Safari/Android Chrome device testing separately from emulation; do not claim real-device coverage without it.
+- Verify private HTTPS access from an authorized phone on a different network or cellular connection. Verify access is denied to unauthorized devices and that raw browser-control ports are not remotely exposed. If device/tailnet access is unavailable, provide an exact reproducible check and mark it unverified.
+- Lock/background the phone, disconnect Tailscale and switch Wi-Fi/cellular during preparation: server work persists and UI reconciles without duplicate actions. A takeover disconnect leaves its worker paused. Offline or stale review state cannot submit.
+- Exercise real touch/text interaction with the owned fixture browser over the remote channel. A screenshot, new phone tab or desktop-only Open browser button does not satisfy takeover.
 
 - Salary filtering distinguishes unknown pay, base/total pay, currency and period; source imports dedupe identical requisitions but preserve jobs with identical titles.
 - A malformed corpus record is reported without aborting import; listing pages, login gates and interest forms never become ready applications.
@@ -126,4 +167,4 @@ Acceptance checks must include:
 - Preparation stops before final submission, including implicit Enter submission and ambiguously named final buttons. An explicit per-job review authorization is required and invalidated by changed answers; double-clicking uses it once. Unknown submission outcomes are not retried automatically.
 - A full demo uses three local fake employers with different forms, exercises questions and takeover, gets each to review, and submits only through individual user actions to fixture endpoints. No unsolicited real accounts, emails, job submissions, or fabricated credentials are part of verification.
 
-Deliver a runnable first pass with this entire interaction loop, a short recorded or reproducible demo scenario, and an honest support matrix. Prefer functioning assisted preparation and safe handoff over claiming universal autonomous coverage from the corpus counts.
+Deliver a runnable phone-first first pass with this entire interaction loop, a short recorded or reproducible three-employer demo over the private Tailscale URL, and an honest support matrix. The demo must cover selecting jobs, parallel preparation, answering a blocker, phone takeover, reconnect, review and separate fixture submissions. Include exact host run commands and phone connection instructions in the writable project. Prefer functioning assisted preparation and safe handoff over claiming universal autonomous coverage from the corpus counts.
