@@ -1,0 +1,404 @@
+{
+  "id": "eightfold__deere__engineering-development-program-product",
+  "group": "eightfold",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "deere",
+    "board": "deere",
+    "title": "Engineering Development Program - Product",
+    "location": "",
+    "jobUrl": "https://jobs.deere.com/eightfold/job/Moline-Engineering-Development-Program-Product-Iowa/1427480900/",
+    "startUrl": "https://jobs.deere.com/eightfold/job/Moline-Engineering-Development-Program-Product-Iowa/1427480900/"
+  },
+  "platform": "eightfold",
+  "detectedPlatform": "eightfold",
+  "platformLabel": "Eightfold AI",
+  "finalUrl": "https://johndeere.eightfold.ai/careers?query=Engineering+Development+Program+-+Product&start=0&pid=137482546276&sort_by=relevance",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Careers at John Deere | John Deere",
+  "fieldCount": 6,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://johndeere.eightfold.ai/api/suggest?term=Engineering%20Developament%20Program%20-%20Product&dictionary=job_search&domain=johndeere.com",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "position-query-search",
+      "id": "position-query-search",
+      "label": "Search for job title or keywords",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Search for job title or keywords",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#position-query-search",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 1,
+        "optionsAfterTyping": 1,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Engineering Development Program - Product"
+        ],
+        "sampleAfterTyping": [
+          "Engineering Developament Program - Product"
+        ]
+      },
+      "optionCount": 1,
+      "options": [
+        "Engineering Developament Program - Product"
+      ],
+      "normLabel": "search for job title or keywords",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://johndeere.eightfold.ai/api/suggest?term=San&dictionary=position_profile_locations&domain=johndeere.com&enableLocationGeocodeNormalization=true",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "position-location-search",
+      "id": "position-location-search",
+      "label": "Search for location",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Search for location",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#position-location-search",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 11,
+        "optionsAfterTyping": 5,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Remote",
+          "Indaiatuba, SP, Brazil",
+          "Waterloo, IA, United States",
+          "Moline, IL, United States",
+          "MA, BW, Germany",
+          "Bruchsal, BW, Germany",
+          "Dubuque, IA, United States",
+          "Poznań, Greater Poland Voivodeship, Poland"
+        ],
+        "sampleAfterTyping": [
+          "San",
+          "Granadero Baigorria, Santa Fe Province, Argentina",
+          "Santa Clara, CA, United States",
+          "Las Rosas, Santa Fe Province, Argentina",
+          "San Francisco, CA, United States"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "San",
+        "Granadero Baigorria, Santa Fe Province, Argentina",
+        "Santa Clara, CA, United States",
+        "Las Rosas, Santa Fe Province, Argentina",
+        "San Francisco, CA, United States"
+      ],
+      "normLabel": "search for location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "",
+      "labelSource": "none",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > input",
+      "visible": false,
+      "accept": ".docx,.pdf",
+      "multiple": false,
+      "normLabel": "",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "dropdown-3reference",
+      "label": "Sort by: Relevance",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#dropdown-3reference",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "sort by relevance",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"presentation\"]"
+      },
+      "name": "",
+      "id": "share-position-btn",
+      "label": "Share position, Engineering Development Program - Product",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#share-position-btn",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 5,
+        "optionsAfterTyping": 5,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "LinkedIn",
+          "Facebook",
+          "X (Formerly Twitter)",
+          "Email",
+          "Copy Link"
+        ],
+        "sampleAfterTyping": [
+          "LinkedIn",
+          "Facebook",
+          "X (Formerly Twitter)",
+          "Email",
+          "Copy Link"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "LinkedIn",
+        "Facebook",
+        "X (Formerly Twitter)",
+        "Email",
+        "Copy Link"
+      ],
+      "normLabel": "share position engineering development program product",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Job description",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > input",
+      "visible": false,
+      "accept": ".docx,.pdf",
+      "multiple": false,
+      "normLabel": "job description",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 4,
+      "file-upload": 2
+    },
+    "byAction": {
+      "click-type-wait-pick": 2,
+      "upload": 2,
+      "type": 1,
+      "click-type-pick": 1
+    },
+    "byOptionsSource": {
+      "network-on-type": 2,
+      "none-observed": 1,
+      "dom-on-open": 1
+    }
+  },
+  "widgetsProbed": 4,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 2
+    },
+    {
+      "widget": "typeahead",
+      "count": 2
+    }
+  ],
+  "sections": [
+    "Jobs",
+    "Get personalized job recommendations",
+    "97 jobs",
+    "Engineering Development Program - Product",
+    "Your Responsibilities",
+    "What Skills You Need",
+    "Education",
+    "Similar jobs"
+  ],
+  "buttons": [
+    "English",
+    "Search jobs",
+    "All Filters",
+    "Clear All",
+    "Upload your resume",
+    "Sort: Relevance",
+    "Engineering Development Program - Product Moline,Iowa,United States Product Engineering (CA) Posted 6 hours ago",
+    "Engineering Development Program - Electrification Moline,Illinois,United States Product Engineering (CA) Posted 5 hours ago",
+    "Engineering Development Program - Factory Engineering Illinois,United States Factory Engineering (CA) Posted 4 hours ago",
+    "Engineering Development Program - Weld Illinois,United States Factory Engineering (CA) Posted 3 hours ago",
+    "Weld Engineering Development Program 2026a Dubuque,Illinois,United States Factory Engineering (CA) Posted a year ago",
+    "2027 Intern - Product Engineering Various Locations,Illinois,United States Product Engineering (CA) Posted 7 days ago",
+    "Part-Time Student - Product Engineering - Fargo, ND Fargo, ND,North Dakota,United States + 1 more Product Engineering (CA) Posted 22 days ago",
+    "Part-Time Student - Product Engineering - Ames, IA, or Silvis, IL Ames,Illinois,United States Product Engineering (CA) Posted a month ago",
+    "Part-Time Student - Advanced Engineering Student Program - Fargo, ND Fargo,North Dakota,United States Product Engineering (CA) Posted 3 months ago",
+    "Product Engineer Grovetown,Georgia,United States Product Engineering (CA) Posted 21 days ago",
+    "Upload your resume",
+    "Job description",
+    "Cookie Preferences"
+  ],
+  "resumeUpload": [
+    "Skip to main contentJobsDashboardProfileJoin Talent NetworkSign InEnglishJobsWarning: Job search scams using fake job postingsView and apply for apprentice jobs in Europe.Engineering Development Progr",
+    "Skip to main contentJobsDashboardProfileJoin Talent NetworkSign InEnglishJobsWarning: Job search scams using fake job postingsView and apply for apprentice jobs in Europe.Engineering Development Progr",
+    "Engineering Development Program - ProductRemoteIndaiatuba, SP, BrazilWaterloo, IA, United StatesMoline, IL, United StatesMA, BW, GermanyBruchsal, BW, GermanyDubuque, IA, United StatesPoznań, Greater P",
+    "Engineering Development Program - ProductRemoteIndaiatuba, SP, BrazilWaterloo, IA, United StatesMoline, IL, United StatesMA, BW, GermanyBruchsal, BW, GermanyDubuque, IA, United StatesPoznań, Greater P",
+    "Engineering Development Program - ProductRemoteIndaiatuba, SP, BrazilWaterloo, IA, United StatesMoline, IL, United StatesMA, BW, GermanyBruchsal, BW, GermanyDubuque, IA, United StatesPoznań, Greater P"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/eightfold/deere__engineering-development-program-product.png",
+    "html": "data/html/eightfold/deere__engineering-development-program-product.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 5,
+    "hiddenOverlays": 2,
+    "unpinnedElements": 3,
+    "docHeight": 4265,
+    "lowestField": 942.109375,
+    "coversAllFields": true
+  },
+  "ms": 24002,
+  "fingerprint": {
+    "labelSig": "f50c0208a308",
+    "shapeSig": "55b7abd21b7e",
+    "controlSig": "42d0eafd68f6",
+    "controls": {
+      "combobox": 4,
+      "file-upload": 2
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "06acc0097801",
+    "typeCounts": {
+      "text": 2,
+      "file": 2,
+      "button-dropdown": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "location",
+      "resume"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

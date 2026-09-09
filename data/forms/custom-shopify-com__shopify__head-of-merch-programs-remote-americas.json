@@ -1,0 +1,457 @@
+{
+  "id": "custom-shopify-com__shopify__head-of-merch-programs-remote-americas",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "Shopify careers",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Head of Merch Programs REMOTE - AMERICAS",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/head-of-merch-programs_11a67059-84b1-406e-a5b9-11e509f3d52c?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/head-of-merch-programs_11a67059-84b1-406e-a5b9-11e509f3d52c?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/head-of-merch-programs_11a67059-84b1-406e-a5b9-11e509f3d52c?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Head of Merch Programs - Shopify",
+  "fieldCount": 12,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "8654c7a4-33f0-4231-9d1c-183d67a985dd",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "16986b62-5c07-4371-a691-32a3425e2cb1",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "2f4114d3-d84b-428c-98c0-eb3e792b05ee",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "a29d9d2d-4151-4470-a45e-46fb17781568",
+      "id": "a29d9d2d-4151-4470-a45e-46fb17781568",
+      "label": "You've visited one of our current brand commerce experiences: Supply, Rebellion or Racing. What did we get right? * Pick one thing we're selling or sold from any store. Tell us why it works: the produ",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#a29d9d2d-4151-4470-a45e-46fb17781568",
+      "visible": true,
+      "normLabel": "you ve visited one of our current brand commerce experiences",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "70bb9a39-5292-45ac-9810-32e2b08eab0f",
+      "id": "70bb9a39-5292-45ac-9810-32e2b08eab0f",
+      "label": "You've visited one of our current brand commerce experiences: Supply, Rebellion or Racing. What did we get wrong?* Pick one. Take it apart. What would you have killed, and what would you have made ins",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"70bb9a39-5292-45ac-9810-32e2b08eab0f\"]",
+      "visible": true,
+      "normLabel": "you ve visited one of our current brand commerce experiences",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "1c023e3a-7116-4533-ac19-9a09588ac416",
+      "id": "1c023e3a-7116-4533-ac19-9a09588ac416",
+      "label": "You've visited one of our current brand commerce experiences: Supply, Rebellion or Racing. What aren't we making?* One thing. One paragraph. The thing that's obvious to you and apparently not to us.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"1c023e3a-7116-4533-ac19-9a09588ac416\"]",
+      "visible": true,
+      "normLabel": "you ve visited one of our current brand commerce experiences",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "db725945-bcf3-4be7-b94c-dad515a8f43b",
+      "id": "db725945-bcf3-4be7-b94c-dad515a8f43b",
+      "label": "AI is a reflexive tool at Shopify. For the three questions above, how did you use AI to deepen or sharpen your answers? What did it help you uncover, connect, or interpret that would have been harder ",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#db725945-bcf3-4be7-b94c-dad515a8f43b",
+      "visible": true,
+      "normLabel": "ai is a reflexive tool at shopify for the three questions ab",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "42bb37b6-a82a-403d-b0d5-55792a82f9e1",
+      "id": "42bb37b6-a82a-403d-b0d5-55792a82f9e1",
+      "label": "This role is for the founders and the builders. We've interested in what you've built and sold yourself. Share a link to your work.*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"42bb37b6-a82a-403d-b0d5-55792a82f9e1\"]",
+      "visible": true,
+      "normLabel": "this role is for the founders and the builders we ve interes",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "9ab5e38c-6de1-49fc-be48-42fbfcd11474",
+      "id": "9ab5e38c-6de1-49fc-be48-42fbfcd11474",
+      "label": "Have a portfolio or reference work you want to share? Share a link to your work.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"9ab5e38c-6de1-49fc-be48-42fbfcd11474\"]",
+      "visible": true,
+      "normLabel": "have a portfolio or reference work you want to share share a",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "41741002-0f63-441c-bb11-e5a794415cf8",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"41741002-0f63-441c-bb11-e5a794415cf8\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "0a02c1d2-ea54-4f4c-a824-25c39cee039f",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"0a02c1d2-ea54-4f4c-a824-25c39cee039f\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "0ea23105-15db-4261-b9fa-7b530f47232a",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"0ea23105-15db-4261-b9fa-7b530f47232a\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 2,
+      "text-email": 1,
+      "textarea": 6,
+      "checkbox-group": 3
+    },
+    "byAction": {
+      "type": 9,
+      "check-many": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Head of Merch Programs",
+    "About the role",
+    "What you'll do",
+    "What we're looking for",
+    "How to Apply",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackHead of Merch ProgramsRemote - AmericasCreativeApply NowAbout the roleWe produce products for three brands: Supply, for the people building on Shopify. Shopify Rebellion, for players and fans of o",
+    "About the roleWe produce products for three brands: Supply, for the people building on Shopify. Shopify Rebellion, for players and fans of our esport team. And Shopify Racing, for our team and fans on",
+    "About the roleWe produce products for three brands: Supply, for the people building on Shopify. Shopify Rebellion, for players and fans of our esport team. And Shopify Racing, for our team and fans on",
+    "We produce products for three brands: Supply, for the people building on Shopify. Shopify Rebellion, for players and fans of our esport team. And Shopify Racing, for our team and fans on and off the t",
+    "We produce products for three brands: Supply, for the people building on Shopify. Shopify Rebellion, for players and fans of our esport team. And Shopify Racing, for our team and fans on and off the t"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__head-of-merch-programs-remote-americas.png",
+    "html": "data/html/custom-shopify-com/shopify__head-of-merch-programs-remote-americas.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 6224,
+    "lowestField": 5485.765625,
+    "coversAllFields": true
+  },
+  "ms": 27189,
+  "fingerprint": {
+    "labelSig": "085f8331904d",
+    "shapeSig": "bc8a4791b805",
+    "controlSig": "97878e43f26b",
+    "controls": {
+      "text": 2,
+      "text-email": 1,
+      "textarea": 6,
+      "checkbox-group": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "8fd6ba883262",
+    "typeCounts": {
+      "text": 2,
+      "email": 1,
+      "textarea": 6,
+      "checkbox": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "full_name",
+      "location",
+      "portfolio",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 10,
+    "customQuestionCount": 7,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:shopify.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

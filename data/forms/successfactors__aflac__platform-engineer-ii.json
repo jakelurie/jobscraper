@@ -1,0 +1,615 @@
+{
+  "id": "successfactors__aflac__platform-engineer-ii",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "aflac",
+    "board": "aflac",
+    "title": "Platform Engineer II",
+    "location": "",
+    "jobUrl": "https://careers.aflac.com/job/Platform-Engineer-II-GA-31999/1426852100/",
+    "startUrl": "https://careers.aflac.com/job/Platform-Engineer-II-GA-31999/1426852100/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career4.successfactors.com/career?company=aflacP&site=&lang=en_US&requestParams=pWwunSpQylKsb3o%2bEnomjfbJ5Mp42m1R3UpCQRCe%2fElNKSXorlcQPUQaXZQUllAgiN10cRr3jLqy%0a7TnujmkEPVE9RPQEddkLRBe9Q6sFHamFXZb5vpnv%2b3YfPiFtDZRGeIPlCUtVPkU7PMconXl7et66%0aeklCoglrKsSgiYJD04IcDw3ZYaiCWXRwCPNVmGbdWXQ7z5CykmliYPPybDFVoR6UO2ykHuw%2fvl68%0af2zfnSQAZpGjrzAAQ1YoSZpbwWQM95D8rmdHYc96U%2boxlAQaIuO7im9o7MslYmqvVvcY8jYUElUj%0aitRtHE73UVlyuOtuy4iU1BTHV4%2blIcEM6yI0hhSyDLW%2f7KVQrdQ9r7q749UqFceUtqWZjEbVtWT%2b%0aU8uI8DpC%2fesk4ZSwr1C0Y5fcTzBt4zM25jnR5ZBiYcZFnL%2fhkgxpv9thKLp%2fmDYUGT4yhEzBXy%2bz%0aL0UziHo%3d&login_ns=register&career_ns=job%5fapplication&career_job_req_id=9782&jobPipeline=Direct&clientId=jobs2web&_s.crb=qih%2fYvR4UjO2QdgqDdeqrdo0W2AdT%2bJg6KX4WVm5VXI%3d",
+  "applyTrail": [
+    "clicked: Apply Now »",
+    "clicked: Create an account",
+    "clicked: Create Account",
+    "filled:email+email-confirm+email-confirm+password+password-confirm+select+required-field+required-field+required-field+required-field",
+    "submit:Create Account",
+    "filled:email+email-confirm+email-confirm+password+password-confirm",
+    "submit:Create Account",
+    "filled:email+email-confirm+email-confirm+password+password-confirm",
+    "submit:Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on register screen: Please complete all required fields and re-submit. The following fields require a valid input: Retype Email Address | Please complete all ",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Career Opportunities: Create an Account",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Retype Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "retype email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Choose Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "choose password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Retype Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "retype password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "First Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Last Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_ituCode",
+      "id": "fbclc_ituCode",
+      "label": "Country/Region Code:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_ituCode",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Argentina (+54)",
+        "Australia (+61)",
+        "Austria (+43)",
+        "Bahamas (+1)",
+        "Belgium (+32)",
+        "Bermuda (+1)",
+        "Brazil (+55)",
+        "Canada (+1)",
+        "Chile (+56)",
+        "China (+86)",
+        "Colombia (+57)",
+        "Costa Rica (+506)",
+        "Croatia (+385)",
+        "Cyprus (+357)",
+        "Czech Republic (+420)",
+        "Denmark (+45)",
+        "Dominican Republic (+1)",
+        "Ecuador (+593)",
+        "Egypt (+20)",
+        "Finland (+358)",
+        "France (+33)",
+        "Germany (+49)",
+        "Honduras (+504)",
+        "Hong Kong (+852)",
+        "Hungary (+36)",
+        "India (+91)",
+        "Indonesia (+62)",
+        "Ireland (+353)",
+        "Israel (+972)",
+        "Italy (+39)",
+        "Japan (+81)",
+        "Kuwait (+965)",
+        "Luxembourg (+352)",
+        "Malaysia (+60)",
+        "Mexico (+52)",
+        "Nepal (+977)",
+        "Netherlands (+31)",
+        "New Zealand (+64)",
+        "Norway (+47)"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Argentina (+54)",
+          "value": "AR"
+        },
+        {
+          "label": "Australia (+61)",
+          "value": "AU"
+        },
+        {
+          "label": "Austria (+43)",
+          "value": "AT"
+        },
+        {
+          "label": "Bahamas (+1)",
+          "value": "BS"
+        },
+        {
+          "label": "Belgium (+32)",
+          "value": "BE"
+        },
+        {
+          "label": "Bermuda (+1)",
+          "value": "BM"
+        },
+        {
+          "label": "Brazil (+55)",
+          "value": "BR"
+        },
+        {
+          "label": "Canada (+1)",
+          "value": "CA"
+        },
+        {
+          "label": "Chile (+56)",
+          "value": "CL"
+        },
+        {
+          "label": "China (+86)",
+          "value": "CN"
+        },
+        {
+          "label": "Colombia (+57)",
+          "value": "CO"
+        },
+        {
+          "label": "Costa Rica (+506)",
+          "value": "CR"
+        },
+        {
+          "label": "Croatia (+385)",
+          "value": "HR"
+        },
+        {
+          "label": "Cyprus (+357)",
+          "value": "CY"
+        },
+        {
+          "label": "Czech Republic (+420)",
+          "value": "CZ"
+        },
+        {
+          "label": "Denmark (+45)",
+          "value": "DK"
+        },
+        {
+          "label": "Dominican Republic (+1)",
+          "value": "DO"
+        },
+        {
+          "label": "Ecuador (+593)",
+          "value": "EC"
+        },
+        {
+          "label": "Egypt (+20)",
+          "value": "EG"
+        },
+        {
+          "label": "Finland (+358)",
+          "value": "FI"
+        },
+        {
+          "label": "France (+33)",
+          "value": "FR"
+        },
+        {
+          "label": "Germany (+49)",
+          "value": "DE"
+        },
+        {
+          "label": "Honduras (+504)",
+          "value": "HN"
+        },
+        {
+          "label": "Hong Kong (+852)",
+          "value": "HK"
+        },
+        {
+          "label": "Hungary (+36)",
+          "value": "HU"
+        },
+        {
+          "label": "India (+91)",
+          "value": "IN"
+        },
+        {
+          "label": "Indonesia (+62)",
+          "value": "ID"
+        },
+        {
+          "label": "Ireland (+353)",
+          "value": "IE"
+        },
+        {
+          "label": "Israel (+972)",
+          "value": "IL"
+        },
+        {
+          "label": "Italy (+39)",
+          "value": "IT"
+        },
+        {
+          "label": "Japan (+81)",
+          "value": "JP"
+        },
+        {
+          "label": "Kuwait (+965)",
+          "value": "KW"
+        },
+        {
+          "label": "Luxembourg (+352)",
+          "value": "LU"
+        },
+        {
+          "label": "Malaysia (+60)",
+          "value": "MY"
+        },
+        {
+          "label": "Mexico (+52)",
+          "value": "MX"
+        },
+        {
+          "label": "Nepal (+977)",
+          "value": "NP"
+        },
+        {
+          "label": "Netherlands (+31)",
+          "value": "NL"
+        },
+        {
+          "label": "New Zealand (+64)",
+          "value": "NZ"
+        },
+        {
+          "label": "Norway (+47)",
+          "value": "NO"
+        }
+      ],
+      "optionCount": 55,
+      "normLabel": "country/region code",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_phoneNumber",
+      "id": "fbclc_phoneNumber",
+      "label": "Phone Number:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_phoneNumber",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notification:",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notification:",
+      "required": false,
+      "options": [
+        "Notification:"
+      ],
+      "optionValues": [
+        {
+          "label": "Notification:",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notification",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_campaignEmailEnabled",
+      "label": "Hear more about career opportunities",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Hear more about career opportunities",
+      "required": false,
+      "options": [
+        "Hear more about career opportunities"
+      ],
+      "optionValues": [
+        {
+          "label": "Hear more about career opportunities",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_campaignEmailEnabled\"]",
+      "normLabel": "hear more about career opportunities",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 5,
+      "text-password": 2,
+      "native-select": 1,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 7,
+      "select-option": 1,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Career Opportunities: Create an Account"
+  ],
+  "buttons": [
+    "About Aflac",
+    "Career Opportunities",
+    "Subsidiaries",
+    "Create Account",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab."
+  ],
+  "resumeUpload": [
+    "Skip to main content About Aflac What Is Aflac? Who Are We? Where Are We? Social Responsibility Employee Benefits Career Opportunities View All Jobs Accounting and Finance Actuarial and Risk Customer ",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/aflac__platform-engineer-ii.png",
+    "html": "data/html/_unreached/successfactors/aflac__platform-engineer-ii.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1547,
+    "lowestField": 1221.4375,
+    "coversAllFields": true
+  },
+  "ms": 98590,
+  "fingerprint": {
+    "labelSig": "1570a0412ed4",
+    "shapeSig": "a120c04ce275",
+    "controlSig": "6b41a13af8e2",
+    "controls": {
+      "text": 5,
+      "text-password": 2,
+      "native-select": 1,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "c8b7c403772c",
+    "typeCounts": {
+      "text": 5,
+      "password": 2,
+      "select": 1,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "password",
+      "phone"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

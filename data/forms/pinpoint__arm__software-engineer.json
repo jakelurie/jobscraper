@@ -1,0 +1,448 @@
+{
+  "id": "pinpoint__arm__software-engineer",
+  "group": "pinpoint",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "pinpoint",
+    "atsLabel": "pinpoint",
+    "company": "arm",
+    "board": "arm",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://arm.pinpointhq.com/",
+    "startUrl": "https://arm.pinpointhq.com/"
+  },
+  "platform": "pinpoint",
+  "platformLabel": "Pinpoint",
+  "finalUrl": "https://arm.pinpointhq.com/register-your-interest/new",
+  "applyTrail": [
+    "clicked: Register Your Interest"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Register Your Interest | Arm, inc Careers",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][first_name]",
+      "id": "job_seeker_form_job_seeker_first_name",
+      "label": "First Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "First name",
+      "autocomplete": "given-name",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_first_name",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][last_name]",
+      "id": "job_seeker_form_job_seeker_last_name",
+      "label": "Last Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Last name",
+      "autocomplete": "family-name",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_last_name",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][email]",
+      "id": "job_seeker_form_job_seeker_email",
+      "label": "Email Address",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "email@address.com",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_email",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "job_seeker_form[job_seeker][phone]",
+      "id": "phone-input",
+      "label": "Phone country code",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Phone Number",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#phone-input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone country code",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][linkedin_url]",
+      "id": "job_seeker_form_job_seeker_linkedin_url",
+      "label": "LinkedIn URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "https://www.linkedin.com/in/joebloggs",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_linkedin_url",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "job_seeker_form[job_seeker][cv]",
+      "id": "job_seeker_form[job_seeker][cv]",
+      "label": "Attach Résumé / CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"job_seeker_form[job_seeker][cv]\"]",
+      "visible": false,
+      "accept": "application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf",
+      "multiple": false,
+      "normLabel": "attach r sum / cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][summary]",
+      "id": "personal-summary",
+      "label": "Personal Summary This section is optional. Use it to tell us a little more about yourself.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#personal-summary",
+      "visible": true,
+      "normLabel": "personal summary this section is optional use it to tell us ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "job_seeker_form[interest_options][location_ids][]",
+      "label": "Locations",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "San",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "locations",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "job_seeker_form[interest_options][department_ids][]",
+      "label": "Departments",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "departments",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "job_seeker_form[interest_options][division_ids][]",
+      "label": "Divisions",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "divisions",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "phone-intl": 1,
+      "file-upload": 1,
+      "textarea": 1,
+      "combobox": 3
+    },
+    "byAction": {
+      "type": 8,
+      "type-then-pick-country": 1,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "country-picker-unprobed": 1,
+      "none-observed": 3
+    }
+  },
+  "widgetsProbed": 4,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 97
+    },
+    {
+      "widget": "combobox",
+      "count": 3
+    },
+    {
+      "widget": "typeahead",
+      "count": 3
+    }
+  ],
+  "sections": [
+    "Register Your Interest",
+    "Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come along that meet your criteria. You'll receive an email wh",
+    "1.Personal Details We'll need these details in order to be able to contact you when a job is made available.",
+    "2.Upload Résumé / CV Having some information helps us inform you about the right jobs.",
+    "3.Teams Please let us know what type of opportunities you're interested in.",
+    "Diversity and Inclusion In an effort to promote equal opportunities and reinforce hiring practices at our organisation we have included below some optional demographic questions. Your responses, or yo",
+    "4. Submit"
+  ],
+  "buttons": [
+    "Submit",
+    "COOKIES"
+  ],
+  "resumeUpload": [
+    "Careers at View all opportunities Register Your Interest Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come ",
+    "View all opportunities Register Your Interest Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come along that ",
+    "Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come along that meet your criteria. You'll receive an email wh",
+    "Résumé / CV Accepted file formats are .pdf and .docx Attach Résumé / CV {\"labelText\":\"Attach Résumé / CV\",\"modifier\":\"themed\",\"name\":\"job_seeker_form[job_seeker][cv]\",\"isDirectUpload\":true,\"accept\":[\"",
+    "Résumé / CV Accepted file formats are .pdf and .docx Attach Résumé / CV {\"labelText\":\"Attach Résumé / CV\",\"modifier\":\"themed\",\"name\":\"job_seeker_form[job_seeker][cv]\",\"isDirectUpload\":true,\"accept\":[\""
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/pinpoint/arm__software-engineer.png",
+    "html": "data/html/pinpoint/arm__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 26,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 4005,
+    "lowestField": 3610.09375,
+    "coversAllFields": true
+  },
+  "ms": 49326,
+  "fingerprint": {
+    "labelSig": "0d57f02be5d7",
+    "shapeSig": "88c78587d88e",
+    "controlSig": "17bca0d7b8f3",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "phone-intl": 1,
+      "file-upload": 1,
+      "textarea": 1,
+      "combobox": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "5d700509a03b",
+    "typeCounts": {
+      "text": 6,
+      "email": 1,
+      "tel": 1,
+      "file": 1,
+      "textarea": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "linkedin",
+      "location",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "pinpoint",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

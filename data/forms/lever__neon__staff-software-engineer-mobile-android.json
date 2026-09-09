@@ -1,0 +1,733 @@
+{
+  "id": "lever__neon__staff-software-engineer-mobile-android",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "neon",
+    "board": "neon",
+    "title": "Staff Software Engineer  - Mobile (Android)",
+    "location": "Remoto",
+    "jobUrl": "https://jobs.lever.co/neon/47d36b69-8398-4cbc-ad73-53dfb4a277c5",
+    "startUrl": "https://jobs.lever.co/neon/47d36b69-8398-4cbc-ad73-53dfb4a277c5/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/neon/47d36b69-8398-4cbc-ad73-53dfb4a277c5/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Neon Pagamentos - Staff Software Engineer - Mobile (Android)",
+  "fieldCount": 19,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field0]",
+      "label": "Quais são seus pronomes? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "ela/dela",
+      "required": true,
+      "options": [
+        "ela/dela",
+        "ele/dele",
+        "elu/delu"
+      ],
+      "optionValues": [
+        {
+          "label": "ela/dela",
+          "value": "ela/dela"
+        },
+        {
+          "label": "ele/dele",
+          "value": "ele/dele"
+        },
+        {
+          "label": "elu/delu",
+          "value": "elu/delu"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field0]\"]",
+      "normLabel": "quais s o seus pronomes",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field1]",
+      "label": "Você se identifica como uma Pessoa com Deficiência ou reabilitada pelo INSS? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Sim",
+      "required": true,
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "optionValues": [
+        {
+          "label": "Sim",
+          "value": "Sim"
+        },
+        {
+          "label": "Não",
+          "value": "Não"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field1]\"]",
+      "normLabel": "voc se identifica como uma pessoa com defici ncia ou reabili",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field2]",
+      "label": "Caso tenha se identificado como PcD, você concorda em, durante o processo seletivo, enviar laudo comprobatório do enquadramento na Lei de Cotas, para tratativa da Neon segundo os critérios da LGPD? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Sim, tenho laudo comprobatório e estou de acordo.",
+      "required": true,
+      "options": [
+        "Sim, tenho laudo comprobatório e estou de acordo.",
+        "Sou PcD mas não possuo laudo para envio.",
+        "Não estou de acordo.",
+        "Não me identifico como PcD."
+      ],
+      "optionValues": [
+        {
+          "label": "Sim, tenho laudo comprobatório e estou de acordo.",
+          "value": "Sim, tenho laudo comprobatório e estou de acordo."
+        },
+        {
+          "label": "Sou PcD mas não possuo laudo para envio.",
+          "value": "Sou PcD mas não possuo laudo para envio."
+        },
+        {
+          "label": "Não estou de acordo.",
+          "value": "Não estou de acordo."
+        },
+        {
+          "label": "Não me identifico como PcD.",
+          "value": "Não me identifico como PcD."
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field2]\"]",
+      "normLabel": "caso tenha se identificado como pcd voc concorda em durante ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field3]",
+      "id": "",
+      "label": "UPLOAD FILE",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field3]\"]",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload file",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field4]",
+      "id": "",
+      "label": "Você precisa de alguma adaptação ou recurso específico de acessibilidade para a realização das entrevistas? Se sim, qual? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[f56627f2-f9dc-4c94-9fab-9acbcdd5bda5][field4]\"]",
+      "visible": true,
+      "normLabel": "voc precisa de alguma adapta o ou recurso espec fico de aces",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field0]",
+      "label": "Você possui experiência sólida e consolidada no desenvolvimento nativo Android utilizando Kotlin? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Sim",
+      "required": true,
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "optionValues": [
+        {
+          "label": "Sim",
+          "value": "Sim"
+        },
+        {
+          "label": "Não",
+          "value": "Não"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field0]\"]",
+      "normLabel": "voc possui experi ncia s lida e consolidada no desenvolvimen",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field1]",
+      "label": "Uma das principais metas da nossa engenharia é a evolução e adoção da stack híbrida futuramente. Você tem interesse genuíno e disponibilidade para atuar e direcionar tecnicamente essa transição? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Sim",
+      "required": true,
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "optionValues": [
+        {
+          "label": "Sim",
+          "value": "Sim"
+        },
+        {
+          "label": "Não",
+          "value": "Não"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field1]\"]",
+      "normLabel": "uma das principais metas da nossa engenharia a evolu o e ado",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field2]",
+      "label": "Você tem experiência prévia no desenvolvimento de aplicações para o mercado financeiro (Fintechs ou Bancos) OU, caso não venha do setor, possui um background técnico extremamente forte em arquitetura ",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Sim",
+      "required": true,
+      "options": [
+        "Sim",
+        "Não"
+      ],
+      "optionValues": [
+        {
+          "label": "Sim",
+          "value": "Sim"
+        },
+        {
+          "label": "Não",
+          "value": "Não"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field2]\"]",
+      "normLabel": "voc tem experi ncia pr via no desenvolvimento de aplica es p",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field3]",
+      "label": "Por fim, qual é a sua pretensão salarial atual (regime CLT)? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "De R$ 7.000,00 a R$ 11.000,00",
+      "required": true,
+      "options": [
+        "De R$ 7.000,00 a R$ 11.000,00",
+        "De R$ 11.001,00 a R$ 15.000,00",
+        "De R$ 15.001,00 a R$ 19.000,00",
+        "De R$ 19.001,00 a R$ 23.000,00",
+        "De R$ 23.001,00 a R$ 27.000,00",
+        "R$ 30.000 ou acima",
+        "Prefiro não responder"
+      ],
+      "optionValues": [
+        {
+          "label": "De R$ 7.000,00 a R$ 11.000,00",
+          "value": "De R$ 7.000,00 a R$ 11.000,00"
+        },
+        {
+          "label": "De R$ 11.001,00 a R$ 15.000,00",
+          "value": "De R$ 11.001,00 a R$ 15.000,00"
+        },
+        {
+          "label": "De R$ 15.001,00 a R$ 19.000,00",
+          "value": "De R$ 15.001,00 a R$ 19.000,00"
+        },
+        {
+          "label": "De R$ 19.001,00 a R$ 23.000,00",
+          "value": "De R$ 19.001,00 a R$ 23.000,00"
+        },
+        {
+          "label": "De R$ 23.001,00 a R$ 27.000,00",
+          "value": "De R$ 23.001,00 a R$ 27.000,00"
+        },
+        {
+          "label": "R$ 30.000 ou acima",
+          "value": "R$ 30.000 ou acima"
+        },
+        {
+          "label": "Prefiro não responder",
+          "value": "Prefiro não responder"
+        }
+      ],
+      "optionCount": 7,
+      "selector": "input[name=\"cards[016a8338-75e3-41a8-a2bd-9d5006a877d5][field3]\"]",
+      "normLabel": "por fim qual a sua pretens o salarial atual regime clt",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 2,
+      "text": 9,
+      "text-email": 1,
+      "checkbox-group": 1,
+      "radio-group": 6
+    },
+    "byAction": {
+      "upload": 2,
+      "type": 10,
+      "check-many": 1,
+      "choose-one": 6
+    },
+    "byOptionsSource": {
+      "dom-static": 7
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Privacy Notice",
+    "Staff Software Engineer - Mobile (Android)",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "ACESSIBILIDADE E INCLUSÃO",
+    "EXPERIÊNCIA MOBILE - ANDROID"
+  ],
+  "buttons": [
+    "dismiss",
+    "Apply with LinkedIn",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Staff Software Engineer - Mobile (Android)RemotoEngineering & Security – Engineering Path to Activity /CLT /RemoteSubmit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAutho",
+    "Staff Software Engineer - Mobile (Android)RemotoEngineering & Security – Engineering Path to Activity /CLT /RemoteSubmit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAutho",
+    "Submit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profile details toauto-complete this form. Learn moreResume/CV ATTACH RESUME/CVCo",
+    "Submit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profile details toauto-complete this form. Learn moreResume/CV ATTACH RESUME/CVCo",
+    "Resume/CV"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/neon__staff-software-engineer-mobile-android.png",
+    "html": "data/html/lever/neon__staff-software-engineer-mobile-android.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 3,
+    "docHeight": 4512,
+    "lowestField": 3376.359375,
+    "coversAllFields": true
+  },
+  "ms": 9869,
+  "fingerprint": {
+    "labelSig": "24ed86fb3f37",
+    "shapeSig": "15b880bdb724",
+    "controlSig": "958e5fd4c35e",
+    "controls": {
+      "file-upload": 2,
+      "text": 9,
+      "text-email": 1,
+      "checkbox-group": 1,
+      "radio-group": 6
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "92cf06fedd5e",
+    "typeCounts": {
+      "file": 2,
+      "text": 9,
+      "email": 1,
+      "checkbox": 1,
+      "radio": 6
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "employer",
+      "full_name",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "resume"
+    ],
+    "requiredCount": 12,
+    "customQuestionCount": 8,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "overCap": true
+}

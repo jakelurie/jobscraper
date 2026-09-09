@@ -1,0 +1,96 @@
+{
+  "id": "taleo__starbucks__software-engineer",
+  "group": "taleo",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "taleo",
+    "atsLabel": "taleo",
+    "company": "starbucks",
+    "board": "starbucks",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://starbucks.taleo.net/careersection/2/jobsearch.ftl",
+    "startUrl": "https://starbucks.taleo.net/careersection/2/jobsearch.ftl"
+  },
+  "platform": "taleo",
+  "platformLabel": "Oracle Taleo",
+  "finalUrl": "https://starbucks.taleo.net/careersection/2/jobsearch.ftl",
+  "applyTrail": [
+    "saved-session:taleo__starbucks.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "200 OK",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "OK"
+  ],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/taleo/starbucks__software-engineer.png",
+    "html": "data/html/_unreached/taleo/starbucks__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 982,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 25388,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "1c4c31a4b657",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "taleo",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

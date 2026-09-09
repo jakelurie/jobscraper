@@ -1,0 +1,441 @@
+{
+  "id": "custom-shopify-com__shopify__senior-lead-federal-government-affairs-u",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "Shopify careers",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Senior Lead, Federal Government Affairs (US) REMOTE - AMERICAS",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/senior-lead-federal-government-affairs-us_7d3f4fe7-7a8c-4919-b181-74f2f6f3c6d8?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/senior-lead-federal-government-affairs-us_7d3f4fe7-7a8c-4919-b181-74f2f6f3c6d8?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/senior-lead-federal-government-affairs-us_7d3f4fe7-7a8c-4919-b181-74f2f6f3c6d8?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Lead, Federal Government Affairs (US) - Shopify",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "4e9fa146-dcc9-4ad7-b8b4-627d1549ff67",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "68024de2-d578-490c-8925-fbadf9c0bb08",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "ab67b0e8-6720-43f8-8621-d291e773015f",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#ab67b0e8-6720-43f8-8621-d291e773015f",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "78ed595a-a0ac-4355-8786-bfa7c809a95c",
+      "id": "a6b201a8-eb13-4a9b-9f39-3b522657c477",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#a6b201a8-eb13-4a9b-9f39-3b522657c477",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "82ba2d01-dc43-48e4-b72d-39059d346e1e",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "21e61204-fb4a-412c-b186-69e71c052104",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"21e61204-fb4a-412c-b186-69e71c052104\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "a1bbbe04-7f79-415e-87da-931831846cb5",
+      "id": "349fe04f-ad95-45ba-9fb2-a6e98ece3b8b",
+      "label": "Which track are you interested in pursuing with Shopify?* Individual Contributor People Manager",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"a1bbbe04-7f79-415e-87da-931831846cb5\"]",
+      "visible": true,
+      "options": [
+        "Individual Contributor",
+        "People Manager"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Individual Contributor",
+          "value": "Individual Contributor"
+        },
+        {
+          "label": "People Manager",
+          "value": "People Manager"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which track are you interested in pursuing with shopify indi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "1bcad27a-4506-4de6-b6e5-ba9e093f3f44",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"1bcad27a-4506-4de6-b6e5-ba9e093f3f44\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "6481a862-c881-49f2-924a-9a50a78e7518",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"6481a862-c881-49f2-924a-9a50a78e7518\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "93de4148-324b-4221-a634-286a24f4e45f",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"93de4148-324b-4221-a634-286a24f4e45f\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 1
+    },
+    "byAction": {
+      "type": 4,
+      "upload": 1,
+      "check-many": 4,
+      "select-option": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Lead, Federal Government Affairs (US)",
+    "About the role",
+    "Responsibilities:",
+    "You'll excel if you can:",
+    "Requirements:",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackSenior Lead, Federal Government Affairs (US)Remote - AmericasCommunicationsApply NowAbout the roleShopify's U.S. Government Affairs team is hiring a strategist to own and drive a core set of prior",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employment?Which track are yo"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__senior-lead-federal-government-affairs-u.png",
+    "html": "data/html/custom-shopify-com/shopify__senior-lead-federal-government-affairs-u.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5585,
+    "lowestField": 4802.765625,
+    "coversAllFields": true
+  },
+  "ms": 25841,
+  "fingerprint": {
+    "labelSig": "ea5674791a7c",
+    "shapeSig": "24880ccce410",
+    "controlSig": "f46ac4423996",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "4e7edf69206b",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "checkbox": 4,
+      "select": 1
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:shopify.com",
+  "duplicateOfSameForm": false,
+  "overCap": false,
+  "nonUS": false
+}

@@ -1,0 +1,1886 @@
+{
+  "id": "successfactors__capgemini__analog-layout-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "capgemini",
+    "board": "capgemini",
+    "title": "Analog Layout Engineer",
+    "location": "",
+    "jobUrl": "https://careers.capgemini.com/job/San-Francisco%2C-CA-Analog-Layout-Engineer-CA-94101/1384738233/",
+    "startUrl": "https://careers.capgemini.com/job/San-Francisco%2C-CA-Analog-Layout-Engineer-CA-94101/1384738233/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career5.successfactors.eu/careers?company=capgemitecP3",
+  "applyTrail": [
+    "clicked: Apply now",
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Career Opportunities: Analog Layout Engineer (454862)",
+  "fieldCount": 26,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "a",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"none\"]"
+      },
+      "name": "",
+      "id": "70:",
+      "label": "English US ‎(English US)‎",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div > div > a",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 10,
+        "optionsAfterTyping": 10,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Deutsch ‎(German)‎",
+          "English UK ‎(English UK)‎",
+          "English US ‎(English US)‎",
+          "Español ‎(Spanish)‎",
+          "Français ‎(French)‎",
+          "Italiano ‎(Italian)‎",
+          "Nederlands ‎(Dutch)‎",
+          "Português ‎(Portuguese)‎"
+        ],
+        "sampleAfterTyping": [
+          "Deutsch ‎(German)‎",
+          "English UK ‎(English UK)‎",
+          "English US ‎(English US)‎",
+          "Español ‎(Spanish)‎",
+          "Français ‎(French)‎",
+          "Italiano ‎(Italian)‎",
+          "Nederlands ‎(Dutch)‎",
+          "Português ‎(Portuguese)‎"
+        ]
+      },
+      "optionCount": 10,
+      "options": [
+        "Deutsch ‎(German)‎",
+        "English UK ‎(English UK)‎",
+        "English US ‎(English US)‎",
+        "Español ‎(Spanish)‎",
+        "Français ‎(French)‎",
+        "Italiano ‎(Italian)‎",
+        "Nederlands ‎(Dutch)‎",
+        "Português ‎(Portuguese)‎",
+        "Português do Brasil ‎(Brazilian Portuguese)‎",
+        "日本語 ‎(Japanese)‎"
+      ],
+      "normLabel": "english us english us",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Valid Email *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "valid email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Retype Valid Email *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "retype valid email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Choose Password *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "choose password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Retype Password *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "retype password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "Legal First Name *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "legal first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_mName",
+      "id": "fbclc_mName",
+      "label": "Legal Middle Name",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_mName",
+      "visible": true,
+      "normLabel": "legal middle name",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Legal Last Name *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "legal last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_ituCode",
+      "id": "fbclc_ituCode",
+      "label": "Country/Region Code:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_ituCode",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Aaland Islands (+358)",
+        "Afghanistan (+93)",
+        "Albania (+355)",
+        "Algeria (+213)",
+        "American Samoa (+1)",
+        "Andorra (+376)",
+        "Angola (+244)",
+        "Anguilla (+1)",
+        "Antarctica (+672)",
+        "Antigua and Barbuda (+1)",
+        "Argentina (+54)",
+        "Armenia (+374)",
+        "Aruba (+297)",
+        "Australia (+61)",
+        "Austria (+43)",
+        "Azerbaijan (+994)",
+        "Bahamas (+1)",
+        "Bahrain (+973)",
+        "Bangladesh (+880)",
+        "Barbados (+1)",
+        "Belarus (+375)",
+        "Belgium (+32)",
+        "Belize (+501)",
+        "Benin (+229)",
+        "Bermuda (+1)",
+        "Bhutan (+975)",
+        "Bolivia (Plurinational State Of) (+591)",
+        "Bosnia and Herzegovina (+387)",
+        "Botswana (+267)",
+        "Bouvet Island (+47)",
+        "Brazil (+55)",
+        "British Indian Ocean Territory (+246)",
+        "Brunei Darussalam (+673)",
+        "Bulgaria (+359)",
+        "Burkina Faso (+226)",
+        "Burundi (+257)",
+        "Cabo Verde (+238)",
+        "Cambodia (+855)",
+        "Cameroon (+237)"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Aaland Islands (+358)",
+          "value": "AX"
+        },
+        {
+          "label": "Afghanistan (+93)",
+          "value": "AF"
+        },
+        {
+          "label": "Albania (+355)",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria (+213)",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa (+1)",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra (+376)",
+          "value": "AD"
+        },
+        {
+          "label": "Angola (+244)",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla (+1)",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica (+672)",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua and Barbuda (+1)",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina (+54)",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia (+374)",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba (+297)",
+          "value": "AW"
+        },
+        {
+          "label": "Australia (+61)",
+          "value": "AU"
+        },
+        {
+          "label": "Austria (+43)",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan (+994)",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas (+1)",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain (+973)",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh (+880)",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados (+1)",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus (+375)",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium (+32)",
+          "value": "BE"
+        },
+        {
+          "label": "Belize (+501)",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin (+229)",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda (+1)",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan (+975)",
+          "value": "BT"
+        },
+        {
+          "label": "Bolivia (Plurinational State Of) (+591)",
+          "value": "BO"
+        },
+        {
+          "label": "Bosnia and Herzegovina (+387)",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana (+267)",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island (+47)",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil (+55)",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory (+246)",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam (+673)",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria (+359)",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso (+226)",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi (+257)",
+          "value": "BI"
+        },
+        {
+          "label": "Cabo Verde (+238)",
+          "value": "CV"
+        },
+        {
+          "label": "Cambodia (+855)",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon (+237)",
+          "value": "CM"
+        }
+      ],
+      "optionCount": 247,
+      "normLabel": "country/region code",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_phoneNumber",
+      "id": "fbclc_phoneNumber",
+      "label": "Phone Number:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_phoneNumber",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "9:_input",
+      "label": "Country of Residence",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 7,
+        "typedProbe": "Uni",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola"
+        ],
+        "sampleAfterTyping": [
+          "Réunion",
+          "Tanzania, United Republic of",
+          "Tunisia",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States",
+          "United States Minor Outlying Islands"
+        ]
+      },
+      "optionCount": 7,
+      "options": [
+        "Réunion",
+        "Tanzania, United Republic of",
+        "Tunisia",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States",
+        "United States Minor Outlying Islands"
+      ],
+      "normLabel": "country of residence",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "13:_input",
+      "label": "Are you legally entitled to work in the country you are applying for?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 7,
+        "typedProbe": "Uni",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola"
+        ],
+        "sampleAfterTyping": [
+          "Réunion",
+          "Tanzania, United Republic of",
+          "Tunisia",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States",
+          "United States Minor Outlying Islands"
+        ]
+      },
+      "optionCount": 7,
+      "options": [
+        "Réunion",
+        "Tanzania, United Republic of",
+        "Tunisia",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States",
+        "United States Minor Outlying Islands"
+      ],
+      "normLabel": "are you legally entitled to work in the country you are appl",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "17:_input",
+      "label": "Will you now or in the future require sponsorship for employment visa status (e.g. H-1B/L-1 visa status)?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 100,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola"
+        ],
+        "sampleAfterTyping": [
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola",
+          "Anguilla"
+        ]
+      },
+      "optionCount": 100,
+      "options": [
+        "Aaland Islands",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Asia/Pacific Other",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia (Plurinational State Of)",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Cayman Islands",
+        "Central African Republic",
+        "Chad"
+      ],
+      "normLabel": "will you now or in the future require sponsorship for employ",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "21:_input",
+      "label": "Have you entered into any agreement or understanding that will in any way prevent you from joining Capgemini or from fully performing the services required by the position for which you are applying?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "have you entered into any agreement or understanding that wi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "25:_input",
+      "label": "Ethnicity",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 2,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": [
+          "San Marino",
+          "South Georgia and the South Sandwich Islands"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "San Marino",
+        "South Georgia and the South Sandwich Islands"
+      ],
+      "normLabel": "ethnicity",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "29:_input",
+      "label": "Veteran Status",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 100,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola"
+        ],
+        "sampleAfterTyping": [
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola",
+          "Anguilla"
+        ]
+      },
+      "optionCount": 100,
+      "options": [
+        "Aaland Islands",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Asia/Pacific Other",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia (Plurinational State Of)",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Cayman Islands",
+        "Central African Republic",
+        "Chad"
+      ],
+      "normLabel": "veteran status",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "33:_input",
+      "label": "If you believe you have a disability as defined above, please Indicate by making the appropriate selection below.",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "if you believe you have a disability as defined above please",
+      "canonical": "disability_status"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "37:_input",
+      "label": "Have you been employed by Capgemini Group before?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "have you been employed by capgemini group before",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "41:_input",
+      "label": "I give my explicit consent for Capgemini Group to collect and process information about my gender for the purpose of observing and ensuring our recruitment practices align with our Inclusion Policy an",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "i give my explicit consent for capgemini group to collect an",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "45:_input",
+      "label": "How do you identify?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "how do you identify",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "49:_input",
+      "label": "Do you agree to be contacted via SMS?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "do you agree to be contacted via sms",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "53:_input",
+      "label": "Do you agree to be contacted via WhatsApp?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 100,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola"
+        ],
+        "sampleAfterTyping": [
+          "Aaland Islands",
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "American Samoa",
+          "Andorra",
+          "Angola",
+          "Anguilla"
+        ]
+      },
+      "optionCount": 100,
+      "options": [
+        "Aaland Islands",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Asia/Pacific Other",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia (Plurinational State Of)",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Cayman Islands",
+        "Central African Republic",
+        "Chad"
+      ],
+      "normLabel": "do you agree to be contacted via whatsapp",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career5.successfactors.eu/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "57:_input",
+      "label": "Do you agree to receive communications via SMS?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "No Selection",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 18,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No Selection",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Burundi",
+          "Chile",
+          "Comoros",
+          "Congo"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 18,
+      "options": [
+        "No Selection",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Burundi",
+        "Chile",
+        "Comoros",
+        "Congo",
+        "Cyprus",
+        "Czech Republic",
+        "Côte d'Ivoire",
+        "Djibouti",
+        "Egypt",
+        "Europe Other",
+        "Fiji",
+        "French Southern Territories",
+        "Greece",
+        "Guernsey"
+      ],
+      "normLabel": "do you agree to receive communications via sms",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_country",
+      "id": "fbclc_country",
+      "label": "Country of Application",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_country",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Aaland Islands",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia (Plurinational State Of)",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Aaland Islands",
+          "value": "AX"
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AF"
+        },
+        {
+          "label": "Albania",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra",
+          "value": "AD"
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua and Barbuda",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba",
+          "value": "AW"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Belize",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BT"
+        },
+        {
+          "label": "Bolivia (Plurinational State Of)",
+          "value": "BO"
+        },
+        {
+          "label": "Bosnia and Herzegovina",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi",
+          "value": "BI"
+        },
+        {
+          "label": "Cabo Verde",
+          "value": "CV"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CM"
+        }
+      ],
+      "optionCount": 247,
+      "normLabel": "country of application",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notification",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notification",
+      "required": false,
+      "options": [
+        "Notification"
+      ],
+      "optionValues": [
+        {
+          "label": "Notification",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notification",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_campaignEmailEnabled",
+      "label": "I consent to Capgemini Group sharing communications about recruitment events and webinars with me by email.",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "I consent to Capgemini Group sharing communications about recruitment events and webinars with me by email.",
+      "required": false,
+      "options": [
+        "I consent to Capgemini Group sharing communications about recruitment events and webinars with me by email."
+      ],
+      "optionValues": [
+        {
+          "label": "I consent to Capgemini Group sharing communications about recruitment events and webinars with me by email.",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_campaignEmailEnabled\"]",
+      "normLabel": "i consent to capgemini group sharing communications about re",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 14,
+      "text": 6,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "click-type-pick": 1,
+      "type": 8,
+      "select-option": 2,
+      "click-type-wait-pick": 6,
+      "click-pick": 7,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-on-open": 8,
+      "dom-static": 4,
+      "network-on-type": 6
+    }
+  },
+  "widgetsProbed": 14,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 1
+    },
+    {
+      "widget": "combobox",
+      "count": 13
+    }
+  ],
+  "sections": [
+    "Career Opportunities: Analog Layout Engineer (454862)",
+    "Our Brands:"
+  ],
+  "buttons": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Click to read and acknowledge the privacy notice",
+    "Apply"
+  ],
+  "resumeUpload": [
+    "We use cookies to offer you the best possible website experience. Your cookie preferences will be stored in your browser’s local storage. This includes cookies necessary for the website's operation. A",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "English US ‎(English US)‎ /* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.c",
+    "English US ‎(English US)‎ /* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.c"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": true,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/successfactors/capgemini__analog-layout-engineer.png",
+    "html": "data/html/successfactors/capgemini__analog-layout-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 5,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 7265,
+    "lowestField": 6763.25,
+    "coversAllFields": true
+  },
+  "ms": 106309,
+  "fingerprint": {
+    "labelSig": "d25eec65925f",
+    "shapeSig": "db7c5e350ab5",
+    "controlSig": "008acbb47399",
+    "controls": {
+      "combobox": 14,
+      "text": 6,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "7e4cec8ed0f1",
+    "typeCounts": {
+      "button-dropdown": 1,
+      "text": 19,
+      "password": 2,
+      "select": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "disability_status",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "password",
+      "phone",
+      "veteran_status",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 17,
+    "customQuestionCount": 6,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,205 @@
+{
+  "id": "successfactors__huntingtoningalls__engineer-mechanical-4",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "huntingtoningalls",
+    "board": "huntingtoningalls",
+    "title": "ENGINEER MECHANICAL 4",
+    "location": "",
+    "jobUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MECHANICAL-4-Virg/1410590300/",
+    "startUrl": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-MECHANICAL-4-Virg/1410590300/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career4.successfactors.com/careers?company=huntingt01P2",
+  "applyTrail": [
+    "clicked: Apply now",
+    "clicked: Apply Now",
+    "clicked: Create an account",
+    "sign-in",
+    "sign-in",
+    "sign-in"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on signin screen:  | × Cookie Consent Manager",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "ENGINEER MECHANICAL 4 Job Details | Huntington Ingalls",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "q",
+      "id": "",
+      "label": "Search by Keyword",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"q\"]",
+      "visible": true,
+      "normLabel": "search by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "locationsearch",
+      "id": "",
+      "label": "Search by Location",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"locationsearch\"]",
+      "visible": true,
+      "normLabel": "search by location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "frequency",
+      "id": "j_idt469",
+      "label": "Select how often (in days) to receive an alert:",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "2",
+      "selector": "#j_idt469",
+      "visible": true,
+      "normLabel": "select how often in days to receive an alert",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 2,
+      "text-number": 1
+    },
+    "byAction": {
+      "type": 3
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "ENGINEER MECHANICAL 4",
+    "The Role",
+    "Must Have",
+    "Nice to Have",
+    "Legal",
+    "Build Your Career",
+    "Contact Us"
+  ],
+  "buttons": [
+    "Career Categories",
+    "Not Finding a Job?",
+    "Show More Options",
+    "Search Jobs",
+    "Clear",
+    "Apply now",
+    "Apply now"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/huntingtoningalls__engineer-mechanical-4.png",
+    "html": "data/html/_unreached/successfactors/huntingtoningalls__engineer-mechanical-4.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1075,
+    "lowestField": 437.65625,
+    "coversAllFields": true
+  },
+  "ms": 151789,
+  "fingerprint": {
+    "labelSig": "0b72dcfdbb3a",
+    "shapeSig": "d12fff703909",
+    "controlSig": "0ead33250872",
+    "controls": {
+      "text": 2,
+      "text-number": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "129458b0a378",
+    "typeCounts": {
+      "text": 2,
+      "number": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

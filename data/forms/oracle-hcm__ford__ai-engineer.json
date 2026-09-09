@@ -1,0 +1,172 @@
+{
+  "id": "oracle-hcm__ford__ai-engineer",
+  "group": "oracle-hcm",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "ford",
+    "board": "ford",
+    "title": "AI Engineer",
+    "location": "",
+    "jobUrl": "https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728",
+    "startUrl": "https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728"
+  },
+  "platform": "oracle-hcm",
+  "detectedPlatform": "oracle-hcm",
+  "platformLabel": "Oracle Recruiting Cloud",
+  "finalUrl": "https://apply.ford.com/en/sites/CX_1/job/70282/apply/email",
+  "applyTrail": [
+    "opened posting: Project Engineer",
+    "opened posting: Vehicle Integration & Software Test Lead",
+    "opened posting: Apply Now",
+    "clicked: NEXT",
+    "saved-session:avature__ford.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Vehicle Integration & Software Test Lead - Ford Global Career Site Careers",
+  "fieldCount": 2,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "primary-email",
+      "id": "primary-email-1",
+      "label": "Email Address",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#primary-email-1",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "honey-pot",
+      "id": "honey-pot-0",
+      "label": "honeypot",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#honey-pot-0",
+      "visible": true,
+      "normLabel": "honeypot",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 1,
+      "text": 1
+    },
+    "byAction": {
+      "type": 2
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Job application form",
+    "Authentication screen. Get started by using your email or phone number"
+  ],
+  "buttons": [
+    "Do you want to communicate by phone instead?",
+    "CANCEL",
+    "NEXT",
+    "CLICK TO ACCEPT ALL COOKIES",
+    "CLICK TO DECLINE ALL COOKIES"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/oracle-hcm/ford__ai-engineer.png",
+    "html": "data/html/_unreached/oracle-hcm/ford__ai-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 4,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 3,
+    "docHeight": 1002,
+    "lowestField": 520.265625,
+    "coversAllFields": true
+  },
+  "ms": 36907,
+  "fingerprint": {
+    "labelSig": "a37732efb30e",
+    "shapeSig": "2ac47a290a26",
+    "controlSig": "d40f58f90917",
+    "controls": {
+      "text-email": 1,
+      "text": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "e0430f686bbd",
+    "typeCounts": {
+      "email": 1,
+      "text": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

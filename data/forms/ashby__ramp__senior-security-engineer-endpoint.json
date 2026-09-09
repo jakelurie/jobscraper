@@ -1,0 +1,397 @@
+{
+  "id": "ashby__ramp__senior-security-engineer-endpoint",
+  "group": "ashby",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "ashby",
+    "atsLabel": "Ashby",
+    "company": "ramp",
+    "board": "ramp",
+    "title": "Senior Security Engineer, Endpoint",
+    "location": "New York, NY (HQ)",
+    "jobUrl": "https://jobs.ashbyhq.com/ramp/e5232cce-a23a-4f03-b12e-dac510d08cd3",
+    "startUrl": "https://jobs.ashbyhq.com/ramp/e5232cce-a23a-4f03-b12e-dac510d08cd3/application"
+  },
+  "platform": "ashby",
+  "platformLabel": "Ashby",
+  "finalUrl": "https://jobs.ashbyhq.com/ramp/e5232cce-a23a-4f03-b12e-dac510d08cd3/application",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Security Engineer, Endpoint @ Ramp",
+  "fieldCount": 8,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Legal Name",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > div > input",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md",
+      "multiple": false,
+      "normLabel": "legal name",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "_systemfield_name",
+      "label": "Legal Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "legal name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "_systemfield_email",
+      "label": "Email",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "hello@example.com...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "text-tel",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "515b9271-efdd-41c3-9496-d7f99bb734f4",
+      "id": "515b9271-efdd-41c3-9496-d7f99bb734f4",
+      "label": "Phone",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "1-415-555-1234...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"515b9271-efdd-41c3-9496-d7f99bb734f4\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "communicationConsent",
+      "label": "Phone",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Yes - I consent to receiving text messages",
+      "required": false,
+      "options": [
+        "Yes - I consent to receiving text messages",
+        "No - I do not consent to receiving text messages"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes - I consent to receiving text messages",
+          "value": "given"
+        },
+        {
+          "label": "No - I do not consent to receiving text messages",
+          "value": "notGiven"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"communicationConsent\"]",
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiAutocompleteGeoLocation",
+        "optionSelector": "button._container_pjyt6_1"
+      },
+      "name": "",
+      "id": "",
+      "label": "Where do you plan on working from (for payroll tax purposes)?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Start typing...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(4) > div > input",
+      "visible": true,
+      "widgetHint": "_input_d7ago_28 ashby-application-form-input-autocomplete",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 5,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": [
+          "San Marino",
+          "San Francisco, California, United States",
+          "Santorini, South Aegean, Greece",
+          "San Diego, California, United States",
+          "Santiago, Santiago Metropolitan Region, Chile"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "San Marino",
+        "San Francisco, California, United States",
+        "Santorini, South Aegean, Greece",
+        "San Diego, California, United States",
+        "Santiago, Santiago Metropolitan Region, Chile"
+      ],
+      "normLabel": "where do you plan on working from for payroll tax purposes",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "_systemfield_resume",
+      "label": "Resume",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(5) > div > input",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "ab82511b-382a-4e2a-bc02-39ba4362f3e6",
+      "id": "ab82511b-382a-4e2a-bc02-39ba4362f3e6",
+      "label": "LinkedIn Profile",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#ab82511b-382a-4e2a-bc02-39ba4362f3e6",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 2,
+      "text": 2,
+      "text-email": 1,
+      "text-tel": 1,
+      "radio-group": 1,
+      "combobox": 1
+    },
+    "byAction": {
+      "upload": 2,
+      "type": 4,
+      "choose-one": 1,
+      "click-type-wait-pick": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 1,
+      "network-on-type": 1
+    }
+  },
+  "widgetsProbed": 1,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "dropzone",
+      "count": 3
+    },
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Senior Security Engineer, Endpoint",
+    "Location",
+    "Employment Type",
+    "Location Type",
+    "Department",
+    "Compensation",
+    "Autofill from resume"
+  ],
+  "buttons": [
+    "Upload file",
+    "Upload File",
+    "Yes",
+    "No",
+    "Submit Application"
+  ],
+  "resumeUpload": [
+    "Senior Security Engineer, Endpoint LocationNew York, NY (HQ)Employment TypeFull timeLocation TypeHybridDepartmentSecurityCompensationNYCTarget Base Salary $172K – $236K • Offers EquityThe final compen",
+    "Senior Security Engineer, Endpoint LocationNew York, NY (HQ)Employment TypeFull timeLocation TypeHybridDepartmentSecurityCompensationNYCTarget Base Salary $172K – $236K • Offers EquityThe final compen",
+    "LocationNew York, NY (HQ)Employment TypeFull timeLocation TypeHybridDepartmentSecurityCompensationNYCTarget Base Salary $172K – $236K • Offers EquityThe final compensation will depend on the location ",
+    "OverviewApplicationAutofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your resume. Autofilling key fields...Legal NameEmailPhoneChe",
+    "Autofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your resume. Autofilling key fields...Legal NameEmailPhoneCheck Yes or No to ind"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/ashby/ramp__senior-security-engineer-endpoint.png",
+    "html": "data/html/ashby/ramp__senior-security-engineer-endpoint.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 1588,
+    "lowestField": 1179.6875,
+    "coversAllFields": true
+  },
+  "ms": 9456,
+  "fingerprint": {
+    "labelSig": "955b9973ba91",
+    "shapeSig": "d25a061d704f",
+    "controlSig": "588b58660e98",
+    "controls": {
+      "file-upload": 2,
+      "text": 2,
+      "text-email": 1,
+      "text-tel": 1,
+      "radio-group": 1,
+      "combobox": 1
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "5da61c913a8b",
+    "typeCounts": {
+      "file": 2,
+      "text": 3,
+      "email": 1,
+      "tel": 1,
+      "radio": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 5,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": true
+  },
+  "detectedPlatform": "ashby",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

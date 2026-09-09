@@ -1,0 +1,156 @@
+{
+  "id": "jobvite__knight__software-engineer",
+  "group": "jobvite",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "jobvite",
+    "atsLabel": "jobvite",
+    "company": "knight",
+    "board": "knight",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.jobvite.com/knight/search",
+    "startUrl": "https://jobs.jobvite.com/knight/search"
+  },
+  "platform": "jobvite",
+  "platformLabel": "Jobvite",
+  "finalUrl": "https://jobs.jobvite.com/knight/job/oTxsAfwc/apply",
+  "applyTrail": [
+    "opened posting: Mechanic - Senior",
+    "opened posting: APPLY",
+    "saved-session:jobvite__knight.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Knight Transportation Careers",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "jv-country-select",
+      "label": "Location of Residence and Language:",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#jv-country-select",
+      "visible": true,
+      "options": [
+        "Select your location of residence and language",
+        "All other states",
+        "California Residence"
+      ],
+      "optionValues": [
+        {
+          "label": "Select your location of residence and language",
+          "value": ""
+        },
+        {
+          "label": "All other states",
+          "value": "49eee256-a9ce-4fab-a6da-bd307a45e21b"
+        },
+        {
+          "label": "California Residence",
+          "value": "54e4a178-53c5-40ad-b511-1919cd49a56c"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "location of residence and language",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "native-select": 1
+    },
+    "byAction": {
+      "select-option": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "DATA CONSENT"
+  ],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/jobvite/knight__software-engineer.png",
+    "html": "data/html/_unreached/jobvite/knight__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 2119,
+    "lowestField": 376.703125,
+    "coversAllFields": true
+  },
+  "ms": 56854,
+  "fingerprint": {
+    "labelSig": "281a5eb088e7",
+    "shapeSig": "b750d09a4324",
+    "controlSig": "417ee39031e6",
+    "controls": {
+      "native-select": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "746b7b10fc54",
+    "typeCounts": {
+      "select": 1
+    },
+    "canonicals": [
+      "location"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "jobvite",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

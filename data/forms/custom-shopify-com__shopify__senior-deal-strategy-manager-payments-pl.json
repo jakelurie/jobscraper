@@ -1,0 +1,520 @@
+{
+  "id": "custom-shopify-com__shopify__senior-deal-strategy-manager-payments-pl",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "shopify",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Senior Deal Strategy Manager, Payments & Platform Pricing REMOTE - AMERICAS",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/senior-deal-strategy-manager-payments-platform-pricing_9f1a97d8-5862-4ee4-b2b1-0dc02e20c11c?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/senior-deal-strategy-manager-payments-platform-pricing_9f1a97d8-5862-4ee4-b2b1-0dc02e20c11c?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "detectedPlatform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/senior-deal-strategy-manager-payments-platform-pricing_9f1a97d8-5862-4ee4-b2b1-0dc02e20c11c?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Deal Strategy Manager, Payments & Platform Pricing - Shopify",
+  "fieldCount": 13,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "9c2d0bf3-6436-45f7-b447-df2b16713184",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "d8823848-1fc4-48ef-adaf-3c2679a5e944",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#d8823848-1fc4-48ef-adaf-3c2679a5e944",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "4454d1f4-7c2e-42c2-805b-444b70f35ec7",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_resume\"]",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "6dd7fe25-da2a-4872-83f8-5b7540314c33",
+      "id": "6dd7fe25-da2a-4872-83f8-5b7540314c33",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"6dd7fe25-da2a-4872-83f8-5b7540314c33\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "394b06f6-9885-491e-a5ac-9e734f236a73",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "e4bdd95f-3301-4f93-8a5d-703822edce6d",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"e4bdd95f-3301-4f93-8a5d-703822edce6d\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "45321a5f-540c-495a-8ec9-d3dbb229d8f6",
+      "id": "45321a5f-540c-495a-8ec9-d3dbb229d8f6",
+      "label": "Which track are you interested in pursuing with Shopify?* Individual Contributor People Manager",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"45321a5f-540c-495a-8ec9-d3dbb229d8f6\"]",
+      "visible": true,
+      "options": [
+        "Individual Contributor",
+        "People Manager"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Individual Contributor",
+          "value": "Individual Contributor"
+        },
+        {
+          "label": "People Manager",
+          "value": "People Manager"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which track are you interested in pursuing with shopify indi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "77239c73-5583-4803-bd77-fb2d639234b4",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"77239c73-5583-4803-bd77-fb2d639234b4\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "f235235a-07bb-469d-b3f5-da8d95df49c7",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"f235235a-07bb-469d-b3f5-da8d95df49c7\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "61114080-b551-4886-a999-3ea69c98389e",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"61114080-b551-4886-a999-3ea69c98389e\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "92807ff8-f7b6-4d2d-adac-bb4bb52ecc4a",
+      "id": "a84d7ac0-a4c3-4ce8-8287-0ee341dd9f20",
+      "label": "Tell us about a time when you had to hold the line on a pricing decision with either sales or finance. How did you approach the situation?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#a84d7ac0-a4c3-4ce8-8287-0ee341dd9f20",
+      "visible": true,
+      "normLabel": "tell us about a time when you had to hold the line on a pric",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "123cee90-2f3e-469d-9a51-988c706c07b1",
+      "id": "b5e650c8-eeb3-4ae4-b83a-e5daaf8329f8",
+      "label": "How are you using AI in your craft? What's working? What's not working?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#b5e650c8-eeb3-4ae4-b83a-e5daaf8329f8",
+      "visible": true,
+      "normLabel": "how are you using ai in your craft what s working what s not",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "15f6a3c7-ee25-4e8e-8a96-9cd451b52b05",
+      "id": "d003bd25-4f90-4bd5-9a70-8aa86868a3b8",
+      "label": "Tell us about your favourite place to shop online. Why is it your favourite?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#d003bd25-4f90-4bd5-9a70-8aa86868a3b8",
+      "visible": true,
+      "normLabel": "tell us about your favourite place to shop online why is it ",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 4,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 1,
+      "textarea": 2
+    },
+    "byAction": {
+      "type": 7,
+      "upload": 1,
+      "check-many": 4,
+      "select-option": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Deal Strategy Manager, Payments & Platform Pricing",
+    "About the role",
+    "About the team",
+    "About the role",
+    "What you'll do",
+    "What we're looking for",
+    "Nice to have",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackSenior Deal Strategy Manager, Payments & Platform PricingRemote - AmericasOperationsApply NowAbout the roleAbout the teamEvery enterprise deal at Shopify has a pricing question at the center of it",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employment?Which track are yo"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__senior-deal-strategy-manager-payments-pl.png",
+    "html": "data/html/custom-shopify-com/shopify__senior-deal-strategy-manager-payments-pl.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5145,
+    "lowestField": 4406.765625,
+    "coversAllFields": true
+  },
+  "ms": 25894,
+  "fingerprint": {
+    "labelSig": "953e93131097",
+    "shapeSig": "b1bc8c4096c2",
+    "controlSig": "4c9f617920da",
+    "controls": {
+      "text": 4,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 1,
+      "textarea": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "42e2c9b4500b",
+    "typeCounts": {
+      "text": 4,
+      "email": 1,
+      "file": 1,
+      "checkbox": 4,
+      "select": 1,
+      "textarea": 2
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 11,
+    "customQuestionCount": 6,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

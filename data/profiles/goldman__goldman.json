@@ -1,0 +1,117 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "y1qDHvrXMpelr3lZiYE6rVkjs2gN1-UnHBbpttCPUwFbv8VYc5na!-730655441!-1311866320",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/hcmUI",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FUSION_PREFS",
+      "value": "v1.0~bG9jYWxlPWVufmRlZmF1bHRMYW5ndWFnZU1hcmtlcj10cnVl",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FND_SESSION_US2BH6V_F",
+      "value": "DEFAULT_PILLAR:0w2N/sambTkhAsadAMpbxjstA9bXevheG5nw08CFn/sRhESO5kzwjs+pH4dvZ+Ch:1788906226298",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CX_3002_cookieConsentEnabled",
+      "value": "false",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_3002",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_FPC",
+      "value": "id=660476b2-33f2-4dd7-ba52-f9791802a1aa",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1823466241.315593,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID",
+      "value": "8d882827-1773-4694-badc-977317e15273",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796682241.657285,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID_FUNCTIONAL",
+      "value": "8d882827-1773-4694-badc-977317e15273",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796682241.657387,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=1&id=b4821f19-344c-406b-8693-a9ee334cf8b7&created=1788906213507&expire=1788907125811",
+      "domain": "higher.gs.com",
+      "path": "/",
+      "expires": 1788907140,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hdpc.fa.us2.oraclecloud.com",
+      "localStorage": [
+        {
+          "name": "ORA_COOK_STORE",
+          "value": "{\"ORA_FPC\":\"ORA_FPC=id=660476b2-33f2-4dd7-ba52-f9791802a1aa; expires=Fri, 08 Sep 2028 10:01:32 GMT; path=/\"}"
+        },
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        },
+        {
+          "name": "recent-searches",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}

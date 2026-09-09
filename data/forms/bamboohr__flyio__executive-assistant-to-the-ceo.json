@@ -1,0 +1,427 @@
+{
+  "id": "bamboohr__flyio__executive-assistant-to-the-ceo",
+  "group": "bamboohr",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "bamboohr",
+    "atsLabel": "bamboohr",
+    "company": "flyio",
+    "board": "flyio",
+    "title": "Executive Assistant to the CEO ",
+    "location": "chicago, Illinois",
+    "jobUrl": "https://flyio.bamboohr.com/careers/60",
+    "startUrl": "https://flyio.bamboohr.com/careers/60"
+  },
+  "platform": "bamboohr",
+  "detectedPlatform": "bamboohr",
+  "platformLabel": "BambooHR",
+  "finalUrl": "https://flyio.bamboohr.com/careers/60",
+  "applyTrail": [
+    "clicked: Apply for This Job"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "BambooHR",
+  "fieldCount": 11,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "nickname_hpcsaf",
+      "id": "nickname_hpcsaf",
+      "label": "Please leave this field blank",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Enter your text here",
+      "autocomplete": "newAppNicknameInput_hpcsaf",
+      "maxlength": "",
+      "selector": "#nickname_hpcsaf",
+      "visible": true,
+      "normLabel": "please leave this field blank",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "firstName",
+      "id": "firstName",
+      "label": "First Name *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#firstName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "lastName",
+      "id": "lastName",
+      "label": "Last Name *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#lastName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "email",
+      "label": "Email *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "phone",
+      "label": "Phone *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#phone",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "streetAddress.value",
+      "id": "FabricTextField-313",
+      "label": "Address *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#FabricTextField-313",
+      "visible": true,
+      "normLabel": "address",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "city.value",
+      "id": "FabricTextField-314",
+      "label": "City *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#FabricTextField-314",
+      "visible": true,
+      "normLabel": "city",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "zip.value",
+      "id": "FabricTextField-316",
+      "label": "ZIP *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#FabricTextField-316",
+      "visible": true,
+      "normLabel": "zip",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "date-picker",
+      "fill": {
+        "action": "click-open-calendar-pick-day",
+        "openBy": "click",
+        "optionsFrom": "calendar-widget",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "FabricTextField-318",
+      "label": "Date Available",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "mm/dd/yyyy",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#FabricTextField-318",
+      "visible": true,
+      "dateFormat": "mm/dd/yyyy",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "date available",
+      "canonical": "start_date"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "date-picker",
+      "fill": {
+        "action": "click-open-calendar-pick-day",
+        "openBy": "click",
+        "optionsFrom": "calendar-widget",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Pick a date.",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(2) > div > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": null,
+        "networkOnType": false,
+        "calendarOpened": true,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "pick a date",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "FabricTextField-33",
+      "label": "Link to This Job",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#FabricTextField-33",
+      "visible": true,
+      "normLabel": "link to this job",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 9,
+      "date-picker": 2
+    },
+    "byAction": {
+      "type": 9,
+      "click-open-calendar-pick-day": 2
+    },
+    "byOptionsSource": {
+      "calendar-widget": 2
+    }
+  },
+  "widgetsProbed": 2,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "date-picker",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Executive Assistant to the CEO"
+  ],
+  "buttons": [
+    "–Select–",
+    "United States",
+    "View Job Description",
+    "Submit Application",
+    "Cancel"
+  ],
+  "resumeUpload": [
+    "Privacy Policy{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"title\":\"Executive Assistant to the CEO \",\"description\":\"<p>Executive Assistant to CEO<\\/p>\\n<p><br><\\/p>\\n<p>We’re building somethin",
+    "Privacy Policy{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"title\":\"Executive Assistant to the CEO \",\"description\":\"<p>Executive Assistant to CEO<\\/p>\\n<p><br><\\/p>\\n<p>We’re building somethin",
+    "Privacy Policy{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"title\":\"Executive Assistant to the CEO \",\"description\":\"<p>Executive Assistant to CEO<\\/p>\\n<p><br><\\/p>\\n<p>We’re building somethin",
+    "Privacy Policy{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"title\":\"Executive Assistant to the CEO \",\"description\":\"<p>Executive Assistant to CEO<\\/p>\\n<p><br><\\/p>\\n<p>We’re building somethin",
+    "Privacy Policy{\"@context\":\"http://schema.org\",\"@type\":\"JobPosting\",\"title\":\"Executive Assistant to the CEO \",\"description\":\"<p>Executive Assistant to CEO<\\/p>\\n<p><br><\\/p>\\n<p>We’re building somethin"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/bamboohr/flyio__executive-assistant-to-the-ceo.png",
+    "html": "data/html/bamboohr/flyio__executive-assistant-to-the-ceo.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 5,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 1367,
+    "lowestField": 1044.5,
+    "coversAllFields": true
+  },
+  "ms": 43116,
+  "fingerprint": {
+    "labelSig": "871728e4c0aa",
+    "shapeSig": "74a3fb2a43f1",
+    "controlSig": "063ae7bf9ff2",
+    "controls": {
+      "text": 9,
+      "date-picker": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": true,
+    "uiSig": "a886cfcaf0cf",
+    "typeCounts": {
+      "text": 10,
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "phone",
+      "start_date"
+    ],
+    "requiredCount": 7,
+    "customQuestionCount": 3,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

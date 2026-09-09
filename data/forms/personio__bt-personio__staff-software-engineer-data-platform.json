@@ -1,0 +1,237 @@
+{
+  "id": "personio__bt-personio__staff-software-engineer-data-platform",
+  "group": "personio",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "personio",
+    "atsLabel": "Personio",
+    "company": "bt-personio",
+    "board": "personio",
+    "title": "Staff Software Engineer, Data Platform",
+    "location": "Munich",
+    "jobUrl": "https://personio.jobs.personio.de/job/1834171",
+    "startUrl": "https://personio.jobs.personio.de/job/1834171#apply"
+  },
+  "platform": "personio",
+  "platformLabel": "Personio",
+  "finalUrl": "https://www.personio.com/#apply",
+  "applyTrail": [
+    "clicked: Next slide",
+    "saved-session:personio__personio.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Championing every side of HR's evolution | Personio",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "What's your work email? *",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "What's your work email? *",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "what s your work email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "What's your work email? *",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "What's your work email? *",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "what s your work email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "What's your work email? *",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "What's your work email? *",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "what s your work email",
+      "canonical": "email"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 3
+    },
+    "byAction": {
+      "type": 3
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "The intelligent HR platform",
+    "Inbox highlights",
+    "Interviews",
+    "Time tracking",
+    "Built for how HR really works",
+    "Start with Core HR",
+    "Extend with Apps",
+    "Add on Payroll",
+    "Connect to the tools you already use with 200+ integrations",
+    "HR doesn't stand still. Neither should your HR platform",
+    "Trusted by HR teams across Europe",
+    "25%",
+    "40%",
+    "Compliance built for European organisations",
+    "Real-time answers. Better decisions.",
+    "Book your personalised demo",
+    "Take an interactive product tour",
+    "Pricing that adapts as your business grows",
+    "Core",
+    "Core PRO",
+    "Switch with confidence, from day one",
+    "Hit the ground running",
+    "Implement together",
+    "Launch with confidence",
+    "HR evolves. So do we.",
+    "Explore Intelligent HR. See how Personio works.",
+    "Book your personalised demo",
+    "Take an interactive product tour",
+    "Personio unlocks the power of people."
+  ],
+  "buttons": [
+    "Platform",
+    "Solutions",
+    "Resources",
+    "About",
+    "EN",
+    "Request free demo",
+    "Core HR",
+    "AI & Analytics",
+    "Payroll",
+    "Talent Management",
+    "Performance & Development",
+    "Home",
+    "Assistant",
+    "Payroll",
+    "Recruiting",
+    "Performance",
+    "See all",
+    "Join call",
+    "Show all",
+    "Request time off",
+    "Who's shown what?",
+    "Customize",
+    "Organisations Built for every stage of growth",
+    "Industries Flexibility for every industry, including yours",
+    "Growth (<200 employees) Get your HR foundation in place 30% improvement in HR productivity 57% agree their HR workflows are more scalable Take a tour"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/personio/bt-personio__staff-software-engineer-data-platform.png",
+    "html": "data/html/_unreached/personio/bt-personio__staff-software-engineer-data-platform.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 25,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 13748,
+    "lowestField": 12393.328125,
+    "coversAllFields": true
+  },
+  "ms": 32433,
+  "fingerprint": {
+    "labelSig": "9b7cc392a9d5",
+    "shapeSig": "86b1f5ff0818",
+    "controlSig": "c67964a8c06f",
+    "controls": {
+      "text-email": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "0c94f978ea1b",
+    "typeCounts": {
+      "email": 3
+    },
+    "canonicals": [
+      "email"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "personio",
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

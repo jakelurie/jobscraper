@@ -1,0 +1,194 @@
+{
+  "id": "oracle-hcm__oracle__software-engineer",
+  "group": "oracle-hcm",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "oracle",
+    "atsLabel": "Oracle Recruiting Cloud",
+    "company": "oracle",
+    "board": "oracle",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.oracle.com/en/sites/jobsearch/job/338707/?keyword=software+engineer",
+    "startUrl": "https://careers.oracle.com/en/sites/jobsearch/job/338707/?keyword=software+engineer"
+  },
+  "platform": "oracle-hcm",
+  "detectedPlatform": "oracle-hcm",
+  "platformLabel": "Oracle Recruiting Cloud",
+  "finalUrl": "https://careers.oracle.com/en/sites/jobsearch/job/338707/apply/email?keyword=software+engineer",
+  "applyTrail": [
+    "clicked: APPLY NOW"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Principal Software Developer - Oracle Careers",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "primary-email",
+      "id": "primary-email-1",
+      "label": "Email Address",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#primary-email-1",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "honey-pot",
+      "id": "honey-pot-0",
+      "label": "honeypot",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#honey-pot-0",
+      "visible": true,
+      "normLabel": "honeypot",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Type a message",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > div > div > input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "type a message",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 1,
+      "text": 1,
+      "file-upload": 1
+    },
+    "byAction": {
+      "type": 2,
+      "upload": 1
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Job application form",
+    "Authentication screen. You don't need to have an account"
+  ],
+  "buttons": [
+    "Do you want to communicate by phone instead?",
+    "CANCEL",
+    "NEXT"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/oracle-hcm/oracle__software-engineer.png",
+    "html": "data/html/oracle-hcm/oracle__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 4,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 870,
+    "lowestField": 412.03125,
+    "coversAllFields": true
+  },
+  "ms": 23250,
+  "fingerprint": {
+    "labelSig": "bb6a32568e65",
+    "shapeSig": "aa128ec7811a",
+    "controlSig": "aecf3d3f15d5",
+    "controls": {
+      "text-email": 1,
+      "text": 1,
+      "file-upload": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "e7562c859ea3",
+    "typeCounts": {
+      "email": 1,
+      "text": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "resume"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,567 @@
+{
+  "id": "pinpoint__kpmg__head-of-dei-belfast",
+  "group": "pinpoint",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "pinpoint",
+    "atsLabel": "pinpoint",
+    "company": "kpmg",
+    "board": "kpmg",
+    "title": "Head of DEI - Belfast",
+    "location": "",
+    "jobUrl": "https://kpmg.pinpointhq.com/en/postings/cfa455d0-f01d-480a-8d1f-3a459e0abe80",
+    "startUrl": "https://kpmg.pinpointhq.com/en/postings/cfa455d0-f01d-480a-8d1f-3a459e0abe80"
+  },
+  "platform": "pinpoint",
+  "detectedPlatform": "pinpoint",
+  "platformLabel": "Pinpoint",
+  "finalUrl": "https://kpmg.pinpointhq.com/en/postings/cfa455d0-f01d-480a-8d1f-3a459e0abe80/applications/new",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "New Application | Head of DEI - Belfast | KPMG Careers",
+  "fieldCount": 14,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][first_name]",
+      "id": "application_form_application_first_name",
+      "label": "First Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "First name",
+      "autocomplete": "given-name",
+      "maxlength": "",
+      "selector": "#application_form_application_first_name",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][last_name]",
+      "id": "application_form_application_last_name",
+      "label": "Last Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Last name",
+      "autocomplete": "family-name",
+      "maxlength": "",
+      "selector": "#application_form_application_last_name",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][email]",
+      "id": "application_form_application_email",
+      "label": "Email Address",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "email@address.com",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#application_form_application_email",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "application_form[application][phone]",
+      "id": "application_form_application_phone",
+      "label": "Phone",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Phone",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#application_form_application_phone",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "application_form[application][country]",
+      "label": "application form application country",
+      "labelSource": "id-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "application form application country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][address1]",
+      "id": "address1",
+      "label": "Street Address",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Street Address",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#address1",
+      "visible": true,
+      "normLabel": "street address",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][address2]",
+      "id": "address2",
+      "label": "City",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "City",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#address2",
+      "visible": true,
+      "normLabel": "city",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "application_form[application][town]",
+      "label": "application form application town",
+      "labelSource": "id-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "application form application town",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][postcode]",
+      "id": "postcode",
+      "label": "Zipcode",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Zipcode",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#postcode",
+      "visible": true,
+      "normLabel": "zipcode",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "application_form[application][cv]",
+      "id": "application_form[application][cv]",
+      "label": "Attach Résumé / CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"application_form[application][cv]\"]",
+      "visible": false,
+      "accept": "application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf",
+      "multiple": false,
+      "normLabel": "attach r sum / cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "application_form[application][summary]",
+      "id": "personal-summary",
+      "label": "Personal Summary This section is optional. Use it to tell us a little more about yourself.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#personal-summary",
+      "visible": true,
+      "normLabel": "personal summary this section is optional use it to tell us ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "application_form_application_answers_attributes_0_text_answer",
+      "label": "Ethnicity - NI",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#application_form_application_answers_attributes_0_text_answer",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "San",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "ethnicity ni",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "application_form_application_answers_attributes_1_text_answer",
+      "label": "Gender - NI",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#application_form_application_answers_attributes_1_text_answer",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "gender ni",
+      "canonical": "gender"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "application_form_application_answers_attributes_2_text_answer",
+      "label": "Religion - NI",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#application_form_application_answers_attributes_2_text_answer",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "religion ni",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 5,
+      "text-email": 1,
+      "phone-intl": 1,
+      "combobox": 5,
+      "file-upload": 1,
+      "textarea": 1
+    },
+    "byAction": {
+      "type": 12,
+      "type-then-pick-country": 1,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "country-picker-unprobed": 1,
+      "none-observed": 5
+    }
+  },
+  "widgetsProbed": 6,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 46
+    },
+    {
+      "widget": "combobox",
+      "count": 5
+    },
+    {
+      "widget": "typeahead",
+      "count": 5
+    }
+  ],
+  "sections": [
+    "Apply",
+    "1.Personal Details We'll need these details in order to be able to contact you. Apply with LinkedIn",
+    "2. Profile",
+    "3.Questions",
+    "4. Submit Application"
+  ],
+  "buttons": [
+    "Save application for later",
+    "Submit Application",
+    "COOKIES"
+  ],
+  "resumeUpload": [
+    "Careers at Head of DEI - Belfast Apply 1.Personal Details We'll need these details in order to be able to contact you. Apply with LinkedIn First Name Last Name Email Address Phone {\"railsEnv\":\"product",
+    "Head of DEI - Belfast Apply 1.Personal Details We'll need these details in order to be able to contact you. Apply with LinkedIn First Name Last Name Email Address Phone {\"railsEnv\":\"production\",\"inMai",
+    "1.Personal Details We'll need these details in order to be able to contact you. Apply with LinkedIn First Name Last Name Email Address Phone {\"railsEnv\":\"production\",\"inMailer\":false,\"i18nLocale\":\"en\"",
+    "1.Personal Details We'll need these details in order to be able to contact you. Apply with LinkedIn First Name Last Name Email Address Phone {\"railsEnv\":\"production\",\"inMailer\":false,\"i18nLocale\":\"en\"",
+    "1.Personal Details We'll need these details in order to be able to contact you. Apply with LinkedIn First Name Last Name Email Address Phone {\"railsEnv\":\"production\",\"inMailer\":false,\"i18nLocale\":\"en\""
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/pinpoint/kpmg__head-of-dei-belfast.png",
+    "html": "data/html/_nonus/pinpoint/kpmg__head-of-dei-belfast.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 9,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 3464,
+    "lowestField": 3027.203125,
+    "coversAllFields": true
+  },
+  "ms": 68002,
+  "fingerprint": {
+    "labelSig": "8438165aa8c2",
+    "shapeSig": "caea6b3f3f1f",
+    "controlSig": "f651833cb11f",
+    "controls": {
+      "text": 5,
+      "text-email": 1,
+      "phone-intl": 1,
+      "combobox": 5,
+      "file-upload": 1,
+      "textarea": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "d7e36984d2ef",
+    "typeCounts": {
+      "text": 10,
+      "email": 1,
+      "tel": 1,
+      "file": 1,
+      "textarea": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "gender",
+      "last_name",
+      "location",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 6,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

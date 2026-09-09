@@ -1,0 +1,860 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Correlation.FC3LvfufISlzmIYGjc7NS9-NRjRP-wYtRdlfLC2Jq20",
+      "value": "N",
+      "domain": ".www.usajobs.gov",
+      "path": "/signin-wsfed",
+      "expires": 1788851467.335569,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "advertising_id",
+      "value": "d9bcb82f-b118-405a-9c82-b40c995d9d2a",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1822978395.874599,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferred_locale",
+      "value": "en-US",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1820386402.946404,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "analytics_id",
+      "value": "941b2f5e-bd79-4bbf-99c6-d2f05f74d468",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1822978395.874659,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-mons-sid",
+      "value": "141-1140310-5004427",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820386396.87467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cwr_u",
+      "value": "bda0c421-df48-40e1-8a95-43cb7abfe61d",
+      "domain": ".www.amazon.jobs",
+      "path": "/",
+      "expires": 1791442397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820386397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.2cc9",
+      "value": "*",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788852203,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "59999873947532831103263718037549041028",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1804402399.735359,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "1",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.525908466.1788850398",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1796626398,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-mons-ubid",
+      "value": "133-4948318-8419448",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820386398.998592,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-sid",
+      "value": "024-1990870-2957957",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1791217167,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_plt",
+      "value": "1.95",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_pltp",
+      "value": "undefined",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1365015701.1788850398",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823410405.004672,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-mons-st",
+      "value": "4a8YxZcLJs82dYX3e40VTG7r/AggLzKJGpZLo+/eE3Zj8otLUkDDJRpFbeUH5u3cPREgdyWRKoMJkUoB3ZDwgO+TszsWLhGGEpnYA8KeWI3QF1srBRybUJAP5WzH7Egs876e6vYiQX9qCM+UanaD7gshZh/g20nFJiwUaZ04l+u530fkRLD9Rp9BVi0ebkySpU1sWJNoKAVX6dUrNNC6TmKLXSm23K1E",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820386399.263393,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_lv_s",
+      "value": "First%20Visit",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788852224,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dpm",
+      "value": "59999873947532831103263718037549041028",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1804402399.735383,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20705%7CMCMID%7C60016213364348580583262075296000039400%7CMCAAMLH-1789455197%7C7%7CMCAAMB-1789455197%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1788857599s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20712%7CvVersion%7C5.5.0",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823410399.736333,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUkUj32X-W0cW-5cuzawWEKrlfp5GFNnR7LwXgH_3RE3BDC4uHNmwxy8GJzzS1w",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823410399.890582,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "raw_session_id",
+      "value": "Dc0kOSqsfP3Un5HkZPQA9akNUzBFkHtOSz",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1788879200.243525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "li_sugr",
+      "value": "9c5c13c8-4d0d-4e93-a561-23fb58e163c2",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1796626405.137469,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&e5a05dfe-0b4a-49c8-83e7-788a2f02631e\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820386405.137486,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST04:s=O:r=O:a=O:p=O:g=3807:u=1:x=1:i=1788850400:t=1788936800:v=2:sig=AQFG4GPua5PvsteyBvNLYU_tQUsQDslX\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788936800.254792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Wddikipwxwa2I110P6c4HFJZ4iInj6LnBYm6nGfhnJc-1788850400.2886994-1.0.1.1-iREYHPOHfBz5.2JCVNTBPQF2F8way3j2K6wCAh1fmrskNhUPaVNQ63aeNCRFSqsn6qmxnowfd6g6Vob66nokHLfsGAwcUcHax4cR.wJQLU0MRxWyq9ZddgBIp8cvC7SI",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788852200.254823,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLzkkFYVHhm1wAAAaB_yuzvynZok8Tfx9Dw07ns08kB5dfdUhN257y7mKEO7Q4B_dSDICqQlBImew",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791442400.39422,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQJRpwCwTVAdAwAAAaB_yuzvdLhC1lwKJ2XIf6qOzWw2VJCcOYRWH7SjtvgNFK4MurTQllhmpww35bw5lpzabw",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791442400.39423,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "raw_session_ts",
+      "value": "1788850400472",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1788879200.472623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908065320191cc03d-5ce2-4884-81c8-87d8a0b031d3AQFYdANhZwe1OvsnINxrUbtJnz1VU78O\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820386400.57857,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "0a5052de-6fa7-42a9-a239-39639a73fe55",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820386401.24625,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBOGwn2oCEMKvTDlflVaZg34uWp8s4ksFEgEBAQECoWqpatxI0iMA_eMDAA&S=AQAAAiM2_yCXoyLZsab767qMagU",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1820408000.946414,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|W2X/VI3tfMnj4n4oPkUUZ0i1VNb0RWz/1TGV0cP+AG8x8y54Yq4qG1BkqG+cLtddeEX4ubTVTGNw0S94mtzOH0pB9H8pjytykCdHvyxZSdalXPTkUVZUS14dnIt4davpqPJUKRtteW7hfnI8VDLBzwz3WXIhwyRAi8N7BAmaQgdJt49mPrPRUFyo1mMSXCQ85kHVXO4iITS/uI9Aj+Yjkr7KKI+4mJy3oGirqm5gUhh8KMm0j6uXBGY3KwFBcKEE94+z9/eToJrLtHkR71fkUv/JTzblBZm7jOq1oSpaE+yma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386401.178015,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.jobs",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MTSBCBFP-G-7AOT",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386401.178046,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MTSBCBFP-G-7AOT",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386401.178056,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.jobs",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|W2X/VI3tfMnj4n4oPkUUZ0i1VNb0RWz/1TGV0cP+AG8x8y54Yq4qG1BkqG+cLtddeEX4ubTVTGNw0S94mtzOH0pB9H8pjytykCdHvyxZSdalXPTkUVZUS14dnIt4davpqPJUKRtteW7hfnI8VDLBzwz3WXIhwyRAi8N7BAmaQgdJt49mPrPRUFyo1mMSXCQ85kHVXO4iITS/uI9Aj+Yjkr7KKI+4mJy3oGirqm5gUhh8KMm0j6uXBGY3KwFBcKEE94+z9/eToJrLtHkR71fkUv/JTzblBZm7jOq1oSpaE+yma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386401.178067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFgoHcnViaWNvbhILCMaA2vD838Y_EAUSFwoIYXBwbmV4dXMSCwiCotrw_N_GPxAFEhUKBmdvb2dsZRILCO6YjvP838Y_EAUYBSACKAYyCwjq2tydk-DGPxAFWgd6dTh5OTkyYAF6CQoFdGllcjMQAQ..",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820386401.246289,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie_preferences",
+      "value": "%7B%22advertising%22%3Atrue%2C%22analytics%22%3Atrue%2C%22version%22%3A2%7D",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1822978401.99677,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.2cc9",
+      "value": "81455b42-3782-4c10-b8b2-36858c5205e5.1788850398.1.1788850403..0a4a73ad-bde4-43ef-b86a-e75bf3ea0422..8eea90bc-b565-4620-9cd1-bf724de53202.1788850397874.3",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823410403.445768,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tracking_id",
+      "value": "",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1820386402.946508,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "check_for_eu_countries",
+      "value": "false",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1820386402.946585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amazon_jobs_session",
+      "value": "d2xFY2hKSVFyOFdsVVpyNFVhSkNyZVhROU9jczNpUE0yUEJ0dUIxN2pNQjVMYXowck5TNDhNU0NTNmZZUUJJa0JXM21jVThVSEtwYUxIUVFxc3BzS2R6NkZRZDJKbVV0UUwxQ3BQUzExc2d5MTJMVVdkM2VZa1FiOHhJaUNZRCsrMEZHRUZDUGtzdEtGTTRScy8xLytvMU9lL1FDdUtaUVROeFk4MjErZUsxc3p2KzJxajkwbGpBdkMwYUk1UWFueHBpMGplVlovbUxZaVlUZ2ozZEdXdjBXck5zUHpCMW1VN1c1TzFYZ29DZVhETS9hZW5LQXZVYnk1bm1vRlBXWEI4MHpTdndkMUI5RGZUV3VDMmtvbmlCVWcvWVVFZXovakJjR3lsQTRBK3c4TmxKMXZmcFE2OEtXejVxUERLT3JlNWR1ZE90b2tvNndvZUZWWkF6S2dIbWtydXBaSWF1dEVGN1RETTdnQXIzV2ZITU1zaTFweDlBSlFBNFhFbG5MY3czdmFGdWYzQVpuOEZsd3lIY0ZMUT09LS0vZWJhc3hiQlo5b1NTQTFWTklzRWJ3PT0%3D--1645c0c22a9af76e75ce0e92c2a5bc6d915e0879",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788936802.946634,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DebugId",
+      "value": "bbbbb2f1-6163-496b-800e-f38ee8571876",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": 1823410408.158975,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "C93180A542933E8BF7BC896FF9BFC01F",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OidcRelyingParty",
+      "value": "A2D1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LastSetRelyingParty",
+      "value": "A2D1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": 1823410408.159049,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amzn-pp-locale",
+      "value": "en_US",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": 1823410404.727157,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "hDP+/CScXUOBveJ8FIdkJOTrAcKgMO1nLWe2V2DIIMusAAAAAGqfsORiNjE4OTlhMS0yNzAyLTRiMjAtOTNmNi1kODlmZWY2ZjhmYzE=",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geolocation",
+      "value": "US",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823410408.159089,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PASSPORT_V2_CAPTCHA_ACCOUNT_CREATION",
+      "value": "T1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PPV2_PRELOGIN",
+      "value": "T1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cwr_s_a727750b-28d3-4e1d-81fe-8eece247d35b",
+      "value": "eyJzZXNzaW9uSWQiOiI5Y2UxNzJkNS02ZDIyLTQ2ZWItODRlZS01ZWU5NjQxODc4OTYiLCJyZWNvcmQiOnRydWUsImV2ZW50Q291bnQiOjUzLCJwYWdlIjp7InBhZ2VJZCI6Ii9lbi9qb2JzLzEwMzczMzcyL3Nlbmlvci1zb2Z0d2FyZS1kZXZlbG9wbWVudC1lbmdpbmVlci1haSIsImludGVyYWN0aW9uIjowLCJyZWZlcnJlciI6IiIsInJlZmVycmVyRG9tYWluIjoiIiwic3RhcnQiOjE3ODg4NTAzOTc4NTR9fQ==",
+      "domain": ".www.amazon.jobs",
+      "path": "/",
+      "expires": 1788852204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_uetsid",
+      "value": "fd479360ab5111f1a16919a881b41bba",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788936805,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "fd47c3a0ab5111f18ed8e9ab0301f9b9",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1822546405,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1789455205.621533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "24BF157AD0596A802C6702B4D18F6BA2",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822546405.621492,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gpv",
+      "value": "Passport%20%7C%20Pre-Login",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788852224,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppvl",
+      "value": "Amazon.jobs%2520%257C%2520Job%2520Details%2520Page%2C38%2C38%2C900%2C1440%2C900%2C1440%2C900%2C1%2CP",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "b6d6daa3-e101-4c57-8b07-a2d9ba987f37:FAoAbHou+up/AAAA:4BBpUGm4iYQ2G5/lTVAYFe2FwRelk8ll4/EH+bUhW3/MgTec50EDU9xRCy93XSlBIOhXV1xV66m+6ccnvMyCNh8yhuvRCbL/wZNtyoS+4CrZEdC/u68sKoc8HLPNiDej+3odU/+Rl3tskiyxRMdW7YzGEBCEep4Dhz7tgaq93Eggtu7Epb4ujCet9LwKgq+x1ZtXEs27ksy3+5XGBTQE1c4o7v9v7X3VpC+z2WVXebh8r1VV+7txMF2fLZIEiv8yql4DrPVpqTvTdLnyoBwSar+NkyQ15IKsBPA1gXLzXF5KeVmQPVPABG/GptGPHJ99b0m4qiU=",
+      "domain": ".passport.amazon.jobs",
+      "path": "/",
+      "expires": 1789196017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_lv",
+      "value": "1788850424816",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823410424.816615,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_nr30",
+      "value": "1788850424816-New",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1791442424,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_sq",
+      "value": "amazonhrprod%3D%2526c.%2526a.%2526activitymap.%2526page%253DPassport%252520%25257C%252520Pre-Login%2526link%253DContinue%2526region%253DmasterLayout%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DPassport%252520%25257C%252520Pre-Login%2526pidt%253D1%2526oid%253DContinue%2526oidt%253D3%2526ot%253DSUBMIT",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppv",
+      "value": "Passport%2520%257C%2520Pre-Login%2C100%2C92%2C900%2C1440%2C900%2C1440%2C900%2C1%2CP",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_XB330LEGLS",
+      "value": "GS2.1.s1788850398$o1$g1$t1788850467$j60$l0$h0",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823410467.403615,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "0A95FA000D33806D9A98013A790B424E",
+      "domain": "careers-costco.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie_icims_iframe_content_height",
+      "value": "2007",
+      "domain": "careers-costco.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "icimsCookiesEnabledCheck",
+      "value": "1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A55.7593934Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A55.7593984Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A55.7594061Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A55.7594205Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A55.7594282Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A55.7594363Z%22%7D%5D",
+      "domain": "www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1898035070.1788850556",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823410556.532433,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_usajobs",
+      "value": "1788850867~id=d64bfc3e1bbe6f791e076a826514098d",
+      "domain": ".www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_CLZB1LJ1VZ",
+      "value": "GS2.1.s1788850556$o1$g1$t1788850567$j49$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823410567.69805,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_CSLL4ZEK4L",
+      "value": "GS2.1.s1788850556$o1$g1$t1788850567$j49$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823410567.700886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_LOGIN_USAJ",
+      "value": "1788850868~id=92fa1d4460e9edae6b9c591a79b56b3f",
+      "domain": ".login.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HrmUserSettings-careers",
+      "value": "culture%24%24%3A%24%24en",
+      "domain": "metlife.clearcompany.com",
+      "path": "/",
+      "expires": 1823410600.821145,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.amazon.jobs",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"2WPYTgLjkpxgSINIBjcKTkDyzAndbfaP-w\",\"lastJoinedTimeMs\":1788850398162},\"expires\":1788850698162},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788850398164},\"expires\":1796626398164}}"
+        },
+        {
+          "name": "cwr_c",
+          "value": "{\"accessKeyId\":\"ASIAZQLFLHDX2OWQUSIH\",\"secretAccessKey\":\"2hievNyvGBlaI0ieyExySspahT9OGly7zHdgxmIp\",\"sessionToken\":\"IQoJb3JpZ2luX2VjEIf//////////wEaCXVzLWVhc3QtMSJHMEUCIQCQPFSih3oV/CZemSD0i9eRWo/S/7sxZq+rnBpkGfJ5OQIgMoHirPBSVOxabHbW9fLLc8/dWdLjavxI2c4jZBPAGOsqhgMIUBADGgw2NTM1ODQ0NDc3MjciDJ2LUZ6e7Ts/TEtZ5SrjAtdogdo2TN/20NtW3WqR61Idrg0Nln3wkJ0Dtypb7svieIVRSjl4Ok5R0WRxNzxE793BzBhDIiusUVkI6UI3Swap53GjvhSJjwpzvd+Pj59w0pKsYq7F4IyNeOyXEYFD+N2LofHz0Gr8KaiQj2FtNzn9uV7mnCFOzXu0DD37TfMeNMtB7dtiXDnH2yKO0c61axMGrrLuCjesCJWr3FG+wg2AzVMi8R3VwSNic8YJ+4u2i/oWBBlqG48/9v6OfIK4lvgeGpGdwtnwOZQ1hncR/scRkmabR5w0AmMpNXMA/2vVYVsSlSNiiow/l7Mp+a/G7/iGlnqnKRMopA43NJ5XMTx0LjZjlEYxC1a+mfCU0Ls76h7xmmXf3Cqouz2tRvVX6D+x/D9nCWfAkFSo+U4jP+1095URxB0pQO27452G2guopYYKR9VRCgHu3yuu0czegFiqbIaIZFs/RlxJz1kXE2Rw10Qw3+H+1AY6hQJpATY5n5dmFeVPdchvCxlGG79F5cveIuPNq+saOVyS8kW08tbwM+EM+Xc/azQNULYJSuhUc3SkAJ4/L9OCtpNMJrovnppMg8lxIZiKbrr44XKZBpgw5E4xIMHUvCKWaSnUdtAaUT+FTUe9fKE+AuW1LLT3gqXqbvisGkc2K0F9IJKR9Q7xEGpDgXt4OPuAyfnZw/ALYZETs2GDk5rQxcVYQ94gy7odryY5qf7bhoPPhQAmXOQ1jnnuNi1dA+j9E++Gwx0P6pm30ndwI05HNBJInNrU/9rsFgwA2eHv44RX1p+Xv/H5wNvirmH4soizB6WP+QOrX6Or8VVsQF4SyvEetzIojzY=\",\"expiration\":\"2026-09-08T07:53:19.000Z\"}"
+        },
+        {
+          "name": "snowplowOutQueue_amazon-75-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.amazon.jobs/en/jobs/10373372/senior-software-development-engineer-ai\",\"page\":\"Senior Software Development Engineer, AI - Job ID: 10373372 | Amazon.jobs\",\"eid\":\"8eea90bc-b565-4620-9cd1-bf724de53202\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1440x900\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788850397874\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIzNmE2NTM5MC1jOWVmLTQzYzEtYWQ1Mi01MDc2ZmI1MDIwMzMifX1dfQ\",\"vp\":\"1440x900\",\"ds\":\"1440x900\",\"vid\":1,\"sid\":\"0a4a73ad-bde4-43ef-b86a-e75bf3ea0422\",\"duid\":\"81455b42-3782-4c10-b8b2-36858c5205e5\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"page-view\",\"se_la\":\"10373372\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"d90497f2-535c-4f6e-9085-74825173f9de\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1440x900\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788850397875\",\"vp\":\"1440x900\",\"ds\":\"1440x900\",\"vid\":1,\"sid\":\"0a4a73ad-bde4-43ef-b86a-e75bf3ea0422\",\"duid\":\"81455b42-3782-4c10-b8b2-36858c5205e5\",\"url\":\"https://www.amazon.jobs/en/jobs/10373372/senior-software-development-engineer-ai\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIzNmE2NTM5MC1jOWVmLTQzYzEtYWQ1Mi01MDc2ZmI1MDIwMzMifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"apply-click\",\"se_la\":\"10373372\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"182984c8-da9b-4174-ad29-9931de31b688\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1440x900\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788850403433\",\"vp\":\"1440x900\",\"ds\":\"1440x2379\",\"vid\":1,\"sid\":\"0a4a73ad-bde4-43ef-b86a-e75bf3ea0422\",\"duid\":\"81455b42-3782-4c10-b8b2-36858c5205e5\",\"url\":\"https://www.amazon.jobs/en/jobs/10373372/senior-software-development-engineer-ai\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIzNmE2NTM5MC1jOWVmLTQzYzEtYWQ1Mi01MDc2ZmI1MDIwMzMifX1dfQ\"},\"svrAnon\":false}]"
+        },
+        {
+          "name": "cwr_i",
+          "value": "{\"IdentityId\":\"us-east-1:982cab38-ef33-c15e-3ba1-ec255c2bda6c\"}"
+        },
+        {
+          "name": "li_adsId",
+          "value": "aec14fcc-17e5-4711-97b6-f3371142ee93"
+        }
+      ]
+    },
+    {
+      "origin": "https://passport.amazon.jobs",
+      "localStorage": [
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 03 Oct 2027 06:53:25 GMT"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 09 Sep 2026 06:53:25 GMT"
+        },
+        {
+          "name": "persist:socialLogin",
+          "value": "{\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_uetvid",
+          "value": "fd47c3a0ab5111f18ed8e9ab0301f9b9"
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1788850406631"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"m48ix87UpkEN_3Pt6PzkYEMLR5p3WjaPRA\",\"lastJoinedTimeMs\":1788850404959},\"expires\":1788850704959},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788850404959},\"expires\":1796626404959}}"
+        },
+        {
+          "name": "awswaf_session_storage",
+          "value": "b6d6daa3-e101-4c57-8b07-a2d9ba987f37:FAoAbHou+ut/AAAA:+DZYKRpbp4kn3HtqbYgdTLEZQ/CsuLEERaL4l8MZHFhdNUQcbF57NEGRiwOhF4GFuzmSbuxzEtDeoYXnmnjYZI1RGhVsjK6bxFNF0ODKjqbDlxRiST6AmfkZqEWV3DmFAKbz+Ba/fCuVLugSdAJDts6JkbnRdwrniejLHFOr0320BA0S6VrKhj20rdKtTjH+kruRy/LqP2FTGDepmNqevXAyX36Dn+qYaMCyEQRDyb5q3RKfK0/ndg1t+2dkkqXAQ9S1fT7lEmFmec+qP7To2b8q1El1L7knWJXykeIgTbQNeztJpQmetf5NqK54B8R1qC4I6yyUe76oMqksDZ8sOpWSgU+lpvnFGukTKshuJptlAdOS+a0cLpLj9ODvHPS6IvudbeRauEv12gKRfSdr3b6CbD4YMe4N//KzV3qDMq4ta3inhxYrGahF1n6HFV0sg/EQZJB5rUTY5UWophBcYqnAptRAhVZHtV3RPHJEcQaXp55/aa5++1tmTHcQM8evIiMrTIRFPpAKoGAOdGcwhZpgXZiC9S25ln5BMQyivFJIW7+Aja59WhUw/ZEMnGAuUitl25sTthrqWzu1rvlHhIeH4A=="
+        },
+        {
+          "name": "_uetsid",
+          "value": "fd479360ab5111f1a16919a881b41bba"
+        },
+        {
+          "name": "li_adsId",
+          "value": "33c3b34e-0f56-4bdc-a41c-77340efbe699"
+        },
+        {
+          "name": "persist:password",
+          "value": "{\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:registration",
+          "value": "{\"username\":\"\\\"\\\"\",\"expiredTime\":\"0\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"socialLogin\":\"{\\\"errorResponse\\\":\\\"\\\",\\\"action\\\":\\\"\\\",\\\"loading\\\":false,\\\"linkedToPassportAccount\\\":false,\\\"_persist\\\":{\\\"version\\\":-1,\\\"rehydrated\\\":true}}\",\"password\":\"{\\\"password\\\":\\\"\\\",\\\"errorResponse\\\":\\\"\\\",\\\"action\\\":\\\"\\\",\\\"loading\\\":false,\\\"_persist\\\":{\\\"version\\\":-1,\\\"rehydrated\\\":true}}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "wtMwLiZPRYl3LmI5bxixgg4GYC3__S6dLMtfC4opqEs-1788850499-1.3.1.1-vxgTbDE8rj8XjHODHjIJ.3KlncUX9QmruL05BMMtGJIy4EnskmBpdsIGEWVzQsysJhIEMT9qvYwL94n.eGaKrQ"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "logApplyJobAfterSignIn",
+          "value": "{\"Title\":\"Computer Scientist (Software/Cloud Architect)\",\"Agency\":\"Defense Counterintelligence and Security Agency\",\"SubAgency\":\"DCSA\",\"Department\":\"Department of Defense\",\"DocumentID\":\"883232800\",\"JobCategoryCode\":[{\"Name\":\"Computer Science\",\"Code\":\"1550\"}],\"JobGrade\":\"GG\",\"LowGrade\":\"15\",\"HighGrade\":\"15\",\"DateDisplay\":\"Open 09/02/2026 to 09/14/2026\",\"ClockDisplay\":\"JobClosingIn7Days\"}"
+        },
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1030 @@
+{
+  "id": "lever__includedhealth__senior-software-engineer-backend",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "includedhealth",
+    "board": "includedhealth",
+    "title": "Senior Software Engineer, Backend",
+    "location": "Remote",
+    "jobUrl": "https://jobs.lever.co/includedhealth/6834927b-8527-4c2c-bc15-855a56f68765",
+    "startUrl": "https://jobs.lever.co/includedhealth/6834927b-8527-4c2c-bc15-855a56f68765/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/includedhealth/6834927b-8527-4c2c-bc15-855a56f68765/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Included Health - Senior Software Engineer, Backend",
+  "fieldCount": 24,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other (GitHub, Portfolio, etc.)]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other (GitHub, Portfolio, etc.)]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[77444ef7-690e-43ee-ba1f-204d9524eb18][field0]",
+      "id": "",
+      "label": "Please enter your zip code: ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[77444ef7-690e-43ee-ba1f-204d9524eb18][field0]\"]",
+      "visible": true,
+      "normLabel": "please enter your zip code",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field0]",
+      "label": "Are you legally authorized to work in the U.S.? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field0]\"]",
+      "normLabel": "are you legally authorized to work in the u s",
+      "canonical": "work_authorization"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field1]",
+      "label": "Will you now or in the future require sponsorship for employment visa status (e.g. H-1B status)? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field1]\"]",
+      "normLabel": "will you now or in the future require sponsorship for employ",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field2]",
+      "label": "Have you previously worked for Grand Rounds, Included Health, or Doctor on Demand as a permanent or temporary employee? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field2]\"]",
+      "normLabel": "have you previously worked for grand rounds included health ",
+      "canonical": "previous_employee"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field3]",
+      "label": "Have you previously worked for FireFly as a permanent or temporary employee? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[504c26a2-e8e7-4f9f-b911-aff944b150c3][field3]\"]",
+      "normLabel": "have you previously worked for firefly as a permanent or tem",
+      "canonical": "previous_employee"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[4f5aa3f9-58df-456a-bd2f-0710885e94a9][field0]",
+      "label": "I acknowledge that all information regarding the company, including its business, products, services, financial data, and trade secrets, disclosed during the interview process is confidential. I agree",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "I Acknowledge and Agree",
+      "required": true,
+      "options": [
+        "I Acknowledge and Agree",
+        "I Do Not Acknowledge or Agree"
+      ],
+      "optionValues": [
+        {
+          "label": "I Acknowledge and Agree",
+          "value": "I Acknowledge and Agree"
+        },
+        {
+          "label": "I Do Not Acknowledge or Agree",
+          "value": "I Do Not Acknowledge or Agree"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[4f5aa3f9-58df-456a-bd2f-0710885e94a9][field0]\"]",
+      "normLabel": "i acknowledge that all information regarding the company inc",
+      "canonical": "consent"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[19824db0-8d0a-42cd-9ee8-6cc08d59512f][field0]",
+      "label": "Do you consent to receive text (SMS) communications from Included Health recruiters regarding this application and related job‑relevant updates? Opting in does not guarantee that you will be contacted",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "I understand",
+      "required": true,
+      "options": [
+        "I understand"
+      ],
+      "optionValues": [
+        {
+          "label": "I understand",
+          "value": "I understand"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"cards[19824db0-8d0a-42cd-9ee8-6cc08d59512f][field0]\"]",
+      "normLabel": "do you consent to receive text sms communications from inclu",
+      "canonical": "consent"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field0]",
+      "label": "Have you owned backend systems or services end-to-end (scoping, building, testing, launching, and maintaining in production)? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes — multiple systems",
+      "required": true,
+      "options": [
+        "Yes — multiple systems",
+        "Yes — at least one system",
+        "No — I primarily contributed to parts of systems"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes — multiple systems",
+          "value": "Yes — multiple systems"
+        },
+        {
+          "label": "Yes — at least one system",
+          "value": "Yes — at least one system"
+        },
+        {
+          "label": "No — I primarily contributed to parts of systems",
+          "value": "No — I primarily contributed to parts of systems"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field0]\"]",
+      "normLabel": "have you owned backend systems or services end to end scopin",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field1]",
+      "label": "How many years of professional backend software development experience do you have (excluding internships, coursework, or bootcamps)? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Less than 3 years",
+      "required": true,
+      "options": [
+        "Less than 3 years",
+        "3–4 years",
+        "5–6 years",
+        "7–9 years",
+        "10+ years"
+      ],
+      "optionValues": [
+        {
+          "label": "Less than 3 years",
+          "value": "Less than 3 years"
+        },
+        {
+          "label": "3–4 years",
+          "value": "3–4 years"
+        },
+        {
+          "label": "5–6 years",
+          "value": "5–6 years"
+        },
+        {
+          "label": "7–9 years",
+          "value": "7–9 years"
+        },
+        {
+          "label": "10+ years",
+          "value": "10+ years"
+        }
+      ],
+      "optionCount": 5,
+      "selector": "input[name=\"cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field1]\"]",
+      "normLabel": "how many years of professional backend software development ",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field2]",
+      "label": "Which languages have you used as a primary backend language in production for 2+ years? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Golang",
+      "required": true,
+      "options": [
+        "Golang",
+        "Python",
+        "Java",
+        "Ruby",
+        "None of the above"
+      ],
+      "optionValues": [
+        {
+          "label": "Golang",
+          "value": "Golang"
+        },
+        {
+          "label": "Python",
+          "value": "Python"
+        },
+        {
+          "label": "Java",
+          "value": "Java"
+        },
+        {
+          "label": "Ruby",
+          "value": "Ruby"
+        },
+        {
+          "label": "None of the above",
+          "value": "None of the above"
+        }
+      ],
+      "optionCount": 5,
+      "selector": "input[name=\"cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field2]\"]",
+      "normLabel": "which languages have you used as a primary backend language ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field3]",
+      "label": "Have you designed and built APIs or backend services that are consumed by other teams or external customers? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes — multiple production APIs/services",
+      "required": true,
+      "options": [
+        "Yes — multiple production APIs/services",
+        "Yes — at least one production API/service",
+        "No — I’ve mainly worked on internal components"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes — multiple production APIs/services",
+          "value": "Yes — multiple production APIs/services"
+        },
+        {
+          "label": "Yes — at least one production API/service",
+          "value": "Yes — at least one production API/service"
+        },
+        {
+          "label": "No — I’ve mainly worked on internal components",
+          "value": "No — I’ve mainly worked on internal components"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field3]\"]",
+      "normLabel": "have you designed and built apis or backend services that ar",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field4]",
+      "label": "Which best describes your experience ensuring backend systems are reliable, performant, and secure in production? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "I’ve owned reliability, performance, and security concerns in production",
+      "required": true,
+      "options": [
+        "I’ve owned reliability, performance, and security concerns in production",
+        "I’ve contributed but did not own these concerns",
+        "Minimal exposure",
+        "No experience"
+      ],
+      "optionValues": [
+        {
+          "label": "I’ve owned reliability, performance, and security concerns in production",
+          "value": "I’ve owned reliability, performance, and security concerns in production"
+        },
+        {
+          "label": "I’ve contributed but did not own these concerns",
+          "value": "I’ve contributed but did not own these concerns"
+        },
+        {
+          "label": "Minimal exposure",
+          "value": "Minimal exposure"
+        },
+        {
+          "label": "No experience",
+          "value": "No experience"
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"cards[8ffe044e-1415-4035-a0c1-1443b9f22301][field4]\"]",
+      "normLabel": "which best describes your experience ensuring backend system",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[gender]",
+      "id": "",
+      "label": "Gender Select ... Male Female Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[gender]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Male",
+        "Female",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "gender select male female decline to self identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[race]",
+      "label": "Race",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+      "required": false,
+      "options": [
+        "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+        "White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+        "Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.",
+        "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+        "Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan",
+        "American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affilia",
+        "Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+          "value": "Hispanic or Latino"
+        },
+        {
+          "label": "White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+          "value": "White (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.",
+          "value": "Black or African American (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+          "value": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan",
+          "value": "Asian (Not Hispanic or Latino)"
+        },
+        {
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affilia",
+          "value": "American Indian or Alaska Native (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.",
+          "value": "Two or More Races (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 8,
+      "selector": "input[name=\"eeo[race]\"]",
+      "normLabel": "race",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I identify as one or more of the classifications of protected veteran listed above I am not a protected veteran I decline to self-identify for protected veteran status",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I identify as one or more of the classifications of protected veteran listed above",
+        "I am not a protected veteran",
+        "I decline to self-identify for protected veteran status"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I identify as one or more of the classifications of protected veteran listed above",
+          "value": "I am a Protected Veteran"
+        },
+        {
+          "label": "I am not a protected veteran",
+          "value": "I am not a Protected Veteran"
+        },
+        {
+          "label": "I decline to self-identify for protected veteran status",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i identify as one or more of the class",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[disability]",
+      "id": "disabilitySelectElement",
+      "label": "Disability status Select ... Yes, I have a disability, or have had one in the past No, I do not have a disability and have not had one in the past I do not want to answer",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#disabilitySelectElement",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Yes, I have a disability, or have had one in the past",
+        "No, I do not have a disability and have not had one in the past",
+        "I do not want to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Yes, I have a disability, or have had one in the past",
+          "value": "Yes, I have a disability, or have had one in the past"
+        },
+        {
+          "label": "No, I do not have a disability and have not had one in the past",
+          "value": "No, I do not have a disability and have not had one in the past"
+        },
+        {
+          "label": "I do not want to answer",
+          "value": "I do not want to answer "
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "disability status select yes i have a disability or have had",
+      "canonical": "disability_status"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 7,
+      "text-email": 1,
+      "radio-group": 11,
+      "checkbox-group": 1,
+      "native-select": 3
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 8,
+      "choose-one": 11,
+      "check-many": 1,
+      "select-option": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 15
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Software Engineer, Backend",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "ZIP CODE",
+    "WORK AUTHORIZATION QUESTIONS",
+    "LEGAL DISCLOSURE AND CONFIDENTIALITY CONFIRMATION",
+    "SMS/TEXT MESSAGING CONSENT",
+    "SENIOR SOFTWARE ENGINEER",
+    "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION (Completion is voluntary and will not subject you to adverse treatment)",
+    "SELF-IDENTIFICATION OF VETERAN STATUS (Completion is voluntary and will not subject you to adverse treatment)",
+    "VOLUNTARY SELF-IDENTIFICATION OF DISABILITY"
+  ],
+  "buttons": [
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Senior Software Engineer, BackendRemoteEngineering – Software Engineering /Full-Time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File ",
+    "Senior Software Engineer, BackendRemoteEngineering – Software Engineering /Full-Time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File ",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone ✱C",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone ✱C",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/includedhealth__senior-software-engineer-backend.png",
+    "html": "data/html/lever/includedhealth__senior-software-engineer-backend.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 8401,
+    "lowestField": 7380.453125,
+    "coversAllFields": true
+  },
+  "ms": 4116,
+  "fingerprint": {
+    "labelSig": "d10a8d3a4c1f",
+    "shapeSig": "9248329950ff",
+    "controlSig": "988a1c493f18",
+    "controls": {
+      "file-upload": 1,
+      "text": 7,
+      "text-email": 1,
+      "radio-group": 11,
+      "checkbox-group": 1,
+      "native-select": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "8480c0d5c9ca",
+    "typeCounts": {
+      "file": 1,
+      "text": 7,
+      "email": 1,
+      "radio": 11,
+      "checkbox": 1,
+      "select": 3
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "disability_status",
+      "email",
+      "employer",
+      "full_name",
+      "gender",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "previous_employee",
+      "race_ethnicity",
+      "resume",
+      "veteran_status",
+      "visa_sponsorship",
+      "work_authorization",
+      "years_experience"
+    ],
+    "requiredCount": 15,
+    "customQuestionCount": 4,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,843 @@
+{
+  "id": "successfactors__l3harris__lead-systems-engineering",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "l3harris",
+    "board": "l3harris",
+    "title": "Lead, Systems Engineering",
+    "location": "",
+    "jobUrl": "https://jobs.l3harris.com/job/Ottawa-Lead%2C-Systems-Engineering-ON-K2H-9N6/1365112700/",
+    "startUrl": "https://jobs.l3harris.com/job/Ottawa-Lead%2C-Systems-Engineering-ON-K2H-9N6/1365112700/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "custom:career-hcm20.ns2cloud.com",
+  "platformLabel": "career-hcm20.ns2cloud.com (successfactors)",
+  "finalUrl": "https://career-hcm20.ns2cloud.com/career?company=L3HHCM20&site=&lang=en_US&requestParams=3cBEt3J000C1ABk2J%2fzNwDEGhUd42m1R0UpCQRCdNFNTSgl66xfkpkhXeigxTEEhEHvp4bbunXRl%0a273ujmkEfVF9RPQF9dgPRA%2f9Q6sFeamFWZY5Z2fOmXn4hJQ1UByzG1aakpClFrOjLotS6ben593L%0alyQkmrApNQubjJM2bcjSyKAdaRnOo6NjWJz8LOPugoscwboVhFMDOxedZVXJ1LDUIyPU8PDx9fz9%0aY%2b%2fuNAEwjxx9jQAIMlwKVNQOpxO4h%2bR3PjPWA1ue4YCgyJlBNIHLBAYngYgRU5VKza8R5Kzmgsl6%0aFMnbGH7FpEWHu%2b9nIkIpFK7iGyfCICeCLa6NQclIaBXExeT3Pb%2b8f1D1q77nOaawbUVoFJN9i%2ba%2f%0abmmuryOmfpUknKVOpdVqdMte7Jn9cafsap3thVnmvAi%2bFOTmuhhkrBWqoN8jKLhlzOoSDTUMMsLw%0ar575FywYiDU%3d&login_ns=register&career_ns=job%5fapplication&career_job_req_id=33989&jobPipeline=Direct&clientId=jobs2web&_s.crb=kkW7O2uw7pKVkqvSfuAcUi%2fLPJzmCdi6GSTlu2MRMQk%3d",
+  "applyTrail": [
+    "clicked: Apply now »",
+    "clicked: Create an account",
+    "clicked: Create Account",
+    "filled:email+password+password-confirm+select+select+required-field+required-field+required-field",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on register screen: Please complete all required fields and re-submit. The following fields require a valid input: Retype Email Address, Please open the data p",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Career Opportunities: Create an Account",
+  "fieldCount": 11,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Retype Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "retype email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Choose Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "choose password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Retype Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "retype password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "First Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Last Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_ituCode",
+      "id": "fbclc_ituCode",
+      "label": "Country/Region Code:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_ituCode",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Afghanistan (+93)",
+        "Albania (+355)",
+        "Algeria (+213)",
+        "Angola (+244)",
+        "Antigua and Barbuda (+1)",
+        "Argentina (+54)",
+        "Armenia (+374)",
+        "Aruba (+297)",
+        "Australia (+61)",
+        "Austria (+43)",
+        "Azerbaijan (+994)",
+        "Bahamas (+1)",
+        "Bahrain (+973)",
+        "Bangladesh (+880)",
+        "Barbados (+1)",
+        "Belarus (+375)",
+        "Belgium (+32)",
+        "Belize (+501)",
+        "Benin (+229)",
+        "Bermuda (+1)",
+        "Bhutan (+975)",
+        "Bosnia and Herzegovina (+387)",
+        "Brazil (+55)",
+        "British Indian Ocean Territory (+246)",
+        "Bulgaria (+359)",
+        "Cambodia (+855)",
+        "Cameroon (+237)",
+        "Canada (+1)",
+        "Chile (+56)",
+        "China (+86)",
+        "Colombia (+57)",
+        "Costa Rica (+506)",
+        "Croatia (+385)",
+        "Cuba (+53)",
+        "Cyprus (+357)",
+        "Czech Republic (+420)",
+        "Denmark (+45)",
+        "Djibouti (+253)",
+        "Dominica (+1)"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan (+93)",
+          "value": "AF"
+        },
+        {
+          "label": "Albania (+355)",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria (+213)",
+          "value": "DZ"
+        },
+        {
+          "label": "Angola (+244)",
+          "value": "AO"
+        },
+        {
+          "label": "Antigua and Barbuda (+1)",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina (+54)",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia (+374)",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba (+297)",
+          "value": "AW"
+        },
+        {
+          "label": "Australia (+61)",
+          "value": "AU"
+        },
+        {
+          "label": "Austria (+43)",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan (+994)",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas (+1)",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain (+973)",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh (+880)",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados (+1)",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus (+375)",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium (+32)",
+          "value": "BE"
+        },
+        {
+          "label": "Belize (+501)",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin (+229)",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda (+1)",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan (+975)",
+          "value": "BT"
+        },
+        {
+          "label": "Bosnia and Herzegovina (+387)",
+          "value": "BA"
+        },
+        {
+          "label": "Brazil (+55)",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory (+246)",
+          "value": "IO"
+        },
+        {
+          "label": "Bulgaria (+359)",
+          "value": "BG"
+        },
+        {
+          "label": "Cambodia (+855)",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon (+237)",
+          "value": "CM"
+        },
+        {
+          "label": "Canada (+1)",
+          "value": "CA"
+        },
+        {
+          "label": "Chile (+56)",
+          "value": "CL"
+        },
+        {
+          "label": "China (+86)",
+          "value": "CN"
+        },
+        {
+          "label": "Colombia (+57)",
+          "value": "CO"
+        },
+        {
+          "label": "Costa Rica (+506)",
+          "value": "CR"
+        },
+        {
+          "label": "Croatia (+385)",
+          "value": "HR"
+        },
+        {
+          "label": "Cuba (+53)",
+          "value": "CU"
+        },
+        {
+          "label": "Cyprus (+357)",
+          "value": "CY"
+        },
+        {
+          "label": "Czech Republic (+420)",
+          "value": "CZ"
+        },
+        {
+          "label": "Denmark (+45)",
+          "value": "DK"
+        },
+        {
+          "label": "Djibouti (+253)",
+          "value": "DJ"
+        },
+        {
+          "label": "Dominica (+1)",
+          "value": "DM"
+        }
+      ],
+      "optionCount": 148,
+      "normLabel": "country/region code",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_phoneNumber",
+      "id": "fbclc_phoneNumber",
+      "label": "Phone Number:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_phoneNumber",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_country",
+      "id": "fbclc_country",
+      "label": "Country/Region of Residence",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_country",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "Angola",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bosnia and Herzegovina",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Bulgaria",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia",
+        "Costa Rica",
+        "Croatia",
+        "Cuba",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Djibouti",
+        "Dominica"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AF"
+        },
+        {
+          "label": "Albania",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZ"
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Antigua and Barbuda",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba",
+          "value": "AW"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Belize",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BT"
+        },
+        {
+          "label": "Bosnia and Herzegovina",
+          "value": "BA"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IO"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CM"
+        },
+        {
+          "label": "Canada",
+          "value": "CA"
+        },
+        {
+          "label": "Chile",
+          "value": "CL"
+        },
+        {
+          "label": "China",
+          "value": "CN"
+        },
+        {
+          "label": "Colombia",
+          "value": "CO"
+        },
+        {
+          "label": "Costa Rica",
+          "value": "CR"
+        },
+        {
+          "label": "Croatia",
+          "value": "HR"
+        },
+        {
+          "label": "Cuba",
+          "value": "CU"
+        },
+        {
+          "label": "Cyprus",
+          "value": "CY"
+        },
+        {
+          "label": "Czech Republic",
+          "value": "CZ"
+        },
+        {
+          "label": "Denmark",
+          "value": "DK"
+        },
+        {
+          "label": "Djibouti",
+          "value": "DJ"
+        },
+        {
+          "label": "Dominica",
+          "value": "DM"
+        }
+      ],
+      "optionCount": 148,
+      "normLabel": "country/region of residence",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notification:",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notification:",
+      "required": false,
+      "options": [
+        "Notification:"
+      ],
+      "optionValues": [
+        {
+          "label": "Notification:",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notification",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_campaignEmailEnabled",
+      "label": "Hear more about career opportunities",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Hear more about career opportunities",
+      "required": false,
+      "options": [
+        "Hear more about career opportunities"
+      ],
+      "optionValues": [
+        {
+          "label": "Hear more about career opportunities",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_campaignEmailEnabled\"]",
+      "normLabel": "hear more about career opportunities",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 5,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 7,
+      "select-option": 2,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 4
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Career Opportunities: Create an Account"
+  ],
+  "buttons": [
+    "Acknowledge that you have read the Applicant Privacy Notice",
+    "Create Account",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab."
+  ],
+  "resumeUpload": [
+    "Skip to main content L3Harris Technologies Careers Search our Job Opportunities at L3Harris Technologies /* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_10/ui/juic",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_10/ui/juic"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/l3harris__lead-systems-engineering.png",
+    "html": "data/html/_unreached/successfactors/l3harris__lead-systems-engineering.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1511,
+    "lowestField": 1094.25,
+    "coversAllFields": true
+  },
+  "ms": 102367,
+  "fingerprint": {
+    "labelSig": "73ec04c29688",
+    "shapeSig": "06962094950c",
+    "controlSig": "49f2524f32e3",
+    "controls": {
+      "text": 5,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "089261201f03",
+    "typeCounts": {
+      "text": 5,
+      "password": 2,
+      "select": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "password",
+      "phone"
+    ],
+    "requiredCount": 9,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

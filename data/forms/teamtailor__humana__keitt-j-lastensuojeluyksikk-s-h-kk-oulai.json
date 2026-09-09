@@ -1,0 +1,154 @@
+{
+  "id": "teamtailor__humana__keitt-j-lastensuojeluyksikk-s-h-kk-oulai",
+  "group": "teamtailor",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "humana",
+    "board": "humana",
+    "title": "Keittäjä, Lastensuojeluyksikkö Sähäkkä Oulainen",
+    "location": "",
+    "jobUrl": "https://ura.humana.fi/jobs/8214152-keittaja-lastensuojeluyksikko-sahakka-oulainen",
+    "startUrl": "https://ura.humana.fi/jobs/8214152-keittaja-lastensuojeluyksikko-sahakka-oulainen"
+  },
+  "platform": "teamtailor",
+  "detectedPlatform": "custom:ura.humana.fi",
+  "platformLabel": "ura.humana.fi (teamtailor)",
+  "finalUrl": "https://ura.humana.fi/jobs/8214152-keittaja-lastensuojeluyksikko-sahakka-oulainen",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Keittäjä, Lastensuojeluyksikkö Sähäkkä Oulainen - Humana",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-603e8341",
+      "label": "Jaa sivu",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-603e8341",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "jaa sivu",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1
+    },
+    "byAction": {
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Tämä sivusto käyttää evästeitä varmistaakseen, että saat parhaan kokemuksen.",
+    "Keittäjä, Lastensuojeluyksikkö Sähäkkä Oulainen",
+    "Haemme nyt keittäjää huolehtimaan ruokailuista lastensuojeluyksikkö Sähäkkään Oulaisiin!",
+    "Oulainen, Sähäkkä Oulainen",
+    "Miksi Humana?",
+    "Humana yrityksenä",
+    "Keittäjä, Lastensuojeluyksikkö Sähäkkä Oulainen",
+    "Urasivusto",
+    "Uramahdollisuudet",
+    "Työskenteletkö jo yrityksessä Humana?"
+  ],
+  "buttons": [
+    "Hyväksy kaikki evästeet",
+    "Kieltäydy kaikista ei-välttämättömistä evästeistä",
+    "Evästeasetukset",
+    "URAVALIKKO",
+    "Jaa sivu",
+    "Hae helposti",
+    "Go to slide 1",
+    "Go to slide 2",
+    "Go to slide 3",
+    "Go to slide 4",
+    "Go to slide 5",
+    "Go to slide 6",
+    "Hae helposti",
+    "Hallitse evästeitä",
+    "Kirjaudu sisään"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/teamtailor/humana__keitt-j-lastensuojeluyksikk-s-h-kk-oulai.png",
+    "html": "data/html/_unreached/teamtailor/humana__keitt-j-lastensuojeluyksikk-s-h-kk-oulai.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 1,
+    "docHeight": 7596,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 3297,
+  "fingerprint": {
+    "labelSig": "b00db9c105d0",
+    "shapeSig": "1d94131616a3",
+    "controlSig": "edf5c3c0cf93",
+    "controls": {
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "7bb6c32bc5b5",
+    "typeCounts": {
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

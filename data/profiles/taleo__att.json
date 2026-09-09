@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "locale",
+      "value": "en",
+      "domain": "att.taleo.net",
+      "path": "/careersection/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "L1GC4dPGnehic4alZ_pVO1urpGlKffXKywerhzvXtE8sfUoWj6mp!1015065828",
+      "domain": "att.taleo.net",
+      "path": "/careersection",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

@@ -1,0 +1,272 @@
+{
+  "id": "jobvite__nutanix__advisory-solutions-architect-ai",
+  "group": "jobvite",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "jobvite",
+    "atsLabel": "jobvite",
+    "company": "nutanix",
+    "board": "nutanix",
+    "title": "Advisory Solutions Architect - AI",
+    "location": "",
+    "jobUrl": "https://jobs.jobvite.com/nutanix/job/o6dHAfwk",
+    "startUrl": "https://jobs.jobvite.com/nutanix/job/o6dHAfwk"
+  },
+  "platform": "jobvite",
+  "detectedPlatform": "custom:portal.nutanix.com",
+  "platformLabel": "portal.nutanix.com (jobvite)",
+  "finalUrl": "https://portal.nutanix.com/page/documents/kbs/details?targetId=kA00e000000XeZjCAK",
+  "applyTrail": [
+    "opened posting: Apply",
+    "clicked: Next Community",
+    "clicked: Unregister cluster from prism central i need to unregister cluster from PC that ",
+    "clicked: How to unregister a cluster from Prism Central",
+    "clicked: Unregister from Prism Central and cleanup | Force unregister PE from PC after PC (new tab)"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Unregister cluster from Prism Central and cleanup (regular and force) FAQ",
+  "fieldCount": 5,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Search Anything",
+      "labelSource": "placeholder",
+      "required": false,
+      "placeholder": "Search Anything",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(2) > div > div:nth-of-type(1) > input",
+      "visible": true,
+      "normLabel": "search anything",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "",
+      "labelSource": "none",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "li:nth-of-type(2) > ul > li:nth-of-type(2) > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "",
+      "canonical": "unknown"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "",
+      "labelSource": "none",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "li:nth-of-type(2) > ul > li:nth-of-type(3) > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "",
+      "canonical": "unknown"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "",
+      "labelSource": "none",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "li:nth-of-type(2) > ul > li:nth-of-type(4) > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "",
+      "canonical": "unknown"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Select",
+      "labelSource": "placeholder",
+      "required": false,
+      "placeholder": "Select",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(2) > div > div > input",
+      "visible": true,
+      "normLabel": "select",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 5
+    },
+    "byAction": {
+      "click-type-pick": 1,
+      "click-pick": 4
+    },
+    "byOptionsSource": {
+      "unknown": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 2
+    },
+    {
+      "widget": "typeahead",
+      "count": 2
+    }
+  ],
+  "sections": [
+    "Unregister cluster from Prism Central and cleanup (regular and force) FAQ",
+    "Summary:",
+    "Versions affected:",
+    "Description:",
+    "Prism Central >= pc.2024.1",
+    "Reasons to unregister",
+    "Dos and don'ts",
+    "Frequently Asked Questions (FAQ)",
+    "Solution:",
+    "Scenario 1: Unregister and Cleanup Process (PC and PE connectivity is normal)",
+    "Scenario 2: Unregister PC from PE (PC and PE connectivity is either not normal, or PC is deleted without being unregistered)",
+    "Scenario 3: Unregister PE from PC (PE is deleted without unregistration)",
+    "Scenario 4: Clean up PSS configuration from PC after the unregistration and cleanup process has been followed",
+    "Note: If the Prism element cluster has been successfully unregistered by following one of the above scenarios, but is still present in the nuclei cluster.list, restart the Aplos service with the comma",
+    "Troubleshooting"
+  ],
+  "buttons": [
+    "Log In",
+    "Sign Up",
+    "Home",
+    "Downloads",
+    "Documentation",
+    "Compatibility and Interoperability Matrix",
+    "Security",
+    "Try Now"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/jobvite/nutanix__advisory-solutions-architect-ai.png",
+    "html": "data/html/_unreached/jobvite/nutanix__advisory-solutions-architect-ai.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 9,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 11718,
+    "lowestField": 238,
+    "coversAllFields": true
+  },
+  "ms": 140271,
+  "fingerprint": {
+    "labelSig": "5e86f177d778",
+    "shapeSig": "cc8907a78283",
+    "controlSig": "df284bf655d4",
+    "controls": {
+      "combobox": 5
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "213e3de2f9ab",
+    "typeCounts": {
+      "text": 2,
+      "button-dropdown": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "unknown"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

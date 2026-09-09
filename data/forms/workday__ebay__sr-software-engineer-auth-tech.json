@@ -1,0 +1,147 @@
+{
+  "id": "workday__ebay__sr-software-engineer-auth-tech",
+  "group": "workday",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "company": "ebay",
+    "board": "ebay",
+    "title": "Sr. Software Engineer, Auth Tech",
+    "location": "Toronto",
+    "jobUrl": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Toronto/Sr-Software-Engineer--Auth-Tech_R0075649-1",
+    "startUrl": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Toronto/Sr-Software-Engineer--Auth-Tech_R0075649-1/apply"
+  },
+  "platform": "workday",
+  "detectedPlatform": "workday",
+  "platformLabel": "Workday",
+  "finalUrl": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/login?redirect=%2Fen-US%2Fapply%2Fjob%2FToronto%2FSr-Software-Engineer--Auth-Tech_R0075649-1%2Fapply%2FapplyManually",
+  "applyTrail": [
+    "clicked: Apply Manually",
+    "clicked: Sign in with email",
+    "clicked: Create Account",
+    "clicked: Create Account",
+    "filled:email+password+password-confirm",
+    "submit:button[data-automation-id=\"createAccountSubmitButton\"]",
+    "saved-session:workday__ebay.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Sign In",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "languageSelectorButton",
+      "label": "language Selector Button",
+      "labelSource": "id-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#languageSelectorButton",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "language selector button",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1
+    },
+    "byAction": {
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Sign In"
+  ],
+  "buttons": [
+    "English",
+    "Learn about eBay",
+    "Search for Jobs",
+    "Sign in with Google",
+    "Sign in with email"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/workday/ebay__sr-software-engineer-auth-tech.png",
+    "html": "data/html/_unreached/workday/ebay__sr-software-engineer-auth-tech.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 982,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 121793,
+  "fingerprint": {
+    "labelSig": "2a6b05576593",
+    "shapeSig": "1d94131616a3",
+    "controlSig": "edf5c3c0cf93",
+    "controls": {
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "9464f0d17f45",
+    "typeCounts": {
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

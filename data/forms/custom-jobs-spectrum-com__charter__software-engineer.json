@@ -1,0 +1,977 @@
+{
+  "id": "icims__charter__software-engineer",
+  "group": "custom-jobs-spectrum-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "charter",
+    "board": "charter",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers-charter.icims.com/jobs/search?ss=1",
+    "startUrl": "https://careers-charter.icims.com/jobs/search?ss=1"
+  },
+  "platform": "icims",
+  "platformLabel": "jobs.spectrum.com",
+  "finalUrl": "https://jobs.spectrum.com/",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Join Spectrum | Explore Jobs in Tech, Sales, Customer Service & More",
+  "fieldCount": 12,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "search-keyword-485a39d67c",
+      "label": "keyword",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-keyword-485a39d67c",
+      "visible": true,
+      "normLabel": "keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://jobs.spectrum.com/search-jobs/locations?term=San&countryCodes=US&lat=&lon=",
+        "optionSelector": "li.section3__dropdown-li"
+      },
+      "name": "l",
+      "id": "search-location-485a39d67c",
+      "label": "location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-location-485a39d67c",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 5,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": [
+          "San Antonio, TX",
+          "San Diego, CA",
+          "San Jose, CA",
+          "San Francisco, CA",
+          "San Bernardino, San Bernardino, CA"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "San Antonio, TX",
+        "San Diego, CA",
+        "San Jose, CA",
+        "San Francisco, CA",
+        "San Bernardino, San Bernardino, CA"
+      ],
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "form-field-4b96c13c0e",
+      "label": "Upload resume (optional)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-4b96c13c0e",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "FirstName",
+      "id": "form-field-e887b36057",
+      "label": "First Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "First name *",
+      "autocomplete": "given-name",
+      "maxlength": "25",
+      "selector": "#form-field-e887b36057",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "LastName",
+      "id": "form-field-641676245e",
+      "label": "Last Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Last name *",
+      "autocomplete": "family-name",
+      "maxlength": "25",
+      "selector": "#form-field-641676245e",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "EmailAddress",
+      "id": "form-field-8c783ff607",
+      "label": "Email Address*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Email *",
+      "autocomplete": "email",
+      "maxlength": "255",
+      "selector": "#form-field-8c783ff607",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Custom-247315",
+      "id": "form-field-9dd4554fba",
+      "label": "Are you a member of the military community?",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-9dd4554fba",
+      "visible": true,
+      "options": [
+        "Select response",
+        "Yes, Currently Serving",
+        "Yes, Veteran",
+        "Yes, Military Spouse",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Select response",
+          "value": ""
+        },
+        {
+          "label": "Yes, Currently Serving",
+          "value": "Yes, Currently Serving"
+        },
+        {
+          "label": "Yes, Veteran",
+          "value": "Yes, Veteran"
+        },
+        {
+          "label": "Yes, Military Spouse",
+          "value": "Yes, Military Spouse"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "are you a member of the military community",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Category",
+      "id": "form-field-9795a0a23f-category",
+      "label": "Job Category",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-9795a0a23f-category",
+      "visible": true,
+      "options": [
+        "Select category",
+        "Account Management",
+        "Accounting and Finance",
+        "Administrative",
+        "Advertising Sales",
+        "Billing",
+        "Business Analysis",
+        "Business Development",
+        "Business Intelligence",
+        "Business Planning",
+        "Call Center",
+        "Claims",
+        "Communications",
+        "Construction",
+        "Content Development",
+        "Creative",
+        "Credit Services",
+        "Customer Operations",
+        "Customer Service",
+        "Database Administration",
+        "Design",
+        "Digital",
+        "Editorial",
+        "Engineering",
+        "Enterprise Sales",
+        "Facilities",
+        "Field Operations",
+        "Field Technician",
+        "Finance and Accounting",
+        "Financial Analyst",
+        "Human Resources",
+        "Information Technology",
+        "Inside Plant Facilities - Headend & Hub",
+        "Inside Sales",
+        "Intern",
+        "IT Management",
+        "IT Support",
+        "L&D",
+        "Leadership",
+        "Legal"
+      ],
+      "optionValues": [
+        {
+          "label": "Select category",
+          "value": ""
+        },
+        {
+          "label": "Account Management",
+          "value": "68047"
+        },
+        {
+          "label": "Accounting and Finance",
+          "value": "21654"
+        },
+        {
+          "label": "Administrative",
+          "value": "68002"
+        },
+        {
+          "label": "Advertising Sales",
+          "value": "21640"
+        },
+        {
+          "label": "Billing",
+          "value": "68075"
+        },
+        {
+          "label": "Business Analysis",
+          "value": "81593"
+        },
+        {
+          "label": "Business Development",
+          "value": "49856"
+        },
+        {
+          "label": "Business Intelligence",
+          "value": "81729"
+        },
+        {
+          "label": "Business Planning",
+          "value": "81594"
+        },
+        {
+          "label": "Call Center",
+          "value": "81264"
+        },
+        {
+          "label": "Claims",
+          "value": "83304"
+        },
+        {
+          "label": "Communications",
+          "value": "68088"
+        },
+        {
+          "label": "Construction",
+          "value": "21645"
+        },
+        {
+          "label": "Content Development",
+          "value": "49859"
+        },
+        {
+          "label": "Creative",
+          "value": "21647"
+        },
+        {
+          "label": "Credit Services",
+          "value": "81766"
+        },
+        {
+          "label": "Customer Operations",
+          "value": "46882"
+        },
+        {
+          "label": "Customer Service",
+          "value": "21648"
+        },
+        {
+          "label": "Database Administration",
+          "value": "81616"
+        },
+        {
+          "label": "Design",
+          "value": "68048"
+        },
+        {
+          "label": "Digital",
+          "value": "63602"
+        },
+        {
+          "label": "Editorial",
+          "value": "21650"
+        },
+        {
+          "label": "Engineering",
+          "value": "49861"
+        },
+        {
+          "label": "Enterprise Sales",
+          "value": "68062"
+        },
+        {
+          "label": "Facilities",
+          "value": "81901"
+        },
+        {
+          "label": "Field Operations",
+          "value": "45343"
+        },
+        {
+          "label": "Field Technician",
+          "value": "26211"
+        },
+        {
+          "label": "Finance and Accounting",
+          "value": "49863"
+        },
+        {
+          "label": "Financial Analyst",
+          "value": "81902"
+        },
+        {
+          "label": "Human Resources",
+          "value": "21656"
+        },
+        {
+          "label": "Information Technology",
+          "value": "26210"
+        },
+        {
+          "label": "Inside Plant Facilities - Headend & Hub",
+          "value": "81688"
+        },
+        {
+          "label": "Inside Sales",
+          "value": "68063"
+        },
+        {
+          "label": "Intern",
+          "value": "81339"
+        },
+        {
+          "label": "IT Management",
+          "value": "81595"
+        },
+        {
+          "label": "IT Support",
+          "value": "81415"
+        },
+        {
+          "label": "L&D",
+          "value": "8563552"
+        },
+        {
+          "label": "Leadership",
+          "value": "81578"
+        },
+        {
+          "label": "Legal",
+          "value": "21738"
+        }
+      ],
+      "optionCount": 74,
+      "normLabel": "job category",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Location",
+      "id": "form-field-9795a0a23f-location",
+      "label": "Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-9795a0a23f-location",
+      "visible": true,
+      "options": [
+        "Select location",
+        "Ada, Michigan",
+        "Akron, Ohio",
+        "Albany, New York",
+        "Albertville, Alabama",
+        "Alexander City, Alabama",
+        "Alhambra, California",
+        "Alpena, Michigan",
+        "Altamonte Springs, Florida",
+        "Altoona, Wisconsin",
+        "Amsterdam, New York",
+        "Anaheim, California",
+        "Apopka, Florida",
+        "Appleton, Wisconsin",
+        "Arden, North Carolina",
+        "Arkansas City, Kansas",
+        "Arlington, Texas",
+        "Asheville, North Carolina",
+        "Ashtabula, Ohio",
+        "Athens, Georgia",
+        "Athens, Ohio",
+        "Atlanta, Georgia",
+        "Atwater, Minnesota",
+        "Auburn, New York",
+        "Auburn, Alabama",
+        "Auburndale, Florida",
+        "Austin, Texas",
+        "Austin, Minnesota",
+        "Avon Lake, Ohio",
+        "Bakersfield, California",
+        "Bangor, Maine",
+        "Baraboo, Wisconsin",
+        "Barre, Vermont",
+        "Baton Rouge, Louisiana",
+        "Bay City, Michigan",
+        "Beavercreek Township, Ohio",
+        "Bell Gardens, California",
+        "Beloit, Wisconsin",
+        "Benbrook, Texas",
+        "Bentonville, Arkansas"
+      ],
+      "optionValues": [
+        {
+          "label": "Select location",
+          "value": ""
+        },
+        {
+          "label": "Ada, Michigan",
+          "value": "6252001-5001836-4983757"
+        },
+        {
+          "label": "Akron, Ohio",
+          "value": "6252001-5165418-5145476"
+        },
+        {
+          "label": "Albany, New York",
+          "value": "6252001-5128638-5106834"
+        },
+        {
+          "label": "Albertville, Alabama",
+          "value": "6252001-4829764-4829791"
+        },
+        {
+          "label": "Alexander City, Alabama",
+          "value": "6252001-4829764-4829843"
+        },
+        {
+          "label": "Alhambra, California",
+          "value": "6252001-5332921-5323060"
+        },
+        {
+          "label": "Alpena, Michigan",
+          "value": "6252001-5001836-4984075"
+        },
+        {
+          "label": "Altamonte Springs, Florida",
+          "value": "6252001-4155751-4145941"
+        },
+        {
+          "label": "Altoona, Wisconsin",
+          "value": "6252001-5279468-5243819"
+        },
+        {
+          "label": "Amsterdam, New York",
+          "value": "6252001-5128638-5107152"
+        },
+        {
+          "label": "Anaheim, California",
+          "value": "6252001-5332921-5323810"
+        },
+        {
+          "label": "Apopka, Florida",
+          "value": "6252001-4155751-4146166"
+        },
+        {
+          "label": "Appleton, Wisconsin",
+          "value": "6252001-5279468-5244080"
+        },
+        {
+          "label": "Arden, North Carolina",
+          "value": "6252001-4482348-4452886"
+        },
+        {
+          "label": "Arkansas City, Kansas",
+          "value": "6252001-4273857-4267661"
+        },
+        {
+          "label": "Arlington, Texas",
+          "value": "6252001-4736286-4671240"
+        },
+        {
+          "label": "Asheville, North Carolina",
+          "value": "6252001-4482348-4453066"
+        },
+        {
+          "label": "Ashtabula, Ohio",
+          "value": "6252001-5165418-5146089"
+        },
+        {
+          "label": "Athens, Georgia",
+          "value": "6252001-4197000-4180386"
+        },
+        {
+          "label": "Athens, Ohio",
+          "value": "6252001-5165418-4505542"
+        },
+        {
+          "label": "Atlanta, Georgia",
+          "value": "6252001-4197000-4180439"
+        },
+        {
+          "label": "Atwater, Minnesota",
+          "value": "6252001-5037779-5016813"
+        },
+        {
+          "label": "Auburn, New York",
+          "value": "6252001-5128638-5107505"
+        },
+        {
+          "label": "Auburn, Alabama",
+          "value": "6252001-4829764-4830796"
+        },
+        {
+          "label": "Auburndale, Florida",
+          "value": "6252001-4155751-4146389"
+        },
+        {
+          "label": "Austin, Texas",
+          "value": "6252001-4736286-4671654"
+        },
+        {
+          "label": "Austin, Minnesota",
+          "value": "6252001-5037779-5016884"
+        },
+        {
+          "label": "Avon Lake, Ohio",
+          "value": "6252001-5165418-5146286"
+        },
+        {
+          "label": "Bakersfield, California",
+          "value": "6252001-5332921-5325738"
+        },
+        {
+          "label": "Bangor, Maine",
+          "value": "6252001-4971068-4957280"
+        },
+        {
+          "label": "Baraboo, Wisconsin",
+          "value": "6252001-5279468-5244638"
+        },
+        {
+          "label": "Barre, Vermont",
+          "value": "6252001-5242283-5233500"
+        },
+        {
+          "label": "Baton Rouge, Louisiana",
+          "value": "6252001-4331987-4315588"
+        },
+        {
+          "label": "Bay City, Michigan",
+          "value": "6252001-5001836-4985180"
+        },
+        {
+          "label": "Beavercreek Township, Ohio",
+          "value": "6252001-5165418-4506015"
+        },
+        {
+          "label": "Bell Gardens, California",
+          "value": "6252001-5332921-5327319"
+        },
+        {
+          "label": "Beloit, Wisconsin",
+          "value": "6252001-5279468-5245387"
+        },
+        {
+          "label": "Benbrook, Texas",
+          "value": "6252001-4736286-4673482"
+        },
+        {
+          "label": "Bentonville, Arkansas",
+          "value": "6252001-4099753-4101260"
+        }
+      ],
+      "optionCount": 577,
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "form-field-c76f1687d4",
+      "label": "Upload resume",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-c76f1687d4",
+      "visible": true,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Custom-224489",
+      "label": "Spectrum employee *",
+      "labelSource": "legend",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "YES",
+        "NO"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "YES",
+          "value": "Yes"
+        },
+        {
+          "label": "NO",
+          "value": "No"
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"Custom-224489\"]",
+      "normLabel": "spectrum employee",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "EmailConfirm",
+      "id": "form-field-7",
+      "label": "Confirm Email",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-7",
+      "visible": true,
+      "normLabel": "confirm email",
+      "canonical": "email"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-search": 1,
+      "combobox": 1,
+      "file-upload": 2,
+      "text": 3,
+      "text-email": 1,
+      "native-select": 3,
+      "radio-group": 1
+    },
+    "byAction": {
+      "type": 5,
+      "click-type-wait-pick": 1,
+      "upload": 2,
+      "select-option": 3,
+      "choose-one": 1
+    },
+    "byOptionsSource": {
+      "network-on-type": 1,
+      "dom-static": 4
+    }
+  },
+  "widgetsProbed": 1,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 3
+    },
+    {
+      "widget": "typeahead",
+      "count": 3
+    },
+    {
+      "widget": "accordion",
+      "count": 20
+    }
+  ],
+  "sections": [
+    "SPECTRUM",
+    "Discover your next career",
+    "Sales opportunities",
+    "Open jobs:",
+    "Customer service opportunities",
+    "Open jobs:",
+    "Technician opportunities",
+    "Open jobs:",
+    "Corporate opportunities",
+    "Open jobs:",
+    "Technology & engineering opportunities",
+    "Open jobs:",
+    "Content, media & news opportunities",
+    "Open jobs:",
+    "Leaders start here",
+    "Sign up for job alerts",
+    "Areas of Interest",
+    "Spectrum employee *",
+    "footer navigation",
+    "Company",
+    "Newsroom",
+    "Investors",
+    "Careers",
+    "Community",
+    "Spectrum Sites",
+    "Public Policy",
+    "Browse by Business Unit"
+  ],
+  "buttons": [
+    "SHOP SPECTRUM SERVICES expand aux nav",
+    "Close",
+    "About Us",
+    "Opportunities",
+    "Resources",
+    "SEARCH JOBS",
+    "Watch Video",
+    "Watch Video",
+    "Sign Up",
+    "Add",
+    "Sign up"
+  ],
+  "resumeUpload": [
+    "Skip to main content SHOP SPECTRUM SERVICES expand aux nav Shop Services Spectrum TV, Internet & Voice Spectrum Mobile Spectrum Small Business Spectrum Enterprise Advertising Solutions Get Support Man",
+    "Sign up for job alerts Sign up to receive the latest career opportunities directly to your inbox. All fields marked with an asterisk (*) are required. First Name*Last Name*Email Address*Are you a memb",
+    "Sign up for job alerts Sign up to receive the latest career opportunities directly to your inbox. All fields marked with an asterisk (*) are required. First Name*Last Name*Email Address*Are you a memb",
+    "Sign up for job alerts Sign up to receive the latest career opportunities directly to your inbox. All fields marked with an asterisk (*) are required. First Name*Last Name*Email Address*Are you a memb",
+    "First Name*Last Name*Email Address*Are you a member of the military community?Select ResponseNoYes, Currently ServingYes, VeteranYes, Military SpouseAreas of InterestEnter a location and a category, a"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/icims/charter__software-engineer.png",
+    "html": "data/html/icims/charter__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 4,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 7289,
+    "lowestField": 5905.359375,
+    "coversAllFields": true
+  },
+  "ms": 16095,
+  "fingerprint": {
+    "labelSig": "172fa9481485",
+    "shapeSig": "df1690d4618d",
+    "controlSig": "6b2836fdf926",
+    "controls": {
+      "text-search": 1,
+      "combobox": 1,
+      "file-upload": 2,
+      "text": 3,
+      "text-email": 1,
+      "native-select": 3,
+      "radio-group": 1
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "1ef48085fe87",
+    "typeCounts": {
+      "search": 1,
+      "text": 4,
+      "file": 2,
+      "email": 1,
+      "select": 3,
+      "radio": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "resume",
+      "veteran_status"
+    ],
+    "requiredCount": 4,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:jobs.spectrum.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

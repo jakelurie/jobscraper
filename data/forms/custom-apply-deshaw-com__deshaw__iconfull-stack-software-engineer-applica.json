@@ -1,0 +1,2088 @@
+{
+  "id": "custom-apply-deshaw-com__deshaw__iconfull-stack-software-engineer-applica",
+  "group": "custom-apply-deshaw-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "deshaw",
+    "atsLabel": "deshaw",
+    "company": "deshaw",
+    "board": "deshaw",
+    "title": "iconFull-Stack Software Engineer: Application Engineering : The D. E. Shaw group seeks a full-stack software engineer to",
+    "location": "",
+    "jobUrl": "https://www.deshaw.com/careers/full-stack-software-engineer-application-engineering-5828",
+    "startUrl": "https://www.deshaw.com/careers/full-stack-software-engineer-application-engineering-5828"
+  },
+  "platform": "custom:apply.deshaw.com",
+  "detectedPlatform": "custom:apply.deshaw.com",
+  "platformLabel": "apply.deshaw.com",
+  "finalUrl": "https://apply.deshaw.com/ApplicationPage1.html?entity=DESCO&source=Website&jobs=5829",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Application - The D. E. Shaw Group",
+  "fieldCount": 45,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "legalFirstName",
+      "id": "legalFirstName",
+      "label": "First Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#legalFirstName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "legalMiddleName",
+      "id": "legalMiddleName",
+      "label": "Middle Name/Initial",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#legalMiddleName",
+      "visible": true,
+      "normLabel": "middle name/initial",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "legalLastName",
+      "id": "legalLastName",
+      "label": "Last Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#legalLastName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "preferredFirstName",
+      "id": "preferredFirstName",
+      "label": "Preferred First Name",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#preferredFirstName",
+      "visible": true,
+      "normLabel": "preferred first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "pronunciation",
+      "id": "pronunciation",
+      "label": "Name Pronunciation ?",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#pronunciation",
+      "visible": true,
+      "normLabel": "name pronunciation",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "email",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "linkedinUrl",
+      "id": "linkedinUrl",
+      "label": "LinkedIn Profile ?",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#linkedinUrl",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "text-tel",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "number",
+      "id": "number",
+      "label": "Primary Phone*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "+1 000 000 000",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#number",
+      "visible": true,
+      "normLabel": "primary phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "type",
+      "id": "type",
+      "label": "Phone Type",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#type",
+      "visible": true,
+      "options": [
+        "Mobile",
+        "Work",
+        "Home"
+      ],
+      "optionValues": [
+        {
+          "label": "Mobile",
+          "value": "Mobile"
+        },
+        {
+          "label": "Work",
+          "value": "Work"
+        },
+        {
+          "label": "Home",
+          "value": "Home"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "phone type",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "When are you available for employment?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(3) > div > fieldset > div",
+      "visible": true,
+      "normLabel": "when are you available for employment",
+      "canonical": "start_date"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Have you previously been employed by the D. E. Shaw group?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(4) > div > div > fieldset > div",
+      "visible": true,
+      "normLabel": "have you previously been employed by the d e shaw group",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Do you have any formal education experience?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div > fieldset > div",
+      "visible": true,
+      "normLabel": "do you have any formal education experience",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "university-autocomplete-input-0",
+      "label": "University* ?",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#university-autocomplete-input-0",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Stan",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "university",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "degree-status",
+      "id": "degree-select-box-0",
+      "label": "Degree Status* ?",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#degree-select-box-0",
+      "visible": true,
+      "options": [
+        "Select",
+        "Graduated",
+        "Incomplete",
+        "Now Attending/Enrolled",
+        "On Hold"
+      ],
+      "optionValues": [
+        {
+          "label": "Select",
+          "value": ""
+        },
+        {
+          "label": "Graduated",
+          "value": "Graduated"
+        },
+        {
+          "label": "Incomplete",
+          "value": "Incomplete"
+        },
+        {
+          "label": "Now Attending/Enrolled",
+          "value": "Now Attending/Enrolled"
+        },
+        {
+          "label": "On Hold",
+          "value": "On Hold"
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "degree status",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "degree-autocomplete-field-0",
+      "label": "Degree* ?",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#degree-autocomplete-field-0",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Bach",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "degree",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Field of Study (Max 2)* ?",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div > div:nth-of-type(2) > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "field of study max 2",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "majorGpaAchieved",
+      "id": "majorGpaAchieved-0",
+      "label": "GPA/Grade (Major) Achieved",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#majorGpaAchieved-0",
+      "visible": true,
+      "normLabel": "gpa/grade major achieved",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "majorGpaTotal",
+      "id": "majorGpaTotal-0",
+      "label": "GPA/Grade (Major) Total",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#majorGpaTotal-0",
+      "visible": true,
+      "normLabel": "gpa/grade major total",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cumulativeGpaAchieved",
+      "id": "cumulativeGpaAchieved-0",
+      "label": "GPA/Grade (Cumulative) Achieved",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cumulativeGpaAchieved-0",
+      "visible": true,
+      "normLabel": "gpa/grade cumulative achieved",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cumulativeGpaTotal",
+      "id": "cumulativeGpaTotal-0",
+      "label": "GPA/Grade (Cumulative) Total",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cumulativeGpaTotal-0",
+      "visible": true,
+      "normLabel": "gpa/grade cumulative total",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Honors: (Max 2) ?",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div > div:nth-of-type(2) > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "honors max 2",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Name of award/accomplishment",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div > div:nth-of-type(2) > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "name of award/accomplishment",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "text",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "awards",
+      "id": "otherAwards",
+      "label": "Please list any other awards or significant accomplishments you feel are relevant",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#otherAwards",
+      "visible": true,
+      "normLabel": "please list any other awards or significant accomplishments ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "employerName",
+      "id": "employerName-0",
+      "label": "Employer Name",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#employerName-0",
+      "visible": true,
+      "normLabel": "employer name",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "jobTitle",
+      "id": "jobTitle-0",
+      "label": "Job Title",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#jobTitle-0",
+      "visible": true,
+      "normLabel": "job title",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fromDateMonth",
+      "id": "",
+      "label": "Employed From Month",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"fromDateMonth\"]",
+      "visible": true,
+      "options": [
+        "Month",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "optionValues": [
+        {
+          "label": "Month",
+          "value": ""
+        },
+        {
+          "label": "January",
+          "value": "1"
+        },
+        {
+          "label": "February",
+          "value": "2"
+        },
+        {
+          "label": "March",
+          "value": "3"
+        },
+        {
+          "label": "April",
+          "value": "4"
+        },
+        {
+          "label": "May",
+          "value": "5"
+        },
+        {
+          "label": "June",
+          "value": "6"
+        },
+        {
+          "label": "July",
+          "value": "7"
+        },
+        {
+          "label": "August",
+          "value": "8"
+        },
+        {
+          "label": "September",
+          "value": "9"
+        },
+        {
+          "label": "October",
+          "value": "10"
+        },
+        {
+          "label": "November",
+          "value": "11"
+        },
+        {
+          "label": "December",
+          "value": "12"
+        }
+      ],
+      "optionCount": 13,
+      "normLabel": "employed from month",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fromDateYear",
+      "id": "",
+      "label": "Employed From Year",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"fromDateYear\"]",
+      "visible": true,
+      "options": [
+        "Year",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996",
+        "1995",
+        "1994",
+        "1993",
+        "1992",
+        "1991",
+        "1990",
+        "1989",
+        "1988"
+      ],
+      "optionValues": [
+        {
+          "label": "Year",
+          "value": ""
+        },
+        {
+          "label": "2026",
+          "value": "2026"
+        },
+        {
+          "label": "2025",
+          "value": "2025"
+        },
+        {
+          "label": "2024",
+          "value": "2024"
+        },
+        {
+          "label": "2023",
+          "value": "2023"
+        },
+        {
+          "label": "2022",
+          "value": "2022"
+        },
+        {
+          "label": "2021",
+          "value": "2021"
+        },
+        {
+          "label": "2020",
+          "value": "2020"
+        },
+        {
+          "label": "2019",
+          "value": "2019"
+        },
+        {
+          "label": "2018",
+          "value": "2018"
+        },
+        {
+          "label": "2017",
+          "value": "2017"
+        },
+        {
+          "label": "2016",
+          "value": "2016"
+        },
+        {
+          "label": "2015",
+          "value": "2015"
+        },
+        {
+          "label": "2014",
+          "value": "2014"
+        },
+        {
+          "label": "2013",
+          "value": "2013"
+        },
+        {
+          "label": "2012",
+          "value": "2012"
+        },
+        {
+          "label": "2011",
+          "value": "2011"
+        },
+        {
+          "label": "2010",
+          "value": "2010"
+        },
+        {
+          "label": "2009",
+          "value": "2009"
+        },
+        {
+          "label": "2008",
+          "value": "2008"
+        },
+        {
+          "label": "2007",
+          "value": "2007"
+        },
+        {
+          "label": "2006",
+          "value": "2006"
+        },
+        {
+          "label": "2005",
+          "value": "2005"
+        },
+        {
+          "label": "2004",
+          "value": "2004"
+        },
+        {
+          "label": "2003",
+          "value": "2003"
+        },
+        {
+          "label": "2002",
+          "value": "2002"
+        },
+        {
+          "label": "2001",
+          "value": "2001"
+        },
+        {
+          "label": "2000",
+          "value": "2000"
+        },
+        {
+          "label": "1999",
+          "value": "1999"
+        },
+        {
+          "label": "1998",
+          "value": "1998"
+        },
+        {
+          "label": "1997",
+          "value": "1997"
+        },
+        {
+          "label": "1996",
+          "value": "1996"
+        },
+        {
+          "label": "1995",
+          "value": "1995"
+        },
+        {
+          "label": "1994",
+          "value": "1994"
+        },
+        {
+          "label": "1993",
+          "value": "1993"
+        },
+        {
+          "label": "1992",
+          "value": "1992"
+        },
+        {
+          "label": "1991",
+          "value": "1991"
+        },
+        {
+          "label": "1990",
+          "value": "1990"
+        },
+        {
+          "label": "1989",
+          "value": "1989"
+        },
+        {
+          "label": "1988",
+          "value": "1988"
+        }
+      ],
+      "optionCount": 58,
+      "normLabel": "employed from year",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "toDateMonth",
+      "id": "",
+      "label": "Employed To Month",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"toDateMonth\"]",
+      "visible": true,
+      "options": [
+        "Month",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "optionValues": [
+        {
+          "label": "Month",
+          "value": ""
+        },
+        {
+          "label": "January",
+          "value": "1"
+        },
+        {
+          "label": "February",
+          "value": "2"
+        },
+        {
+          "label": "March",
+          "value": "3"
+        },
+        {
+          "label": "April",
+          "value": "4"
+        },
+        {
+          "label": "May",
+          "value": "5"
+        },
+        {
+          "label": "June",
+          "value": "6"
+        },
+        {
+          "label": "July",
+          "value": "7"
+        },
+        {
+          "label": "August",
+          "value": "8"
+        },
+        {
+          "label": "September",
+          "value": "9"
+        },
+        {
+          "label": "October",
+          "value": "10"
+        },
+        {
+          "label": "November",
+          "value": "11"
+        },
+        {
+          "label": "December",
+          "value": "12"
+        }
+      ],
+      "optionCount": 13,
+      "normLabel": "employed to month",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "toDateYear",
+      "id": "",
+      "label": "Employed To Year",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"toDateYear\"]",
+      "visible": true,
+      "options": [
+        "Year",
+        "2026",
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996",
+        "1995",
+        "1994",
+        "1993",
+        "1992",
+        "1991",
+        "1990",
+        "1989",
+        "1988"
+      ],
+      "optionValues": [
+        {
+          "label": "Year",
+          "value": ""
+        },
+        {
+          "label": "2026",
+          "value": "2026"
+        },
+        {
+          "label": "2025",
+          "value": "2025"
+        },
+        {
+          "label": "2024",
+          "value": "2024"
+        },
+        {
+          "label": "2023",
+          "value": "2023"
+        },
+        {
+          "label": "2022",
+          "value": "2022"
+        },
+        {
+          "label": "2021",
+          "value": "2021"
+        },
+        {
+          "label": "2020",
+          "value": "2020"
+        },
+        {
+          "label": "2019",
+          "value": "2019"
+        },
+        {
+          "label": "2018",
+          "value": "2018"
+        },
+        {
+          "label": "2017",
+          "value": "2017"
+        },
+        {
+          "label": "2016",
+          "value": "2016"
+        },
+        {
+          "label": "2015",
+          "value": "2015"
+        },
+        {
+          "label": "2014",
+          "value": "2014"
+        },
+        {
+          "label": "2013",
+          "value": "2013"
+        },
+        {
+          "label": "2012",
+          "value": "2012"
+        },
+        {
+          "label": "2011",
+          "value": "2011"
+        },
+        {
+          "label": "2010",
+          "value": "2010"
+        },
+        {
+          "label": "2009",
+          "value": "2009"
+        },
+        {
+          "label": "2008",
+          "value": "2008"
+        },
+        {
+          "label": "2007",
+          "value": "2007"
+        },
+        {
+          "label": "2006",
+          "value": "2006"
+        },
+        {
+          "label": "2005",
+          "value": "2005"
+        },
+        {
+          "label": "2004",
+          "value": "2004"
+        },
+        {
+          "label": "2003",
+          "value": "2003"
+        },
+        {
+          "label": "2002",
+          "value": "2002"
+        },
+        {
+          "label": "2001",
+          "value": "2001"
+        },
+        {
+          "label": "2000",
+          "value": "2000"
+        },
+        {
+          "label": "1999",
+          "value": "1999"
+        },
+        {
+          "label": "1998",
+          "value": "1998"
+        },
+        {
+          "label": "1997",
+          "value": "1997"
+        },
+        {
+          "label": "1996",
+          "value": "1996"
+        },
+        {
+          "label": "1995",
+          "value": "1995"
+        },
+        {
+          "label": "1994",
+          "value": "1994"
+        },
+        {
+          "label": "1993",
+          "value": "1993"
+        },
+        {
+          "label": "1992",
+          "value": "1992"
+        },
+        {
+          "label": "1991",
+          "value": "1991"
+        },
+        {
+          "label": "1990",
+          "value": "1990"
+        },
+        {
+          "label": "1989",
+          "value": "1989"
+        },
+        {
+          "label": "1988",
+          "value": "1988"
+        }
+      ],
+      "optionCount": 58,
+      "normLabel": "employed to year",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Is this your current employer?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div:nth-of-type(2) > fieldset > div",
+      "visible": true,
+      "normLabel": "is this your current employer",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Are you bound to any non-compete agreement?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div > fieldset > div",
+      "visible": true,
+      "normLabel": "are you bound to any non compete agreement",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "currency",
+      "id": "salaryCurrency",
+      "label": "Currency:",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#salaryCurrency",
+      "visible": true,
+      "options": [
+        "ZAR",
+        "JPY",
+        "NGN",
+        "MXN",
+        "GBP",
+        "CNY",
+        "INR",
+        "SGD",
+        "HKD",
+        "USD",
+        "AUD",
+        "EUR",
+        "CAD"
+      ],
+      "optionValues": [
+        {
+          "label": "ZAR",
+          "value": "ZAR"
+        },
+        {
+          "label": "JPY",
+          "value": "JPY"
+        },
+        {
+          "label": "NGN",
+          "value": "NGN"
+        },
+        {
+          "label": "MXN",
+          "value": "MXN"
+        },
+        {
+          "label": "GBP",
+          "value": "GBP"
+        },
+        {
+          "label": "CNY",
+          "value": "CNY"
+        },
+        {
+          "label": "INR",
+          "value": "INR"
+        },
+        {
+          "label": "SGD",
+          "value": "SGD"
+        },
+        {
+          "label": "HKD",
+          "value": "HKD"
+        },
+        {
+          "label": "USD",
+          "value": "USD"
+        },
+        {
+          "label": "AUD",
+          "value": "AUD"
+        },
+        {
+          "label": "EUR",
+          "value": "EUR"
+        },
+        {
+          "label": "CAD",
+          "value": "CAD"
+        }
+      ],
+      "optionCount": 13,
+      "normLabel": "currency",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "minExpectedSalary",
+      "id": "minExpectedSalary",
+      "label": "Minimum base salary expected",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "Bottom of the Range",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#minExpectedSalary",
+      "visible": true,
+      "normLabel": "minimum base salary expected",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "maxExpectedSalary",
+      "id": "maxExpectedSalary",
+      "label": "Maximum base salary expected",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "Top of the Range",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#maxExpectedSalary",
+      "visible": true,
+      "normLabel": "maximum base salary expected",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "currency",
+      "id": "bonusCurrency",
+      "label": "Currency:",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#bonusCurrency",
+      "visible": true,
+      "options": [
+        "ZAR",
+        "JPY",
+        "NGN",
+        "MXN",
+        "GBP",
+        "CNY",
+        "INR",
+        "SGD",
+        "HKD",
+        "USD",
+        "AUD",
+        "EUR",
+        "CAD"
+      ],
+      "optionValues": [
+        {
+          "label": "ZAR",
+          "value": "ZAR"
+        },
+        {
+          "label": "JPY",
+          "value": "JPY"
+        },
+        {
+          "label": "NGN",
+          "value": "NGN"
+        },
+        {
+          "label": "MXN",
+          "value": "MXN"
+        },
+        {
+          "label": "GBP",
+          "value": "GBP"
+        },
+        {
+          "label": "CNY",
+          "value": "CNY"
+        },
+        {
+          "label": "INR",
+          "value": "INR"
+        },
+        {
+          "label": "SGD",
+          "value": "SGD"
+        },
+        {
+          "label": "HKD",
+          "value": "HKD"
+        },
+        {
+          "label": "USD",
+          "value": "USD"
+        },
+        {
+          "label": "AUD",
+          "value": "AUD"
+        },
+        {
+          "label": "EUR",
+          "value": "EUR"
+        },
+        {
+          "label": "CAD",
+          "value": "CAD"
+        }
+      ],
+      "optionCount": 13,
+      "normLabel": "currency",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "minAnnualizedBonus",
+      "id": "minAnnualizedBonus",
+      "label": "Minimum Annual bonus expected",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "Bottom of the Range",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#minAnnualizedBonus",
+      "visible": true,
+      "normLabel": "minimum annual bonus expected",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "maxAnnualizedBonus",
+      "id": "maxAnnualizedBonus",
+      "label": "Maximum Annual bonus expected",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "Top of the Range",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#maxAnnualizedBonus",
+      "visible": true,
+      "normLabel": "maximum annual bonus expected",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "Resume",
+      "label": "Upload Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#Resume",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "coverLetter",
+      "id": "coverLetter",
+      "label": "Upload Cover Letter",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#coverLetter",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload cover letter",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "others",
+      "id": "others",
+      "label": "Other",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#others",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "other",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Will you require the firm's sponsorship to obtain, maintain, or extend your employment authorization in the location(s) for which you are applying?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "section:nth-of-type(8) > div > div:nth-of-type(1) > fieldset > div",
+      "visible": true,
+      "normLabel": "will you require the firm s sponsorship to obtain maintain o",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "text",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "explanation",
+      "id": "firm-sponsorship-req-explanation",
+      "label": "Please explain",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#firm-sponsorship-req-explanation",
+      "visible": true,
+      "normLabel": "please explain",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "How did you learn about us?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > div > fieldset > div",
+      "visible": true,
+      "normLabel": "how did you learn about us",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "text",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "comments",
+      "id": "source-comments",
+      "label": "Please Specify:",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#source-comments",
+      "visible": true,
+      "normLabel": "please specify",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Do you consent to being recorded?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "section:nth-of-type(10) > div > div > fieldset > div",
+      "visible": true,
+      "normLabel": "do you consent to being recorded",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 16,
+      "text-email": 1,
+      "text-tel": 1,
+      "native-select": 8,
+      "combobox": 5,
+      "text-number": 8,
+      "textarea": 3,
+      "file-upload": 3
+    },
+    "byAction": {
+      "type": 34,
+      "select-option": 8,
+      "upload": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 8,
+      "none-observed": 5
+    }
+  },
+  "widgetsProbed": 5,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 5
+    },
+    {
+      "widget": "typeahead",
+      "count": 7
+    }
+  ],
+  "sections": [
+    "Online Application",
+    "Personal Information",
+    "Educational Background",
+    "Awards",
+    "Employment History",
+    "Non-Compete Agreement Information",
+    "Compensation Expectations",
+    "Documents",
+    "Sponsorship",
+    "How did you learn about us?",
+    "Consent to Record"
+  ],
+  "buttons": [
+    "Add Field of Study",
+    "Add Honors",
+    "Add Education",
+    "Add Another Award",
+    "Add Another Employer",
+    "Finish"
+  ],
+  "resumeUpload": [
+    "Skip to contentPrint formThis session will expire at 11:13 PM?Please submit by this time to avoid losing your progress. The time taken to complete your application does not factor into our assessment ",
+    "Skip to contentPrint formThis session will expire at 11:13 PM?Please submit by this time to avoid losing your progress. The time taken to complete your application does not factor into our assessment ",
+    "Print formThis session will expire at 11:13 PM?Please submit by this time to avoid losing your progress. The time taken to complete your application does not factor into our assessment process, and yo",
+    "Print formThis session will expire at 11:13 PM?Please submit by this time to avoid losing your progress. The time taken to complete your application does not factor into our assessment process, and yo",
+    "Print formThis session will expire at 11:13 PM?Please submit by this time to avoid losing your progress. The time taken to complete your application does not factor into our assessment process, and yo"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_duplicates/custom-apply-deshaw-com/deshaw__iconfull-stack-software-engineer-applica.png",
+    "html": "data/html/_duplicates/custom-apply-deshaw-com/deshaw__iconfull-stack-software-engineer-applica.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 11,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 5201,
+    "lowestField": 4974.484375,
+    "coversAllFields": true
+  },
+  "ms": 62017,
+  "fingerprint": {
+    "labelSig": "9f6de9c408af",
+    "shapeSig": "be367f5a33c3",
+    "controlSig": "2ffa72b896b6",
+    "controls": {
+      "text": 16,
+      "text-email": 1,
+      "text-tel": 1,
+      "native-select": 8,
+      "combobox": 5,
+      "text-number": 8,
+      "textarea": 3,
+      "file-upload": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b77330ad46b9",
+    "typeCounts": {
+      "text": 16,
+      "email": 1,
+      "tel": 1,
+      "select": 8,
+      "div": 8,
+      "number": 8,
+      "file": 3
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "education",
+      "email",
+      "employer",
+      "first_name",
+      "last_name",
+      "linkedin",
+      "phone",
+      "resume",
+      "salary",
+      "start_date",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 13,
+    "customQuestionCount": 20,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": true,
+  "nonUS": false
+}

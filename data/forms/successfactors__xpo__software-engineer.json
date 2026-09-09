@@ -1,0 +1,278 @@
+{
+  "id": "successfactors__xpo__software-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "xpo",
+    "board": "xpo",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.xpo.com/search/?q=engineer",
+    "startUrl": "https://jobs.xpo.com/search/?q=engineer"
+  },
+  "platform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career4.successfactors.com/careers?company=xpoenterprP",
+  "applyTrail": [
+    "opened posting: Lead Engineer, Software Engineering (Mobile Development)",
+    "clicked: Apply now »",
+    "clicked: Create an account",
+    "clicked: Click here to apply"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Lead Engineer, Software Engineering (Mobile Development) Job Details | XPO",
+  "fieldCount": 4,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "q",
+      "id": "",
+      "label": "Search by Keyword",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"q\"]",
+      "visible": true,
+      "normLabel": "search by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "geolocation",
+      "id": "",
+      "label": "Search by Postal Code",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "50",
+      "selector": "input[name=\"geolocation\"]",
+      "visible": true,
+      "widgetHint": "twitter-typeahead",
+      "normLabel": "search by postal code",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "d",
+      "id": "",
+      "label": "Distance",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"d\"]",
+      "visible": true,
+      "options": [
+        "5 mi",
+        "10 mi",
+        "15 mi",
+        "20 mi",
+        "25 mi",
+        "50 mi",
+        "75 mi"
+      ],
+      "optionValues": [
+        {
+          "label": "5 mi",
+          "value": "5"
+        },
+        {
+          "label": "10 mi",
+          "value": "10"
+        },
+        {
+          "label": "15 mi",
+          "value": "15"
+        },
+        {
+          "label": "20 mi",
+          "value": "20"
+        },
+        {
+          "label": "25 mi",
+          "value": "25"
+        },
+        {
+          "label": "50 mi",
+          "value": "50"
+        },
+        {
+          "label": "75 mi",
+          "value": "75"
+        }
+      ],
+      "optionCount": 7,
+      "normLabel": "distance",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "frequency",
+      "id": "j_idt793",
+      "label": "Select how often (in days) to receive an alert:",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "2",
+      "selector": "#j_idt793",
+      "visible": true,
+      "normLabel": "select how often in days to receive an alert",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 1,
+      "combobox": 1,
+      "native-select": 1,
+      "text-number": 1
+    },
+    "byAction": {
+      "type": 2,
+      "click-type-pick": 1,
+      "select-option": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1,
+      "dom-static": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Lead Engineer, Software Engineering (Mobile Development)"
+  ],
+  "buttons": [
+    "Search Jobs",
+    "Language",
+    "Search by Location",
+    "Search Jobs",
+    "Clear",
+    "Apply now »",
+    "Apply now »",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab."
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/xpo__software-engineer.png",
+    "html": "data/html/_unreached/successfactors/xpo__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1012,
+    "lowestField": 382.65625,
+    "coversAllFields": true
+  },
+  "ms": 104648,
+  "fingerprint": {
+    "labelSig": "dd12a6e8d58c",
+    "shapeSig": "31f1bb9c8a02",
+    "controlSig": "7160b608961a",
+    "controls": {
+      "text": 1,
+      "combobox": 1,
+      "native-select": 1,
+      "text-number": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "6afe7ddcce10",
+    "typeCounts": {
+      "text": 2,
+      "select": 1,
+      "number": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 3,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "successfactors",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

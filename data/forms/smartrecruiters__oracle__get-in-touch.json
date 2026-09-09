@@ -1,0 +1,90 @@
+{
+  "id": "smartrecruiters__oracle__get-in-touch",
+  "group": "smartrecruiters",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": true,
+  "status": 403,
+  "seed": {
+    "ats": "smartrecruiters",
+    "atsLabel": "smartrecruiters",
+    "company": "oracle",
+    "board": "oracle",
+    "title": "Get in touch!",
+    "location": "",
+    "jobUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/oracle/job/723868186?lang=en&sid=&dcr_ci=oracle",
+    "startUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/oracle/job/723868186?lang=en&sid=&dcr_ci=oracle"
+  },
+  "platform": "smartrecruiters",
+  "detectedPlatform": "smartrecruiters",
+  "platformLabel": "SmartRecruiters",
+  "finalUrl": "https://jobs.smartrecruiters.com/oneclick-ui/company/oracle/job/723868186?lang=en&sid=&dcr_ci=oracle",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": true,
+  "pageTitle": "You have been blocked",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [
+    "Submit feedback."
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/smartrecruiters/oracle__get-in-touch.png",
+    "html": "data/html/_unreached/smartrecruiters/oracle__get-in-touch.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1022,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 13279,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "3b7568ff8d12",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

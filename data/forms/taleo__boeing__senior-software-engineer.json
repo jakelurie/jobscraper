@@ -1,0 +1,314 @@
+{
+  "id": "taleo__boeing__senior-software-engineer",
+  "group": "taleo",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "boeing",
+    "atsLabel": "Boeing careers",
+    "company": "boeing",
+    "board": "boeing",
+    "title": "Senior Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.boeing.com/job/annapolis-junction/senior-software-engineer/185/98722549872",
+    "startUrl": "https://jobs.boeing.com/job/annapolis-junction/senior-software-engineer/185/98722549872"
+  },
+  "platform": "taleo",
+  "detectedPlatform": "taleo",
+  "platformLabel": "Oracle Taleo",
+  "finalUrl": "https://phh.tbe.taleo.net/phh01/ats/careers/v2/applyRequisition?org=BIA&cws=38&rid=7589",
+  "applyTrail": [
+    "clicked: APPLY NOW",
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Register",
+  "fieldCount": 7,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Continue as a guest",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div > div > div",
+      "visible": true,
+      "normLabel": "continue as a guest",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "email",
+      "label": "Email",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "75",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cwsPassword",
+      "id": "cwsPassword",
+      "label": "Password",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "30",
+      "selector": "#cwsPassword",
+      "visible": true,
+      "normLabel": "password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cwsPassword_2",
+      "id": "cwsPassword_2",
+      "label": "Re-type new password:",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "30",
+      "selector": "#cwsPassword_2",
+      "visible": true,
+      "normLabel": "re type new password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "attachment_template",
+      "id": "",
+      "label": "attachment_template",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"attachment_template\"]",
+      "visible": false,
+      "accept": ".gif, .rtf, .doc, .pdf, .zip, .docx, .csv, .txt, .gz, .xlsx, .xls, .ppt, .pptx, ",
+      "multiple": false,
+      "normLabel": "attachment template",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume_template",
+      "id": "",
+      "label": "resume_template",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"resume_template\"]",
+      "visible": false,
+      "accept": ".doc,.docx,.rtf,.pdf,.txt,",
+      "multiple": false,
+      "normLabel": "resume template",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resumeLocalFile",
+      "label": "resume",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resumeLocalFile",
+      "visible": false,
+      "accept": ".doc,.docx,.rtf,.pdf,.txt,",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 1,
+      "text-email": 1,
+      "text-password": 2,
+      "file-upload": 3
+    },
+    "byAction": {
+      "type": 4,
+      "upload": 3
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "stepper",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "1. Register",
+    "Email Registration",
+    "Applicant Privacy Policy"
+  ],
+  "buttons": [
+    "New Search",
+    "Login Page"
+  ],
+  "resumeUpload": [
+    "New Search Login Page 1 of 5 Senior Software Engineer Location MD - Annapolis Junction # of Openings 1 function checkCandidate(orgCode, localStr, candEmail, cwsId, reqId) { DWRFacade.checkCandidate(or",
+    "1 of 5 Senior Software Engineer Location MD - Annapolis Junction # of Openings 1 function checkCandidate(orgCode, localStr, candEmail, cwsId, reqId) { DWRFacade.checkCandidate(orgCode, localStr, candE",
+    "Senior Software Engineer Location MD - Annapolis Junction # of Openings 1 function checkCandidate(orgCode, localStr, candEmail, cwsId, reqId) { DWRFacade.checkCandidate(orgCode, localStr, candEmail, {",
+    "function checkCandidate(orgCode, localStr, candEmail, cwsId, reqId) { DWRFacade.checkCandidate(orgCode, localStr, candEmail, { callback: function(isError) { if (isError) { window.location.replace('htt",
+    "Your Information Save Time Use your resume or LinkedIn Profile to fill in many of the fields on this application form. Upload resume api_key: 78mvaml73fvwo4 extensions:AwliWidget@https://www.linkedin."
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/taleo/boeing__senior-software-engineer.png",
+    "html": "data/html/taleo/boeing__senior-software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1449,
+    "lowestField": 715.25,
+    "coversAllFields": true
+  },
+  "ms": 53809,
+  "fingerprint": {
+    "labelSig": "12dd46d48cfc",
+    "shapeSig": "bb96cbe12924",
+    "controlSig": "0b8b820b3d98",
+    "controls": {
+      "text": 1,
+      "text-email": 1,
+      "text-password": 2,
+      "file-upload": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "ef122cf54a91",
+    "typeCounts": {
+      "div": 1,
+      "email": 1,
+      "password": 2,
+      "file": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "password",
+      "resume"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

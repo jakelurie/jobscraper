@@ -1,0 +1,542 @@
+{
+  "id": "custom-shopify-com__bt-shopify__commercial-drive-merchant-acquisition-an",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "Shopify careers",
+    "company": "bt-shopify",
+    "board": "shopify",
+    "title": "COMMERCIAL Drive merchant acquisition and value acceleration to scale the world’s best commerce platform. TYPES OF ROLES",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/disciplines/commercial",
+    "startUrl": "https://www.shopify.com/careers/disciplines/commercial"
+  },
+  "platform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/senior-solution-engineer-mid-market_66782489-583f-4df1-bda6-b20aa34351d2",
+  "applyTrail": [
+    "opened posting: Senior Solution Engineer, Mid Market REMOTE - AMERICAS",
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Solution Engineer, Mid Market - Shopify",
+  "fieldCount": 14,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "a9df3d35-6f21-4f78-af70-4006dd0064f3",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#a9df3d35-6f21-4f78-af70-4006dd0064f3",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "0fd377d4-86b2-4cd6-8359-3a40e319c437",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "1c2acd6f-f5c3-4e38-a696-fdd10cc1ba0e",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_resume\"]",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "88d405a9-5cb5-4320-beb2-75dc9491b373",
+      "id": "88d405a9-5cb5-4320-beb2-75dc9491b373",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"88d405a9-5cb5-4320-beb2-75dc9491b373\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "e5df5cea-218d-4d67-9124-4337c2b7aed8",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#e5df5cea-218d-4d67-9124-4337c2b7aed8",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "c3bf195a-b596-44e2-9cc2-127bd9aead3e",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"c3bf195a-b596-44e2-9cc2-127bd9aead3e\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "a87c3b29-5f73-4626-bf93-240a9f02946c",
+      "id": "a87c3b29-5f73-4626-bf93-240a9f02946c",
+      "label": "Which track are you interested in pursuing with Shopify?* Individual Contributor People Manager",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#a87c3b29-5f73-4626-bf93-240a9f02946c",
+      "visible": true,
+      "options": [
+        "Individual Contributor",
+        "People Manager"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Individual Contributor",
+          "value": "Individual Contributor"
+        },
+        {
+          "label": "People Manager",
+          "value": "People Manager"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which track are you interested in pursuing with shopify indi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "608ed033-e6f7-48ac-9e44-6f5b428abd1d",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"608ed033-e6f7-48ac-9e44-6f5b428abd1d\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "d453c3c1-c64a-4f30-8097-800b83f387b6",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"d453c3c1-c64a-4f30-8097-800b83f387b6\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "ab529c39-0b2d-4689-b55c-ce369694f20a",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"ab529c39-0b2d-4689-b55c-ce369694f20a\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "8c42a409-a013-4d47-a946-5b9d949af626",
+      "id": "9e84dbca-4826-4db1-9a94-ae5fcbc0ef6b",
+      "label": "Describe your most complex ecommerce sale. What made it challenging and how did you navigate the technical and business requirements?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"8c42a409-a013-4d47-a946-5b9d949af626\"]",
+      "visible": true,
+      "normLabel": "describe your most complex ecommerce sale what made it chall",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "36274cf8-ea57-4927-99b7-f991f25430f1",
+      "id": "9e84dbca-4826-4db1-9a94-ae5fcbc0ef6b",
+      "label": "What's your take on headless vs Liquid-based Shopify storefronts? When would you recommend each approach to a merchant?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"36274cf8-ea57-4927-99b7-f991f25430f1\"]",
+      "visible": true,
+      "normLabel": "what s your take on headless vs liquid based shopify storefr",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eb8e174b-91d8-4fe6-9534-8e77db0a81d7",
+      "id": "9e84dbca-4826-4db1-9a94-ae5fcbc0ef6b",
+      "label": "Describe a recent experience where you needed to learn a new technology or platform from scratch. Walk us through your learning approach, the challenges you encountered, and how you ultimately mastere",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"eb8e174b-91d8-4fe6-9534-8e77db0a81d7\"]",
+      "visible": true,
+      "normLabel": "describe a recent experience where you needed to learn a new",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "790b6bda-6d96-40c0-9241-c9cc49c96d59",
+      "id": "9e84dbca-4826-4db1-9a94-ae5fcbc0ef6b",
+      "label": "BONUS QUESTION: Walk me through integrating an ERP system with Shopify Plus for a multi-channel retailer. What are the key considerations for inventory sync, order management, and financial reconcilia",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"790b6bda-6d96-40c0-9241-c9cc49c96d59\"]",
+      "visible": true,
+      "normLabel": "bonus question walk me through integrating an erp system wit",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 1,
+      "textarea": 4
+    },
+    "byAction": {
+      "type": 8,
+      "upload": 1,
+      "check-many": 4,
+      "select-option": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Solution Engineer, Mid Market",
+    "About the role",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Role Specific Questions",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackSenior Solution Engineer, Mid MarketRemote - AmericasSalesApply NowAbout the roleShopify’s Solutions Engineers are trusted technical advisors who blend deep technical curiosity, strong business ac",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employment?Which track are yo"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/bt-shopify__commercial-drive-merchant-acquisition-an.png",
+    "html": "data/html/custom-shopify-com/bt-shopify__commercial-drive-merchant-acquisition-an.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5481,
+    "lowestField": 4742.765625,
+    "coversAllFields": true
+  },
+  "ms": 59587,
+  "fingerprint": {
+    "labelSig": "caf8fe52ed05",
+    "shapeSig": "359c5a0c89e5",
+    "controlSig": "65a9843b50ba",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 1,
+      "textarea": 4
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b9d57cfc665f",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "checkbox": 4,
+      "select": 1,
+      "textarea": 4
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 12,
+    "customQuestionCount": 7,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:shopify.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

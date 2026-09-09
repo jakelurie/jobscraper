@@ -1,0 +1,101 @@
+{
+  "id": "jobvite__nutanix__software-engineer",
+  "group": "custom-next-nutanix-com",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "jobvite",
+    "atsLabel": "jobvite",
+    "company": "nutanix",
+    "board": "nutanix",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.jobvite.com/nutanix/search",
+    "startUrl": "https://jobs.jobvite.com/nutanix/search"
+  },
+  "platform": "jobvite",
+  "platformLabel": "next.nutanix.com",
+  "finalUrl": "https://next.nutanix.com/intelligent-operations-26/unregister-a-cluster-from-prism-central-33656",
+  "applyTrail": [
+    "clicked: Next",
+    "clicked: Next Community",
+    "clicked: Unregister cluster from prism central i need to unregister cluster from PC that ",
+    "clicked: How to unregister a cluster from Prism Central",
+    "saved-session:jobvite__nutanix.json",
+    "clicked: Unregister from Prism Central and cleanup | Force unregister PE from PC after PC",
+    "clicked: How to register a cluster with Prism Central (PC)",
+    "clicked: https://next.nutanix.com/prism-infrastructure-management-26/unregister-a-cluster"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": true,
+  "pageTitle": "Unregister a cluster from Prism Central | Nutanix Community",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/jobvite/nutanix__software-engineer.png",
+    "html": "data/html/_unreached/jobvite/nutanix__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 2211,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 90724,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "64c850bc9e82",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:next.nutanix.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

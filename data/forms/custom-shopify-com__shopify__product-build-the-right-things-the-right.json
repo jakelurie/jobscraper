@@ -1,0 +1,838 @@
+{
+  "id": "custom-shopify-com__shopify__product-build-the-right-things-the-right",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "Shopify careers",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "PRODUCT Build the right things, the right way, at the right time. TYPES OF ROLES: Product Management Explore",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/disciplines/product",
+    "startUrl": "https://www.shopify.com/careers/disciplines/product"
+  },
+  "platform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/product-management_a69fc195-de20-42f5-868d-2cf7d7182836",
+  "applyTrail": [
+    "opened posting: Product Management Lead multidisciplinary teams to manage the entire product lifecycle. Align vision, knowledge, and dir",
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Product Management - Shopify",
+  "fieldCount": 18,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "2da8d441-9593-4e9c-98fc-d7e6c46d5f0b",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "b1a50d88-ef24-47af-b91a-62b05f431b9c",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#b1a50d88-ef24-47af-b91a-62b05f431b9c",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "f991befe-d16d-4cbb-9194-86525eae9d67",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#f991befe-d16d-4cbb-9194-86525eae9d67",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "7a23a099-7d7c-472f-828c-be7e95fac58b",
+      "id": "7a23a099-7d7c-472f-828c-be7e95fac58b",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"7a23a099-7d7c-472f-828c-be7e95fac58b\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "f969c1de-72f2-4f50-b6b9-a1557316fb7b",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#f969c1de-72f2-4f50-b6b9-a1557316fb7b",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "1eada367-1522-4d15-be4b-0f1146527ad8",
+      "label": "Do you have the right to work in your listed location?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you have the right to work in your listed location?",
+      "required": false,
+      "options": [
+        "Do you have the right to work in your listed location?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you have the right to work in your listed location?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"1eada367-1522-4d15-be4b-0f1146527ad8\"]",
+      "normLabel": "do you have the right to work in your listed location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "8bebc542-b628-4b84-bedc-26a23a10fb29",
+      "id": "25223da4-9d3d-4b75-91c7-098bc9595355",
+      "label": "For this role, we are looking to hire in North America. If you secure this position, will you be based in and have the right to work in the above listed locations as of your start date?* Yes No",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"8bebc542-b628-4b84-bedc-26a23a10fb29\"]",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "for this role we are looking to hire in north america if you",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cdedf86b-1f90-43b0-9389-3310956a9e9d",
+      "id": "b71712d8-84cd-4af6-ab59-811ceaac061c",
+      "label": "Which track are you interested in pursuing with Shopify?* Individual Contributor People Manager",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#b71712d8-84cd-4af6-ab59-811ceaac061c",
+      "visible": true,
+      "options": [
+        "Individual Contributor",
+        "People Manager"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Individual Contributor",
+          "value": "Individual Contributor"
+        },
+        {
+          "label": "People Manager",
+          "value": "People Manager"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which track are you interested in pursuing with shopify indi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cba73053-dc9b-43c3-a9f0-756f2dc960ac",
+      "id": "e15ff272-8986-49e3-85bd-9671e7951773",
+      "label": "How many years of experience do you have in a Product Management role?* 0-4 years 5-7 years 8-10 years 11+ years",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#e15ff272-8986-49e3-85bd-9671e7951773",
+      "visible": true,
+      "options": [
+        "0-4 years",
+        "5-7 years",
+        "8-10 years",
+        "11+ years"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "0-4 years",
+          "value": "0-4 years"
+        },
+        {
+          "label": "5-7 years",
+          "value": "5-7 years"
+        },
+        {
+          "label": "8-10 years",
+          "value": "8-10 years"
+        },
+        {
+          "label": "11+ years",
+          "value": "11+ years"
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "how many years of experience do you have in a product manage",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "5a254b22-abfe-40f8-868d-545d5d9dac87[]",
+      "label": "Do you have deep expertise or knowledge in one or more of the following areas?*",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Do you have deep expertise or knowledge in one or more of the following areas?* Online Store Marketplace Checkout B2B selling Order fulfillment Working with Shopify apps Building APIs and/or developer",
+      "required": true,
+      "options": [
+        "Do you have deep expertise or knowledge in one or more of the following areas?* Online Store Marketplace Checkout B2B selling Order fulfillment Working with Shopify apps Building APIs and/or developer",
+        "Marketplace",
+        "Checkout",
+        "B2B selling",
+        "Order fulfillment",
+        "Working with Shopify apps",
+        "Building APIs and/or developer experiences",
+        "Working with AI and LLMs",
+        "Analytics/Data Visualization",
+        "Financial Services",
+        "Payments & Cross-border",
+        "Taxes",
+        "Channel Expansion",
+        "Advertising products",
+        "Consumer facing experiences and apps",
+        "Retail / POS",
+        "Growth",
+        "Design Systems",
+        "Search Quality",
+        "Personalization",
+        "Recommendation Systems"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you have deep expertise or knowledge in one or more of the following areas?* Online Store Marketplace Checkout B2B selling Order fulfillment Working with Shopify apps Building APIs and/or developer",
+          "value": "Online Store"
+        },
+        {
+          "label": "Marketplace",
+          "value": "Marketplace"
+        },
+        {
+          "label": "Checkout",
+          "value": "Checkout"
+        },
+        {
+          "label": "B2B selling",
+          "value": "B2B selling"
+        },
+        {
+          "label": "Order fulfillment",
+          "value": "Order fulfillment"
+        },
+        {
+          "label": "Working with Shopify apps",
+          "value": "Working with Shopify apps"
+        },
+        {
+          "label": "Building APIs and/or developer experiences",
+          "value": "Building APIs and/or developer experiences"
+        },
+        {
+          "label": "Working with AI and LLMs",
+          "value": "Working with AI and LLMs"
+        },
+        {
+          "label": "Analytics/Data Visualization",
+          "value": "Analytics/Data Visualization"
+        },
+        {
+          "label": "Financial Services",
+          "value": "Financial Services"
+        },
+        {
+          "label": "Payments & Cross-border",
+          "value": "Payments & Cross-border"
+        },
+        {
+          "label": "Taxes",
+          "value": "Taxes"
+        },
+        {
+          "label": "Channel Expansion",
+          "value": "Channel Expansion"
+        },
+        {
+          "label": "Advertising products",
+          "value": "Advertising products"
+        },
+        {
+          "label": "Consumer facing experiences and apps",
+          "value": "Consumer facing experiences and apps"
+        },
+        {
+          "label": "Retail / POS",
+          "value": "Retail / POS"
+        },
+        {
+          "label": "Growth",
+          "value": "Growth"
+        },
+        {
+          "label": "Design Systems",
+          "value": "Design Systems"
+        },
+        {
+          "label": "Search Quality",
+          "value": "Search Quality"
+        },
+        {
+          "label": "Personalization",
+          "value": "Personalization "
+        },
+        {
+          "label": "Recommendation Systems",
+          "value": "Recommendation Systems"
+        }
+      ],
+      "optionCount": 21,
+      "selector": "input[name=\"5a254b22-abfe-40f8-868d-545d5d9dac87[]\"]",
+      "normLabel": "do you have deep expertise or knowledge in one or more of th",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "a3f24bb6-8e1e-474b-b850-694310264f58",
+      "id": "711781f1-7fa0-48ec-8330-56d6044e5413",
+      "label": "Give an example of a product you’ve previously built or owned.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"a3f24bb6-8e1e-474b-b850-694310264f58\"]",
+      "visible": true,
+      "normLabel": "give an example of a product you ve previously built or owne",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "09a5abca-95d6-42e6-9d7e-976a06dae047",
+      "id": "c5777fc2-aa53-4ee2-a87f-6a3596c0294d",
+      "label": "Do you possess technical skills (i.e. coding experience or software development background) and are interested in working as a technical product manager? Yes No",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#c5777fc2-aa53-4ee2-a87f-6a3596c0294d",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "do you possess technical skills i e coding experience or sof",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "91c4398d-a2f3-4098-8328-7a3351eea89e",
+      "id": "c92e3666-07eb-4acb-8420-f63550c20c2d",
+      "label": "Anything else we should know about you? (cover letter, example of work you're particularly proud of etc...)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#c92e3666-07eb-4acb-8420-f63550c20c2d",
+      "visible": true,
+      "normLabel": "anything else we should know about you cover letter example ",
+      "canonical": "cover_letter"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "8bfedd03-a87f-43f7-803a-2acb4a416348",
+      "id": "b0f80b1a-011e-4dbf-b56c-d7c0dc446d3d",
+      "label": "Rate your literacy with AI coding tools. Beginner - I've used ChatGPT or Claude to write basic requirements and create simple mockup ideas. Still learning how to prompt effectively. Intermediate - I r",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#b0f80b1a-011e-4dbf-b56c-d7c0dc446d3d",
+      "visible": true,
+      "options": [
+        "Beginner - I've used ChatGPT or Claude to write basic requirements and create simple mockup ideas. Still learning how to prompt effectively.",
+        "Intermediate - I regularly use AI to prototype features, generate user stories, and create wireframes. I can iterate on prompts to get the outputs I need.",
+        "Advanced - I rapidly prototype full product concepts using AI tools. I'm skilled at breaking down complex features into clear prompts and validating ideas quickly.",
+        "Expert - I build end-to-end product prototypes with AI, from specs to interactive demos. I coach teams on AI-driven product development and validation methods."
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Beginner - I've used ChatGPT or Claude to write basic requirements and create simple mockup ideas. Still learning how to prompt effectively.",
+          "value": "Beginner - I've used ChatGPT or Claude to write basic requirements and create simple mockup ideas. Still learning how to prompt effectively."
+        },
+        {
+          "label": "Intermediate - I regularly use AI to prototype features, generate user stories, and create wireframes. I can iterate on prompts to get the outputs I need.",
+          "value": "Intermediate - I regularly use AI to prototype features, generate user stories, and create wireframes. I can iterate on prompts to get the outputs I need."
+        },
+        {
+          "label": "Advanced - I rapidly prototype full product concepts using AI tools. I'm skilled at breaking down complex features into clear prompts and validating ideas quickly.",
+          "value": "Advanced - I rapidly prototype full product concepts using AI tools. I'm skilled at breaking down complex features into clear prompts and validating ideas quickly."
+        },
+        {
+          "label": "Expert - I build end-to-end product prototypes with AI, from specs to interactive demos. I coach teams on AI-driven product development and validation methods.",
+          "value": "Expert - I build end-to-end product prototypes with AI, from specs to interactive demos. I coach teams on AI-driven product development and validation methods."
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "rate your literacy with ai coding tools beginner i ve used c",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "92dc27d9-5f7e-4287-aaf6-c1591633ef00",
+      "id": "d4634281-6223-40ff-b10f-d8c054e3fe1c",
+      "label": "Describe your approach to prompting. How would you provide all the context for a task to be plausibly solvable by an LLM?",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#d4634281-6223-40ff-b10f-d8c054e3fe1c",
+      "visible": true,
+      "normLabel": "describe your approach to prompting how would you provide al",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "b8acda17-9d73-42fb-aeb8-48ebad9e9e11",
+      "id": "ff4a202c-48eb-428f-ad16-f65ccb08a2a7",
+      "label": "Describe how you'd approach a 20-minute AI-assisted prototype build.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#ff4a202c-48eb-428f-ad16-f65ccb08a2a7",
+      "visible": true,
+      "normLabel": "describe how you d approach a 20 minute ai assisted prototyp",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "ff9530dd-f4a4-4600-a8ed-a7dec1c9ca06",
+      "label": "Please confirm you've read and agree with our candidate NDA.*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA.*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA.*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA.*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"ff9530dd-f4a4-4600-a8ed-a7dec1c9ca06\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "846b0f8d-2557-47ab-90b7-2907b1a16bb2",
+      "label": "Please confirm you've read our applicant privacy notice.*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice.*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice.*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice.*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"846b0f8d-2557-47ab-90b7-2907b1a16bb2\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 5,
+      "textarea": 4
+    },
+    "byAction": {
+      "type": 8,
+      "upload": 1,
+      "check-many": 4,
+      "select-option": 5
+    },
+    "byOptionsSource": {
+      "dom-static": 9
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Product Management",
+    "About the role",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackProduct ManagementRemote - AmericasProductApply NowAbout the roleProduct Managers at Shopify are the architects of the future of commerce, championing entrepreneurship and transforming big ideas i",
+    "About the roleProduct Managers at Shopify are the architects of the future of commerce, championing entrepreneurship and transforming big ideas into practical, impactful products that anyone can use. ",
+    "About the roleProduct Managers at Shopify are the architects of the future of commerce, championing entrepreneurship and transforming big ideas into practical, impactful products that anyone can use. ",
+    "Product Managers at Shopify are the architects of the future of commerce, championing entrepreneurship and transforming big ideas into practical, impactful products that anyone can use. Here you'll co",
+    "Product Managers at Shopify are the architects of the future of commerce, championing entrepreneurship and transforming big ideas into practical, impactful products that anyone can use. Here you'll co"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/custom-shopify-com/shopify__product-build-the-right-things-the-right.png",
+    "html": "data/html/_nonus/custom-shopify-com/shopify__product-build-the-right-things-the-right.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5906,
+    "lowestField": 5167.765625,
+    "coversAllFields": true
+  },
+  "ms": 52234,
+  "fingerprint": {
+    "labelSig": "2c1e32de508b",
+    "shapeSig": "c657f93b5be3",
+    "controlSig": "ce9cee297786",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 5,
+      "textarea": 4
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "c02bec4e9ccd",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "checkbox": 4,
+      "select": 5,
+      "textarea": 4
+    },
+    "canonicals": [
+      "cover_letter",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "salary",
+      "years_experience"
+    ],
+    "requiredCount": 11,
+    "customQuestionCount": 9,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:shopify.com",
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

@@ -1,0 +1,394 @@
+{
+  "id": "custom-shopify-com__shopify__senior-lead-external-partnerships-social",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "shopify",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Senior Lead, External Partnerships & Social, Shop REMOTE - AMERICAS",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/senior-lead-external-partnerships-social-shop_44bd4c1c-6887-470f-90e0-b470f234fe49?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/senior-lead-external-partnerships-social-shop_44bd4c1c-6887-470f-90e0-b470f234fe49?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "detectedPlatform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/senior-lead-external-partnerships-social-shop_44bd4c1c-6887-470f-90e0-b470f234fe49?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Lead, External Partnerships & Social, Shop - Shopify",
+  "fieldCount": 9,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "c4c14379-18fc-4c81-bca3-95fa052a8994",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#c4c14379-18fc-4c81-bca3-95fa052a8994",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "a40031d7-cb2b-44a2-96a2-375c0bbb9011",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#a40031d7-cb2b-44a2-96a2-375c0bbb9011",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "d3d563ca-4441-49e5-b822-55ba6183502e",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#d3d563ca-4441-49e5-b822-55ba6183502e",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "62abe0f6-3248-4e58-aa8f-66ba5aac1eb5",
+      "id": "62abe0f6-3248-4e58-aa8f-66ba5aac1eb5",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"62abe0f6-3248-4e58-aa8f-66ba5aac1eb5\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "6314b291-4852-4b38-ae84-34f98b1b521b",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "5c6466b3-33c9-4f24-9fd6-0d44d5884931",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"5c6466b3-33c9-4f24-9fd6-0d44d5884931\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "59434cc5-184a-400b-93d6-01eba9e4686b",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"59434cc5-184a-400b-93d6-01eba9e4686b\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "0b641d33-71a9-4192-b047-fdea4cbaeae7",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"0b641d33-71a9-4192-b047-fdea4cbaeae7\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "0277b79f-3692-4b08-bee7-35f964df788d",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"0277b79f-3692-4b08-bee7-35f964df788d\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4
+    },
+    "byAction": {
+      "type": 4,
+      "upload": 1,
+      "check-many": 4
+    },
+    "byOptionsSource": {
+      "dom-static": 4
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Lead, External Partnerships & Social, Shop",
+    "About the role",
+    "About Shop",
+    "About the Role",
+    "What you'll own",
+    "Requirements",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackSenior Lead, External Partnerships & Social, ShopRemote - AmericasGrowthApply NowAbout the roleAbout ShopShop is the consumer brand inside Shopify. Shop has hundreds of millions of users and lets ",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employment?Please confirm you"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__senior-lead-external-partnerships-social.png",
+    "html": "data/html/custom-shopify-com/shopify__senior-lead-external-partnerships-social.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5309,
+    "lowestField": 4550.765625,
+    "coversAllFields": true
+  },
+  "ms": 26002,
+  "fingerprint": {
+    "labelSig": "bbcf123046f4",
+    "shapeSig": "2d127eb515c8",
+    "controlSig": "cce8dd0edbee",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "d4d94d335bda",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "checkbox": 4
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 7,
+    "customQuestionCount": 2,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "overCap": true,
+  "nonUS": false
+}

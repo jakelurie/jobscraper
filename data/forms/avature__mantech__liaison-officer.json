@@ -1,0 +1,204 @@
+{
+  "id": "avature__mantech__liaison-officer",
+  "group": "avature",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "mantech",
+    "board": "mantech",
+    "title": "Liaison Officer",
+    "location": "",
+    "jobUrl": "https://careers.mantech.com/en_US/careers/JobDetail/Liaison-Officer/65926",
+    "startUrl": "https://careers.mantech.com/en_US/careers/JobDetail/Liaison-Officer/65926"
+  },
+  "platform": "avature",
+  "detectedPlatform": "custom:careers.mantech.com",
+  "platformLabel": "careers.mantech.com (avature)",
+  "finalUrl": "https://careers.mantech.com/en_US/careers/ApplicationMethods?jobId=65926",
+  "applyTrail": [
+    "clicked: Apply"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Applying to Liaison Officer | MANTECH",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "username",
+      "id": "username",
+      "label": "Username",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#username",
+      "visible": true,
+      "normLabel": "username",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "password",
+      "id": "password",
+      "label": "Password",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#password",
+      "visible": true,
+      "normLabel": "password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resumeFile",
+      "id": "resumeFile",
+      "label": "From Device *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resumeFile",
+      "visible": false,
+      "accept": ".pdf,.doc,.docx,.txt",
+      "multiple": false,
+      "normLabel": "from device",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 1,
+      "text-password": 1,
+      "file-upload": 1
+    },
+    "byAction": {
+      "type": 2,
+      "upload": 1
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "MANTECH",
+    "LIAISON OFFICER",
+    "Already Registered?",
+    "Login",
+    "Choose any option to apply"
+  ],
+  "buttons": [
+    "Log in",
+    "From Device",
+    "Copy & Paste",
+    "Without Resume"
+  ],
+  "resumeUpload": [
+    "Skip to content MANTECH Open Positions Remote Jobs Login Back to MANTECH Careers Liaison Officer Select your resume 1 / 5 Select your resume, step 1 of 5 Personal information 2 / 5 Application Questio",
+    "Select your resume 1 / 5 Select your resume, step 1 of 5 Personal information 2 / 5 Application Questions 3 / 5 Voluntary Self Identification 5 / 5 Self-Identification of Disability 6 / 5 Already Regi",
+    "Select your resume 1 / 5 Select your resume, step 1 of 5 Personal information 2 / 5 Application Questions 3 / 5 Voluntary Self Identification 5 / 5 Self-Identification of Disability 6 / 5 Already Regi",
+    "Select your resume 1 / 5 Select your resume, step 1 of 5",
+    "Select your resume"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/avature/mantech__liaison-officer.png",
+    "html": "data/html/avature/mantech__liaison-officer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 4,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 1332,
+    "lowestField": 930.71875,
+    "coversAllFields": true
+  },
+  "ms": 36821,
+  "fingerprint": {
+    "labelSig": "b55f22339a2e",
+    "shapeSig": "c276e987ed25",
+    "controlSig": "a483028c5f44",
+    "controls": {
+      "text": 1,
+      "text-password": 1,
+      "file-upload": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "6e1fccede99d",
+    "typeCounts": {
+      "text": 1,
+      "password": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "password",
+      "resume"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

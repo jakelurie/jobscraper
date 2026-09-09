@@ -1,0 +1,1494 @@
+{
+  "id": "lever__palantir__senior-backend-software-engineer-applica",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "palantir",
+    "board": "palantir",
+    "title": "Senior Backend Software Engineer - Application Development",
+    "location": "New York, NY",
+    "jobUrl": "https://jobs.lever.co/palantir/7177acab-5c64-4005-9b28-93f33b3e172a",
+    "startUrl": "https://jobs.lever.co/palantir/7177acab-5c64-4005-9b28-93f33b3e172a/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/palantir/7177acab-5c64-4005-9b28-93f33b3e172a/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Palantir Technologies - Senior Backend Software Engineer - Application Development",
+  "fieldCount": 28,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[a69a985a-eae9-4c14-90fb-b5a4b891523e][field0]",
+      "label": "Language Skill(s) (Check all that apply) ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "English (ENG)",
+      "required": true,
+      "options": [
+        "English (ENG)",
+        "Spanish (SPA)",
+        "French (FRA)",
+        "German (DEU)",
+        "Japanese (JPN)",
+        "Cantonese (CANT)",
+        "Mandarin (MAN)",
+        "Dutch (NLD)",
+        "Hindi (HIN)",
+        "Arabic (ARA)",
+        "Danish (DAN)",
+        "Turkish (TUR)",
+        "Portuguese (POR)",
+        "Hebrew (HEB)",
+        "Swedish (SWE)",
+        "Norwegian (NOR)",
+        "Italian (ITA)",
+        "Vietnamese (VIE)",
+        "Tagalog (TGL)",
+        "Khmer (KHM)",
+        "Hmong (HMN)",
+        "Telugu (TEL)",
+        "Bengali (BNE)",
+        "Marathi (MAR)",
+        "Urdu (URD)"
+      ],
+      "optionValues": [
+        {
+          "label": "English (ENG)",
+          "value": "English (ENG)"
+        },
+        {
+          "label": "Spanish (SPA)",
+          "value": "Spanish (SPA)"
+        },
+        {
+          "label": "French (FRA)",
+          "value": "French (FRA)"
+        },
+        {
+          "label": "German (DEU)",
+          "value": "German (DEU)"
+        },
+        {
+          "label": "Japanese (JPN)",
+          "value": "Japanese (JPN)"
+        },
+        {
+          "label": "Cantonese (CANT)",
+          "value": "Cantonese (CANT)"
+        },
+        {
+          "label": "Mandarin (MAN)",
+          "value": "Mandarin (MAN)"
+        },
+        {
+          "label": "Dutch (NLD)",
+          "value": "Dutch (NLD)"
+        },
+        {
+          "label": "Hindi (HIN)",
+          "value": "Hindi (HIN)"
+        },
+        {
+          "label": "Arabic (ARA)",
+          "value": "Arabic (ARA)"
+        },
+        {
+          "label": "Danish (DAN)",
+          "value": "Danish (DAN)"
+        },
+        {
+          "label": "Turkish (TUR)",
+          "value": "Turkish (TUR)"
+        },
+        {
+          "label": "Portuguese (POR)",
+          "value": "Portuguese (POR)"
+        },
+        {
+          "label": "Hebrew (HEB)",
+          "value": "Hebrew (HEB)"
+        },
+        {
+          "label": "Swedish (SWE)",
+          "value": "Swedish (SWE)"
+        },
+        {
+          "label": "Norwegian (NOR)",
+          "value": "Norwegian (NOR)"
+        },
+        {
+          "label": "Italian (ITA)",
+          "value": "Italian (ITA)"
+        },
+        {
+          "label": "Vietnamese (VIE)",
+          "value": "Vietnamese (VIE)"
+        },
+        {
+          "label": "Tagalog (TGL)",
+          "value": "Tagalog (TGL)"
+        },
+        {
+          "label": "Khmer (KHM)",
+          "value": "Khmer (KHM)"
+        },
+        {
+          "label": "Hmong (HMN)",
+          "value": "Hmong (HMN)"
+        },
+        {
+          "label": "Telugu (TEL)",
+          "value": "Telugu (TEL)"
+        },
+        {
+          "label": "Bengali (BNE)",
+          "value": "Bengali (BNE)"
+        },
+        {
+          "label": "Marathi (MAR)",
+          "value": "Marathi (MAR)"
+        },
+        {
+          "label": "Urdu (URD)",
+          "value": "Urdu (URD)"
+        }
+      ],
+      "optionCount": 33,
+      "selector": "input[name=\"cards[a69a985a-eae9-4c14-90fb-b5a4b891523e][field0]\"]",
+      "normLabel": "language skill s check all that apply",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[a69a985a-eae9-4c14-90fb-b5a4b891523e][field1]",
+      "id": "",
+      "label": "Preferred Name | What would you like us to call you?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[a69a985a-eae9-4c14-90fb-b5a4b891523e][field1]\"]",
+      "visible": true,
+      "normLabel": "preferred name what would you like us to call you",
+      "canonical": "preferred_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[a69a985a-eae9-4c14-90fb-b5a4b891523e][field2]",
+      "id": "",
+      "label": "Name Pronunciation | How do you pronounce your name?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[a69a985a-eae9-4c14-90fb-b5a4b891523e][field2]\"]",
+      "visible": true,
+      "normLabel": "name pronunciation how do you pronounce your name",
+      "canonical": "pronouns"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[1c719ca9-5069-4afe-9e82-39ca420e0edb][field0]",
+      "label": "Are you legally authorized to work in the country for which you are applying? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[1c719ca9-5069-4afe-9e82-39ca420e0edb][field0]\"]",
+      "normLabel": "are you legally authorized to work in the country for which ",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[1c719ca9-5069-4afe-9e82-39ca420e0edb][field1]",
+      "label": "Will you now or in the future require sponsorship for employment visa status (e.g., H-1B, etc.)? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[1c719ca9-5069-4afe-9e82-39ca420e0edb][field1]\"]",
+      "normLabel": "will you now or in the future require sponsorship for employ",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[3da58b41-acf5-40a1-945e-c7f047ef8050][field0]",
+      "id": "",
+      "label": "Which university are you currently attending or did you last attend? Please select \"Other (School Not Listed)\" if your school is not listed. ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"cards[3da58b41-acf5-40a1-945e-c7f047ef8050][field0]\"]",
+      "visible": true,
+      "options": [
+        "Click Here (If you encounter an issue, make sure your browser is updated and try clearing cache & cookies)",
+        "Aalborg University",
+        "Aalto University",
+        "Aarhus University",
+        "Abdullah Gul University",
+        "Abertay University",
+        "Aberystwyth University",
+        "Abilene Christian University",
+        "Abo Akademi University",
+        "Abubakar Tafawa Balewa University",
+        "Academy of Art University",
+        "Academy of Economic Studies of Moldova",
+        "Academy of Fine Arts in Warsaw",
+        "Academy of Information Technology",
+        "Academy of Technology - AOT",
+        "Acharya Nagarjuna University",
+        "Adam Mickiewicz University in Poznan",
+        "Adams State College",
+        "Adana Science and Technology University",
+        "Addis Ababa Institute of Technology",
+        "Addis Ababa University",
+        "Adelphi University",
+        "Adi Shankara Institute of Engineering and Technology",
+        "Adina Institute of Science and Technology - AIST",
+        "Adiyaman University",
+        "Adnan Menderes University",
+        "Adolfo Ibanez University",
+        "African Leadership College, Mauritius",
+        "African Leadership University, Rwanda",
+        "African University of Science and Technology",
+        "Afyon Kocatepe University",
+        "AGH University of Science and Technology",
+        "Agro ParisTech",
+        "Ahmadu Bello University",
+        "Ahmedabad University",
+        "Ahmet Yesevi University",
+        "Aiken Technical College",
+        "Ain Shams University",
+        "Air Force Institute of Technology",
+        "Air University"
+      ],
+      "optionValues": [
+        {
+          "label": "Click Here (If you encounter an issue, make sure your browser is updated and try clearing cache & cookies)",
+          "value": ""
+        },
+        {
+          "label": "Aalborg University",
+          "value": "Aalborg University"
+        },
+        {
+          "label": "Aalto University",
+          "value": "Aalto University"
+        },
+        {
+          "label": "Aarhus University",
+          "value": "Aarhus University"
+        },
+        {
+          "label": "Abdullah Gul University",
+          "value": "Abdullah Gul University"
+        },
+        {
+          "label": "Abertay University",
+          "value": "Abertay University"
+        },
+        {
+          "label": "Aberystwyth University",
+          "value": "Aberystwyth University"
+        },
+        {
+          "label": "Abilene Christian University",
+          "value": "Abilene Christian University"
+        },
+        {
+          "label": "Abo Akademi University",
+          "value": "Abo Akademi University"
+        },
+        {
+          "label": "Abubakar Tafawa Balewa University",
+          "value": "Abubakar Tafawa Balewa University"
+        },
+        {
+          "label": "Academy of Art University",
+          "value": "Academy of Art University"
+        },
+        {
+          "label": "Academy of Economic Studies of Moldova",
+          "value": "Academy of Economic Studies of Moldova"
+        },
+        {
+          "label": "Academy of Fine Arts in Warsaw",
+          "value": "Academy of Fine Arts in Warsaw"
+        },
+        {
+          "label": "Academy of Information Technology",
+          "value": "Academy of Information Technology"
+        },
+        {
+          "label": "Academy of Technology - AOT",
+          "value": "Academy of Technology - AOT"
+        },
+        {
+          "label": "Acharya Nagarjuna University",
+          "value": "Acharya Nagarjuna University"
+        },
+        {
+          "label": "Adam Mickiewicz University in Poznan",
+          "value": "Adam Mickiewicz University in Poznan"
+        },
+        {
+          "label": "Adams State College",
+          "value": "Adams State College"
+        },
+        {
+          "label": "Adana Science and Technology University",
+          "value": "Adana Science and Technology University"
+        },
+        {
+          "label": "Addis Ababa Institute of Technology",
+          "value": "Addis Ababa Institute of Technology"
+        },
+        {
+          "label": "Addis Ababa University",
+          "value": "Addis Ababa University"
+        },
+        {
+          "label": "Adelphi University",
+          "value": "Adelphi University"
+        },
+        {
+          "label": "Adi Shankara Institute of Engineering and Technology",
+          "value": "Adi Shankara Institute of Engineering and Technology"
+        },
+        {
+          "label": "Adina Institute of Science and Technology - AIST",
+          "value": "Adina Institute of Science and Technology - AIST"
+        },
+        {
+          "label": "Adiyaman University",
+          "value": "Adiyaman University"
+        },
+        {
+          "label": "Adnan Menderes University",
+          "value": "Adnan Menderes University"
+        },
+        {
+          "label": "Adolfo Ibanez University",
+          "value": "Adolfo Ibanez University"
+        },
+        {
+          "label": "African Leadership College, Mauritius",
+          "value": "African Leadership College, Mauritius"
+        },
+        {
+          "label": "African Leadership University, Rwanda",
+          "value": "African Leadership University, Rwanda"
+        },
+        {
+          "label": "African University of Science and Technology",
+          "value": "African University of Science and Technology"
+        },
+        {
+          "label": "Afyon Kocatepe University",
+          "value": "Afyon Kocatepe University"
+        },
+        {
+          "label": "AGH University of Science and Technology",
+          "value": "AGH University of Science and Technology"
+        },
+        {
+          "label": "Agro ParisTech",
+          "value": "Agro ParisTech"
+        },
+        {
+          "label": "Ahmadu Bello University",
+          "value": "Ahmadu Bello University"
+        },
+        {
+          "label": "Ahmedabad University",
+          "value": "Ahmedabad University"
+        },
+        {
+          "label": "Ahmet Yesevi University",
+          "value": "Ahmet Yesevi University"
+        },
+        {
+          "label": "Aiken Technical College",
+          "value": "Aiken Technical College"
+        },
+        {
+          "label": "Ain Shams University",
+          "value": "Ain Shams University"
+        },
+        {
+          "label": "Air Force Institute of Technology",
+          "value": "Air Force Institute of Technology"
+        },
+        {
+          "label": "Air University",
+          "value": "Air University"
+        }
+      ],
+      "optionCount": 3302,
+      "normLabel": "which university are you currently attending or did you last",
+      "canonical": "education"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[a6197d84-549e-4a91-8bb0-6af972510013][field0]",
+      "id": "",
+      "label": "Please tell us how you heard about this opportunity. ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"cards[a6197d84-549e-4a91-8bb0-6af972510013][field0]\"]",
+      "visible": true,
+      "options": [
+        "Select...",
+        "Agency or Non-Palantir Recruiter",
+        "America's Job Exchange",
+        "BuiltIn",
+        "Campus Ambassador",
+        "Friend or Family",
+        "Glassdoor",
+        "Hackajob",
+        "Hallo",
+        "Handshake",
+        "Job Board (Indeed, Monster, etc.)",
+        "LinkedIn",
+        "Palantir Event",
+        "Palantir Medium Blog",
+        "Palantir Recruiter",
+        "Palantir Website",
+        "Rewriting the Code",
+        "Tapia",
+        "University Job Board",
+        "University or University Organization",
+        "Other"
+      ],
+      "optionValues": [
+        {
+          "label": "Select...",
+          "value": ""
+        },
+        {
+          "label": "Agency or Non-Palantir Recruiter",
+          "value": "Agency or Non-Palantir Recruiter"
+        },
+        {
+          "label": "America's Job Exchange",
+          "value": "America's Job Exchange"
+        },
+        {
+          "label": "BuiltIn",
+          "value": "BuiltIn"
+        },
+        {
+          "label": "Campus Ambassador",
+          "value": "Campus Ambassador"
+        },
+        {
+          "label": "Friend or Family",
+          "value": "Friend or Family"
+        },
+        {
+          "label": "Glassdoor",
+          "value": "Glassdoor"
+        },
+        {
+          "label": "Hackajob",
+          "value": "Hackajob"
+        },
+        {
+          "label": "Hallo",
+          "value": "Hallo"
+        },
+        {
+          "label": "Handshake",
+          "value": "Handshake"
+        },
+        {
+          "label": "Job Board (Indeed, Monster, etc.)",
+          "value": "Job Board (Indeed, Monster, etc.)"
+        },
+        {
+          "label": "LinkedIn",
+          "value": "LinkedIn"
+        },
+        {
+          "label": "Palantir Event",
+          "value": "Palantir Event"
+        },
+        {
+          "label": "Palantir Medium Blog",
+          "value": "Palantir Medium Blog"
+        },
+        {
+          "label": "Palantir Recruiter",
+          "value": "Palantir Recruiter"
+        },
+        {
+          "label": "Palantir Website",
+          "value": "Palantir Website"
+        },
+        {
+          "label": "Rewriting the Code",
+          "value": "Rewriting the Code"
+        },
+        {
+          "label": "Tapia",
+          "value": "Tapia"
+        },
+        {
+          "label": "University Job Board",
+          "value": "University Job Board"
+        },
+        {
+          "label": "University or University Organization",
+          "value": "University or University Organization"
+        },
+        {
+          "label": "Other",
+          "value": "Other"
+        }
+      ],
+      "optionCount": 21,
+      "normLabel": "please tell us how you heard about this opportunity",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f30bc442-2120-4db9-b5ac-2f9bf563cad9][field0]",
+      "label": "Do you currently hold an active US security clearance? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[f30bc442-2120-4db9-b5ac-2f9bf563cad9][field0]\"]",
+      "normLabel": "do you currently hold an active us security clearance",
+      "canonical": "security_clearance"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f30bc442-2120-4db9-b5ac-2f9bf563cad9][field1]",
+      "label": "Are you eligible to obtain the security clearance specified in the job description? Please see https://state.gov/security-clearances for further details on security clearance requirements. ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[f30bc442-2120-4db9-b5ac-2f9bf563cad9][field1]\"]",
+      "normLabel": "are you eligible to obtain the security clearance specified ",
+      "canonical": "security_clearance"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[3b373c5b-b2f7-4d2c-b330-c70733ef9f20][field0]",
+      "id": "",
+      "label": "How many years of relevant, post college work experience do you have? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"cards[3b373c5b-b2f7-4d2c-b330-c70733ef9f20][field0]\"]",
+      "visible": true,
+      "options": [
+        "Select...",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10+"
+      ],
+      "optionValues": [
+        {
+          "label": "Select...",
+          "value": ""
+        },
+        {
+          "label": "0",
+          "value": "0"
+        },
+        {
+          "label": "1",
+          "value": "1"
+        },
+        {
+          "label": "2",
+          "value": "2"
+        },
+        {
+          "label": "3",
+          "value": "3"
+        },
+        {
+          "label": "4",
+          "value": "4"
+        },
+        {
+          "label": "5",
+          "value": "5"
+        },
+        {
+          "label": "6",
+          "value": "6"
+        },
+        {
+          "label": "7",
+          "value": "7"
+        },
+        {
+          "label": "8",
+          "value": "8"
+        },
+        {
+          "label": "9",
+          "value": "9"
+        },
+        {
+          "label": "10+",
+          "value": "10+"
+        }
+      ],
+      "optionCount": 12,
+      "normLabel": "how many years of relevant post college work experience do y",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[eae64cf3-4389-4b68-9d89-0157c377e174][field0]",
+      "id": "",
+      "label": "Describe your experience designing and implementing a backend service to support a complex/new user workflow requirement, and/or a way you improved user experience through backend optimizations. ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[eae64cf3-4389-4b68-9d89-0157c377e174][field0]\"]",
+      "visible": true,
+      "normLabel": "describe your experience designing and implementing a backen",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[1dd0c1f9-601c-48db-8a75-8034e0676ebf][field0]",
+      "id": "",
+      "label": "What has been your favorite project or proudest accomplishment? Why? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[1dd0c1f9-601c-48db-8a75-8034e0676ebf][field0]\"]",
+      "visible": true,
+      "normLabel": "what has been your favorite project or proudest accomplishme",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[1dd0c1f9-601c-48db-8a75-8034e0676ebf][field1]",
+      "id": "",
+      "label": "Why do you want to work at Palantir? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[1dd0c1f9-601c-48db-8a75-8034e0676ebf][field1]\"]",
+      "visible": true,
+      "normLabel": "why do you want to work at palantir",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[73796cde-fc01-4758-9002-c85155f3503d][field0]",
+      "label": "As part of our interview process, we may use AI notetakers to transcribe conversations for accuracy and efficiency. Please see our candidate privacy policy for more information on how we process your ",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes, I consent",
+      "required": true,
+      "options": [
+        "Yes, I consent",
+        "No, I do not consent"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes, I consent",
+          "value": "Yes, I consent"
+        },
+        {
+          "label": "No, I do not consent",
+          "value": "No, I do not consent"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[73796cde-fc01-4758-9002-c85155f3503d][field0]\"]",
+      "normLabel": "as part of our interview process we may use ai notetakers to",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[3fd0c7ef-7ec1-4475-a325-d9941e7ca87c][field0]",
+      "label": "Please share my resume and contact information with external Palantir partners for job seeking purposes. ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[3fd0c7ef-7ec1-4475-a325-d9941e7ca87c][field0]\"]",
+      "normLabel": "please share my resume and contact information with external",
+      "canonical": "resume"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[3fd0c7ef-7ec1-4475-a325-d9941e7ca87c][field1]",
+      "label": "Are you a resident of California? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[3fd0c7ef-7ec1-4475-a325-d9941e7ca87c][field1]\"]",
+      "normLabel": "are you a resident of california",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "comments",
+      "id": "additional-information",
+      "label": "ADDITIONAL INFORMATION",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Add a cover letter or anything else you want to share.",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#additional-information",
+      "visible": true,
+      "normLabel": "additional information",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I identify as one or more of the classifications of protected veteran listed above I am not a protected veteran I decline to self-identify for protected veteran status",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I identify as one or more of the classifications of protected veteran listed above",
+        "I am not a protected veteran",
+        "I decline to self-identify for protected veteran status"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I identify as one or more of the classifications of protected veteran listed above",
+          "value": "I am a Protected Veteran"
+        },
+        {
+          "label": "I am not a protected veteran",
+          "value": "I am not a Protected Veteran"
+        },
+        {
+          "label": "I decline to self-identify for protected veteran status",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i identify as one or more of the class",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[disability]",
+      "id": "disabilitySelectElement",
+      "label": "Disability status Select ... Yes, I have a disability, or have had one in the past No, I do not have a disability and have not had one in the past I do not want to answer",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#disabilitySelectElement",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Yes, I have a disability, or have had one in the past",
+        "No, I do not have a disability and have not had one in the past",
+        "I do not want to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Yes, I have a disability, or have had one in the past",
+          "value": "Yes, I have a disability, or have had one in the past"
+        },
+        {
+          "label": "No, I do not have a disability and have not had one in the past",
+          "value": "No, I do not have a disability and have not had one in the past"
+        },
+        {
+          "label": "I do not want to answer",
+          "value": "I do not want to answer "
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "disability status select yes i have a disability or have had",
+      "canonical": "disability_status"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 9,
+      "text-email": 1,
+      "checkbox-group": 1,
+      "radio-group": 7,
+      "native-select": 5,
+      "textarea": 4
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 14,
+      "check-many": 1,
+      "choose-one": 7,
+      "select-option": 5
+    },
+    "byOptionsSource": {
+      "dom-static": 13
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Backend Software Engineer - Application Development",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "SUPPLEMENTARY QUESTIONS",
+    "WORK AUTHORIZATION",
+    "UNIVERSITY",
+    "HOW DID YOU HEAR ABOUT THIS OPPORTUNITY?",
+    "US CLEARANCE CONFIRMATION",
+    "RELEVANT EXPERIENCE",
+    "BACKEND SOFTWARE ENGINEER - APPLICATION DEVELOPMENT CUSTOM QUESTION",
+    "ADDITIONAL QUESTIONS (REQUIRED)",
+    "AI NOTETAKER",
+    "US PALANTIR PARTNER ACKNOWLEDGEMENT",
+    "PALANTIR IS COMMITTED TO MAKING THE JOB APPLICATION PROCESS ACCESSIBLE TO EVERYONE. IF YOU ARE LIVING WITH A DISABILITY (VISIBLE OR NOT VISIBLE) AND NEED TO REQUEST A REASONABLE ACCOMMODATION FOR ANY ",
+    "ADDITIONAL INFORMATION",
+    "SELF-IDENTIFICATION OF VETERAN STATUS (Completion is voluntary and will not subject you to adverse treatment)",
+    "VOLUNTARY SELF-IDENTIFICATION OF DISABILITY"
+  ],
+  "buttons": [
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Senior Backend Software Engineer - Application DevelopmentNew York, NYDev /Full-time /HybridSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File ",
+    "Senior Backend Software Engineer - Application DevelopmentNew York, NYDev /Full-time /HybridSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File ",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone Cu",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone Cu",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/palantir__senior-backend-software-engineer-applica.png",
+    "html": "data/html/lever/palantir__senior-backend-software-engineer-applica.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 9755,
+    "lowestField": 8832.421875,
+    "coversAllFields": true
+  },
+  "ms": 8054,
+  "fingerprint": {
+    "labelSig": "58042fe8738b",
+    "shapeSig": "1742ed46c152",
+    "controlSig": "d2c4339cad19",
+    "controls": {
+      "file-upload": 1,
+      "text": 9,
+      "text-email": 1,
+      "checkbox-group": 1,
+      "radio-group": 7,
+      "native-select": 5,
+      "textarea": 4
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "04cd2f12af7e",
+    "typeCounts": {
+      "file": 1,
+      "text": 9,
+      "email": 1,
+      "checkbox": 1,
+      "radio": 7,
+      "select": 5,
+      "textarea": 4
+    },
+    "canonicals": [
+      "custom_question",
+      "disability_status",
+      "education",
+      "email",
+      "employer",
+      "full_name",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "preferred_name",
+      "pronouns",
+      "resume",
+      "security_clearance",
+      "veteran_status",
+      "visa_sponsorship",
+      "years_experience"
+    ],
+    "requiredCount": 17,
+    "customQuestionCount": 8,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

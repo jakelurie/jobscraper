@@ -1,0 +1,112 @@
+{
+  "id": "custom-workatastartup-com__ycombinator__senior-software-developer",
+  "group": "custom-workatastartup-com",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "workatastartup",
+    "atsLabel": "Y Combinator Work at a Startup",
+    "company": "ycombinator",
+    "board": "workatastartup",
+    "title": "Senior Software Developer",
+    "location": "",
+    "jobUrl": "https://www.workatastartup.com/jobs/93806",
+    "startUrl": "https://www.workatastartup.com/jobs/93806"
+  },
+  "platform": "custom:workatastartup.com",
+  "platformLabel": "workatastartup.com",
+  "finalUrl": "https://www.workatastartup.com/jobs/103934",
+  "applyTrail": [
+    "opened posting: Senior Software Engineer, Machine Learning",
+    "opened posting: Senior Software Developer",
+    "opened posting: Senior Software Engineer, Data Systems",
+    "saved-session:workatastartup__workatastartup.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Senior Software Engineer, Data Systems at Hive | Y Combinator's Work at a Startup",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Software Engineer, Data Systems at Hive(S14)",
+    "Other jobs at Hive",
+    "Hundreds of YC startups are hiring on Work at a Startup.",
+    "Work at a Startup",
+    "Y Combinator",
+    "Jobs by Role",
+    "Jobs by Location",
+    "Remote Jobs"
+  ],
+  "buttons": [],
+  "resumeUpload": [
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog InSenior Software Engineer, Data Systems at Hive(S14)Marketing automation for event promoters (em",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog InSenior Software Engineer, Data Systems at Hive(S14)Marketing automation for event promoters (em",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog In",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog In",
+    "Companies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it Works"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-workatastartup-com/ycombinator__senior-software-developer.png",
+    "html": "data/html/_unreached/custom-workatastartup-com/ycombinator__senior-software-developer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 4740,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 58127,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b3b2475b195c",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:workatastartup.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,671 @@
+{
+  "id": "pinpoint__samsung__software-engineer",
+  "group": "pinpoint",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "pinpoint",
+    "atsLabel": "pinpoint",
+    "company": "samsung",
+    "board": "samsung",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://samsung.pinpointhq.com/",
+    "startUrl": "https://samsung.pinpointhq.com/"
+  },
+  "platform": "pinpoint",
+  "platformLabel": "Pinpoint",
+  "finalUrl": "https://samsung.pinpointhq.com/register-your-interest/new",
+  "applyTrail": [
+    "clicked: REGISTER YOUR INTEREST"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Register Your Interest | Samsung Careers",
+  "fieldCount": 15,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][first_name]",
+      "id": "job_seeker_form_job_seeker_first_name",
+      "label": "First Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "First name",
+      "autocomplete": "given-name",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_first_name",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][last_name]",
+      "id": "job_seeker_form_job_seeker_last_name",
+      "label": "Last Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Last name",
+      "autocomplete": "family-name",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_last_name",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][email]",
+      "id": "job_seeker_form_job_seeker_email",
+      "label": "Email Address",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "email@address.com",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#job_seeker_form_job_seeker_email",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "job_seeker_form[job_seeker][phone]",
+      "id": "phone-input",
+      "label": "Phone country code",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Phone Number",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#phone-input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone country code",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "div.react-select__option"
+      },
+      "name": "",
+      "id": "job_seeker_form[job_seeker][country]",
+      "label": "job seeker form job seeker country",
+      "labelSource": "id-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 250,
+        "optionsAfterTyping": 6,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Tajikistan",
+          "Jamaica",
+          "Haiti",
+          "Sao Tome and Principe",
+          "Montserrat",
+          "United Arab Emirates",
+          "Pakistan",
+          "Netherlands"
+        ],
+        "sampleAfterTyping": [
+          "United Arab Emirates",
+          "United States Minor Outlying Islands",
+          "United Kingdom",
+          "United States",
+          "Tunisia",
+          "Réunion"
+        ]
+      },
+      "optionCount": 250,
+      "options": [
+        "Tajikistan",
+        "Jamaica",
+        "Haiti",
+        "Sao Tome and Principe",
+        "Montserrat",
+        "United Arab Emirates",
+        "Pakistan",
+        "Netherlands",
+        "Luxembourg",
+        "Belize",
+        "Iran, Islamic Republic of",
+        "Bolivia",
+        "Uruguay",
+        "Ghana",
+        "Saudi Arabia",
+        "Côte d'Ivoire",
+        "Saint Martin (French part)",
+        "French Southern Territories",
+        "Anguilla",
+        "Qatar",
+        "Sint Maarten (Dutch part)",
+        "Libya",
+        "Bouvet Island",
+        "Papua New Guinea",
+        "Kyrgyzstan",
+        "Equatorial Guinea",
+        "Western Sahara",
+        "Niue",
+        "Puerto Rico",
+        "Grenada",
+        "Korea, Republic of",
+        "Heard Island and McDonald Islands",
+        "San Marino",
+        "Sierra Leone",
+        "Congo, The Democratic Republic of the",
+        "North Macedonia",
+        "Türkiye",
+        "Algeria",
+        "Georgia",
+        "Palestine, State of"
+      ],
+      "normLabel": "job seeker form job seeker country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][address1]",
+      "id": "address1",
+      "label": "Street Address",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Street Address",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#address1",
+      "visible": true,
+      "normLabel": "street address",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][address2]",
+      "id": "address2",
+      "label": "City",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "City",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#address2",
+      "visible": true,
+      "normLabel": "city",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "job_seeker_form[job_seeker][town]",
+      "label": "job seeker form job seeker town",
+      "labelSource": "id-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "job seeker form job seeker town",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][postcode]",
+      "id": "postcode",
+      "label": "Zipcode",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Zipcode",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#postcode",
+      "visible": true,
+      "normLabel": "zipcode",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "job_seeker_form[job_seeker][cv]",
+      "id": "job_seeker_form[job_seeker][cv]",
+      "label": "Attach Résumé / CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"job_seeker_form[job_seeker][cv]\"]",
+      "visible": false,
+      "accept": "application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf",
+      "multiple": false,
+      "normLabel": "attach r sum / cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][summary]",
+      "id": "personal-summary",
+      "label": "Personal Summary This section is optional. Use it to tell us a little more about yourself.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#personal-summary",
+      "visible": true,
+      "normLabel": "personal summary this section is optional use it to tell us ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "job_seeker_form[interest_options][location_ids][]",
+      "label": "Locations",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "San",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "locations",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "job_seeker_form[interest_options][department_ids][]",
+      "label": "Departments",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > input",
+      "visible": true,
+      "widgetHint": "react-select__input",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "departments",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][answers_attributes][0][boolean_answer]",
+      "label": "4.Questions",
+      "labelSource": "legend",
+      "firstOptionLabel": "Do you have the rights to work in Denmark? yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"job_seeker_form[job_seeker][answers_attributes][0][boolean_answer]\"]",
+      "normLabel": "4 questions",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "job_seeker_form[job_seeker][answers_attributes][1][boolean_answer]",
+      "label": "4.Questions",
+      "labelSource": "legend",
+      "firstOptionLabel": "Do you have the rights to work in the UK? yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"job_seeker_form[job_seeker][answers_attributes][1][boolean_answer]\"]",
+      "normLabel": "4 questions",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 5,
+      "text-email": 1,
+      "phone-intl": 1,
+      "combobox": 4,
+      "file-upload": 1,
+      "textarea": 1,
+      "radio-group": 2
+    },
+    "byAction": {
+      "type": 10,
+      "type-then-pick-country": 1,
+      "click-type-pick": 1,
+      "upload": 1,
+      "choose-one": 2
+    },
+    "byOptionsSource": {
+      "country-picker-unprobed": 1,
+      "dom-on-open": 1,
+      "none-observed": 3,
+      "dom-static": 2
+    }
+  },
+  "widgetsProbed": 5,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 100
+    },
+    {
+      "widget": "combobox",
+      "count": 4
+    },
+    {
+      "widget": "typeahead",
+      "count": 4
+    }
+  ],
+  "sections": [
+    "Register Your Interest",
+    "Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come along that meet your criteria. You'll receive an email wh",
+    "1.Personal Details We'll need these details in order to be able to contact you when a job is made available.",
+    "2.Upload Résumé / CV Having some information helps us inform you about the right jobs.",
+    "3.Teams Please let us know what type of opportunities you're interested in.",
+    "4.Questions",
+    "Diversity and Inclusion In an effort to promote equal opportunities and reinforce hiring practices at our organisation we have included below some optional demographic questions. Your responses, or yo",
+    "5. Submit"
+  ],
+  "buttons": [
+    "Start typing an address",
+    "SUBMIT",
+    "COOKIES"
+  ],
+  "resumeUpload": [
+    "Careers at View all opportunities Register Your Interest Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come ",
+    "View all opportunities Register Your Interest Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come along that ",
+    "Speculative Applications If you can't see a role that you want to apply for right now, complete the form to be notified of any roles that come along that meet your criteria. You'll receive an email wh",
+    "First Name Last Name Email Address Phone {\"railsEnv\":\"production\",\"inMailer\":false,\"i18nLocale\":\"en\",\"i18nDefaultLocale\":\"en\",\"rorVersion\":\"13.0.2\",\"rorPro\":false,\"href\":\"https://samsung.pinpointhq.co",
+    "Résumé / CV Accepted file formats are .pdf and .docx Attach Résumé / CV {\"labelText\":\"Attach Résumé / CV\",\"modifier\":\"themed\",\"name\":\"job_seeker_form[job_seeker][cv]\",\"isDirectUpload\":true,\"accept\":[\""
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/pinpoint/samsung__software-engineer.png",
+    "html": "data/html/pinpoint/samsung__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 25,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5199,
+    "lowestField": 4847.984375,
+    "coversAllFields": true
+  },
+  "ms": 53230,
+  "fingerprint": {
+    "labelSig": "77cb5728db36",
+    "shapeSig": "f6a5c5c12595",
+    "controlSig": "63f3a11c6a0b",
+    "controls": {
+      "text": 5,
+      "text-email": 1,
+      "phone-intl": 1,
+      "combobox": 4,
+      "file-upload": 1,
+      "textarea": 1,
+      "radio-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "630b83e813f9",
+    "typeCounts": {
+      "text": 9,
+      "email": 1,
+      "tel": 1,
+      "file": 1,
+      "textarea": 1,
+      "radio": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 4,
+    "customQuestionCount": 5,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "pinpoint",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

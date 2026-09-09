@@ -1,0 +1,149 @@
+{
+  "id": "teamtailor__toyota__regionchef-dealer-relation-manager",
+  "group": "teamtailor",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "toyota",
+    "board": "toyota",
+    "title": "Regionchef/ Dealer Relation Manager",
+    "location": "",
+    "jobUrl": "https://toyotafinancialservices.teamtailor.com/jobs/8249046-regionchef-dealer-relation-manager",
+    "startUrl": "https://toyotafinancialservices.teamtailor.com/jobs/8249046-regionchef-dealer-relation-manager"
+  },
+  "platform": "teamtailor",
+  "detectedPlatform": "teamtailor",
+  "platformLabel": "Teamtailor",
+  "finalUrl": "https://toyotafinancialservices.teamtailor.com/jobs/8249046-regionchef-dealer-relation-manager",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Regionchef/ Dealer Relation Manager - Toyota Financial Services",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-a69e7d75",
+      "label": "Dela sidan",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-a69e7d75",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "dela sidan",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1
+    },
+    "byAction": {
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Webbplatsen använder cookies för att säkerställa att du får den bästa upplevelsen.",
+    "Regionchef/ Dealer Relation Manager",
+    "Är du en affärsdriven relationsbyggare med erfarenhet av bilfinansiering och en passion för att skapa långsiktiga samarbeten? Välkommen att bli en del av Toyota Financial Services.",
+    "Toyota Financial Services, Sundbyberg",
+    "Om Toyota Financial Services",
+    "Regionchef/ Dealer Relation Manager",
+    "Är du en affärsdriven relationsbyggare med erfarenhet av bilfinansiering och en passion för att skapa långsiktiga samarbeten? Välkommen att bli en del av Toyota Financial Services.",
+    "Karriärsida",
+    "Avdelningar",
+    "Toyota"
+  ],
+  "buttons": [
+    "Acceptera alla cookies",
+    "Neka alla icke-nödvändiga cookies",
+    "Inställningar för cookies",
+    "KARRIÄRMENY",
+    "Dela sidan",
+    "Skicka ansökan",
+    "Skicka ansökan",
+    "Hantera cookies"
+  ],
+  "resumeUpload": [
+    "Toyota Financial ServicesToyota Financial Services är en del av Toyota-koncernen och erbjuder finansierings- och försäkringslösningar för Toyota- och Lexuskunder i Sverige. Vårt uppdrag är att göra bi"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/teamtailor/toyota__regionchef-dealer-relation-manager.png",
+    "html": "data/html/_unreached/teamtailor/toyota__regionchef-dealer-relation-manager.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 1,
+    "docHeight": 6212,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 4745,
+  "fingerprint": {
+    "labelSig": "5a4d089465fd",
+    "shapeSig": "1d94131616a3",
+    "controlSig": "edf5c3c0cf93",
+    "controls": {
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "7bb6c32bc5b5",
+    "typeCounts": {
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,451 @@
+{
+  "id": "custom-shopify-com__shopify__security-incident-response-senior-analys",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "shopify",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Security Incident Response, Senior Analyst REMOTE - AMERICAS",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/security-incident-response-senior-analyst_62efacf8-e3b3-4265-be67-92f1e6f379ed?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/security-incident-response-senior-analyst_62efacf8-e3b3-4265-be67-92f1e6f379ed?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "detectedPlatform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/security-incident-response-senior-analyst_62efacf8-e3b3-4265-be67-92f1e6f379ed?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Security Incident Response, Senior Analyst - Shopify",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "df9316ec-c856-49e9-a968-578d8cf5db9b",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#df9316ec-c856-49e9-a968-578d8cf5db9b",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "b41a152e-d9b3-48fa-a87f-7bec52a196ed",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#b41a152e-d9b3-48fa-a87f-7bec52a196ed",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "c5f0c1d0-34d3-4326-aa89-a5799800f62a",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#c5f0c1d0-34d3-4326-aa89-a5799800f62a",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "bbe31ef7-3ac5-429f-be70-9a368d2831d9",
+      "id": "bbe31ef7-3ac5-429f-be70-9a368d2831d9",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#bbe31ef7-3ac5-429f-be70-9a368d2831d9",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "03133d53-94aa-41f2-b04d-2ac9c2368557",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "391b6a1a-f15f-4f85-9eb0-2864cdf23ca8",
+      "id": "f68801b9-fac7-4321-be9f-609918db9322",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?* Yes, sponsorship required No",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#f68801b9-fac7-4321-be9f-609918db9322",
+      "visible": true,
+      "options": [
+        "Yes, sponsorship required",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes, sponsorship required",
+          "value": "Yes, sponsorship required"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "04a521c0-ff73-43e2-ae4a-722a866aa9f3",
+      "id": "04a521c0-ff73-43e2-ae4a-722a866aa9f3",
+      "label": "Which track are you interested in pursuing with Shopify?* Individual Contributor People Manager",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"04a521c0-ff73-43e2-ae4a-722a866aa9f3\"]",
+      "visible": true,
+      "options": [
+        "Individual Contributor",
+        "People Manager"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Individual Contributor",
+          "value": "Individual Contributor"
+        },
+        {
+          "label": "People Manager",
+          "value": "People Manager"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which track are you interested in pursuing with shopify indi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "804d0464-80c4-4b7b-8153-8e43cae4c7e1",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"804d0464-80c4-4b7b-8153-8e43cae4c7e1\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "7b3703f9-99f1-4449-8468-e3dcaa44da50",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"7b3703f9-99f1-4449-8468-e3dcaa44da50\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "8f2d8390-bf7e-483d-842a-f0e851bba1dd",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"8f2d8390-bf7e-483d-842a-f0e851bba1dd\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "native-select": 2,
+      "checkbox-group": 3
+    },
+    "byAction": {
+      "type": 4,
+      "upload": 1,
+      "select-option": 2,
+      "check-many": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Security Incident Response, Senior Analyst",
+    "About the role",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackSecurity Incident Response, Senior AnalystRemote - AmericasSupportApply NowAbout the roleSecurity Incident Response Analyst - DARTWe’re looking for a curious and detail-oriented Incident Response,",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employment?*Yes, sponsorship "
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__security-incident-response-senior-analys.png",
+    "html": "data/html/custom-shopify-com/shopify__security-incident-response-senior-analys.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 4665,
+    "lowestField": 3926.765625,
+    "coversAllFields": true
+  },
+  "ms": 41031,
+  "fingerprint": {
+    "labelSig": "61db066e2aff",
+    "shapeSig": "ee153e1a0ec4",
+    "controlSig": "6a8dcc8aafa8",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "native-select": 2,
+      "checkbox-group": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "455fad667cc9",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "select": 2,
+      "checkbox": 3
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 9,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

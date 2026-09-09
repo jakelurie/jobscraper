@@ -1,0 +1,662 @@
+{
+  "id": "breezy__fathom__manager-content-social",
+  "group": "breezy",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "breezy",
+    "atsLabel": "breezy",
+    "company": "fathom",
+    "board": "fathom",
+    "title": "Manager, Content & Social",
+    "location": "DC Metro Area, DC",
+    "jobUrl": "https://fathom.breezy.hr/p/1b0072dc3e0a-manager-content-social",
+    "startUrl": "https://fathom.breezy.hr/p/1b0072dc3e0a-manager-content-social/applicant/new"
+  },
+  "platform": "breezy",
+  "detectedPlatform": "breezy",
+  "platformLabel": "Breezy HR",
+  "finalUrl": "https://fathom.breezy.hr/p/1b0072dc3e0a/apply",
+  "applyTrail": [
+    "clicked: Apply",
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Manager, Content & Social",
+  "fieldCount": 11,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "cResume",
+      "id": "main-attachment",
+      "label": "c Resume",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#main-attachment",
+      "visible": false,
+      "accept": ".pdf, .doc, .docx, .txt, .rtd, .pages",
+      "multiple": false,
+      "normLabel": "c resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cName",
+      "id": "",
+      "label": "Full Name",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Full Name",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cName\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cEmail",
+      "id": "",
+      "label": "Email Address",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Email Address",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cEmail\"]",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cPhoneNumber",
+      "id": "",
+      "label": "Phone Number",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Phone Number",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cPhoneNumber\"]",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "smsConsent",
+      "label": "sms Consent",
+      "labelSource": "name-attr",
+      "firstOptionLabel": "sms Consent",
+      "required": false,
+      "options": [
+        "on"
+      ],
+      "optionValues": [
+        {
+          "label": "on",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"smsConsent\"]",
+      "normLabel": "sms consent",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "salaryCurrency",
+      "id": "",
+      "label": "salary Currency",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"salaryCurrency\"]",
+      "visible": true,
+      "options": [
+        "US Dollar ($)",
+        "Canadian Dollar ($)",
+        "Euro (€)",
+        "United Arab Emirates Dirham (د.إ.‏)",
+        "Afghan Afghani (؋)",
+        "Albanian Lek (Lek)",
+        "Armenian Dram (դր.)",
+        "Argentine Peso ($)",
+        "Australian Dollar ($)",
+        "Azerbaijani Manat (ман.)",
+        "Bosnia-Herzegovina Convertible Mark (KM)",
+        "Bangladeshi Taka (৳)",
+        "Bulgarian Lev (лв.)",
+        "Bahraini Dinar (د.ب.‏)",
+        "Burundian Franc (FBu)",
+        "Brunei Dollar ($)",
+        "Bolivian Boliviano (Bs)",
+        "Brazilian Real (R$)",
+        "Botswanan Pula (P)",
+        "Belarusian Ruble (руб.)",
+        "Belize Dollar ($)",
+        "Congolese Franc (FrCD)",
+        "Swiss Franc (CHF)",
+        "Chilean Peso ($)",
+        "Chinese Yuan (CN¥)",
+        "Colombian Peso ($)",
+        "Costa Rican Colón (₡)",
+        "Cape Verdean Escudo (CV$)",
+        "Czech Republic Koruna (Kč)",
+        "Djiboutian Franc (Fdj)",
+        "Danish Krone (kr)",
+        "Dominican Peso (RD$)",
+        "Algerian Dinar (د.ج.‏)",
+        "Estonian Kroon (kr)",
+        "Egyptian Pound (ج.م.‏)",
+        "Eritrean Nakfa (Nfk)",
+        "Ethiopian Birr (Br)",
+        "British Pound Sterling (£)",
+        "Georgian Lari (GEL)",
+        "Ghanaian Cedi (GH₵)"
+      ],
+      "optionValues": [
+        {
+          "label": "US Dollar ($)",
+          "value": "USD"
+        },
+        {
+          "label": "Canadian Dollar ($)",
+          "value": "CAD"
+        },
+        {
+          "label": "Euro (€)",
+          "value": "EUR"
+        },
+        {
+          "label": "United Arab Emirates Dirham (د.إ.‏)",
+          "value": "AED"
+        },
+        {
+          "label": "Afghan Afghani (؋)",
+          "value": "AFN"
+        },
+        {
+          "label": "Albanian Lek (Lek)",
+          "value": "ALL"
+        },
+        {
+          "label": "Armenian Dram (դր.)",
+          "value": "AMD"
+        },
+        {
+          "label": "Argentine Peso ($)",
+          "value": "ARS"
+        },
+        {
+          "label": "Australian Dollar ($)",
+          "value": "AUD"
+        },
+        {
+          "label": "Azerbaijani Manat (ман.)",
+          "value": "AZN"
+        },
+        {
+          "label": "Bosnia-Herzegovina Convertible Mark (KM)",
+          "value": "BAM"
+        },
+        {
+          "label": "Bangladeshi Taka (৳)",
+          "value": "BDT"
+        },
+        {
+          "label": "Bulgarian Lev (лв.)",
+          "value": "BGN"
+        },
+        {
+          "label": "Bahraini Dinar (د.ب.‏)",
+          "value": "BHD"
+        },
+        {
+          "label": "Burundian Franc (FBu)",
+          "value": "BIF"
+        },
+        {
+          "label": "Brunei Dollar ($)",
+          "value": "BND"
+        },
+        {
+          "label": "Bolivian Boliviano (Bs)",
+          "value": "BOB"
+        },
+        {
+          "label": "Brazilian Real (R$)",
+          "value": "BRL"
+        },
+        {
+          "label": "Botswanan Pula (P)",
+          "value": "BWP"
+        },
+        {
+          "label": "Belarusian Ruble (руб.)",
+          "value": "BYN"
+        },
+        {
+          "label": "Belize Dollar ($)",
+          "value": "BZD"
+        },
+        {
+          "label": "Congolese Franc (FrCD)",
+          "value": "CDF"
+        },
+        {
+          "label": "Swiss Franc (CHF)",
+          "value": "CHF"
+        },
+        {
+          "label": "Chilean Peso ($)",
+          "value": "CLP"
+        },
+        {
+          "label": "Chinese Yuan (CN¥)",
+          "value": "CNY"
+        },
+        {
+          "label": "Colombian Peso ($)",
+          "value": "COP"
+        },
+        {
+          "label": "Costa Rican Colón (₡)",
+          "value": "CRC"
+        },
+        {
+          "label": "Cape Verdean Escudo (CV$)",
+          "value": "CVE"
+        },
+        {
+          "label": "Czech Republic Koruna (Kč)",
+          "value": "CZK"
+        },
+        {
+          "label": "Djiboutian Franc (Fdj)",
+          "value": "DJF"
+        },
+        {
+          "label": "Danish Krone (kr)",
+          "value": "DKK"
+        },
+        {
+          "label": "Dominican Peso (RD$)",
+          "value": "DOP"
+        },
+        {
+          "label": "Algerian Dinar (د.ج.‏)",
+          "value": "DZD"
+        },
+        {
+          "label": "Estonian Kroon (kr)",
+          "value": "EEK"
+        },
+        {
+          "label": "Egyptian Pound (ج.م.‏)",
+          "value": "EGP"
+        },
+        {
+          "label": "Eritrean Nakfa (Nfk)",
+          "value": "ERN"
+        },
+        {
+          "label": "Ethiopian Birr (Br)",
+          "value": "ETB"
+        },
+        {
+          "label": "British Pound Sterling (£)",
+          "value": "GBP"
+        },
+        {
+          "label": "Georgian Lari (GEL)",
+          "value": "GEL"
+        },
+        {
+          "label": "Ghanaian Cedi (GH₵)",
+          "value": "GHS"
+        }
+      ],
+      "optionCount": 119,
+      "normLabel": "salary currency",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cSalary",
+      "id": "",
+      "label": "Desired Salary",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Desired Salary",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cSalary\"]",
+      "visible": true,
+      "normLabel": "desired salary",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "",
+      "labelSource": "none",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > form > div:nth-of-type(3) > div:nth-of-type(9) > select",
+      "visible": true,
+      "options": [
+        "Hourly",
+        "Weekly",
+        "Monthly",
+        "Yearly"
+      ],
+      "optionValues": [
+        {
+          "label": "Hourly",
+          "value": "hourly"
+        },
+        {
+          "label": "Weekly",
+          "value": "weekly"
+        },
+        {
+          "label": "Monthly",
+          "value": "monthly"
+        },
+        {
+          "label": "Yearly",
+          "value": "yearly"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "",
+      "canonical": "unknown"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cSummary",
+      "id": "",
+      "label": "c Summary",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cSummary\"]",
+      "visible": true,
+      "normLabel": "c summary",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cCoverLetter",
+      "id": "",
+      "label": "c Cover Letter",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cCoverLetter\"]",
+      "visible": true,
+      "normLabel": "c cover letter",
+      "canonical": "cover_letter"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "hp_7f2b",
+      "id": "hp_7f2b",
+      "label": "hp 7f2b",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "hp-4f3c9a",
+      "maxlength": "",
+      "selector": "#hp_7f2b",
+      "visible": true,
+      "normLabel": "hp 7f2b",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 4,
+      "text-email": 1,
+      "checkbox-group": 1,
+      "native-select": 2,
+      "textarea": 2
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 7,
+      "check-many": 1,
+      "select-option": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Manager, Content & Social",
+    "Personal Details",
+    "Full Name*",
+    "Email Address*",
+    "Phone Number",
+    "Desired Salary",
+    "Experience",
+    "Cover Letter"
+  ],
+  "buttons": [
+    "Upload Resume*",
+    "Use My Indeed Resume",
+    "Apply Using LinkedIn",
+    "Submit Application"
+  ],
+  "resumeUpload": [
+    "Manager, Content & SocialApplication SubmittedYour application has been submitted successfully. Good luck!Job OpeningsManager, Content & SocialApply Upload Resume* Use My Indeed ResumeApply Using Link",
+    "Job OpeningsManager, Content & SocialApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A full name is req",
+    "Job OpeningsManager, Content & SocialApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A full name is req",
+    "Job OpeningsManager, Content & SocialApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A full name is req",
+    "Job OpeningsManager, Content & SocialApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A full name is req"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/breezy/fathom__manager-content-social.png",
+    "html": "data/html/breezy/fathom__manager-content-social.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1633,
+    "lowestField": 1417.9375,
+    "coversAllFields": true
+  },
+  "ms": 52782,
+  "fingerprint": {
+    "labelSig": "b0406d8e1f59",
+    "shapeSig": "14270083ee2f",
+    "controlSig": "2fc460c14c5c",
+    "controls": {
+      "file-upload": 1,
+      "text": 4,
+      "text-email": 1,
+      "checkbox-group": 1,
+      "native-select": 2,
+      "textarea": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "532b8fbf3525",
+    "typeCounts": {
+      "file": 1,
+      "text": 4,
+      "email": 1,
+      "checkbox": 1,
+      "select": 2,
+      "textarea": 2
+    },
+    "canonicals": [
+      "consent",
+      "cover_letter",
+      "custom_question",
+      "email",
+      "full_name",
+      "phone",
+      "resume",
+      "salary",
+      "unknown"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 2,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

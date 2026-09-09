@@ -1,0 +1,209 @@
+{
+  "id": "clearcompany__bt-starbucks__software-engineer",
+  "group": "custom-starbucks-hrmdirect-com",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "clearcompany",
+    "atsLabel": "clearcompany",
+    "company": "bt-starbucks",
+    "board": "starbucks",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://starbucks.clearcompany.com/careers/jobs",
+    "startUrl": "https://starbucks.clearcompany.com/careers/jobs"
+  },
+  "platform": "clearcompany",
+  "platformLabel": "starbucks.hrmdirect.com",
+  "finalUrl": "https://starbucks.hrmdirect.com/employment/job-openings.php",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Careers At Starbucks - Org Test ADP",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "dept",
+      "id": "dept",
+      "label": "dept",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#dept",
+      "visible": true,
+      "options": [
+        "- All Areas of Interest -"
+      ],
+      "optionValues": [
+        {
+          "label": "- All Areas of Interest -",
+          "value": "-1"
+        }
+      ],
+      "optionCount": 1,
+      "normLabel": "dept",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "city",
+      "id": "city",
+      "label": "city",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#city",
+      "visible": true,
+      "options": [
+        "- All Cities -"
+      ],
+      "optionValues": [
+        {
+          "label": "- All Cities -",
+          "value": "-1"
+        }
+      ],
+      "optionCount": 1,
+      "normLabel": "city",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "state",
+      "id": "state",
+      "label": "state",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#state",
+      "visible": true,
+      "options": [
+        "- All States -"
+      ],
+      "optionValues": [
+        {
+          "label": "- All States -",
+          "value": "-1"
+        }
+      ],
+      "optionCount": 1,
+      "normLabel": "state",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "native-select": 3
+    },
+    "byAction": {
+      "select-option": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [
+    "Search"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/clearcompany/bt-starbucks__software-engineer.png",
+    "html": "data/html/_unreached/clearcompany/bt-starbucks__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 3,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 850,
+    "lowestField": 290,
+    "coversAllFields": true
+  },
+  "ms": 2681,
+  "fingerprint": {
+    "labelSig": "fe6d2aada27c",
+    "shapeSig": "8cf96996021a",
+    "controlSig": "9f842940abdb",
+    "controls": {
+      "native-select": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "318c4bb2a041",
+    "typeCounts": {
+      "select": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:starbucks.hrmdirect.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

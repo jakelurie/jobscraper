@@ -1,0 +1,297 @@
+{
+  "id": "successfactors__phillips66__software-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "phillips66",
+    "board": "phillips66",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.phillips66.com/jobs/search?ss=1",
+    "startUrl": "https://careers.phillips66.com/jobs/search?ss=1"
+  },
+  "platform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://careers.phillips66.com/jobs/search?ss=1",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "captcha",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Phillips 66 Jobs",
+  "fieldCount": 7,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "q",
+      "id": "",
+      "label": "Search by Keyword",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"q\"]",
+      "visible": true,
+      "normLabel": "search by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "locationsearch",
+      "id": "",
+      "label": "Search by Location",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"locationsearch\"]",
+      "visible": true,
+      "normLabel": "search by location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "facility",
+      "id": "facility",
+      "label": "Req ID",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Req ID",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#facility",
+      "visible": true,
+      "normLabel": "req id",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "title",
+      "id": "title",
+      "label": "Title",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Title",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#title",
+      "visible": true,
+      "normLabel": "title",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location",
+      "label": "Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Location",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#location",
+      "visible": true,
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "department",
+      "id": "department",
+      "label": "Job Field",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Job Field",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#department",
+      "visible": true,
+      "normLabel": "job field",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "shifttype",
+      "id": "shifttype",
+      "label": "Hire Type",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Hire Type",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#shifttype",
+      "visible": true,
+      "normLabel": "hire type",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 7
+    },
+    "byAction": {
+      "type": 7
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Search results for \"\"."
+  ],
+  "buttons": [
+    "Benefits",
+    "Career Areas",
+    "Show More Options",
+    "Search Jobs",
+    "Clear",
+    "Req ID",
+    "Title",
+    "Location",
+    "Job Field",
+    "Hire Type",
+    "Filter",
+    "Reset",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab."
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/phillips66__software-engineer.png",
+    "html": "data/html/_unreached/successfactors/phillips66__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 1820,
+    "lowestField": 626.671875,
+    "coversAllFields": true
+  },
+  "ms": 7463,
+  "fingerprint": {
+    "labelSig": "2273ff05f3c7",
+    "shapeSig": "c894ab42564c",
+    "controlSig": "5fa6deb8e070",
+    "controls": {
+      "text": 7
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "7e74400cfa27",
+    "typeCounts": {
+      "text": 7
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 5,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "successfactors",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

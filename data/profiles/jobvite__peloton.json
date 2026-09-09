@@ -1,0 +1,852 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Correlation.2p0htMwIkTXKx0RwZHeGy8lj9OspGehmUHPG2q-5cQ0",
+      "value": "N",
+      "domain": ".www.usajobs.gov",
+      "path": "/signin-wsfed",
+      "expires": 1788893375.63282,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "wNqCT_PhMYxrYEmXXK7SGk4HNnqr2Yav4idwj3VYYL3q3w134OZj!513233406!-730655441",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/hcmUI",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DefaultAsserted",
+      "value": "Asserted",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SearchVisitorId",
+      "value": "318d4f2b-4b29-e53b-3659-8c7c1715b2d0",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1820428257,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SearchSessionId",
+      "value": "{%22SearchSessionId%22:%22767060b2-32cb-a5f4-6d25-7593637c2530%22%2C%22ImpressionParentId%22:%22%22%2C%22ViewParentId%22:%22%22%2C%22GoogleSearchRequestId%22:%22%22%2C%22GoogleJobId%22:%22%22%2C%22Created%22:%221788892257099%22}",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1895469486.1788892257",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1823452267.480375,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1322277803.1788892257",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1788978667,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1433383493.1788892258",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1796668258,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLID",
+      "value": "47fffd8973c94a1aac86f5517cd7df60.20260908.20270908",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1820428259.550987,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "14vcn3g%5E2%5Eg9a%5E0%5E2442",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1820428259,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "36EE4F9A3FB263753E9458543E3E62BE",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822588260.60293,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1789497060.603019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "36EE4F9A3FB263753E9458543E3E62BE",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1822588260.603056,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "36EE4F9A3FB263753E9458543E3E62BE",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1822588260.667464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1789497060.66753,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1788892860.667569,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmpb2ZQMv4pIq6P3UNGk4z6oh1SiDgbtOWoGTi3JZUfqL7OvReo2fVmRNxgiWQ",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823452261.435713,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1820428270,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.e168",
+      "value": "*",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1788894072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+14%3A31%3A07+GMT-0400+(Eastern+Daylight+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3f78abcf-90ac-4975-8025-4a0994618bec&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=BG114%3A1%2C2%3A1%2C4%3A1%2C6%3A1%2CBG115%3A1%2C1%3A1%2C3%3A1&AwaitingReconsent=false",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1820428267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "herehv%5E1788892267735%5E4%5E1%5Ea.clarity.ms%2Fcollect",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1788978667,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PersonalizationCookie",
+      "value": "[{%22Locations%22:[{%22Path%22:%226252001-4482348-4462997-4474186-4049950%22%2C%22FacetType%22:4%2C%22GeolocationLatitude%22:35.5668%2C%22GeolocationLongitude%22:-75.4685%2C%22LocationName%22:%22Waves%252C%2520NC%22}]%2C%22Categories%22:[]%2C%22PersonalizationType%22:0%2C%22DateCreated%22:%222026-09-08T18:30:57.423Z%22%2C%22CustomFacets%22:[]%2C%22TenantId%22:48560%2C%22OnetCode%22:null%2C%22Served%22:true}%2C{%22Locations%22:[{%22Path%22:%226252001-5001836-5014227-4990510%22%2C%22FacetType%22:4}]%2C%22Categories%22:[%229255696%22]%2C%22PersonalizationType%22:1%2C%22DateCreated%22:%222026-09-08T18:31:05.772Z%22%2C%22CustomFacets%22:[{%22CustomFacetValue%22:%22Ford%20Motor%20Company%22%2C%22CustomFacetTerm%22:%22company_name%22}]%2C%22TenantId%22:48560}%2C{%22Locations%22:[{%22Path%22:%221269750-1255053-7646145-1264527%22%2C%22FacetType%22:4}]%2C%22Categories%22:[%229255728%22]%2C%22PersonalizationType%22:1%2C%22DateCreated%22:%222026-09-08T18:31:07.770Z%22%2C%22CustomFacets%22:[{%22CustomFacetValue%22:%22Ford%20Motor%20Private%20Limited%22%2C%22CustomFacetTerm%22:%22company_name%22}]%2C%22TenantId%22:48560}]",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1791484267,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "viewedJobs",
+      "value": "cTEKIRlmaM5osqn85NlaqVDcVThDEpFyPDZDSN%252b2EjqVQXiLrrAKdrRo8qm2V7e1FB4Q5yyVrVFUDlDbwrEtOpcMmM2FHEfIZ1TaI4ckWaK3d5KOwHtfqq5MLg3DCzBEkkW%252fRuZjOEdOCr%252fbCWndnBhlNG3i4P4%252f2vX2AWfc8%252f%252bPseeaij9%252bKVGrBnP849Jwa92DEz3gYLF8aLP5N%252fSo7%252bqafSbeytnGSPT8pV%252beEP%252fLHmsGofRZo3ZxB%252f4a%252f%252b8dBqUSjfzNmln8Qlc%252f8XD9Sxi%252f2AusOxxkLmJa2QiSzX3dB91C6YKA5n38D%252bQmfK12",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1791484267.874525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "7beeddfa8c8c778f82e137368c874f3a",
+      "value": "285dc39d40ca503294a2d9ebda8a89a4",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": 1820428272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.e168",
+      "value": "7153ec90-32e1-421e-86d2-caa83e3edc41.1788892263.1.1788892273..4d4fddfa-9971-486a-9c69-c05b9f86c68a..f042fdf9-599c-4428-aa5a-735d311c4051.1788892263327.9",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1823452272.758017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CX_1_cookieConsentEnabled",
+      "value": "true",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_1",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w4~EE246AAD08DF6A241D62238C17A32B4D",
+      "domain": "jobs.l3harris.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "route",
+      "value": "9faedc20c7e35ffea1d3ccfc9c2c483b|8b9d6a7da49c46b0f8b875e5553002b7",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "1A94CC85549DAABDC0D0089515423DC7.bizx-car-6989998c59-pzppj",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "L3HHCM20",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8875735Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8875819Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8875873Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8876097Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8876165Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8876224Z%22%7D%5D",
+      "domain": "www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1763424393.1788892464",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452610.323166,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_LOGIN_USAJ",
+      "value": "1788892776~id=d91a64eadc0e8267cfe0a5decb353e3c",
+      "domain": ".login.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "akavpau_usajobs",
+      "value": "1788892824~id=91ef6dd00fd31b7403f248b04988a26e",
+      "domain": ".www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ReqUSAJVT",
+      "value": "CfDJ8ILE5f9a_zxJn92VcX8oTv-Jt5g3m5smLgWYcXvq5SfEXBs7xKKj7ycnWvt-VCziwMVaLOYi01bDy3oNl-gbszhPrFYX1ISitGYzC1IZ0CWaSYHOnFKfo8deitxngE8YKV8b9_qcY3IMjHlgZVEm7Pc",
+      "domain": "help.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A36%3A50.2835071Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A36%3A50.283512Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A36%3A50.283516Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A36%3A50.2835194Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A36%3A50.2835236Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A36%3A50.2835278Z%22%7D%5D",
+      "domain": "help.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_CLZB1LJ1VZ",
+      "value": "GS2.1.s1788892464$o1$g1$t1788892623$j30$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452623.108685,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_CSLL4ZEK4L",
+      "value": "GS2.1.s1788892464$o1$g1$t1788892623$j30$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452623.110525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "d86442fe9d4c34aaeba98cfb00027b407a13899b5c5a151da814bc46a1f7dc77%7C97bc107029ab838491dcd425b0ac1e5c1ee83765a5d431954a6d0c2aaf598efa",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fjobs.dayforcehcm.com",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "ai_user",
+      "value": "n5fSJNQxayXLsuBbt3a0w9|2026-09-08T18:37:04.701Z",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428624.70125,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "oyoPkseWZOsKtkRzSJWYa9r1jsDQriYz9kSAT939nnM-1788892624-1.2.1.1-y8kYQhalESd.PJLKveuGsg8R2wWe9d1bGRW2AnhfYWka_tN.hGBHqlEMdYoJ3xmNCyNhd0x8mXaQMcNe3ENPzbDxYs6k3C8TzaHB9HaqJWzps6gQw3r3ZTX1pCI6RZoyGTzJbuqISo6DLqWZE.He7SLCT0C1RdK4bAVWjRyPgDPrfxZic7EM629Fpwx76nzWyC5aHb2CDaLbX7jzx3oiMbO8FCF2xSllZpnuVw3TcMrGaDnnWn4MuooO18mzhk0u0QIC7.BF72HC16lGHHdP4Xvztz7tpbfgic.Rxp_rBH_YLH9BhJ.39S.I9IXxeBCfj981OgXMa.zCSZjpqboD20tCUDliTbU9qrbg1i0EExw",
+      "domain": ".dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428624.902289,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "k0SbM_rnrdEjTtviU8qkrW0mdNzZkRupzVEAfd83tMQ-1788892624.9174898-1.0.1.1-exW9sAtvDj3ELJn4oV2DemM61gWAJyugzQ8KOfhiib8HlK8YoHC0kFPa2r52NnxtobkjPC8rBjbDoVFclkCdmXnuSZrNCyIE69o_CJXiTlsYIYm7TDqziQ_s0RlEjLTz",
+      "domain": ".dayforcehcm.com",
+      "path": "/",
+      "expires": 1788894424.902322,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SiteConfig",
+      "value": "{%22lululemon%22:[]%2C%22pwc%22:[]}",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428635,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_session",
+      "value": "ddnPmya2b3hsJqQCJICmvC|1788892624823|1788892635451",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1788894435.452227,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FND_SESSION_US2BH6V_F",
+      "value": "DEFAULT_PILLAR:zaiDRl2YDWnsabYEE7PTVl7U7GEPU/mROdrJqxBXe0h5eXAg77E3gOtVFEOLjlUR:1788892658646",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FPC",
+      "value": "id=84771562-6d09-44ce-a704-b1e6e436eece",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1823452673.632584,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CX_3002_cookieConsentEnabled",
+      "value": "false",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_3002",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID",
+      "value": "027a2f00-6f2c-4e1c-841e-b90c17a0d2c1",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796668673.950334,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID_FUNCTIONAL",
+      "value": "027a2f00-6f2c-4e1c-841e-b90c17a0d2c1",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796668673.950454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OAMAuthnHintCookie",
+      "value": "0@1788892662",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAM_ID",
+      "value": "VERSION_4~kAu4xLVNBcI9XAP9~ar0mP2aLOMAQgf0cmk6enHXSdbrieFo/gZXt8PMKIc3UlW31isijz/byGENKkTxKUNaeZKXtzG41wwvo1aDkFFZ/+gwBtdFGIn+Acw4xxhTOfzKGj/pSo1dyzTQCafaekLlqOD7VmsVksIOsXIvD/tF8/s5pRaYYi8hUASM63EaNQZKc+CFvw9ztUsNUzagvw7hKLKJnVTqx",
+      "domain": "hdpc-dev6.login.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "qbSCT87ldDySBdZ3--H1reEZ_2kLrjjL5Z5VEPpZAOCwq9qF-n45!51126073!1176524299",
+      "domain": "hdpc-dev6.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAMAuthnCookie_hdpc-dev6.fa.us2.oraclecloud.com_443",
+      "value": "1516134ad803c3d1b55d6438020581b4d857898d%7ENFaQMSeU5Lef6eZTFzTYxMb9a7XJH2dIM14YQRzISGce85yAvmFufpI9iqtdWAAVLXXratwQFRuJgGIamtTxK%2FUbjPAXbtTUy44UpiqZURvsD1XuM5n9qfl3w23IIC1%2BaYwhiuiwbFftW%2BJ0AhCH%2BxSwX2W8P7q%2FF2K3nDTjo09YIa9W0ZDvVKS8kmsc3zVdLUYuDgaJrOmv2OIUDMuMjmnj%2B7burYxq6jsQ%2FT3K%2FL9zXwI8rCVThayu%2B7s8B0tDjFyTZ9RGhSFb3v2LtoUTbg62Iv17S4FO1HTDqQMJpQmxGYx6BkoMflH%2FFNr9rPk6bsblpoQIeL02vzsTixgv6cLX380oEHr0RD2xgZ1QNy3bu5O0IU7zO70WCfXZjXBJLiJ8kDqDtPQKnzmebHukFw%3D%3D",
+      "domain": "hdpc-dev6.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAMRequestContext_hdpc-dev6.fa.us2.oraclecloud.com_443_7a4359",
+      "value": "zCYO3Zy2QGccIJCj5hv39w==",
+      "domain": "hdpc-dev6.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1788892963.657423,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAM_REQ_COUNT",
+      "value": "VERSION_4~2",
+      "domain": "hdpc-dev6.login.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "AGWCT8_ZtB7FIufqFl0lBpml77ilzqP_Kb2SE6SiZZQmkX7bJw8z!-1305775009",
+      "domain": "hdpc-dev6.login.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=2&id=cba89220-d3b8-4ef3-9c2c-97e0d5468fbf&created=1788892645724&expire=1788893558089",
+      "domain": "higher.gs.com",
+      "path": "/",
+      "expires": 1788893572,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OAMRequestContext_hdpc-dev6.fa.us2.oraclecloud.com_443_687966",
+      "value": "hyf6dv7ppbLnhYVm75wzXw==",
+      "domain": "hdpc-dev6.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1788892974.637457,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAM_REQ_0",
+      "value": "VERSION_4~nMGLBmXj%2bgKNBGsryUpv7uFJLvChGGsZN5%2f5ffusuo540fq5jtZYQAvWJ46b3o3xf9oCTBP%2bpJX8S%2fCJhE6UrQS2ywM6SRmdHCs%2fdkf%2b2ne49jL7O0xJ%2f%2fdC%2bTA5dUzZ58u5cLi%2bpdVW4jNaN5s2A2YcOKGrfe%2bHyqEXHXqKPj%2fvV0ozuyUqK8zR9pATrQb3ne6PFsDTwLvOA67tIgNrUgT1V5z6WA9so2zdc6%2b1fdO%2bPkmFMuF4URwlAdbJQMINkYDgNKoRjnv7wEqXZhWTDNmJ1Q7xBTIoeqiUjz5rqNW8RRWW0vJ0yKzexwpmjAEFSQoBYXKJUWahoInfv7Ct3DOm6%2bQ0TXVVumRrC8F9AWWLqMmwYcWZk35umIaczOeMDDuYRU%2b0vE2ErtZsU75ia%2fZnykNN8bziKrk5ijCI1LqbH8hbB4w3dw8ymzjudJ0K92C5rKRWr%2bKM7wo578a3PAm94BE9TnJEOH89Os%2bGm26RJxtxgwOwo2QjeRC6PjCZSMoBl%2bIiJ4Z9awtpQeWDS51QWj7I%2fA9rdjvFCGYN2qWvjf9cab5wRPx0S2pVfsqBtMEqEoc9NkwrABhj5OhuN964MAvWDa81hPZ1D07RmBpBoS9K%2bkBpMmHbGaMnYR5fTJYXf8E7FzVrDuIf2RAz3o4%2fEZn%2fpVGhkVUANcFEbTeyHjSyqXGBRMsyk%2bjnxGy6Lng0dK0oFcv%2fmb3apVdrv%2feazu4vjxo%2fs8%2bpak%2b8LE3yzSDjAZxomhnZ7JIbDfjMK9Vkk7l6Esk315kSaEPorX%2ffjIczA22daHiWqJ8NV%2b9w8YpxzMaIKAcLKkkKlSwFTnITDYABTokUYCiMffP%2bUODC6%2b8qZuwzVGMhh642W2pFfQ6wwPfRjVvkZOZOhi36bDq%2fZ0vZOjnVq43qM39ndHKtaIwDB0ILfP8Kjldg5%2bpveWGl2WOIuSlLSw6RaPi95ZUaDVxrANdDeQiupmr1as9%2fDkNfjBbUTFedF7LCCmyWmX%2fV9TCrGe7f%2fomFMdBa9Q%2bBnYmjqj3F3qdmrzUh6pYfGWp%2fNSHsWWoAuYCpNUacqrIMAxqKVMYRSI00fTWRjbwtpTc6swLXhsbmAjSspPPGxTteH0yL%2fYruwm%2fc%2fdPdUEfvQiimtLakp9%2fOVAILSWdf2UsXP9vUZyjyQ2istuqiAEIsbv46u8Zlcklj5HuCqC17dxssVMQ4yRUIFDG7vu1fHTLb4FEBlqcGaUFjoQ4itDv%2fTWpqwGbURABZFm3%2fqNDUN%2fZOChQWxjWjd7jv5iqQlG0dl7A2ExiQcvFvLzdjgi7Aig1wLTkN4MLiM7NKEOh2Yeu75I76qeaCn%2b7aBrnxZFtim354%2ffYX4uBOs14ccT5k1sXHUCpyAHc9xlhiJ4G%2bbEVIrByFOsPMvFK2WHQSHwe%2frpfoGPIkp4SgV%2fva75MCJDr2C9%2brL40XW05bFSlDsLM3R%2bW%2ffbe61k0ovdt1ZnV4Tatwz8lNPtSBMfHt6FtvDWqpUVF2bgYKVFAt7nViutHN80u%2bAnaO9GTpzVtsIToZC36FlvSfPay5JUTaBIO3Xs2H6YgASZZ%2fgTZXP9zV3%2flC9svRQjh1QzKVjEpnu%2b86%2bGw%2bT7Vl5jFeDKxwkibbq9lBps0Zi%2fqam6ilQaGrNq8cXFaDvaFuvk3VwOZETVl14fRXkTyH5pr19o0qMoW52b%2f1HL%2b3n0E6kusTpvEY2G0Q%2b5Nt7SYCfGqC%2f9XM8BNus%2bG1Izi1hxctkebzWRgvzpzeFFhMo0d9oSZn6Ke%2buYSQxwRtABx2bGLYmjJMCPl1TPWhX02as3FqTg36lLX%2fCtFb%2boEnIAErB8rNXEexY36plE%2bsd3dc7cYA%2b%2b%2b5%2fMcumONqZqiLPbIKsqG0dzLRdB4oJd8hl3SM5ULcxOkX1PwiAbeMs306yeETgAiGQ6h6XjkhBoRuYty9O0n%2fYvzWX8tERQ4pB6sntsN6l8c9mXpQ8IwN135zzDaY%2f9cEhVHOjaWk5%2bw9wmkblm39l6RfHeb238poJeHLYiFNEpugf1fJk3k9yLxDCO9KL8L6aOKk0blgFoTlXfih7%2f%2fzk7lGuw3Fk4APe%2bvSTD4wYuW1zTkUY3D%2buYQf3doboV3UlzdMAxR0viHAiGRlsxCWohRIgaOMnNLTNRoEjq%2f%2f%2bmn7vRP4qFlTogNQJaeQgx4et44Sk5Nkm3jadzmIRuMTl%2bdqzgdWV8irNUpAI1tjqINK3uIKom3KYjpWpKS1n5ULauqlCe%2bf9P5o8nJJb5P%2f07gIzl6fqS3cG5s7BiQpGx7a%2bOOcLAePe8M9bya7WJ5QWHUI%2bw%2fxln8gnQu%2fX3F0sWlXu%2bR4yPnj%2bYRIqctAqdYUfEJbVJCQC9KgED5JF2JcGgsVtsdRGuWAC4CkfZmZNHABuGSx8PO%2fSTqjp8ksts23Iew5SVPiPuMs2etikzfMe2%2bQPWVvLLoxBKYHQsK89453RQJtSHfedc83pVdb4NOJHQq28faH0MUXzwz3T6Mlgdm3azSA3YHseqbgUyyC5H95thasNfyqcGQvMArMSi7WlazOCF1eDArDJys75pxnSxdnmSrBGCLgA33HGC3zDCfg404g0sgOk0uILL02A4%2bxUMjBqqJnA97ksPGMBMz2wEQPi4aewH4b0eB0umJt1ufHOX5mFnZQQFI%2bciwhyfy71IhQqvh3kP7CEdUrB47YfLO9BjQtLBQbQvPGTxjexBLSwWxETO3%2f1lmlYsoJ%2f5agGEMeOlAC3QWptV%2f0u546UUe1ASG%2fg%2b8bnYG6iqG2Mwws1rU%2bjF%2fRNDrlVtjAD2%2bk%2b%2b8IGBnGSOnMuUvG%2fbpymaPXsackAErqNeNlUijelfOaepozlXvHTxujeStAH%2bUb4lQQR%2bi%2b7jvHFAWZiOjTenaM8SCe31ykA3NTr9cXQcheENPba9aRI1EEVdIuiQ68sWZ6LOomnbxbRXAuR2zaP6YhpXvWJYCWDjTafTeB1lA5Q2rPrhoqac6LSN6zhfxJRMmT0xown%2b5i0vNFjv%2bQBAV0aPF9k4QM0tHbh6Uxs8laYPJMATiGi%2b7zKA1RgiloTI6tICkj6cbw2xYUcqD47%2bi6gT1riMANzNJWkA%2frVXUe3iDCmQdhtegce5vvEJqtaKaQvQfC3u4Z04ULE1taBLznX8i0Ddu4lsCFesykeKkdoY6iJe%2bKdvYynpZs81X4AQNyfPPGlseisycxqIMEQvxDLMPYoml%2f7hZjXGyg20P8iyo3LxLjfOnBxfOYEIH%2fHBpEaa%2bKt536LHDbx1IZkPl2udMEgyY%2foIWquD7vPdgNcfhIpeFdg%2bEKquXG%2f1uTe2HZeUBqc2bwEpyS%2feJ4jsT0M4xZeuvI98BymqG8hwR1lmf4AsNUqs%2fm3%2bMq5PHrXvR2NGn6lqsmCYE4RytcJcLQp6hLyO0FFKy2jjSorPzla3qJRcBvwaXNnw9NbC9f7p9cfvnUN8MoFXFY%2b2d686d2DgSuePdY1%2bgVN30AJcjAoKv8DzPoFfsAGUa%2f%2fk9otq8gTUceDmFiIYeVwYWVUrFHVw0LYOveGEbXQy4MaGlYuoZ2beLhlPWqZV9njxFoscUlvGOcttf9dTVku5zFeS269uqU468GGDShk795Yg0MlrH5ZS8yjcv1nHovvufMITfbZrZrRn%2fjB1hd611yoD8328JTOdYV4MvlZZAOPLjwp0uT%2fqB1F90GlhL0rjLaSNkiwmPYnsAHO%2fO0OYfkECvnXQANr7nBj9",
+      "domain": "hdpc-dev6.login.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OAM_REQ_1",
+      "value": "VERSION_4~IHkYUoa2ZQvQOWlBDvq7QCMC3ZBDONkqz8wpGYaPjqbD5f7eZCruA2NVWejF%2bVMgzzVPo%2bQ1stMHKzFryaqU0d19cUAliPUddSXtuIu5ktLbaWfO0vTK%2b6KhbXK0yLOOIv%2fzZk7jxkhltxE11EqxUAUeXV%2buiPnIVy2uGdjH2j07F7lfCa%2bbgarmsI%2fl7WhcX4nFTLM03pHXfosdbFZ6aM4UZxNzIuj490NvwigWiuXL0bZYW7cXoWU0eNHI1HTPXzhEdvQvU5OiVUYC5Kew2CUSL2FVhskaPPTplStMAIq4NXJqcRuOsrUbZ5ZZ2zeMaBJf3KpRH8WG7XZ%2bUYPhkcxmtlH3tX5Ms7yk8kt0KaTJYqdyW2mOEba4JORk2qXp4HE2h12qPCo6ClQmvPOD6YjY7jqK3a7%2bBGp9HjQ1Tc9N0%2fAm0k8FnJuglELzpsyNxgA43T96GHtMsoXD6piKvoUs8Sc0iQ2Dp2v%2fOfq6zytPaQOq0Bdx1lcFE0ocqLBaNJA6xJXxaTAznnM7Ykmvt%2fKuGZ%2b7SQKAFnJ5RGPEqPgwufsTWXXzz6ulTpZJKy%2faJ%2b%2byxC1oatQoQSmFe8ZT%2bBwJ632RP7n9aHOZS0QP0X1t1Msj%2b4xClrMUH7G4RA5LoS58U7CKbXHDZk5UxmxwPe3l4NZDthyh23GzmK6jn3KMQqlaP3CEsgmv5BvNJ2TOdoakL%2bEmGTM%2bbXk%2blX6g8uTFbnitZTf5F5fJkyTQFYiKuQi7So5EAR4iY9f%2bGaOsTvMOa%2bV9kFWgoNIenDTWultGJNxvEhoE90mm%2bsDKjvsrSt0RUAf%2bM5nv9XOnVDqJSOIMNdiNa%2bl0wZrz7c0hjTmxP1OhddZ38nPMavKvu8cG5%2fuz12ik6Jt%2biq96VycMF3VgPcOzZnfSDZceal0UvU5syTuZXXe1ZwHtNrN4vZg3XKN26HsvEGN2CMjGNE%2f36%2fbcZ6FNA%2fpNTWh6EjJdz8mB%2bn%2b2cuH2LepRrbHPosnNEfhHc6c37E32rzuJXbzOudusGLg1reTPirqg2zKN7viQyDNWEDk5R9Ijc7Jtlso%2f3d2Un5xt3gVejMdNuxK5R3u2OxFVsyv0y442Qtp8lx3Vc43pEkyEAI41ffGKxVBtVkM60wF8xFypm74WHXqxwzVaOQ15QLXCRdEqbZRlQuoif5D2ks%2bcOhj%2fC08WJABQrzvPzjFJgMeB0PksIdosPsVVQFDakzj7b6N8XGbdNpRNitSStpb6Hxl%2bDnyPdd1LH2soTKZPtKvQbK4OJqW%2fiR5FFvonwQHKpOLQooOAI2wy03U5EPIBe4KuwNtvF5JHnn5F%2fS8bTb8LmC1oRcHxZgrUfge%2bvTvzvK%2fOPOcv3TED786ZhBpxY1BIhRVRJk92fBaoF6xwZRZccuum078yv6lWP%2brnvNOKXTkAgNCSAPbw48vHC0D%2bSAXFwUR2M%2by0ClSjdrTS10NqCFhQHuw%2bwu4NcBqaC%2f99jtyuQ1QTAdL7bNSBBFCKlL%2fAD%2bfnsJGChddixJstO%2fDTXyB5ugSqPIzea8NBiyBSR6ti3gWxSEmFii2hKOSi6cX%2bxFICwFbUBTXx3Lcf8vmInzzFH7bwMKciXnlzB9ncR8gCWn4Pl11yufkfNfrlRwLwHCS87YLWOpE3cZ7c42LggL%2bs3JytoMccB0GiPII1%2fnTS5y01u3STufwQsuBBfCMV%2b8xPsrFGqJsHcyusrsRBaZ00gUwuKKOvcRlIuNQH3sMNXJEbTp%2f%2fUzSATtOiWWEkcjTKambE%2fHUw0hPHjXL5GsiVwmtf3CTr8PUmHNrXoH4tKJva87ZodOpr9XidwrMWFB7KWr1vrSaqw3kXm%2bsNTgQtGYBQ38DgHVKXMBu6NDyGj1%2bHO01aX5ke1vS%2fh1lGDqTuYGw2aP8x8D0irzv1U%2fuVFzXzkgWXJOLGEGOl49mf%2bsHRjTHPg5zGNqNMcTt4rvYsU3zC0iuj5cCnzmbpXJpxEzAC0n0CB1fba0nygNVVnW34FRY4a0M4thAdIfs5vuOa8g21mnFtai091XJmQiEPEvBSWOJLnuL46f%2bwck6IuoRE2PRzE%3d",
+      "domain": "hdpc-dev6.login.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ECID-Context",
+      "value": "1.006Mjo8QOaAALQTay96iMG005LvQ000BYW@kXhhlfCW3JOTsLKS^HOT_JLSgKCTmLTP",
+      "domain": "hdpc-dev6.login.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FUSION_PREFS",
+      "value": "v1.0~bG9jYWxlPWVuLXVzfmRlZmF1bHRMYW5ndWFnZU1hcmtlcj10cnVlfnByZWZlcnJlZExhbmd1YWdlPWVuLXVz",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBAPP-0",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789497507.253004,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-1",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789497507.253028,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-2",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789497507.253045,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-3",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789497507.253059,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "p_7pBCMGXir9jO7Dc.hFtx5_nvqR_wEYkouPZper9Y8-1788892707.215858-1.0.1.1-2zHBXiiNu6tALiJTMvf3oTvP82D87K39geAZiZyGaGFUx_j4GtFMn6TunQjLOWA0wcszxiQTgoS9EvhyYQKBUDURk_GlEpEMSP99jTxWZKy1AwnZGClXbvVkAhd1qMLk",
+      "domain": ".jobvite.com",
+      "path": "/",
+      "expires": 1788894507.253072,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.careers.ford.com",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"RHLN-QxbOO-AWFe0Xo9XahEV5SAqnElRYw\",\"lastJoinedTimeMs\":1788892258154},\"expires\":1788892558154},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892258155},\"expires\":1796668258155}}"
+        },
+        {
+          "name": "survale_first_visit",
+          "value": "1788892259698"
+        },
+        {
+          "name": "snowplowOutQueue_ford-12792063-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.careers.ford.com/job/livonia/engineering-designer/48560/100352478272\",\"page\":\"Engineering Designer at Ford Motor Company\",\"eid\":\"f042fdf9-599c-4428-aa5a-735d311c4051\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892263327\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJhNTU0ZjRjYy1kMmZjLTQyZGYtOTA0Zi1iZDNhM2NlZGI3ZGYifX1dfQ\",\"vp\":\"1512x982\",\"ds\":\"1512x5567\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"70391\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"8f47cc62-7a37-4c03-80ef-be65b21a32f4\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892263360\",\"vp\":\"1512x982\",\"ds\":\"1512x5567\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/livonia/engineering-designer/48560/100352478272\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJhNTU0ZjRjYy1kMmZjLTQyZGYtOTA0Zi1iZDNhM2NlZGI3ZGYifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.careers.ford.com/job/dearborn/engineering-supervisor-powertrain/48560/100352477888\",\"page\":\"Engineering Supervisor-Powertrain at Ford Motor Company\",\"eid\":\"f0320ce8-23b2-418e-8241-c0e65ca30427\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892265482\",\"vp\":\"1512x982\",\"ds\":\"1512x11585\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJjZmM4YTVkYS03MmJlLTQwNjItYTcyYy1jODQ2ODZmYTM3ZDIifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"70216\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"1693678d-3942-4553-94bf-ac1b3d2b2f3d\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892265482\",\"vp\":\"1512x982\",\"ds\":\"1512x11585\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/dearborn/engineering-supervisor-powertrain/48560/100352477888\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJjZmM4YTVkYS03MmJlLTQwNjItYTcyYy1jODQ2ODZmYTM3ZDIifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728\",\"page\":\"AI Engineer at Ford Motor Company\",\"eid\":\"9439d302-a9d5-4d98-a144-da3add4e0677\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892267489\",\"vp\":\"1512x982\",\"ds\":\"1512x5086\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzBiNzRiZi1iNDg0LTQ0MzYtYjJlYy1mYjA1ZmZlZGE4YWQifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"70162\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"436b403d-52e2-4efe-8767-093240d539be\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892267499\",\"vp\":\"1512x982\",\"ds\":\"1512x5086\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzBiNzRiZi1iNDg0LTQ0MzYtYjJlYy1mYjA1ZmZlZGE4YWQifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"apply-click\",\"se_la\":\"70162\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"a8e23175-ce7a-4a6e-8d66-ac757a86223e\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892270228\",\"vp\":\"1512x982\",\"ds\":\"1512x5087\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzBiNzRiZi1iNDg0LTQ0MzYtYjJlYy1mYjA1ZmZlZGE4YWQifX1dfQ\"},\"svrAnon\":false}]"
+        },
+        {
+          "name": "survale_parsed_job_info",
+          "value": "{\"2809\":\"AI Engineer\",\"2810\":\"Chennai~Tamil Nadu~India\",\"3947\":\"48560,Ford Motor Private Limited\",\"3948\":\"Ford Credit Services\",\"3949\":\"JobDetails\",\"3950\":\"Basic JD\",\"3965\":\"100352477728\",\"3966\":\"70162\",\"3975\":\"48560\",\"13795\":\"5219\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MWoxbmVwa2JlaDVqYg=="
+        }
+      ]
+    },
+    {
+      "origin": "https://apply.ford.com",
+      "localStorage": [
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"1EQv7EuunAJqS0X7XT_V1GJgPLp8qGi8qw\",\"lastJoinedTimeMs\":1788892272883},\"expires\":1788892572883},\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892310310},\"expires\":1796668310310}}"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        },
+        {
+          "name": "snowplowOutQueue_ford-12792063-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://apply.ford.com/en/sites/CX_1/job/70162/apply/email\",\"page\":\"Ford Global Career Site\",\"refr\":\"https://www.careers.ford.com/\",\"eid\":\"a296cbc9-80b8-4240-b82e-b5cb3d2529e6\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892272747\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzI2NmZhYS0zYzFmLTRlOTItOTlkNS1mNGNkZGM5YjViOTgifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"staff\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"a0d782de-5d85-41c2-b529-997112d933ec\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892272748\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"refr\":\"https://www.careers.ford.com/\",\"url\":\"https://apply.ford.com/en/sites/CX_1/job/70162/apply/email\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzI2NmZhYS0zYzFmLTRlOTItOTlkNS1mNGNkZGM5YjViOTgifX1dfQ\"},\"svrAnon\":false}]"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "z.l02wsDV9aVyBaw3m1w6bar0K4hQLbMxJSkb5kH6Mo-1788892414-1.3.1.1-ZiJCE.V9DSvwN6lZJULhySBj1BUN.rkLCgEbtwSD_JV45BG2bLbVlrsvSQnwKwgDmTIKjSIL9r9GMhQ8T_8tjg"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "logApplyJobAfterSignIn",
+          "value": "{\"Title\":\"COMPUTER SCIENTIST\",\"Agency\":\"Defense Counterintelligence and Security Agency\",\"SubAgency\":\"DCSA\",\"Department\":\"Department of Defense\",\"DocumentID\":\"883061500\",\"JobCategoryCode\":[{\"Name\":\"Computer Science\",\"Code\":\"1550\"}],\"JobGrade\":\"GG\",\"LowGrade\":\"15\",\"HighGrade\":\"15\",\"DateDisplay\":\"Open 09/01/2026 to 09/14/2026\",\"ClockDisplay\":\"JobClosingIn7Days\"}"
+        },
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://help.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://jobs.dayforcehcm.com",
+      "localStorage": [
+        {
+          "name": "CookiePreferences",
+          "value": "\"{\\\"Version\\\":\\\"1.0.0\\\",\\\"Cookies\\\":{\\\"lululemon\\\":{\\\"strictlyNecessaryCookies\\\":[\\\"DF\\\"],\\\"functionalCookies\\\":[],\\\"functionalCookiesRejected\\\":[],\\\"performanceCookies\\\":[\\\"GA\\\"],\\\"performanceCookiesRejected\\\":[]},\\\"pwc\\\":{\\\"strictlyNecessaryCookies\\\":[\\\"DF\\\"],\\\"functionalCookies\\\":[],\\\"functionalCookiesRejected\\\":[],\\\"performanceCookies\\\":[\\\"GA\\\"],\\\"performanceCookiesRejected\\\":[]}}}\""
+        },
+        {
+          "name": "ld:62a0a637cc384b1581554ac5:$diagnostics",
+          "value": "{\"dataSinceDate\":1788892624878,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1788892635}"
+        }
+      ]
+    },
+    {
+      "origin": "https://hdpc.fa.us2.oraclecloud.com",
+      "localStorage": [
+        {
+          "name": "ORA_COOK_STORE",
+          "value": "{\"ORA_FPC\":\"ORA_FPC=id=84771562-6d09-44ce-a704-b1e6e436eece; expires=Fri, 08 Sep 2028 06:15:25 GMT; path=/\"}"
+        },
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        },
+        {
+          "name": "recent-searches",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}

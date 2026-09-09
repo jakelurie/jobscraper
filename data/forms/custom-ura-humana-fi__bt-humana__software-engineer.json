@@ -1,0 +1,630 @@
+{
+  "id": "teamtailor__bt-humana__software-engineer",
+  "group": "custom-ura-humana-fi",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "bt-humana",
+    "board": "humana",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://ura.humana.fi/jobs",
+    "startUrl": "https://ura.humana.fi/jobs"
+  },
+  "platform": "teamtailor",
+  "platformLabel": "ura.humana.fi",
+  "finalUrl": "https://ura.humana.fi/jobs",
+  "applyTrail": [
+    "saved-session:teamtailor__humana.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Avoimet tehtävät - Humana",
+  "fieldCount": 5,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-b072cc29",
+      "label": "Jaa sivu",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-b072cc29",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "jaa sivu",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "query",
+      "id": "query",
+      "label": "Haku",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Haku",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#query",
+      "visible": true,
+      "normLabel": "haku",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "department-select",
+      "label": "Uramahdollisuudet",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#department-select",
+      "visible": true,
+      "options": [
+        "Kaikki",
+        "Esihenkilö- ja johtotehtävät (1)",
+        "Hallinnon tehtävät ja tukipalvelutoiminnot (1)",
+        "Henkilökohtaiset avustajat (11)",
+        "Lähihoitajat (1)",
+        "Sairaanhoitajat (1)",
+        "Sosionomit (3)",
+        "Kesätyöt",
+        "Muut sosiaali-, terveys- tai kasvatusalan tutkinnot",
+        "Opiskelijat"
+      ],
+      "optionValues": [
+        {
+          "label": "Kaikki",
+          "value": ""
+        },
+        {
+          "label": "Esihenkilö- ja johtotehtävät (1)",
+          "value": "Esihenkilö- ja johtotehtävät"
+        },
+        {
+          "label": "Hallinnon tehtävät ja tukipalvelutoiminnot (1)",
+          "value": "Hallinnon tehtävät ja tukipalvelutoiminnot"
+        },
+        {
+          "label": "Henkilökohtaiset avustajat (11)",
+          "value": "Henkilökohtaiset avustajat"
+        },
+        {
+          "label": "Lähihoitajat (1)",
+          "value": "Lähihoitajat"
+        },
+        {
+          "label": "Sairaanhoitajat (1)",
+          "value": "Sairaanhoitajat"
+        },
+        {
+          "label": "Sosionomit (3)",
+          "value": "Sosionomit"
+        },
+        {
+          "label": "Kesätyöt",
+          "value": "Kesätyöt"
+        },
+        {
+          "label": "Muut sosiaali-, terveys- tai kasvatusalan tutkinnot",
+          "value": "Muut sosiaali-, terveys- tai kasvatusalan tutkinnot"
+        },
+        {
+          "label": "Opiskelijat",
+          "value": "Opiskelijat"
+        }
+      ],
+      "optionCount": 10,
+      "normLabel": "uramahdollisuudet",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "region-select",
+      "label": "Alueet",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#region-select",
+      "visible": true,
+      "options": [
+        "Kaikki",
+        "Etelä-Pohjanmaa (2)",
+        "Etelä-Savo (1)",
+        "Kanta-Häme (1)",
+        "Keski-Suomi (1)",
+        "Lappi (1)",
+        "Pirkanmaa (1)",
+        "Pohjanmaa (1)",
+        "Pohjois-Karjala (1)",
+        "Pohjois-Pohjanmaa (1)",
+        "Pohjois-Savo (1)",
+        "Päijät-Häme (2)",
+        "Satakunta (2)",
+        "Uusimaa (4)",
+        "Varsinais-Suomi (1)",
+        "Etelä-Karjala",
+        "Itä-Uusimaa",
+        "Keski-Pohjanmaa",
+        "Kymenlaakso"
+      ],
+      "optionValues": [
+        {
+          "label": "Kaikki",
+          "value": ""
+        },
+        {
+          "label": "Etelä-Pohjanmaa (2)",
+          "value": "Etelä-Pohjanmaa"
+        },
+        {
+          "label": "Etelä-Savo (1)",
+          "value": "Etelä-Savo"
+        },
+        {
+          "label": "Kanta-Häme (1)",
+          "value": "Kanta-Häme"
+        },
+        {
+          "label": "Keski-Suomi (1)",
+          "value": "Keski-Suomi"
+        },
+        {
+          "label": "Lappi (1)",
+          "value": "Lappi"
+        },
+        {
+          "label": "Pirkanmaa (1)",
+          "value": "Pirkanmaa"
+        },
+        {
+          "label": "Pohjanmaa (1)",
+          "value": "Pohjanmaa"
+        },
+        {
+          "label": "Pohjois-Karjala (1)",
+          "value": "Pohjois-Karjala"
+        },
+        {
+          "label": "Pohjois-Pohjanmaa (1)",
+          "value": "Pohjois-Pohjanmaa"
+        },
+        {
+          "label": "Pohjois-Savo (1)",
+          "value": "Pohjois-Savo"
+        },
+        {
+          "label": "Päijät-Häme (2)",
+          "value": "Päijät-Häme"
+        },
+        {
+          "label": "Satakunta (2)",
+          "value": "Satakunta"
+        },
+        {
+          "label": "Uusimaa (4)",
+          "value": "Uusimaa"
+        },
+        {
+          "label": "Varsinais-Suomi (1)",
+          "value": "Varsinais-Suomi"
+        },
+        {
+          "label": "Etelä-Karjala",
+          "value": "Etelä-Karjala"
+        },
+        {
+          "label": "Itä-Uusimaa",
+          "value": "Itä-Uusimaa"
+        },
+        {
+          "label": "Keski-Pohjanmaa",
+          "value": "Keski-Pohjanmaa"
+        },
+        {
+          "label": "Kymenlaakso",
+          "value": "Kymenlaakso"
+        }
+      ],
+      "optionCount": 19,
+      "normLabel": "alueet",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "location-select",
+      "label": "Sijainnit",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#location-select",
+      "visible": true,
+      "options": [
+        "Kaikki",
+        "Espoo, Avopalvelut Espoo (1)",
+        "Helsinki, Nuorisokoti Satama (1)",
+        "Hollola, Wilhelmiina (1)",
+        "Hämeenlinna, Avopalvelut Kanta-Häme (1)",
+        "Iisalmi, Lastensuojeluyksikkö Vaahterakangas (1)",
+        "Ilmajoki, Lastensuojeluyksikkö Pihakoivu (1)",
+        "Jalasjärvi, Nuorisokoti Valokki (1)",
+        "Joensuu, Avopalvelut (1)",
+        "Jyväskylä, Avopalvelut Keski-Suomi (1)",
+        "Lahti, Avopalvelut Päijät-Häme (1)",
+        "Laihia, Lastensuojeluyksikkö Mäki-Marttila (1)",
+        "Lillkyro, Humana Lastensuojelupalvelut (1)",
+        "Lohja, Lastensuojeluyksikkö Metsätähti (1)",
+        "Mikkeli, Avopalvelut Etelä-Savo (1)",
+        "Mustasaari, Nuorisopsykiatrinen asumiskoti Puro (1)",
+        "Oulainen, Sähäkkä Oulainen (1)",
+        "Pori, Avopalvelut Satakunta (1)",
+        "Pori, Pienryhmäkoti Aatula (1)",
+        "Rovaniemi, Avopalvelut Lappi (1)",
+        "Seinäjoki, Avopalvelut Etelä-Pohjanmaa (1)",
+        "Seinäjoki, Nuorisopsykiatrinen asumiskoti Puro (1)",
+        "Tampere, Avopalvelut Pirkanmaa (1)",
+        "Turku, Avopalvelut Varsinais-Suomi (1)",
+        "Vantaa, Avopalvelut PK-seutu (1)",
+        "Vähäkyrö, Humana Lastensuojelupalvelut (1)",
+        "Akaa, Humana Raide",
+        "Aura, Tuulenvirekoti",
+        "Espoo, Hirvikallion nuorisokoti",
+        "Espoo, Kuurinkallio",
+        "Helsinki, Alppikylän tuettu asuminen",
+        "Helsinki, Avopalvelut PK-seutu",
+        "Helsinki, Hallinto ja tukitoiminnot",
+        "Helsinki, Kuvernöörintien asumisyhteisö",
+        "Helsinki, Oskelakoti",
+        "Jyväskylä, Perhekuntoutus Auroora",
+        "Jyväskylä, Itsenäistymiskodit Aava ja Auri",
+        "Jyväskylä, Itsenäistymiskodit Alkula",
+        "Jyväskylä, Lastensuojeluyksikkö Nuutinkolo",
+        "Jyväskylä, Nuorten asumispalvelu Sähäkkä Jyväskylä"
+      ],
+      "optionValues": [
+        {
+          "label": "Kaikki",
+          "value": ""
+        },
+        {
+          "label": "Espoo, Avopalvelut Espoo (1)",
+          "value": "Espoo, Avopalvelut Espoo"
+        },
+        {
+          "label": "Helsinki, Nuorisokoti Satama (1)",
+          "value": "Helsinki, Nuorisokoti Satama"
+        },
+        {
+          "label": "Hollola, Wilhelmiina (1)",
+          "value": "Hollola, Wilhelmiina"
+        },
+        {
+          "label": "Hämeenlinna, Avopalvelut Kanta-Häme (1)",
+          "value": "Hämeenlinna, Avopalvelut Kanta-Häme"
+        },
+        {
+          "label": "Iisalmi, Lastensuojeluyksikkö Vaahterakangas (1)",
+          "value": "Iisalmi, Lastensuojeluyksikkö Vaahterakangas"
+        },
+        {
+          "label": "Ilmajoki, Lastensuojeluyksikkö Pihakoivu (1)",
+          "value": "Ilmajoki, Lastensuojeluyksikkö Pihakoivu"
+        },
+        {
+          "label": "Jalasjärvi, Nuorisokoti Valokki (1)",
+          "value": "Jalasjärvi, Nuorisokoti Valokki "
+        },
+        {
+          "label": "Joensuu, Avopalvelut (1)",
+          "value": "Joensuu, Avopalvelut"
+        },
+        {
+          "label": "Jyväskylä, Avopalvelut Keski-Suomi (1)",
+          "value": "Jyväskylä, Avopalvelut Keski-Suomi"
+        },
+        {
+          "label": "Lahti, Avopalvelut Päijät-Häme (1)",
+          "value": "Lahti, Avopalvelut Päijät-Häme"
+        },
+        {
+          "label": "Laihia, Lastensuojeluyksikkö Mäki-Marttila (1)",
+          "value": "Laihia, Lastensuojeluyksikkö Mäki-Marttila"
+        },
+        {
+          "label": "Lillkyro, Humana Lastensuojelupalvelut (1)",
+          "value": "Lillkyro, Humana Lastensuojelupalvelut"
+        },
+        {
+          "label": "Lohja, Lastensuojeluyksikkö Metsätähti (1)",
+          "value": "Lohja, Lastensuojeluyksikkö Metsätähti"
+        },
+        {
+          "label": "Mikkeli, Avopalvelut Etelä-Savo (1)",
+          "value": "Mikkeli, Avopalvelut Etelä-Savo"
+        },
+        {
+          "label": "Mustasaari, Nuorisopsykiatrinen asumiskoti Puro (1)",
+          "value": "Mustasaari, Nuorisopsykiatrinen asumiskoti Puro"
+        },
+        {
+          "label": "Oulainen, Sähäkkä Oulainen (1)",
+          "value": "Oulainen, Sähäkkä Oulainen"
+        },
+        {
+          "label": "Pori, Avopalvelut Satakunta (1)",
+          "value": "Pori, Avopalvelut Satakunta"
+        },
+        {
+          "label": "Pori, Pienryhmäkoti Aatula (1)",
+          "value": "Pori, Pienryhmäkoti Aatula"
+        },
+        {
+          "label": "Rovaniemi, Avopalvelut Lappi (1)",
+          "value": "Rovaniemi, Avopalvelut Lappi"
+        },
+        {
+          "label": "Seinäjoki, Avopalvelut Etelä-Pohjanmaa (1)",
+          "value": "Seinäjoki, Avopalvelut Etelä-Pohjanmaa"
+        },
+        {
+          "label": "Seinäjoki, Nuorisopsykiatrinen asumiskoti Puro (1)",
+          "value": "Seinäjoki, Nuorisopsykiatrinen asumiskoti Puro"
+        },
+        {
+          "label": "Tampere, Avopalvelut Pirkanmaa (1)",
+          "value": "Tampere, Avopalvelut Pirkanmaa"
+        },
+        {
+          "label": "Turku, Avopalvelut Varsinais-Suomi (1)",
+          "value": "Turku, Avopalvelut Varsinais-Suomi "
+        },
+        {
+          "label": "Vantaa, Avopalvelut PK-seutu (1)",
+          "value": "Vantaa, Avopalvelut PK-seutu"
+        },
+        {
+          "label": "Vähäkyrö, Humana Lastensuojelupalvelut (1)",
+          "value": "Vähäkyrö, Humana Lastensuojelupalvelut"
+        },
+        {
+          "label": "Akaa, Humana Raide",
+          "value": "Akaa, Humana Raide"
+        },
+        {
+          "label": "Aura, Tuulenvirekoti",
+          "value": "Aura, Tuulenvirekoti"
+        },
+        {
+          "label": "Espoo, Hirvikallion nuorisokoti",
+          "value": "Espoo, Hirvikallion nuorisokoti"
+        },
+        {
+          "label": "Espoo, Kuurinkallio",
+          "value": "Espoo, Kuurinkallio"
+        },
+        {
+          "label": "Helsinki, Alppikylän tuettu asuminen",
+          "value": "Helsinki, Alppikylän tuettu asuminen"
+        },
+        {
+          "label": "Helsinki, Avopalvelut PK-seutu",
+          "value": "Helsinki, Avopalvelut PK-seutu"
+        },
+        {
+          "label": "Helsinki, Hallinto ja tukitoiminnot",
+          "value": "Helsinki, Hallinto ja tukitoiminnot"
+        },
+        {
+          "label": "Helsinki, Kuvernöörintien asumisyhteisö",
+          "value": "Helsinki, Kuvernöörintien asumisyhteisö"
+        },
+        {
+          "label": "Helsinki, Oskelakoti",
+          "value": "Helsinki, Oskelakoti"
+        },
+        {
+          "label": "Jyväskylä, Perhekuntoutus Auroora",
+          "value": "Jyväskylä,  Perhekuntoutus Auroora"
+        },
+        {
+          "label": "Jyväskylä, Itsenäistymiskodit Aava ja Auri",
+          "value": "Jyväskylä, Itsenäistymiskodit Aava ja Auri"
+        },
+        {
+          "label": "Jyväskylä, Itsenäistymiskodit Alkula",
+          "value": "Jyväskylä, Itsenäistymiskodit Alkula"
+        },
+        {
+          "label": "Jyväskylä, Lastensuojeluyksikkö Nuutinkolo",
+          "value": "Jyväskylä, Lastensuojeluyksikkö Nuutinkolo"
+        },
+        {
+          "label": "Jyväskylä, Nuorten asumispalvelu Sähäkkä Jyväskylä",
+          "value": "Jyväskylä, Nuorten asumispalvelu Sähäkkä Jyväskylä"
+        }
+      ],
+      "optionCount": 107,
+      "normLabel": "sijainnit",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1,
+      "text": 1,
+      "native-select": 3
+    },
+    "byAction": {
+      "click-pick": 1,
+      "type": 1,
+      "select-option": 3
+    },
+    "byOptionsSource": {
+      "unknown": 1,
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Tämä sivusto käyttää evästeitä varmistaakseen, että saat parhaan kokemuksen.",
+    "Avoimet työpaikat",
+    "Työsuodattimet",
+    "20 työpaikkaa",
+    "Humana yrityksenä",
+    "Urasivusto",
+    "Uramahdollisuudet",
+    "Työskenteletkö jo yrityksessä Humana?"
+  ],
+  "buttons": [
+    "Hyväksy kaikki evästeet",
+    "Kieltäydy kaikista ei-välttämättömistä evästeistä",
+    "Evästeasetukset",
+    "URAVALIKKO",
+    "Jaa sivu",
+    "Uramahdollisuudet",
+    "Alueet",
+    "Sijainnit",
+    "Käytä sijaintiani",
+    "Näytä kartta työpaikkojen vieressä",
+    "4",
+    "4",
+    "2",
+    "8",
+    "+",
+    "−",
+    "Hallitse evästeitä",
+    "Kirjaudu sisään"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/teamtailor/bt-humana__software-engineer.png",
+    "html": "data/html/_unreached/teamtailor/bt-humana__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 1,
+    "docHeight": 5059,
+    "lowestField": 449.5,
+    "coversAllFields": true
+  },
+  "ms": 6096,
+  "fingerprint": {
+    "labelSig": "ce441285f3c3",
+    "shapeSig": "bf6e5040f370",
+    "controlSig": "2ef0a96804a3",
+    "controls": {
+      "combobox": 1,
+      "text": 1,
+      "native-select": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "1a8274034243",
+    "typeCounts": {
+      "button-dropdown": 1,
+      "text": 1,
+      "select": 3
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 5,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:ura.humana.fi",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

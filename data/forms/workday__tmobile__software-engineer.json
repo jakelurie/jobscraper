@@ -1,0 +1,224 @@
+{
+  "id": "workday__tmobile__software-engineer",
+  "group": "workday",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "tmobile",
+    "board": "tmobile",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.t-mobile.com/",
+    "startUrl": "https://careers.t-mobile.com/"
+  },
+  "platform": "workday",
+  "platformLabel": "Workday",
+  "finalUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Henrietta-New-York/Account-Associate_REQ364623/apply/autofillWithResume",
+  "applyTrail": [
+    "opened posting: Account Associate",
+    "opened posting: Apply Now",
+    "opened posting: Autofill with Resume",
+    "clicked: Create Account",
+    "clicked: Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Create Account",
+  "fieldCount": 4,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "input-4",
+      "label": "Email Address*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#input-4",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "input-5",
+      "label": "Password*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "new-password",
+      "maxlength": "",
+      "selector": "#input-5",
+      "visible": true,
+      "normLabel": "password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "input-6",
+      "label": "Verify New Password*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "new-password",
+      "maxlength": "",
+      "selector": "#input-6",
+      "visible": true,
+      "normLabel": "verify new password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "website",
+      "id": "117992c9-b14f-4011-a04f-40d3051ffd52",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"website\"]",
+      "visible": true,
+      "normLabel": "enter website this input is for robots only do not enter if ",
+      "canonical": "portfolio"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 2,
+      "text-password": 2
+    },
+    "byAction": {
+      "type": 4
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "T-MOBILE CAREERS",
+    "Account Associate",
+    "Create Account",
+    "Follow Us"
+  ],
+  "buttons": [
+    "Sign In",
+    "CAREER SITE",
+    "Talent Network",
+    "Back to Job Posting",
+    "Read More",
+    "Create Account",
+    "Sign In",
+    "Forgot your password?"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": true,
+    "oauthApply": false,
+    "accountRequired": true
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/workday/tmobile__software-engineer.png",
+    "html": "data/html/_unreached/workday/tmobile__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1591,
+    "lowestField": 1321.5050048828125,
+    "coversAllFields": true
+  },
+  "ms": 78622,
+  "fingerprint": {
+    "labelSig": "0191181bf0fc",
+    "shapeSig": "4d4d08a33678",
+    "controlSig": "3fb394c2ec51",
+    "controls": {
+      "text": 2,
+      "text-password": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "9b2a590ea82b",
+    "typeCounts": {
+      "text": 2,
+      "password": 2
+    },
+    "canonicals": [
+      "email",
+      "password",
+      "portfolio"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "workday",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

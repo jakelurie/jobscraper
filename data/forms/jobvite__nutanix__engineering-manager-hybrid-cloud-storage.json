@@ -1,0 +1,200 @@
+{
+  "id": "jobvite__nutanix__engineering-manager-hybrid-cloud-storage",
+  "group": "jobvite",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "jobvite",
+    "atsLabel": "jobvite",
+    "company": "nutanix",
+    "board": "nutanix",
+    "title": "Engineering Manager (Hybrid Cloud Storage/Linux Systems)",
+    "location": "",
+    "jobUrl": "https://jobs.jobvite.com/nutanix/job/oJaJAfwW",
+    "startUrl": "https://jobs.jobvite.com/nutanix/job/oJaJAfwW"
+  },
+  "platform": "jobvite",
+  "detectedPlatform": "custom:next.nutanix.com",
+  "platformLabel": "next.nutanix.com (jobvite)",
+  "finalUrl": "https://next.nutanix.com/how-it-works-22/how-to-unregister-a-cluster-from-prism-central-37357?tid=37357&fid=22",
+  "applyTrail": [
+    "clicked: Apply",
+    "clicked: Next Community",
+    "clicked: Unregister cluster from prism central i need to unregister cluster from PC that ",
+    "clicked: How to unregister a cluster from Prism Central"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Unregister cluster from prism central | Nutanix Community",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "a",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Styles",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "span > span:nth-of-type(2) > span:nth-of-type(1) > span:nth-of-type(3) > a",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "styles",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "a",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "cke_17",
+      "label": "Text Color",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cke_17",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "text color",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "a",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "cke_18",
+      "label": "Background Color",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cke_18",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "background color",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 3
+    },
+    "byAction": {
+      "click-pick": 3
+    },
+    "byOptionsSource": {
+      "unknown": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Unregister cluster from prism central",
+    "3 replies",
+    "Reply",
+    "Related Topics",
+    "How to unregister a cluster from Prism Central",
+    "Unregister a cluster from Prism Central",
+    "Community Chronicles: A Weekly Roundup from the Nutanix Community (March 4)"
+  ],
+  "buttons": [
+    "Skip to main content",
+    "Community",
+    "Create topic",
+    "Login",
+    "Oldest first",
+    "Styles",
+    "Send"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": true,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/jobvite/nutanix__engineering-manager-hybrid-cloud-storage.png",
+    "html": "data/html/_unreached/jobvite/nutanix__engineering-manager-hybrid-cloud-storage.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1451,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 124959,
+  "fingerprint": {
+    "labelSig": "62b8ccbbaa2e",
+    "shapeSig": "8192cf1e2e1c",
+    "controlSig": "76bff63f9c3c",
+    "controls": {
+      "combobox": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "c1638147f328",
+    "typeCounts": {
+      "button-dropdown": 3
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 3,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

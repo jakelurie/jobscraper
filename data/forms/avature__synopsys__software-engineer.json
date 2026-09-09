@@ -1,0 +1,801 @@
+{
+  "id": "avature__synopsys__software-engineer",
+  "group": "avature",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "synopsys",
+    "board": "synopsys",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://synopsys.avature.net/careers/SearchJobs",
+    "startUrl": "https://synopsys.avature.net/careers/SearchJobs"
+  },
+  "platform": "avature",
+  "platformLabel": "Avature",
+  "finalUrl": "https://synopsys.avature.net/careers/Login?jobId=18605",
+  "applyTrail": [
+    "clicked: Apply",
+    "sign-in",
+    "sign-in",
+    "sign-in"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on signin screen: Login Username Username is required. Password Log in Forgot your password? | Username is required.",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Job Search | Synopsys",
+  "fieldCount": 8,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "search",
+      "id": "266",
+      "label": "Keywords",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "on",
+      "maxlength": "",
+      "selector": "input[name=\"search\"]",
+      "visible": true,
+      "normLabel": "keywords",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "2780",
+      "id": "2780",
+      "label": "Category",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"2780\"]",
+      "visible": true,
+      "options": [
+        "Select an option",
+        "Administration",
+        "Ansys Corporate & Business Srvcs",
+        "Ansys Corporate Affairs",
+        "Ansys Development Support",
+        "Ansys Human Resources",
+        "Ansys Information Technology",
+        "Ansys Legal",
+        "Ansys Marketing",
+        "Ansys NA",
+        "Ansys Sales",
+        "Ansys Sales Support",
+        "Ansys Strategic Plan & Corp Dev",
+        "Applications Services",
+        "Business Development",
+        "Communications",
+        "Consulting",
+        "Corp VP",
+        "Corporate Staff",
+        "Customer Application Services",
+        "Customized or M&A",
+        "Data Science",
+        "Engineering",
+        "Executive Office",
+        "Facilities",
+        "Finance",
+        "General Management",
+        "Human Resources",
+        "Info Technology",
+        "Information Technology",
+        "Interns/Temp",
+        "Legal",
+        "Marketing",
+        "None",
+        "Operations",
+        "People",
+        "Product Management",
+        "Professional Services",
+        "Program Management",
+        "Sales"
+      ],
+      "optionValues": [
+        {
+          "label": "Select an option",
+          "value": ""
+        },
+        {
+          "label": "Administration",
+          "value": "1405430"
+        },
+        {
+          "label": "Ansys Corporate & Business Srvcs",
+          "value": "5927783"
+        },
+        {
+          "label": "Ansys Corporate Affairs",
+          "value": "5927784"
+        },
+        {
+          "label": "Ansys Development Support",
+          "value": "5927785"
+        },
+        {
+          "label": "Ansys Human Resources",
+          "value": "5927786"
+        },
+        {
+          "label": "Ansys Information Technology",
+          "value": "5927787"
+        },
+        {
+          "label": "Ansys Legal",
+          "value": "5927788"
+        },
+        {
+          "label": "Ansys Marketing",
+          "value": "5927789"
+        },
+        {
+          "label": "Ansys NA",
+          "value": "5927708"
+        },
+        {
+          "label": "Ansys Sales",
+          "value": "5927791"
+        },
+        {
+          "label": "Ansys Sales Support",
+          "value": "5927792"
+        },
+        {
+          "label": "Ansys Strategic Plan & Corp Dev",
+          "value": "5927793"
+        },
+        {
+          "label": "Applications Services",
+          "value": "1405717"
+        },
+        {
+          "label": "Business Development",
+          "value": "1405446"
+        },
+        {
+          "label": "Communications",
+          "value": "1405387"
+        },
+        {
+          "label": "Consulting",
+          "value": "1405389"
+        },
+        {
+          "label": "Corp VP",
+          "value": "1405861"
+        },
+        {
+          "label": "Corporate Staff",
+          "value": "1405650"
+        },
+        {
+          "label": "Customer Application Services",
+          "value": "1405385"
+        },
+        {
+          "label": "Customized or M&A",
+          "value": "1406287"
+        },
+        {
+          "label": "Data Science",
+          "value": "1405391"
+        },
+        {
+          "label": "Engineering",
+          "value": "1405393"
+        },
+        {
+          "label": "Executive Office",
+          "value": "1406284"
+        },
+        {
+          "label": "Facilities",
+          "value": "1405780"
+        },
+        {
+          "label": "Finance",
+          "value": "1405395"
+        },
+        {
+          "label": "General Management",
+          "value": "1405397"
+        },
+        {
+          "label": "Human Resources",
+          "value": "1405875"
+        },
+        {
+          "label": "Info Technology",
+          "value": "1405871"
+        },
+        {
+          "label": "Information Technology",
+          "value": "1405399"
+        },
+        {
+          "label": "Interns/Temp",
+          "value": "1405401"
+        },
+        {
+          "label": "Legal",
+          "value": "1405403"
+        },
+        {
+          "label": "Marketing",
+          "value": "1405405"
+        },
+        {
+          "label": "None",
+          "value": "1405646"
+        },
+        {
+          "label": "Operations",
+          "value": "1405407"
+        },
+        {
+          "label": "People",
+          "value": "1405409"
+        },
+        {
+          "label": "Product Management",
+          "value": "1405411"
+        },
+        {
+          "label": "Professional Services",
+          "value": "1405750"
+        },
+        {
+          "label": "Program Management",
+          "value": "1405834"
+        },
+        {
+          "label": "Sales",
+          "value": "1405414"
+        }
+      ],
+      "optionCount": 46,
+      "normLabel": "category",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "2781",
+      "id": "2781",
+      "label": "Sub-categpory Select an option",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"2781\"]",
+      "visible": true,
+      "options": [],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "optionCount": 1,
+      "normLabel": "sub categpory select an option",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "span",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Sub-categpory Select an option",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > span > span:nth-of-type(1) > span",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "sub categpory select an option",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "2001",
+      "id": "2001",
+      "label": "Country",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"2001\"]",
+      "visible": true,
+      "options": [
+        "Select an option",
+        "Armenia",
+        "Australia",
+        "Austria",
+        "Belgium",
+        "Brazil",
+        "Canada",
+        "Chile",
+        "China",
+        "Czech Republic",
+        "Denmark",
+        "Egypt",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece",
+        "Hong Kong",
+        "Hungary",
+        "India",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Korea, Republic of",
+        "Macau",
+        "Malaysia",
+        "Mexico",
+        "Netherlands",
+        "Poland",
+        "Portugal",
+        "Puerto Rico",
+        "Romania",
+        "Russian Federation",
+        "Rwanda",
+        "Saudi Arabia",
+        "Serbia",
+        "Singapore",
+        "Spain",
+        "Sri Lanka",
+        "Sweden"
+      ],
+      "optionValues": [
+        {
+          "label": "Select an option",
+          "value": ""
+        },
+        {
+          "label": "Armenia",
+          "value": "21351"
+        },
+        {
+          "label": "Australia",
+          "value": "21739"
+        },
+        {
+          "label": "Austria",
+          "value": "21740"
+        },
+        {
+          "label": "Belgium",
+          "value": "21681"
+        },
+        {
+          "label": "Brazil",
+          "value": "21756"
+        },
+        {
+          "label": "Canada",
+          "value": "21361"
+        },
+        {
+          "label": "Chile",
+          "value": "21362"
+        },
+        {
+          "label": "China",
+          "value": "21363"
+        },
+        {
+          "label": "Czech Republic",
+          "value": "21782"
+        },
+        {
+          "label": "Denmark",
+          "value": "21364"
+        },
+        {
+          "label": "Egypt",
+          "value": "21790"
+        },
+        {
+          "label": "Finland",
+          "value": "21367"
+        },
+        {
+          "label": "France",
+          "value": "21368"
+        },
+        {
+          "label": "Germany",
+          "value": "21783"
+        },
+        {
+          "label": "Greece",
+          "value": "21813"
+        },
+        {
+          "label": "Hong Kong",
+          "value": "21370"
+        },
+        {
+          "label": "Hungary",
+          "value": "21371"
+        },
+        {
+          "label": "India",
+          "value": "21372"
+        },
+        {
+          "label": "Ireland",
+          "value": "21373"
+        },
+        {
+          "label": "Israel",
+          "value": "21374"
+        },
+        {
+          "label": "Italy",
+          "value": "21375"
+        },
+        {
+          "label": "Japan",
+          "value": "21376"
+        },
+        {
+          "label": "Korea, Republic of",
+          "value": "21378"
+        },
+        {
+          "label": "Macau",
+          "value": "21380"
+        },
+        {
+          "label": "Malaysia",
+          "value": "21381"
+        },
+        {
+          "label": "Mexico",
+          "value": "21382"
+        },
+        {
+          "label": "Netherlands",
+          "value": "21383"
+        },
+        {
+          "label": "Poland",
+          "value": "21387"
+        },
+        {
+          "label": "Portugal",
+          "value": "21388"
+        },
+        {
+          "label": "Puerto Rico",
+          "value": "21905"
+        },
+        {
+          "label": "Romania",
+          "value": "21389"
+        },
+        {
+          "label": "Russian Federation",
+          "value": "21390"
+        },
+        {
+          "label": "Rwanda",
+          "value": "21915"
+        },
+        {
+          "label": "Saudi Arabia",
+          "value": "21391"
+        },
+        {
+          "label": "Serbia",
+          "value": "21929"
+        },
+        {
+          "label": "Singapore",
+          "value": "21392"
+        },
+        {
+          "label": "Spain",
+          "value": "21793"
+        },
+        {
+          "label": "Sri Lanka",
+          "value": "21393"
+        },
+        {
+          "label": "Sweden",
+          "value": "21394"
+        }
+      ],
+      "optionCount": 47,
+      "normLabel": "country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "2782",
+      "id": "2782",
+      "label": "State/Province Select an option",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"2782\"]",
+      "visible": true,
+      "options": [],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "optionCount": 1,
+      "normLabel": "state/province select an option",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "span",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "State/Province Select an option",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(5) > div > span > span:nth-of-type(1) > span",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "state/province select an option",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "2784",
+      "id": "2784",
+      "label": "Hire Type",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"2784\"]",
+      "visible": true,
+      "options": [
+        "Select an option",
+        "Defined Term Emp.",
+        "Employee",
+        "Intern",
+        "Subsidiary Employee",
+        "Subsidiary Intern"
+      ],
+      "optionValues": [
+        {
+          "label": "Select an option",
+          "value": ""
+        },
+        {
+          "label": "Defined Term Emp.",
+          "value": "7190"
+        },
+        {
+          "label": "Employee",
+          "value": "7188"
+        },
+        {
+          "label": "Intern",
+          "value": "7189"
+        },
+        {
+          "label": "Subsidiary Employee",
+          "value": "7191"
+        },
+        {
+          "label": "Subsidiary Intern",
+          "value": "7192"
+        }
+      ],
+      "optionCount": 6,
+      "normLabel": "hire type",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 1,
+      "native-select": 5,
+      "combobox": 2
+    },
+    "byAction": {
+      "type": 1,
+      "select-option": 5,
+      "click-pick": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 5,
+      "unknown": 2
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 2
+    }
+  ],
+  "sections": [
+    "Synopsys",
+    "Find Your Perfect Fit.",
+    "Search for open positions",
+    "ZeBu Application Engineer",
+    "Validation/Verification Engineer - Computer Science Focus (Exton, PA) - 13924",
+    "Validation / Verification Engineer, Sr Staff -18261",
+    "Validation / Verification Eng, Sr Supervisor - 18341",
+    "UX Designer II",
+    "UIGTM Analytics Executive Director"
+  ],
+  "buttons": [
+    "Search",
+    "Sort by"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/avature/synopsys__software-engineer.png",
+    "html": "data/html/_unreached/avature/synopsys__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 982,
+    "lowestField": 509.0625,
+    "coversAllFields": true
+  },
+  "ms": 44980,
+  "fingerprint": {
+    "labelSig": "276fbeb5f443",
+    "shapeSig": "df674be1b06d",
+    "controlSig": "057c7c44805d",
+    "controls": {
+      "text": 1,
+      "native-select": 5,
+      "combobox": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "121c5745a5e5",
+    "typeCounts": {
+      "text": 1,
+      "select": 5,
+      "button-dropdown": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 5,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "avature",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,902 @@
+{
+  "id": "icims__arm__software-engineer",
+  "group": "custom-careers-arm-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "arm",
+    "board": "arm",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://experienced-arm.icims.com/jobs/search?ss=1",
+    "startUrl": "https://experienced-arm.icims.com/jobs/search?ss=1"
+  },
+  "platform": "icims",
+  "platformLabel": "careers.arm.com",
+  "finalUrl": "https://careers.arm.com/search-jobs",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Arm Job Search Results",
+  "fieldCount": 11,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "advanced-search-keyword-b2d222009c",
+      "label": "Find jobs for",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g. job title, category or skill",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#advanced-search-keyword-b2d222009c",
+      "visible": true,
+      "normLabel": "find jobs for",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Country",
+      "id": "advanced-search-country-location-b2d222009c",
+      "label": "Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#advanced-search-country-location-b2d222009c",
+      "visible": true,
+      "options": [
+        "Select Location",
+        "Canada",
+        "France",
+        "Germany",
+        "Hungary",
+        "India",
+        "Ireland",
+        "Israel",
+        "Malaysia",
+        "Norway",
+        "Sweden",
+        "Taiwan",
+        "United Kingdom",
+        "United States"
+      ],
+      "optionValues": [
+        {
+          "label": "Select Location",
+          "value": ""
+        },
+        {
+          "label": "Canada",
+          "value": "6251999"
+        },
+        {
+          "label": "France",
+          "value": "3017382"
+        },
+        {
+          "label": "Germany",
+          "value": "2921044"
+        },
+        {
+          "label": "Hungary",
+          "value": "719819"
+        },
+        {
+          "label": "India",
+          "value": "1269750"
+        },
+        {
+          "label": "Ireland",
+          "value": "2963597"
+        },
+        {
+          "label": "Israel",
+          "value": "294640"
+        },
+        {
+          "label": "Malaysia",
+          "value": "1733045"
+        },
+        {
+          "label": "Norway",
+          "value": "3144096"
+        },
+        {
+          "label": "Sweden",
+          "value": "2661886"
+        },
+        {
+          "label": "Taiwan",
+          "value": "1668284"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "2635167"
+        },
+        {
+          "label": "United States",
+          "value": "6252001"
+        }
+      ],
+      "optionCount": 14,
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "advanced-search-keyword-ebe040dd96",
+      "label": "Find jobs for",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g. job title, category or skill",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#advanced-search-keyword-ebe040dd96",
+      "visible": true,
+      "normLabel": "find jobs for",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Country",
+      "id": "advanced-search-country-location-ebe040dd96",
+      "label": "Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#advanced-search-country-location-ebe040dd96",
+      "visible": true,
+      "options": [
+        "Select Location",
+        "Canada",
+        "France",
+        "Germany",
+        "Hungary",
+        "India",
+        "Ireland",
+        "Israel",
+        "Malaysia",
+        "Norway",
+        "Sweden",
+        "Taiwan",
+        "United Kingdom",
+        "United States"
+      ],
+      "optionValues": [
+        {
+          "label": "Select Location",
+          "value": ""
+        },
+        {
+          "label": "Canada",
+          "value": "6251999"
+        },
+        {
+          "label": "France",
+          "value": "3017382"
+        },
+        {
+          "label": "Germany",
+          "value": "2921044"
+        },
+        {
+          "label": "Hungary",
+          "value": "719819"
+        },
+        {
+          "label": "India",
+          "value": "1269750"
+        },
+        {
+          "label": "Ireland",
+          "value": "2963597"
+        },
+        {
+          "label": "Israel",
+          "value": "294640"
+        },
+        {
+          "label": "Malaysia",
+          "value": "1733045"
+        },
+        {
+          "label": "Norway",
+          "value": "3144096"
+        },
+        {
+          "label": "Sweden",
+          "value": "2661886"
+        },
+        {
+          "label": "Taiwan",
+          "value": "1668284"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "2635167"
+        },
+        {
+          "label": "United States",
+          "value": "6252001"
+        }
+      ],
+      "optionCount": 14,
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "advanced-search-keyword-e34ecd0894",
+      "label": "Find jobs for",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g. job title, category or skill",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#advanced-search-keyword-e34ecd0894",
+      "visible": true,
+      "normLabel": "find jobs for",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Country",
+      "id": "advanced-search-country-location-e34ecd0894",
+      "label": "Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#advanced-search-country-location-e34ecd0894",
+      "visible": true,
+      "options": [
+        "Select Location",
+        "Canada",
+        "France",
+        "Germany",
+        "Hungary",
+        "India",
+        "Ireland",
+        "Israel",
+        "Malaysia",
+        "Norway",
+        "Sweden",
+        "Taiwan",
+        "United Kingdom",
+        "United States"
+      ],
+      "optionValues": [
+        {
+          "label": "Select Location",
+          "value": ""
+        },
+        {
+          "label": "Canada",
+          "value": "6251999"
+        },
+        {
+          "label": "France",
+          "value": "3017382"
+        },
+        {
+          "label": "Germany",
+          "value": "2921044"
+        },
+        {
+          "label": "Hungary",
+          "value": "719819"
+        },
+        {
+          "label": "India",
+          "value": "1269750"
+        },
+        {
+          "label": "Ireland",
+          "value": "2963597"
+        },
+        {
+          "label": "Israel",
+          "value": "294640"
+        },
+        {
+          "label": "Malaysia",
+          "value": "1733045"
+        },
+        {
+          "label": "Norway",
+          "value": "3144096"
+        },
+        {
+          "label": "Sweden",
+          "value": "2661886"
+        },
+        {
+          "label": "Taiwan",
+          "value": "1668284"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "2635167"
+        },
+        {
+          "label": "United States",
+          "value": "6252001"
+        }
+      ],
+      "optionCount": 14,
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "keyword-tag",
+      "id": "keyword-tag",
+      "label": "Refine by keyword",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Narrow results",
+      "autocomplete": "",
+      "maxlength": "150",
+      "selector": "#keyword-tag",
+      "visible": true,
+      "normLabel": "refine by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "search-results-enhanced-sort-criteria-e2326b7785",
+      "label": "Sort Criteria",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#search-results-enhanced-sort-criteria-e2326b7785",
+      "visible": true,
+      "options": [
+        "Relevancy",
+        "Date Posted"
+      ],
+      "optionValues": [
+        {
+          "label": "Relevancy",
+          "value": "0"
+        },
+        {
+          "label": "Date Posted",
+          "value": "7"
+        }
+      ],
+      "optionCount": 2,
+      "normLabel": "sort criteria",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "EmailAddress",
+      "id": "form-field-08b6e81fc1",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "You@example.com",
+      "autocomplete": "email",
+      "maxlength": "255",
+      "selector": "#form-field-08b6e81fc1",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Category",
+      "id": "form-field-c3c5a484df-category",
+      "label": "Job Category*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-c3c5a484df-category",
+      "visible": true,
+      "options": [
+        "Select a Job Category",
+        "Applications Engineering",
+        "Architecture",
+        "Architecture - Architect, Surveyor and Cartographer",
+        "Architecture - Engineers",
+        "Data Analytics",
+        "Design Engineering",
+        "Engineering Management",
+        "Engineering Operations",
+        "Finance & Accounting",
+        "Graduate",
+        "Hardware Engineering",
+        "HR",
+        "IT",
+        "Machine Learning",
+        "Marketing & Communication",
+        "Operations",
+        "Procurement",
+        "Product Management",
+        "Product Security",
+        "Program/Project Management",
+        "Research",
+        "Sales",
+        "Security",
+        "Segment Marketing",
+        "Software Engineering",
+        "Technical Writer",
+        "Verification"
+      ],
+      "optionValues": [
+        {
+          "label": "Select a Job Category",
+          "value": ""
+        },
+        {
+          "label": "Applications Engineering",
+          "value": "8081712"
+        },
+        {
+          "label": "Architecture",
+          "value": "8098992"
+        },
+        {
+          "label": "Architecture - Architect, Surveyor and Cartographer",
+          "value": "9254688"
+        },
+        {
+          "label": "Architecture - Engineers",
+          "value": "9201728"
+        },
+        {
+          "label": "Data Analytics",
+          "value": "8170064"
+        },
+        {
+          "label": "Design Engineering",
+          "value": "8081824"
+        },
+        {
+          "label": "Engineering Management",
+          "value": "8339584"
+        },
+        {
+          "label": "Engineering Operations",
+          "value": "8754288"
+        },
+        {
+          "label": "Finance & Accounting",
+          "value": "8081744"
+        },
+        {
+          "label": "Graduate",
+          "value": "8097056"
+        },
+        {
+          "label": "Hardware Engineering",
+          "value": "8081664"
+        },
+        {
+          "label": "HR",
+          "value": "8110528"
+        },
+        {
+          "label": "IT",
+          "value": "8098896"
+        },
+        {
+          "label": "Machine Learning",
+          "value": "8110432"
+        },
+        {
+          "label": "Marketing & Communication",
+          "value": "8118320"
+        },
+        {
+          "label": "Operations",
+          "value": "8820784"
+        },
+        {
+          "label": "Procurement",
+          "value": "8820816"
+        },
+        {
+          "label": "Product Management",
+          "value": "8088224"
+        },
+        {
+          "label": "Product Security",
+          "value": "8630736"
+        },
+        {
+          "label": "Program/Project Management",
+          "value": "8125616"
+        },
+        {
+          "label": "Research",
+          "value": "8098944"
+        },
+        {
+          "label": "Sales",
+          "value": "8081680"
+        },
+        {
+          "label": "Security",
+          "value": "8110576"
+        },
+        {
+          "label": "Segment Marketing",
+          "value": "9254784"
+        },
+        {
+          "label": "Software Engineering",
+          "value": "8081696"
+        },
+        {
+          "label": "Technical Writer",
+          "value": "8126144"
+        },
+        {
+          "label": "Verification",
+          "value": "8337216"
+        }
+      ],
+      "optionCount": 28,
+      "normLabel": "job category",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Location",
+      "id": "form-field-c3c5a484df-location",
+      "label": "Location*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-c3c5a484df-location",
+      "visible": true,
+      "options": [
+        "Select Location",
+        "Canada",
+        "France",
+        "Germany",
+        "Hungary",
+        "India",
+        "Ireland",
+        "Israel",
+        "Malaysia",
+        "Norway",
+        "Sweden",
+        "Taiwan",
+        "United Kingdom",
+        "United States"
+      ],
+      "optionValues": [
+        {
+          "label": "Select Location",
+          "value": ""
+        },
+        {
+          "label": "Canada",
+          "value": "6251999"
+        },
+        {
+          "label": "France",
+          "value": "3017382"
+        },
+        {
+          "label": "Germany",
+          "value": "2921044"
+        },
+        {
+          "label": "Hungary",
+          "value": "719819"
+        },
+        {
+          "label": "India",
+          "value": "1269750"
+        },
+        {
+          "label": "Ireland",
+          "value": "2963597"
+        },
+        {
+          "label": "Israel",
+          "value": "294640"
+        },
+        {
+          "label": "Malaysia",
+          "value": "1733045"
+        },
+        {
+          "label": "Norway",
+          "value": "3144096"
+        },
+        {
+          "label": "Sweden",
+          "value": "2661886"
+        },
+        {
+          "label": "Taiwan",
+          "value": "1668284"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "2635167"
+        },
+        {
+          "label": "United States",
+          "value": "6252001"
+        }
+      ],
+      "optionCount": 14,
+      "normLabel": "location",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-search": 3,
+      "native-select": 6,
+      "text": 1,
+      "text-email": 1
+    },
+    "byAction": {
+      "type": 5,
+      "select-option": 6
+    },
+    "byOptionsSource": {
+      "dom-static": 6
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 5
+    },
+    {
+      "widget": "typeahead",
+      "count": 5
+    }
+  ],
+  "sections": [
+    "Job Category",
+    "Experience Level",
+    "Country",
+    "City",
+    "335 results found",
+    "116 pages found",
+    "Life at Arm",
+    "Make an Impact",
+    "This is Collective Progress",
+    "Benefits Designed for You",
+    "Jobs for You",
+    "Get Job Alerts",
+    "Interested In",
+    "Join our Talent Community, Unlock Opportunities",
+    "Content",
+    "Company",
+    "More information",
+    "Policies"
+  ],
+  "buttons": [
+    "Emerging Talent",
+    "Life at Arm",
+    "Search",
+    "Account",
+    "Emerging Talent Login",
+    "Experienced Professionals Login",
+    "Emerging Talent",
+    "Life at Arm",
+    "Search",
+    "Account",
+    "Emerging Talent Login",
+    "Experienced Professionals Login",
+    "Search",
+    "Add",
+    "Select a Category",
+    "Select",
+    "Select a Country",
+    "Select a City",
+    "Reset all filters",
+    "Save job",
+    "Save job",
+    "Save job",
+    "Save job",
+    "Save job",
+    "Save job"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/icims/arm__software-engineer.png",
+    "html": "data/html/icims/arm__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 13,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 8094,
+    "lowestField": 6535.53125,
+    "coversAllFields": true
+  },
+  "ms": 8695,
+  "fingerprint": {
+    "labelSig": "48844efc211e",
+    "shapeSig": "07262f3ffeb6",
+    "controlSig": "d1cec56fff1c",
+    "controls": {
+      "text-search": 3,
+      "native-select": 6,
+      "text": 1,
+      "text-email": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "20c6faf87e9c",
+    "typeCounts": {
+      "search": 3,
+      "select": 6,
+      "text": 1,
+      "email": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "location"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 6,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:careers.arm.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

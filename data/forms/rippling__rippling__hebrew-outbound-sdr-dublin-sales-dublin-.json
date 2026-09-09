@@ -1,0 +1,628 @@
+{
+  "id": "rippling__rippling__hebrew-outbound-sdr-dublin-sales-dublin-",
+  "group": "rippling",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "rippling",
+    "atsLabel": "rippling",
+    "company": "rippling",
+    "board": "rippling",
+    "title": "(Hebrew) Outbound SDR, Dublin Sales Dublin, Ireland",
+    "location": "",
+    "jobUrl": "https://ats.rippling.com/rippling/jobs/15f46354-8c45-49f6-9bfe-0de78691b426",
+    "startUrl": "https://ats.rippling.com/rippling/jobs/15f46354-8c45-49f6-9bfe-0de78691b426"
+  },
+  "platform": "rippling",
+  "detectedPlatform": "rippling",
+  "platformLabel": "Rippling ATS",
+  "finalUrl": "https://ats.rippling.com/rippling/jobs/15f46354-8c45-49f6-9bfe-0de78691b426/apply?jobBoardSlug=rippling&jobId=15f46354-8c45-49f6-9bfe-0de78691b426&step=application",
+  "applyTrail": [
+    "clicked: Apply now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Apply - (Hebrew) Outbound SDR, Dublin",
+  "fieldCount": 15,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Drop or select (.doc / .docx / .pdf)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > label > input",
+      "visible": false,
+      "accept": ".doc,.docx,.pdf",
+      "multiple": false,
+      "normLabel": "drop or select doc / docx / pdf",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "NPvplCvDmh",
+      "id": "field-12",
+      "label": "First name",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "First name",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-12",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "dNB6sbZCYvx",
+      "id": "field-16",
+      "label": "Last name",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "Last name",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-16",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "leg4spwLQvC",
+      "id": "field-20",
+      "label": "Email",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "Email",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-20",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "oTQyAT9KzKv",
+      "id": "field-24",
+      "label": "Current company",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "Current company",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-24",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "ZsaA_SIVPXN",
+      "id": "field-31",
+      "label": "Search",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Search",
+      "autocomplete": "auto-complete-off",
+      "maxlength": "",
+      "selector": "#field-31",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 7,
+        "optionsAfterTyping": 1,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "+255 TZ - Tanzania",
+          "+380 UA - Ukraine",
+          "+256 UG - Uganda",
+          "+1 US - United States",
+          "+598 UY - Uruguay",
+          "+998 UZ - Uzbekistan",
+          "+39 VA - Vatican City"
+        ],
+        "sampleAfterTyping": [
+          "+1 US - United States"
+        ]
+      },
+      "optionCount": 7,
+      "options": [
+        "+255 TZ - Tanzania",
+        "+380 UA - Ukraine",
+        "+256 UG - Uganda",
+        "+1 US - United States",
+        "+598 UY - Uruguay",
+        "+998 UZ - Uzbekistan",
+        "+39 VA - Vatican City"
+      ],
+      "normLabel": "search",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Jh1lkoALSyd",
+      "id": "field-28",
+      "label": "Phone number",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "Phone number",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-28",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://maps.googleapis.com/maps/api/js?libraries=core%2Cplaces&key=AIzaSyCQF3yQAxuc_Qb1FYoNkZXJ5BzME10aUVU&callback=google.maps.__ib__",
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "Ha0sAMX4kIg",
+      "id": "field-39",
+      "label": "textbox",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-39",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 5,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": [
+          "Atlantic City, NJ, USA",
+          "Atlanta, GA, USA",
+          "Aydlett, NC, USA",
+          "Asheville, NC, USA",
+          "Amsterdam, Netherlands"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "Atlantic City, NJ, USA",
+        "Atlanta, GA, USA",
+        "Aydlett, NC, USA",
+        "Asheville, NC, USA",
+        "Amsterdam, Netherlands"
+      ],
+      "normLabel": "textbox",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "beF_C44qKnb",
+      "id": "field-48",
+      "label": "LinkedIn Link",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "LinkedIn Link",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-48",
+      "visible": true,
+      "normLabel": "linkedin link",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Drop or select (.doc / .docx / .pdf)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(2) > label > input",
+      "visible": false,
+      "accept": ".doc,.docx,.pdf",
+      "multiple": false,
+      "normLabel": "drop or select doc / docx / pdf",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "field-56",
+      "label": "Select",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#field-56",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 2,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No"
+        ],
+        "sampleAfterTyping": [
+          "Yes",
+          "No"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "normLabel": "select",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "field-62",
+      "label": "Select",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#field-62",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "select",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "field-68",
+      "label": "Select",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#field-68",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 2,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No. I am based in Dublin but can't work from the office 3 da",
+          "No. I am based outside of Dublin"
+        ],
+        "sampleAfterTyping": [
+          "No. I am based in Dublin but can't work from the office 3 da",
+          "No. I am based outside of Dublin"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "No. I am based in Dublin but can't work from the office 3 da",
+        "No. I am based outside of Dublin"
+      ],
+      "normLabel": "select",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "lHzqYbZG1R4",
+      "id": "field-74",
+      "label": "l Hzq Yb ZG1R4",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#field-74",
+      "visible": true,
+      "normLabel": "l hzq yb zg1r4",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "field-78",
+      "label": "Drop or select (.doc / .docx / .pdf)",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#field-78",
+      "visible": true,
+      "normLabel": "drop or select doc / docx / pdf",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 2,
+      "text": 8,
+      "combobox": 5
+    },
+    "byAction": {
+      "upload": 2,
+      "type": 9,
+      "click-type-pick": 3,
+      "click-type-wait-pick": 1
+    },
+    "byOptionsSource": {
+      "dom-on-open": 3,
+      "network-on-type": 1,
+      "none-observed": 1
+    }
+  },
+  "widgetsProbed": 5,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 4
+    },
+    {
+      "widget": "typeahead",
+      "count": 5
+    }
+  ],
+  "sections": [
+    "Application: (Hebrew) Outbound SDR, Dublin"
+  ],
+  "buttons": [
+    "Exit to job board",
+    "Drop or select (.doc / .docx / .pdf)",
+    "Drop or select (.doc / .docx / .pdf)",
+    "Add comment",
+    "Apply"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/rippling/rippling__hebrew-outbound-sdr-dublin-sales-dublin-.png",
+    "html": "data/html/_nonus/rippling/rippling__hebrew-outbound-sdr-dublin-sales-dublin-.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 9,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 2340,
+    "lowestField": 1858,
+    "coversAllFields": true
+  },
+  "ms": 43328,
+  "fingerprint": {
+    "labelSig": "10bce7871137",
+    "shapeSig": "910b9fc53e96",
+    "controlSig": "22930116939b",
+    "controls": {
+      "file-upload": 2,
+      "text": 8,
+      "combobox": 5
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "3711fbd7c213",
+    "typeCounts": {
+      "file": 2,
+      "text": 9,
+      "button-dropdown": 3,
+      "div": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "employer",
+      "first_name",
+      "last_name",
+      "linkedin",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 10,
+    "customQuestionCount": 7,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

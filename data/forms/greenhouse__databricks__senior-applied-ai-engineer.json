@@ -1,0 +1,810 @@
+{
+  "id": "greenhouse__databricks__senior-applied-ai-engineer",
+  "group": "greenhouse",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "greenhouse",
+    "atsLabel": "Greenhouse",
+    "company": "databricks",
+    "board": "databricks",
+    "title": "Senior Applied AI Engineer",
+    "location": "Belgrade, Serbia",
+    "jobUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002",
+    "startUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002"
+  },
+  "platform": "greenhouse",
+  "platformLabel": "Greenhouse",
+  "finalUrl": "https://www.databricks.com/company/careers/engineering---pipeline/senior-applied-ai-engineer-8091041002?gh_jid=8091041002",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": true,
+  "pageTitle": "Job Application for Senior Applied AI Engineer at Databricks",
+  "fieldCount": 16,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "first_name",
+      "label": "First Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "given-name",
+      "maxlength": "255",
+      "selector": "#first_name",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "last_name",
+      "label": "Last Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "family-name",
+      "maxlength": "255",
+      "selector": "#last_name",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "preferred_name",
+      "label": "Preferred First Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#preferred_name",
+      "visible": true,
+      "normLabel": "preferred first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "email",
+      "label": "Email",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "255",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "country",
+      "label": "Country*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#country",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 244,
+        "optionsAfterTyping": 5,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "United States +1",
+          "Afghanistan +93",
+          "Åland Islands +358",
+          "Albania +355",
+          "Algeria +213",
+          "American Samoa +1",
+          "Andorra +376",
+          "Angola +244"
+        ],
+        "sampleAfterTyping": [
+          "United States +1",
+          "Réunion +262",
+          "Tunisia +216",
+          "United Arab Emirates +971",
+          "United Kingdom +44"
+        ]
+      },
+      "optionCount": 244,
+      "options": [
+        "United States +1",
+        "Afghanistan +93",
+        "Åland Islands +358",
+        "Albania +355",
+        "Algeria +213",
+        "American Samoa +1",
+        "Andorra +376",
+        "Angola +244",
+        "Anguilla +1",
+        "Antigua & Barbuda +1",
+        "Argentina +54",
+        "Armenia +374",
+        "Aruba +297",
+        "Ascension Island +247",
+        "Australia +61",
+        "Austria +43",
+        "Azerbaijan +994",
+        "Bahamas +1",
+        "Bahrain +973",
+        "Bangladesh +880",
+        "Barbados +1",
+        "Belarus +375",
+        "Belgium +32",
+        "Belize +501",
+        "Benin +229",
+        "Bermuda +1",
+        "Bhutan +975",
+        "Bolivia +591",
+        "Bosnia & Herzegovina +387",
+        "Botswana +267",
+        "Brazil +55",
+        "British Indian Ocean Territory +246",
+        "British Virgin Islands +1",
+        "Brunei +673",
+        "Bulgaria +359",
+        "Burkina Faso +226",
+        "Burundi +257",
+        "Cambodia +855",
+        "Cameroon +237",
+        "Canada +1"
+      ],
+      "normLabel": "country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "phone",
+      "label": "Phone",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "255",
+      "selector": "#phone",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "resume",
+      "label": "Attach",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume",
+      "visible": true,
+      "accept": ".pdf,.doc,.docx,.txt,.rtf",
+      "multiple": false,
+      "normLabel": "attach",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "cover_letter",
+      "label": "Attach",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cover_letter",
+      "visible": true,
+      "accept": ".pdf,.doc,.docx,.txt,.rtf",
+      "multiple": false,
+      "normLabel": "attach",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "question_32554382002",
+      "label": "LinkedIn Profile",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#question_32554382002",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "question_32554383002",
+      "label": "Website",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#question_32554383002",
+      "visible": true,
+      "normLabel": "website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_32554384002",
+      "label": "Are you legally authorized to work in the country in which you are applying?*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_32554384002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 1,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No"
+        ],
+        "sampleAfterTyping": [
+          "No options"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "normLabel": "are you legally authorized to work in the country in which y",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_32554385002",
+      "label": "Do you now or will you in the future need sponsorship for employment visa status in the country in which you are applying?*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_32554385002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 1,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No"
+        ],
+        "sampleAfterTyping": [
+          "No options"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "normLabel": "do you now or will you in the future need sponsorship for em",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_32554386002",
+      "label": "Do you currently or have you previously worked for Databricks in the past?*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_32554386002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 5,
+        "optionsAfterTyping": 2,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "No",
+          "Yes - I currently work at Databricks",
+          "Yes - Previous Full-Time Employee",
+          "Yes - Previous Contractor",
+          "Yes - Previous Intern"
+        ],
+        "sampleAfterTyping": [
+          "Yes - I currently work at Databricks",
+          "Yes - Previous Contractor"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "No",
+        "Yes - I currently work at Databricks",
+        "Yes - Previous Full-Time Employee",
+        "Yes - Previous Contractor",
+        "Yes - Previous Intern"
+      ],
+      "normLabel": "do you currently or have you previously worked for databrick",
+      "canonical": "previous_employee"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_32554387002",
+      "label": "How many years of industry experience do you have?*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_32554387002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 5,
+        "optionsAfterTyping": 5,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "0-2 years of Industry Experience",
+          "0-2 years with an equivalent PhD in Computer Science or rela",
+          "2-5 years years of Industry Experience",
+          "5-10 years of Industry Experience",
+          "10+ years of Industry Experience"
+        ],
+        "sampleAfterTyping": [
+          "0-2 years of Industry Experience",
+          "0-2 years with an equivalent PhD in Computer Science or rela",
+          "2-5 years years of Industry Experience",
+          "5-10 years of Industry Experience",
+          "10+ years of Industry Experience"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "0-2 years of Industry Experience",
+        "0-2 years with an equivalent PhD in Computer Science or rela",
+        "2-5 years years of Industry Experience",
+        "5-10 years of Industry Experience",
+        "10+ years of Industry Experience"
+      ],
+      "normLabel": "how many years of industry experience do you have",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "question_35111553002[]",
+      "label": "Please confirm whether any of the below applies to you. Select all that apply. Note: This information will only be used to ensure compliance with U.S. sanctions and export controls. *",
+      "labelSource": "legend",
+      "firstOptionLabel": "Citizen or permanent resident of Cuba, Iran, North Korea, or Syria",
+      "required": true,
+      "options": [
+        "Citizen or permanent resident of Cuba, Iran, North Korea, or Syria",
+        "Ordinarily a resident of Cuba, Iran, North Korea, Syria or the Crimea, Donetsk, Luhansk, Zaporizhzhia, or Kherson regions of Ukraine",
+        "Ordinarily a resident of Russia or Belarus and not willing to relocate for a Databricks role",
+        "None of the above"
+      ],
+      "optionValues": [
+        {
+          "label": "Citizen or permanent resident of Cuba, Iran, North Korea, or Syria",
+          "value": "221060668002"
+        },
+        {
+          "label": "Ordinarily a resident of Cuba, Iran, North Korea, Syria or the Crimea, Donetsk, Luhansk, Zaporizhzhia, or Kherson regions of Ukraine",
+          "value": "221060670002"
+        },
+        {
+          "label": "Ordinarily a resident of Russia or Belarus and not willing to relocate for a Databricks role",
+          "value": "221060671002"
+        },
+        {
+          "label": "None of the above",
+          "value": "221060673002"
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"question_35111553002[]\"]",
+      "normLabel": "please confirm whether any of the below applies to you selec",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "question_35115238002[]",
+      "label": "If you selected a response to the prior question other than “none of the above,” please confirm whether any of the following also applies to you. Select all that apply. *",
+      "labelSource": "legend",
+      "firstOptionLabel": "U.S. citizen",
+      "required": true,
+      "options": [
+        "U.S. citizen",
+        "U.S. non-citizen national",
+        "U.S. permanent resident (Green Card holder)",
+        "Individual granted asylum in the U.S.",
+        "Individual granted refugee status in the U.S.",
+        "Individual granted citizenship in a country other than Cuba, Iran, North Korea, or Syria",
+        "Individual granted permanent residency in a country other than Cuba, Iran, North Korea, or Syria",
+        "None of these apply to me",
+        "Not applicable (i.e., I selected “none of the above” for the prior question)"
+      ],
+      "optionValues": [
+        {
+          "label": "U.S. citizen",
+          "value": "221082948002"
+        },
+        {
+          "label": "U.S. non-citizen national",
+          "value": "221082950002"
+        },
+        {
+          "label": "U.S. permanent resident (Green Card holder)",
+          "value": "221082953002"
+        },
+        {
+          "label": "Individual granted asylum in the U.S.",
+          "value": "221082957002"
+        },
+        {
+          "label": "Individual granted refugee status in the U.S.",
+          "value": "221082962002"
+        },
+        {
+          "label": "Individual granted citizenship in a country other than Cuba, Iran, North Korea, or Syria",
+          "value": "221082970002"
+        },
+        {
+          "label": "Individual granted permanent residency in a country other than Cuba, Iran, North Korea, or Syria",
+          "value": "221082978002"
+        },
+        {
+          "label": "None of these apply to me",
+          "value": "221082981002"
+        },
+        {
+          "label": "Not applicable (i.e., I selected “none of the above” for the prior question)",
+          "value": "221082983002"
+        }
+      ],
+      "optionCount": 9,
+      "selector": "input[name=\"question_35115238002[]\"]",
+      "normLabel": "if you selected a response to the prior question other than ",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 6,
+      "combobox": 5,
+      "phone-intl": 1,
+      "file-upload": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 6,
+      "click-type-pick": 5,
+      "type-then-pick-country": 1,
+      "upload": 2,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-on-open": 5,
+      "country-picker-unprobed": 1,
+      "dom-static": 2
+    }
+  },
+  "widgetsProbed": 6,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 5
+    },
+    {
+      "widget": "combobox",
+      "count": 5
+    },
+    {
+      "widget": "typeahead",
+      "count": 5
+    }
+  ],
+  "sections": [
+    "Apply for this job",
+    "Phone",
+    "Please confirm whether any of the below applies to you. Select all that apply. Note: This information will only be used to ensure compliance with U.S. sanctions and export controls. *",
+    "If you selected a response to the prior question other than “none of the above,” please confirm whether any of the following also applies to you. Select all that apply. *"
+  ],
+  "buttons": [
+    "Attach",
+    "Dropbox",
+    "Enter manually",
+    "Attach",
+    "Dropbox",
+    "Enter manually",
+    "Submit application"
+  ],
+  "resumeUpload": [
+    "Apply for this job*indicates a required fieldFirst Name*Last Name*Preferred First Name*Email*PhoneCountry*Phone* 244 results foundNo results foundAfghanistan+93Åland Islands+358Albania+355Algeria+213A",
+    "Apply for this job*indicates a required fieldFirst Name*Last Name*Preferred First Name*Email*PhoneCountry*Phone* 244 results foundNo results foundAfghanistan+93Åland Islands+358Albania+355Algeria+213A",
+    "First Name*Last Name*Preferred First Name*Email*PhoneCountry*Phone* 244 results foundNo results foundAfghanistan+93Åland Islands+358Albania+355Algeria+213American Samoa+1Andorra+376Angola+244Anguilla+",
+    "Resume/CV*AttachAttachDropboxEnter manuallyEnter manuallyAccepted file types: pdf, doc, docx, txt, rtf",
+    "Resume/CV*AttachAttachDropboxEnter manuallyEnter manuallyAccepted file types: pdf, doc, docx, txt, rtf"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/greenhouse/databricks__senior-applied-ai-engineer.png",
+    "html": "data/html/_nonus/greenhouse/databricks__senior-applied-ai-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 24,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 4278,
+    "lowestField": 2144,
+    "coversAllFields": true
+  },
+  "ms": 30691,
+  "fingerprint": {
+    "labelSig": "bfc463d3bc1a",
+    "shapeSig": "4323772d9e4f",
+    "controlSig": "45c3170ffdb3",
+    "controls": {
+      "text": 6,
+      "combobox": 5,
+      "phone-intl": 1,
+      "file-upload": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "efd7fb30852d",
+    "typeCounts": {
+      "text": 11,
+      "tel": 1,
+      "file": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "previous_employee",
+      "resume",
+      "visa_sponsorship",
+      "years_experience"
+    ],
+    "requiredCount": 12,
+    "customQuestionCount": 2,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "greenhouse",
+  "duplicateOfSameForm": false,
+  "overCap": true,
+  "nonUS": true
+}

@@ -1,0 +1,193 @@
+{
+  "id": "custom-jobs-boeing-com__boeing__senior-software-engineer",
+  "group": "custom-jobs-boeing-com",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "boeing",
+    "atsLabel": "Boeing careers",
+    "company": "boeing",
+    "board": "boeing",
+    "title": "Senior Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.boeing.com/job/el-segundo/senior-software-engineer/185/98140912832",
+    "startUrl": "https://jobs.boeing.com/job/el-segundo/senior-software-engineer/185/98140912832"
+  },
+  "platform": "custom:jobs.boeing.com",
+  "detectedPlatform": "custom:jobs.boeing.com",
+  "platformLabel": "jobs.boeing.com",
+  "finalUrl": "https://jobs.boeing.com/job/annapolis-junction/senior-software-engineer/185/en/en/en/application-guide",
+  "applyTrail": [
+    "opened posting: Senior Software Engineer",
+    "opened posting: visit our application guide",
+    "opened posting: visit our application guide",
+    "clicked: visit our application guide"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Custom Job Error",
+  "fieldCount": 2,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "l",
+      "id": "search-location-0ca1db926e",
+      "label": "Search by Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "City, State or Country",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-location-0ca1db926e",
+      "visible": true,
+      "normLabel": "search by location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "search-keyword-0ca1db926e",
+      "label": "Search by Keyword",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g., Engineering, Manufacturing",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-keyword-0ca1db926e",
+      "visible": true,
+      "normLabel": "search by keyword",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1,
+      "text-search": 1
+    },
+    "byAction": {
+      "click-type-pick": 1,
+      "type": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "typeahead",
+      "count": 1
+    },
+    {
+      "widget": "accordion",
+      "count": 5
+    }
+  ],
+  "sections": [
+    "Search",
+    "Job Not Found",
+    "Stay Connected",
+    "Jobs for You:",
+    "Connect with us",
+    "Sign up for Job Alerts",
+    "Join our Talent Community",
+    "Veteran Talent Community",
+    "Assistance",
+    "Resources",
+    "Follow Us"
+  ],
+  "buttons": [
+    "Careers",
+    "Life at Boeing",
+    "Students",
+    "SEARCH",
+    "Recently Viewed Jobs",
+    "Saved Jobs"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-jobs-boeing-com/boeing__senior-software-engineer.png",
+    "html": "data/html/_unreached/custom-jobs-boeing-com/boeing__senior-software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 2631,
+    "lowestField": 500,
+    "coversAllFields": true
+  },
+  "ms": 56472,
+  "fingerprint": {
+    "labelSig": "1ca6a16554f2",
+    "shapeSig": "54dd593249cf",
+    "controlSig": "1e71a49108e5",
+    "controls": {
+      "combobox": 1,
+      "text-search": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "2234f5cc479c",
+    "typeCounts": {
+      "text": 1,
+      "search": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

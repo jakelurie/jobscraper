@@ -1,0 +1,92 @@
+{
+  "id": "custom-jobs-uber-com__uber__coe-specialist-ii",
+  "group": "custom-jobs-uber-com",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 403,
+  "seed": {
+    "ats": "uber",
+    "atsLabel": "Uber (in-house)",
+    "company": "uber",
+    "board": "uber",
+    "title": "COE Specialist II",
+    "location": "",
+    "jobUrl": "https://jobs.uber.com/en/jobs/302261/",
+    "startUrl": "https://jobs.uber.com/en/jobs/302261/"
+  },
+  "platform": "custom:jobs.uber.com",
+  "platformLabel": "jobs.uber.com",
+  "finalUrl": "https://jobs.uber.com/en/jobs/302261/",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "captcha",
+    "via": null
+  },
+  "inIframe": true,
+  "pageTitle": "Checking your Browser…",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-jobs-uber-com/uber__coe-specialist-ii.png",
+    "html": "data/html/_unreached/custom-jobs-uber-com/uber__coe-specialist-ii.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 850,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 48674,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "da693477f8b3",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:jobs.uber.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

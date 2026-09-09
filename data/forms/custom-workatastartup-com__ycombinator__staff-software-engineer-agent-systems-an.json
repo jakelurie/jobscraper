@@ -1,0 +1,116 @@
+{
+  "id": "custom-workatastartup-com__ycombinator__staff-software-engineer-agent-systems-an",
+  "group": "custom-workatastartup-com",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "workatastartup",
+    "atsLabel": "Y Combinator Work at a Startup",
+    "company": "ycombinator",
+    "board": "workatastartup",
+    "title": "Staff Software Engineer, Agent Systems and Product Quality",
+    "location": "",
+    "jobUrl": "https://www.workatastartup.com/jobs/100471",
+    "startUrl": "https://www.workatastartup.com/jobs/100471"
+  },
+  "platform": "custom:workatastartup.com",
+  "platformLabel": "workatastartup.com",
+  "finalUrl": "https://www.workatastartup.com/jobs/100472",
+  "applyTrail": [
+    "opened posting: Staff Software Engineer, Agent Infrastructure and Reliability",
+    "opened posting: Staff Software Engineer, Agent Systems and Product Quality",
+    "opened posting: Go-to-Market Engineer",
+    "saved-session:workatastartup__workatastartup.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Go-to-Market Engineer at CharacterQuilt | Y Combinator's Work at a Startup",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Go-to-Market Engineer at CharacterQuilt(P26)",
+    "What we're building",
+    "The role",
+    "What you'll do",
+    "You might be a fit if",
+    "Other jobs at CharacterQuilt",
+    "Hundreds of YC startups are hiring on Work at a Startup.",
+    "Work at a Startup",
+    "Y Combinator",
+    "Jobs by Role",
+    "Jobs by Location",
+    "Remote Jobs"
+  ],
+  "buttons": [],
+  "resumeUpload": [
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog InGo-to-Market Engineer at CharacterQuilt(P26)$150K - $200K • 0.20% - 1.00%Computer use agents to",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog InGo-to-Market Engineer at CharacterQuilt(P26)$150K - $200K • 0.20% - 1.00%Computer use agents to",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog In",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog In",
+    "Companies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it Works"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-workatastartup-com/ycombinator__staff-software-engineer-agent-systems-an.png",
+    "html": "data/html/_unreached/custom-workatastartup-com/ycombinator__staff-software-engineer-agent-systems-an.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 2943,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 58676,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b3b2475b195c",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:workatastartup.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

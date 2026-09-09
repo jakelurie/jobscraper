@@ -1,0 +1,20 @@
+{
+  "name": "scrapejobapplications",
+  "version": "1.0.0",
+  "description": "Corpus builder for job application form structures across ATS vendors",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "discover": "node src/discover.js",
+    "discover:sites": "node src/discover-sites.js",
+    "probe": "node src/probe.js",
+    "merge": "node src/merge.js",
+    "crawl": "node src/crawl.js",
+    "report": "node src/report.js",
+    "all": "npm run discover && npm run discover:sites && npm run probe && npm run merge && npm run crawl && npm run report"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "playwright-core": "^1.63.0"
+  }
+}

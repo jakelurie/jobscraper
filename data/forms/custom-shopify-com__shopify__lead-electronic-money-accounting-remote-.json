@@ -1,0 +1,566 @@
+{
+  "id": "custom-shopify-com__shopify__lead-electronic-money-accounting-remote-",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "Shopify careers",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Lead, Electronic Money Accounting REMOTE - UNITED KINGDOM",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/lead-electronic-money-accounting_e1c60e78-e451-4242-8473-5b8217394c36?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/lead-electronic-money-accounting_e1c60e78-e451-4242-8473-5b8217394c36?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/lead-electronic-money-accounting_e1c60e78-e451-4242-8473-5b8217394c36?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Lead, Electronic Money Accounting - Shopify",
+  "fieldCount": 13,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "22ea53e7-ff09-4692-979f-ac854d00b4b5",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "3389302d-bd8d-49ef-aaaa-f59fc6f9c097",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "b01d2681-fce9-40b4-acda-694cfdcef30a",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#b01d2681-fce9-40b4-acda-694cfdcef30a",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "7b4af1c6-c80c-4505-86ad-8c31b0de98cb",
+      "id": "7b4af1c6-c80c-4505-86ad-8c31b0de98cb",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"7b4af1c6-c80c-4505-86ad-8c31b0de98cb\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "8ede094d-350d-4434-833f-b3d6d42457ea",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "d4abe85c-cd23-453e-a71f-24b9e8f76120[]",
+      "label": "What accounting qualification do you have (check all that apply) *",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "What accounting qualification do you have (check all that apply) * ACA ACCA CIMA CPA Other designation I don't have an accounting certification",
+      "required": true,
+      "options": [
+        "What accounting qualification do you have (check all that apply) * ACA ACCA CIMA CPA Other designation I don't have an accounting certification",
+        "ACCA",
+        "CIMA",
+        "CPA",
+        "Other designation",
+        "I don't have an accounting certification"
+      ],
+      "optionValues": [
+        {
+          "label": "What accounting qualification do you have (check all that apply) * ACA ACCA CIMA CPA Other designation I don't have an accounting certification",
+          "value": "ACA"
+        },
+        {
+          "label": "ACCA",
+          "value": "ACCA"
+        },
+        {
+          "label": "CIMA",
+          "value": "CIMA"
+        },
+        {
+          "label": "CPA",
+          "value": "CPA"
+        },
+        {
+          "label": "Other designation",
+          "value": "Other designation"
+        },
+        {
+          "label": "I don't have an accounting certification",
+          "value": "I don't have an accounting certification"
+        }
+      ],
+      "optionCount": 6,
+      "selector": "input[name=\"d4abe85c-cd23-453e-a71f-24b9e8f76120[]\"]",
+      "normLabel": "what accounting qualification do you have check all that app",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "caf90df4-ec63-4c21-a6f7-14c0cc4e52df",
+      "id": "911c0c77-e01f-496a-b054-02fe9c840751",
+      "label": "Do you have direct experience with NMLS MSB Call Report preparation and filing? Yes - quite a lot Some exposure No",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"caf90df4-ec63-4c21-a6f7-14c0cc4e52df\"]",
+      "visible": true,
+      "options": [
+        "Yes - quite a lot",
+        "Some exposure",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes - quite a lot",
+          "value": "Yes - quite a lot"
+        },
+        {
+          "label": "Some exposure",
+          "value": "Some exposure"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "do you have direct experience with nmls msb call report prep",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "441020c8-a2ca-4988-8b41-a188291e6022",
+      "id": "a3b592a9-a054-4246-b11b-55de353a1e57",
+      "label": "How is AI changing how you work?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#a3b592a9-a054-4246-b11b-55de353a1e57",
+      "visible": true,
+      "normLabel": "how is ai changing how you work",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "713373b1-7e73-4ca3-9906-ddcb4881b488",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"713373b1-7e73-4ca3-9906-ddcb4881b488\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "0d7387e5-97f3-42a2-bc0a-b68c5488e84a",
+      "id": "0d7387e5-97f3-42a2-bc0a-b68c5488e84a",
+      "label": "Which track are you interested in pursuing with Shopify?* Individual Contributor People Manager",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"0d7387e5-97f3-42a2-bc0a-b68c5488e84a\"]",
+      "visible": true,
+      "options": [
+        "Individual Contributor",
+        "People Manager"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Individual Contributor",
+          "value": "Individual Contributor"
+        },
+        {
+          "label": "People Manager",
+          "value": "People Manager"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which track are you interested in pursuing with shopify indi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "ee66ed4f-47c6-425d-928c-382936a7d5f5",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"ee66ed4f-47c6-425d-928c-382936a7d5f5\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "1af730bd-794d-4145-a617-3822b9101280",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"1af730bd-794d-4145-a617-3822b9101280\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "75fe95e0-53f6-43ce-8b31-9c6416c331a6",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"75fe95e0-53f6-43ce-8b31-9c6416c331a6\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 4,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 5,
+      "native-select": 2
+    },
+    "byAction": {
+      "type": 5,
+      "upload": 1,
+      "check-many": 5,
+      "select-option": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 7
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Lead, Electronic Money Accounting",
+    "About the role",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackLead, Electronic Money AccountingRemote - United KingdomFinanceApply NowAbout the roleShopify is building a Money Movement Platform that spans multiple licensed entities across the US, UK, and EU.",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.What accounting qualification do you have (check all that apply) *ACAACCACIMACPAOth",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.What accounting qualification do you have (check all that apply) *ACAACCACIMACPAOth",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.What accounting qualification do you have (check all that apply) *ACAACCACIMACPAOther designationI don'"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/custom-shopify-com/shopify__lead-electronic-money-accounting-remote-.png",
+    "html": "data/html/_nonus/custom-shopify-com/shopify__lead-electronic-money-accounting-remote-.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5566,
+    "lowestField": 4807.765625,
+    "coversAllFields": true
+  },
+  "ms": 27372,
+  "fingerprint": {
+    "labelSig": "afcca4291ff1",
+    "shapeSig": "88087d774395",
+    "controlSig": "400b2c3a6f2a",
+    "controls": {
+      "text": 4,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 5,
+      "native-select": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "52b1123db4c5",
+    "typeCounts": {
+      "text": 4,
+      "email": 1,
+      "file": 1,
+      "checkbox": 5,
+      "select": 2
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 10,
+    "customQuestionCount": 6,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:shopify.com",
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

@@ -1,0 +1,170 @@
+{
+  "id": "avature__synopsys__validation-verification-engineer-compute",
+  "group": "avature",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "synopsys",
+    "board": "synopsys",
+    "title": "Validation/Verification Engineer - Computer Science Focus (Exton, PA) - 13924",
+    "location": "",
+    "jobUrl": "https://synopsys.avature.net/careers/JobDetail/Validation-Verification-Engineer-Computer-Science-Focus-Exton-PA-13924/13924?businessTitle=Validation%2FVerification+Engineer+-+Computer+Science+Focus+%28Exton%2C+PA%29+-+13924",
+    "startUrl": "https://synopsys.avature.net/careers/JobDetail/Validation-Verification-Engineer-Computer-Science-Focus-Exton-PA-13924/13924?businessTitle=Validation%2FVerification+Engineer+-+Computer+Science+Focus+%28Exton%2C+PA%29+-+13924"
+  },
+  "platform": "avature",
+  "detectedPlatform": "avature",
+  "platformLabel": "Avature",
+  "finalUrl": "https://synopsys.avature.net/careers/Login?jobId=13924",
+  "applyTrail": [
+    "clicked: Apply",
+    "sign-in",
+    "sign-in",
+    "sign-in"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on signin screen: Login Username Username is required. Password Log in Forgot your password? | Username is required.",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Login | Synopsys",
+  "fieldCount": 2,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "username",
+      "id": "username",
+      "label": "Username",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#username",
+      "visible": true,
+      "normLabel": "username",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "password",
+      "id": "password",
+      "label": "Password",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#password",
+      "visible": true,
+      "normLabel": "password",
+      "canonical": "password"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 1,
+      "text-password": 1
+    },
+    "byAction": {
+      "type": 2
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Synopsys",
+    "Application Process",
+    "Already registered?",
+    "Login",
+    "First time applicant"
+  ],
+  "buttons": [
+    "Log in"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/avature/synopsys__validation-verification-engineer-compute.png",
+    "html": "data/html/_unreached/avature/synopsys__validation-verification-engineer-compute.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 850,
+    "lowestField": 509.0625,
+    "coversAllFields": true
+  },
+  "ms": 64033,
+  "fingerprint": {
+    "labelSig": "da5278d2ebf7",
+    "shapeSig": "4bca1b04c892",
+    "controlSig": "1867c7e6466b",
+    "controls": {
+      "text": 1,
+      "text-password": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "27b739fb9a55",
+    "typeCounts": {
+      "text": 1,
+      "password": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "password"
+    ],
+    "requiredCount": 2,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,8 @@
+node_modules/
+data/html/
+data/screenshots/
+data/runs/
+data/_archive/
+data/thumbs/
+data/large/
+data/gallery.json

@@ -1,0 +1,1655 @@
+{
+  "cookies": [
+    {
+      "name": "opc_sessiontoken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYW5kaWRhdGVfaWQiOjAsImNvbXBhbnlfaWQiOjE3MTg0LCJ3aWRnZXRfaWQiOiJ1ZGRiZWJ5aG1odG1vYmVndmpsaiIsImV4cCI6MTc4ODkzNjg5Mn0.7qH3kMPxmjrkoEvFaTWdOm6jYEx5PS8WUMDr9HAa6_g",
+      "domain": "olivia.paradox.ai",
+      "path": "/api/v3/widget/uddbebyhmhtmobegvjlj/",
+      "expires": 1788936892.685807,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://accenture.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": ".AspNetCore.Correlation.7LwBpuh28vAEW6o9GZiqV6XhhatBz6Gy2repnXaLU8w",
+      "value": "N",
+      "domain": ".www.usajobs.gov",
+      "path": "/signin-wsfed",
+      "expires": 1788851467.660224,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwhlqeLTMnGwLhCjmITFcTB35cGpWkVXS0Gmgfdf7aDhXIliNAmn_8bwUXlILynIYvEeqzQfHzru9IzTQpI",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1804402449.786522,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ScustomPortal-4",
+      "value": "990v5n7efifkmak68e8n0fc1s9",
+      "domain": "synopsys.avature.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dduserid",
+      "value": "8611e1f1-e1e-bb54-bb2e-8effe891d2b",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": 1820386443,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "demdex",
+      "value": "20610324548491906914344525326362212450",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1804402632.341219,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "cc2014c4-6dd1-4167-bec7-46651a7ac940",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820386491.108595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_AAB73BC75245B44A0A490D4D_AdobeOrg_identity",
+      "value": "CiYyMDg5MjI4ODk2MDgxMDM4Njg5NDMzNjY3NDI1MjU3MzEwOTc5MlISCOitrv6HNBABGAEqA1ZBNjAA8AHora7-hzQ=",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1822978443,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_AAB73BC75245B44A0A490D4D_AdobeOrg_cluster",
+      "value": "va6",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1788852290.999269,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg",
+      "value": "MCMID|20892288960810386894336674252573109792",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1822546447,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "s_ecid",
+      "value": "20892288960810386894336674252573109792",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": 1791442447,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUlk6eVWRpnqBZyYyccozrXriauJoZezj-IsodnUBOfnqvJftdhG8Hi6-0MZNDo",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823410444.169332,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_lfa",
+      "value": "LF1.1.b1873756a81c96a8.1788850444178",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1820386448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|IlnCfxMaYW0X+DtWMCHpUENBIgm0Dj9Md/LYp2WLhMEx8y54Yq4qG1BkqG+cLtddGs6BfwOVjUlw0S94mtzOH0pB9H8pjytykCdHvyxZSdbJjg/WOlvU27qsszfguZekSS4EBCF0Rwc3ldOsJfkQuIcz9ipKxqlGi8N7BAmaQgdJt49mPrPRUFyo1mMSXCQ85kHVXO4iITS/uI9Aj+Yjkr7KKI+4mJy3oGirqm5gUhh8KMm0j6uXBGY3KwFBcKEE94+z9/eToJrLtHkR71fkUv/JTzblBZm7jOq1oSpaE+yma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386444.249757,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://accenture.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MTSBD8PO-20-H9V",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386444.24979,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MTSBD8PO-20-H9V",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386444.249804,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://accenture.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|IlnCfxMaYW0X+DtWMCHpUENBIgm0Dj9Md/LYp2WLhMEx8y54Yq4qG1BkqG+cLtddGs6BfwOVjUlw0S94mtzOH0pB9H8pjytykCdHvyxZSdbJjg/WOlvU27qsszfguZekSS4EBCF0Rwc3ldOsJfkQuIcz9ipKxqlGi8N7BAmaQgdJt49mPrPRUFyo1mMSXCQ85kHVXO4iITS/uI9Aj+Yjkr7KKI+4mJy3oGirqm5gUhh8KMm0j6uXBGY3KwFBcKEE94+z9/eToJrLtHkR71fkUv/JTzblBZm7jOq1oSpaE+yma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820386444.249817,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "eb480d72-1e73-4b3c-8463-af70ce673499",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1796626652.323694,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&9c9d94d1-d2d4-4049-818f-1f68ad6e6f5b\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820386652.323724,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST04:s=V:r=V:a=V:p=V:g=3834:u=1:x=1:i=1788850444:t=1788936844:v=2:sig=AQFCkIWe-F2w2WjnCRj0h2QCkH6FC98T\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788936844.305802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "EwZVPm0H3ilGdMMxfgvZOVCCDxD9E.apEJ2VYdT6nX0-1788850444.4097154-1.0.1.1-7QFB1GP9u4FKvP56M_fg0lXmN8MqqBegD940qBBpiZfLKkqt6W9AuG3KAYUH6Uj.XO3yvs7xm8JvaVkSoi5pebTwQk8umqHVasKOq.fN8nExJP0oovIpyFW8AHO0Z5BD",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788852244.305818,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQI1UDan4r4SjAAAAaB_y5jab6ZJ4lk1pvjkV19_qZ7vcN24wLkiysEx1F5RzgUX7LA5A7u7n9SK4g",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791442444.382429,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQL5WRDXHlssPgAAAaB_y5jaZcNMiRY9PhYIGmLHqTIQk8RbIOqpBDYcBhGmtPXK9ZyPHyYrHb_dzV6mVC2g2Q",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791442444.382439,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908065404c3e4a145-a394-479c-8cb4-fdce5dc9aa7eAQEeJFMpGnC7udbzbWARvQc9uEQqDhiP\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820386444.510862,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ai_widget_probed",
+      "value": "true",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": 1791442444.647063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-09-08T06:54:07.356Z",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1820386447,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+02%3A54%3A07+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ac291cc7-2297-4d8b-a573-0596fba45227&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1&intType=1&geolocation=US%3BNC&AwaitingReconsent=false",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1820386447,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "s_plt",
+      "value": "0.23%2Chttps%3A%2F%2Fwww.accenture.com%2Fus-en%2Fcareers%2Fjobdetails%3Fid%3DR00350768_en%26title%3DIndustrial%2B%2526%2BAutomotive%2BManufacturing%2BEngineering%2BManager",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CMID",
+      "value": "ap.xEMAoJb8AFmKZAEYBfAAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1820386448.553442,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "2930",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1796626448.477728,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "2930",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1796626448.553464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cs_c",
+      "value": "0",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1823014448,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KRTBCOOKIE_377",
+      "value": "6810-cc2014c4-6dd1-4167-bec7-46651a7ac940&KRTB&22918-cc2014c4-6dd1-4167-bec7-46651a7ac940&KRTB&22926-cc2014c4-6dd1-4167-bec7-46651a7ac940&KRTB&23031-cc2014c4-6dd1-4167-bec7-46651a7ac940",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1796626448.531736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1788850448",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1791442448.53177,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.238532045.1788850449",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1823410448.542557,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tuuid",
+      "value": "06d322be-513c-4a36-8aee-d93dc1c2c015",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1820386448.622695,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1788850448",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1820386448.557899,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1788850448",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1820386448.622737,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ReferringSourceCode",
+      "value": "acn_5",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_mk_aa",
+      "value": "0.10351345370852227_1788850448603",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1788852248,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_AAB73BC75245B44A0A490D4D_AdobeOrg_consent",
+      "value": "general%3Din",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1804402448.67331,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1122071972.1788850449",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1823410449.015728,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PLAY_SESSION",
+      "value": "300e4e38b3ef40f726478d7e6a6172c404359d77-accenture_pSessionId=o41pi9nkpr1289mdoef88rsp6q&instance=vps-0-76d67d9c5f-mt88h",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "3add855a-6a5b-446b-a621-f493e82af9f4",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "00c0a0ca-bfc3-4f23-89ee-aa65ddcf56c4",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "02e18dc2-fca5-4eae-8d29-547a29b458fb.YWNjZW50dXJl.V0RDQzEuMIQAJQAAIA4avpsSDvIIR28OlDRQdGio6X9jwIGr0A2N8djmASbGAACMABYBMQAQ0czEZ+NMqqsBfDFnioxdAQAAADAyZTE4ZGMyLWZjYTUtNGVhZS04ZDI5LTU0N2EyOWI0NThmYg==",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vps-cke",
+      "value": "\"ab61fd1438f8ebf2\"",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "qXJ.InN6vru8qcascY1LiUlx.s7BXcYB2V9MFh37IEY-1788850448.741068-1.0.1.1-J.zjUZc7ahzPZSOBYiCgKnzFlGPXmTfGdoNK8lyQBa67jzYHb9ixQsmnCVsxkCQ3aQcffL1VEbQ8KRTUKOp._.jsm0rQ0i33h1prLl_qM2HV1qsv13N4mkGz6k91zwVP",
+      "domain": ".accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788852249.029793,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "Av15Nb4CTUuUXtTZDGtHdF8Ybg0YsxKj7m6fS7G5WuA-1788850448.741068-1.0.1.1-dXHs1mVDE2PdrKM8HOoOo6FRlwhd8AdlJuJQT8pVaqY",
+      "domain": ".accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "s_ips",
+      "value": "982",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PLAY_LANG",
+      "value": "en-US",
+      "domain": "accenture.wd103.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "PLojsutGbO68fnpAFivwLTDHBegCcot3U1Pz4f273gc-1788850469.8555233-1.0.1.1-gyV3dwCDrd91SKtw2pxR69GlX592Locnwu9O01RcBYoktloTI60bWmUi5jxVBDmKF7jMcnIRAL9GPdDWgFKb2iVd5c70cKMqErYB.6UHIM42KLfloX0IAB0.hepOK4Oi",
+      "domain": ".wd103.myworkday.com",
+      "path": "/",
+      "expires": 1788852269.792011,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "1GA0GU_bO.Uy6AbaSb8y1liaE2jiIGPC5GZ.SSKMLEQ-1788850471.6703117-1.0.1.1-hMvib0h0Q0bCRQloihzPPLXXavThoSgwmLUBfDy0swJpM6UXER2OOIws5ou5K39lzbiqlY3T7TsMw2I8K_VQX25HIX30tKsh3VgnvD0QQMPtdrEx.xU2S_MoESmcBIHk",
+      "domain": ".myworkdaycdn.com",
+      "path": "/",
+      "expires": 1788852271.546389,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "affinity",
+      "value": "\"ced4df033ff8dc03\"",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "urlTrackingHistory",
+      "value": "https%3A%2F%2Fwww.accenture.com%2Fus-en%2Fcareers%2Fsupport%2Flabor-condition-applications",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_cvars",
+      "value": "%7B%221%22%3A%5B%22siteID%22%2C%22car%22%5D%2C%222%22%3A%5B%22pageName%22%2C%22car%3Asupport%3Alabor-condition-applications%22%5D%2C%223%22%3A%5B%22country-language%22%2C%22us-en%22%5D%2C%224%22%3A%5B%22templateName%22%2C%22atp%3Acareers%20area%20of%20interest%22%5D%2C%225%22%3A%5B%22siteBranch%22%2C%22careers%22%5D%2C%226%22%3A%5B%22L2folder%22%2C%22support%22%5D%2C%227%22%3A%5B%22L3folder%22%2C%22no%20tertiary%20folder%22%5D%2C%228%22%3A%5B%22pageNameCL%22%2C%22car%3Asupport%3Alabor-condition-applications%7Cus-en%22%5D%2C%229%22%3A%5B%22hasRelatedCapabilities%22%2C%22N%22%5D%2C%2210%22%3A%5B%22hasFAQ%22%2C%22N%22%5D%2C%2211%22%3A%5B%22hasDownloadFullReport%22%2C%22N%22%5D%2C%2212%22%3A%5B%22hasAbsorbCTA%22%2C%22N%22%5D%2C%2213%22%3A%5B%22hasSubscribe%22%2C%22N%22%5D%2C%2214%22%3A%5B%22hasViewFullReport%22%2C%22N%22%5D%2C%2215%22%3A%5B%22hasReadFullReport%22%2C%22N%22%5D%2C%2216%22%3A%5B%22hasDownloadInfographic%22%2C%22N%22%5D%7D",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_id",
+      "value": "66dd2a9e-30d1-ab41-b7ca-9ac1582d4508.1788850448.1.1788850490.1788850448.1590097347.1823014448494.1.x",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1823014448,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_s",
+      "value": "2.0.U.9.1788852290856",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1788852290,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_gpv",
+      "value": "car%3Asupport%3Alabor-condition-applications",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1788852290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppv",
+      "value": "https%253A%252F%252Fwww.accenture.com%252Fus-en%252Fcareers%252Fsupport%252Flabor-condition-applications%2C5%2C5%2C5%2C982%2C18%2C1",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "eVar46",
+      "value": "car:job-search:jobdetails|apply%20for%20this%20job|access%20application|labor%20condition%20applications|car:support:labor-condition-applications|labor%20condition%20applications",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFgoHcnViaWNvbhILCMb3yIyA4MY_EAUSFwoIYXBwbmV4dXMSCwi2mMmMgODGPxAFEhUKBmdvb2dsZRILCKig3o6A4MY_EAUSFQoGY2FzYWxlEgsItLbTtYDgxj8QBRIYCgliaWRzd2l0Y2gSCwiu3NO1gODGPxAFEhcKCHB1Ym1hdGljEgsI0obUtYDgxj8QBRgFKAYyCwjgje_6meDGPxAFWgdvcnVtdmplYAF6CQoFdGllcjEQAQ..",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820386491.108639,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=1870a7ba-13f8-4289-95e5-a145c90b38ab&rum=2&id=2bcde8f5-bc35-40e6-baf9-4ddd773ea229&created=1788850443611&expire=1788851397579",
+      "domain": "www.accenture.com",
+      "path": "/",
+      "expires": 1820386497,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "s_tp",
+      "value": "18471",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_M494JBCPJ3",
+      "value": "GS2.1.s1788850448$o1$g1$t1788850499$j9$l0$h0",
+      "domain": ".accenture.com",
+      "path": "/",
+      "expires": 1823410499.573207,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A56.1803582Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A56.1803759Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A56.1803949Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A56.180411Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A56.1804336Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T06%3A55%3A56.1804585Z%22%7D%5D",
+      "domain": "www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1420610097.1788850557",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823410556.885964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_usajobs",
+      "value": "1788850867~id=d64bfc3e1bbe6f791e076a826514098d",
+      "domain": ".www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "akavpau_LOGIN_USAJ",
+      "value": "1788850868~id=92fa1d4460e9edae6b9c591a79b56b3f",
+      "domain": ".login.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_CLZB1LJ1VZ",
+      "value": "GS2.1.s1788850556$o1$g1$t1788850568$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823410568.042708,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_CSLL4ZEK4L",
+      "value": "GS2.1.s1788850556$o1$g1$t1788850568$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823410568.045792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "AWSALBAPP-0",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789455412.93975,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-1",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789455412.93979,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-2",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789455412.939818,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-3",
+      "value": "_remove_",
+      "domain": "jobs.jobvite.com",
+      "path": "/",
+      "expires": 1789455412.939839,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "tfgLML3UwJIblAHXhJyZQn4p__Ns8vC.n7zxt6wwQz8-1788850600.4679856-1.0.1.1-0h6htQyTpNGD9xImsm9mTBHStKp0q.FBxlAIL3ZRFjqRhCbIOIpAuhxoKdO5fWEz8zl6F1HwFWkJzOM2a9K806jDfgTLbDB_48ksbtlCs5V5xVRkTVJruGeR7WqcsdJq",
+      "domain": ".jobvite.com",
+      "path": "/",
+      "expires": 1788852400.524953,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.86325759.1788850602",
+      "domain": ".jobvite.com",
+      "path": "/",
+      "expires": 1788937012,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_40341815_1",
+      "value": "1",
+      "domain": ".jobvite.com",
+      "path": "/",
+      "expires": 1788850661,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.553413256.1788850601",
+      "domain": ".jobvite.com",
+      "path": "/",
+      "expires": 1823410612.984009,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_P1Z2TX9WPE",
+      "value": "GS2.1.s1788850601$o1$g1$t1788850630$j31$l0$h0",
+      "domain": ".jobvite.com",
+      "path": "/",
+      "expires": 1823410630.858932,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMCVS_21CB300E5B1536270A495D34%40AdobeOrg",
+      "value": "1",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dpm",
+      "value": "20610324548491906914344525326362212450",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1804402632.341278,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_21CB300E5B1536270A495D34%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20705%7CMCMID%7C20474773977549965334375951848373503092%7CMCAAMLH-1789455431%7C7%7CMCAAMB-1789455431%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1788857831s%7CNONE%7CMCSYNCSOP%7C411-20712%7CvVersion%7C5.5.0",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1823410631.902925,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ALGOLIA",
+      "value": "anonymous-8cb7e6c8-8831-458b-b0c1-273d293479cd",
+      "domain": "next.nutanix.com",
+      "path": "/",
+      "expires": 1804402631,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pi",
+      "value": "3519675587793256477",
+      "domain": ".ml314.com",
+      "path": "/",
+      "expires": 1820386632.106662,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sp_t",
+      "value": "fc32b48ec8453feec73271716edb77d8",
+      "domain": ".spotify.com",
+      "path": "/",
+      "expires": 1820386632.117492,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sp_landing",
+      "value": "https%3A%2F%2Fnext.nutanix.com%2F%3Fsp_cid%3Dfc32b48ec8453feec73271716edb77d8%26device%3Ddesktop",
+      "domain": ".spotify.com",
+      "path": "/",
+      "expires": 1788937032.117509,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "Session",
+      "value": "5958beb2af32d1d6fcaa8366ed33fd1d",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_locale",
+      "value": "266ca7b27cd65e4a778f1dbe918be9591bf668b2s%3A5%3A%22en_US%22%3B",
+      "domain": "next.nutanix.com",
+      "path": "/",
+      "expires": 1820386632.237886,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.137372646.1788850632",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1788937052,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_21535829_5",
+      "value": "1",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1788850692,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dextp",
+      "value": "22052-1-1788850631864|144230-1-1788850631968|144231-1-1788850632070|144232-1-1788850632173|144233-1-1788850632276|144234-1-1788850632379|144235-1-1788850632481|144236-1-1788850632585|144237-1-1788850632687",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1804402632,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t",
+      "value": "59d92cb0559bf77e945d1bf78d00644c",
+      "domain": "t3t09eztsd.execute-api.us-west-2.amazonaws.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tu",
+      "value": "c8beb814de777011733ee37cdb04f4c0",
+      "domain": "t3t09eztsd.execute-api.us-west-2.amazonaws.com",
+      "path": "/",
+      "expires": 1820386633.305701,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tu",
+      "value": "c8beb814de777011733ee37cdb04f4c0",
+      "domain": "next.nutanix.com",
+      "path": "/",
+      "expires": 1820386633,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-09-08T06:57:21.560Z",
+      "domain": ".next.nutanix.com",
+      "path": "/",
+      "expires": 1820386641,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+02%3A57%3A32+GMT-0400+(Eastern+Daylight+Time)&version=202505.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f3ac59f-ce27-48a8-9a1c-f8861fe322f9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=US%3BNC&AwaitingReconsent=false",
+      "domain": ".next.nutanix.com",
+      "path": "/",
+      "expires": 1820386652,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_YMM11Y2BGJ",
+      "value": "GS2.1.s1788850632$o1$g1$t1788850652$j40$l0$h0",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1823410652.235237,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.539462470.1788850632",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1823410652.237962,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1788850632702.d8ee48b1-fcf3-42f4-ac16-d05315cbcd6e",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1796626652,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "gpv_pn",
+      "value": "https%3A%2F%2Fnext.nutanix.com%2Fhow-it-works-22%2Fhow-to-unregister-a-cluster-from-prism-central-37357%3Ftid%3D37357%26fid%3D22",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": 1788852452,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_sq",
+      "value": "%5B%5BB%5D%5D",
+      "domain": ".nutanix.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "topics",
+      "value": "[%2245829%22%2C%2237357%22]",
+      "domain": "next.nutanix.com",
+      "path": "/",
+      "expires": 1789023453,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://next.nutanix.com",
+      "localStorage": [
+        {
+          "name": "Forum|live.search.placeholder",
+          "value": "\"Search\""
+        },
+        {
+          "name": "Common|editor.callout",
+          "value": "\"Callout\""
+        },
+        {
+          "name": "Forum|accessibility_label.topic_view_count",
+          "value": "\"View count for topic '{title}' is {n}\""
+        },
+        {
+          "name": "Forum|vraag",
+          "value": "\"Question\""
+        },
+        {
+          "name": "Forum|accessibility_label.clear_search",
+          "value": "\"Clear search\""
+        },
+        {
+          "name": "Forum|topic.reply.placeholder.textarea",
+          "value": "\"Add as many details as possible, by providing details you’ll make it easier for others to reply\""
+        },
+        {
+          "name": "Common|editor.table.headers.both",
+          "value": "\"Both\""
+        },
+        {
+          "name": "Common|bb.spoiler.show-content",
+          "value": "\"Show content\""
+        },
+        {
+          "name": "Forum|wysiwyg.ul.btn.title",
+          "value": "\"Bullet list\""
+        },
+        {
+          "name": "Forum|wysiwyg.i.btn.title",
+          "value": "\"Italic\""
+        },
+        {
+          "name": "Forum|Subscribe",
+          "value": "\"Subscribe\""
+        },
+        {
+          "name": "Common|editor.table.rows",
+          "value": "\"Rows\""
+        },
+        {
+          "name": "Common|js_component.modal.close",
+          "value": "\"Close\""
+        },
+        {
+          "name": "Forum|leaderboard.points.thisWeek",
+          "value": "\"Week\""
+        },
+        {
+          "name": "Forum|accessibility_label.powered_by_gainsight",
+          "value": "\"Powered by Gainsight\""
+        },
+        {
+          "name": "Forum|topic.meta.post.reply",
+          "value": "\"{n} reply|{n} replies\""
+        },
+        {
+          "name": "Common|file.upload.in.progress",
+          "value": "\"Please wait for your files to be uploaded\""
+        },
+        {
+          "name": "Forum|topic.editor.poll.answers.placeholder",
+          "value": "\"Add an option\""
+        },
+        {
+          "name": "Forum|beantwoord",
+          "value": "\"Solved\""
+        },
+        {
+          "name": "Common|editor.toolbar.more",
+          "value": "\"More\""
+        },
+        {
+          "name": "Forum|wysiwyg.poll.btn.title",
+          "value": "\"Poll\""
+        },
+        {
+          "name": "Control|poll.placeholder.question",
+          "value": "\"Add your question (minimum 10 characters)\""
+        },
+        {
+          "name": "Forum|wysiwyg.b.btn.title",
+          "value": "\"Bold\""
+        },
+        {
+          "name": "Forum|wysiwyg.u.btn.title",
+          "value": "\"Underline\""
+        },
+        {
+          "name": "Common|editor.add",
+          "value": "\"Add\""
+        },
+        {
+          "name": "Forum|Show more",
+          "value": "\"Show more activity\""
+        },
+        {
+          "name": "Forum|new.topic.placeholder.textarea",
+          "value": "\"Add as many details as possible, by providing details you’ll make it easier for others to reply\""
+        },
+        {
+          "name": "topicHelpfulness",
+          "value": "{\"37357\":{\"value\":null,\"isDismissed\":false,\"isRemoved\":false},\"45829\":{\"value\":null,\"isDismissed\":false,\"isRemoved\":false}}"
+        },
+        {
+          "name": "Common|editor.code.language",
+          "value": "\"Language\""
+        },
+        {
+          "name": "Common|editor.table.headers",
+          "value": "\"Headers\""
+        },
+        {
+          "name": "Forum|editor.table_of_contents.confirmation_modal.checkbox",
+          "value": "\"Contain only large headings\""
+        },
+        {
+          "name": "NRBA_SESSION::160a9bcd",
+          "value": "{\"value\":\"3eca5dc4928e055f\",\"inactiveAt\":1788852451216,\"expiresAt\":1788865033360,\"updatedAt\":1788850652137,\"sessionReplayMode\":null,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":null,\"traceHarvestStarted\":false,\"loggingMode\":null,\"logApiMode\":null,\"serverTimeDiff\":-277,\"custom\":{},\"numOfResets\":0,\"consent\":false,\"cachedRumResponse\":{\"app\":{\"agents\":[{\"entityGuid\":\"NTU0NjYxfEJST1dTRVJ8QVBQTElDQVRJT058OTk0MTAxMjA\"}],\"nrServerTime\":1788850633809},\"stn\":0,\"err\":1,\"ins\":1,\"spa\":1,\"sr\":0,\"srs\":0,\"st\":1,\"sts\":0,\"log\":0,\"logapi\":0}}"
+        },
+        {
+          "name": "Forum|accessibility_label.editor",
+          "value": "\"Editor\""
+        },
+        {
+          "name": "Forum|live.searchv2.a11y.recents_available",
+          "value": "\"{n} recent items available, use the up and down arrow keys to navigate.\""
+        },
+        {
+          "name": "Common|editor.image.caption",
+          "value": "\"Enter image caption\""
+        },
+        {
+          "name": "Forum|editor.table_of_contents.confirmation_modal.description",
+          "value": "\"Show an outline of your topic based on the headings.\""
+        },
+        {
+          "name": "eventLoggerSetup",
+          "value": "true"
+        },
+        {
+          "name": "Forum|wysiwyg.background.color",
+          "value": "\"wysiwyg.background.color\""
+        },
+        {
+          "name": "Forum|accessibility_label.topic_reply_count_link",
+          "value": "\"{n} reply on topic '{title}', go to the latest reply|{n} replies on topic '{title}', go to the latest reply\""
+        },
+        {
+          "name": "Forum|wysiwyg.emoji.btn.title",
+          "value": "\"Emoji\""
+        },
+        {
+          "name": "Forum|accessibility_label.topic_last_activity_link",
+          "value": "\"Last activity {date} on topic '{title}', go to the latest reply\""
+        },
+        {
+          "name": "Forum|accessibility_label.enter",
+          "value": "\"Enter\""
+        },
+        {
+          "name": "Common|bb.spoiler.hide-content",
+          "value": "\"Hide content\""
+        },
+        {
+          "name": "Forum|wysiwyg.image.btn.title",
+          "value": "\"Insert image\""
+        },
+        {
+          "name": "Forum|Remove poll",
+          "value": "\"Remove poll\""
+        },
+        {
+          "name": "Common|editor.text.color",
+          "value": "\"Text Color\""
+        },
+        {
+          "name": "Forum|accessibility_label.retract_like",
+          "value": "\"Retract like\""
+        },
+        {
+          "name": "Forum|wysiwyg.links.btn.upload",
+          "value": "\"Upload files\""
+        },
+        {
+          "name": "Forum|wysiwyg.h3.btn.title",
+          "value": "\"Small heading\""
+        },
+        {
+          "name": "Forum|topic.first.reply.placeholder.textarea",
+          "value": "\"Add as many details as possible, by providing details you’ll make it easier for others to reply\""
+        },
+        {
+          "name": "Forum|events.show.more",
+          "value": "\"Show more\""
+        },
+        {
+          "name": "Forum|wysiwyg.quote.btn.title",
+          "value": "\"Quote\""
+        },
+        {
+          "name": "Forum|Quote",
+          "value": "\"Quote\""
+        },
+        {
+          "name": "Forum|editor.table_of_contents.confirmation_modal.title",
+          "value": "\"Table of contents\""
+        },
+        {
+          "name": "Forum|topic.list.metadata.published.in",
+          "value": "\"published in\""
+        },
+        {
+          "name": "Forum|o_embed.error.error_service_not_supported",
+          "value": "\"The provided domain is not supported\""
+        },
+        {
+          "name": "Common|editor.background.color",
+          "value": "\"Background Color\""
+        },
+        {
+          "name": "Common|editor.table.headers.first.column",
+          "value": "\"First column\""
+        },
+        {
+          "name": "languagePreference",
+          "value": "true"
+        },
+        {
+          "name": "Forum|wysiwyg.ol.btn.title",
+          "value": "\"Numbered list\""
+        },
+        {
+          "name": "li_adsId",
+          "value": "b90669db-7c19-4ca4-82d5-77712ee4cf9f"
+        },
+        {
+          "name": "Forum|Send",
+          "value": "\"Send\""
+        },
+        {
+          "name": "Forum|topic.editor.poll.answers.title",
+          "value": "\"Options\""
+        },
+        {
+          "name": "Common|editor.table.headers.none",
+          "value": "\"None\""
+        },
+        {
+          "name": "Forum|accessibility_label.search",
+          "value": "\"Search\""
+        },
+        {
+          "name": "Forum|wysiwyg.spoiler.btn.title",
+          "value": "\"Spoiler\""
+        },
+        {
+          "name": "Common|editor.paragraph",
+          "value": "\"Paragraph\""
+        },
+        {
+          "name": "Forum|wysiwyg.h1.btn.title",
+          "value": "\"Large heading\""
+        },
+        {
+          "name": "Common|editor.table.columns",
+          "value": "\"Columns\""
+        },
+        {
+          "name": "Common|editor.formatting.styles",
+          "value": "\"Formatting Styles\""
+        },
+        {
+          "name": "Forum|editor.title.comment",
+          "value": "\"Reply\""
+        },
+        {
+          "name": "Common|editor.table",
+          "value": "\"Table\""
+        },
+        {
+          "name": "Common|editor.horizontal.line",
+          "value": "\"Horizontal line\""
+        },
+        {
+          "name": "Forum|leaderboard.points.allTime",
+          "value": "\"All time\""
+        },
+        {
+          "name": "Forum|topic.list.metadata.posted.in",
+          "value": "\"posted in\""
+        },
+        {
+          "name": "Common|editor.styles",
+          "value": "\"Styles\""
+        },
+        {
+          "name": "Forum|accessibility_label.skip_to_main_content",
+          "value": "\"Skip to main content\""
+        },
+        {
+          "name": "Forum|wysiwyg.embed.btn.title",
+          "value": "\"Embed media\""
+        },
+        {
+          "name": "Forum|wysiwyg.code.btn.title",
+          "value": "\"Code\""
+        },
+        {
+          "name": "algoliasearch-client-js",
+          "value": "{\"2BDID0VSM6\":{\"hostIndexes\":{\"read\":0,\"write\":0},\"timeoutMultiplier\":1,\"shuffleResult\":[1,2,3],\"lastChange\":1788850631881}}"
+        },
+        {
+          "name": "Forum|live.searchv2.a11y.suggestions_available",
+          "value": "\"{n} suggestions available, use the up and down arrow keys to navigate.\""
+        },
+        {
+          "name": "Forum|topic.editor.poll.question.title",
+          "value": "\"Poll question\""
+        },
+        {
+          "name": "Common|editor.link.display.text",
+          "value": "\"Display Text\""
+        },
+        {
+          "name": "Common|editor.table.headers.first.row",
+          "value": "\"First row\""
+        },
+        {
+          "name": "Forum|editor.table_of_contents.menu_option",
+          "value": "\"Table of contents\""
+        },
+        {
+          "name": "Forum|topic.list.metadata.asked.in",
+          "value": "\"asked in\""
+        },
+        {
+          "name": "logout-event",
+          "value": "null"
+        },
+        {
+          "name": "Forum|wysiwyg.links.btn.title",
+          "value": "\"Insert link\""
+        },
+        {
+          "name": "Forum|wysiwyg.text.color",
+          "value": "\"wysiwyg.text.color\""
+        },
+        {
+          "name": "Common|wrote",
+          "value": "\"wrote\""
+        },
+        {
+          "name": "Forum|Cancel",
+          "value": "\"Cancel\""
+        },
+        {
+          "name": "Forum|accessibility_label.like",
+          "value": "\"Like\""
+        },
+        {
+          "name": "Forum|wysiwyg.features.links.link_input--URL",
+          "value": "\"wysiwyg.features.links.link_input--URL\""
+        }
+      ]
+    },
+    {
+      "origin": "https://www.accenture.com",
+      "localStorage": [
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_city",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_custom_fields_customer_type",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_custom_fields_customer_name",
+          "value": "undefined"
+        },
+        {
+          "name": "com.adobe.reactor.dataElements.[Core][OneTrustActiveGroups]",
+          "value": "\",1,2,3,4,\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_forbes_2000",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_sub_industry",
+          "value": "undefined"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"9Uw90YxXSDS8d__kxqNhKJyaZxPozXqXbw\",\"lastJoinedTimeMs\":1788850448288},\"expires\":1788850748288},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788850449016},\"expires\":1825642449016}}"
+        },
+        {
+          "name": "_lfa",
+          "value": "LF1.1.b1873756a81c96a8.1788850444178"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_company_name",
+          "value": "undefined"
+        },
+        {
+          "name": "UserAppliedJobs",
+          "value": "{\"UserActivity\":\"applyclick\",\"JobSource\":\"workday\",\"ApplyNowUrlLink\":\"https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Atlanta-75-Fifth-Corp/Industrial---Automotive-Manufacturing-Engineering-Manager_R00350768/apply\"}"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_state",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_industry",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_audience_segment",
+          "value": "\"Bot\""
+        },
+        {
+          "name": "com.adobe.reactor.dataElements.[Core][Cookies Settings Text]",
+          "value": "\"Manage Cookie Settings\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_employee_range",
+          "value": "undefined"
+        },
+        {
+          "name": "engaged_visit_session",
+          "value": "1788850448"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_isp",
+          "value": "false"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_revenue_range",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_company_id",
+          "value": "undefined"
+        },
+        {
+          "name": "firstPageLoadExist",
+          "value": "1"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbaseDataElement3",
+          "value": "\"ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor\""
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_fortune_1000",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.raw",
+          "value": "{\"access_type\":\"unidentified\",\"audience\":\"Bot\",\"audience_segment\":\"Bot\",\"information_level\":\"Basic\",\"isp\":false,\"region_name\":\"North Carolina\",\"registry_area_code\":null,\"registry_city\":\"Manteo\",\"registry_company_name\":\"Charter Communications LLC\",\"registry_country\":\"United States\",\"registry_country_code\":\"US\",\"registry_country_code3\":null,\"registry_dma_code\":544,\"registry_latitude\":35.9,\"registry_longitude\":-75.69,\"registry_state\":\"NC\",\"registry_zip_code\":\"27954\",\"visitor_id\":\"FP03c6e71a9f9593cf765c1c3180a34720d935be2752b4d7fc63848ca5634b32c9\"}"
+        },
+        {
+          "name": "_lfa_expiry",
+          "value": "2027-09-08T06:54:08.406Z"
+        },
+        {
+          "name": "li_adsId",
+          "value": "49b69ebe-b700-45bd-b4d9-f1efb8820d05"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_country_name",
+          "value": "undefined"
+        },
+        {
+          "name": "clickedIndex",
+          "value": "not applicable"
+        },
+        {
+          "name": "clientip",
+          "value": "null"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_audience",
+          "value": "\"Bot\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbaseDataElement5",
+          "value": "\"\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbaseDataElement4",
+          "value": "\"ISP Visitor:ISP Visitor:false:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_custom_fields_account_id",
+          "value": "undefined"
+        },
+        {
+          "name": "stableOtGroups",
+          "value": ",1,2,3,4,"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_primary_sic",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_custom_fields_db_ads",
+          "value": "undefined"
+        },
+        {
+          "name": "com.adobe.alloy.AAB73BC75245B44A0A490D4D_AdobeOrg.consentHashes.Adobe.1.0",
+          "value": "3165644325"
+        },
+        {
+          "name": "websitebot",
+          "value": "not bot"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1788850444322"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbaseDataElement1",
+          "value": "\"ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:Bot:Bot\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbaseDataElement2",
+          "value": "\"ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor\""
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_custom_fields_account_type",
+          "value": "undefined"
+        },
+        {
+          "name": "Demandbase.AdobeLaunch.demandbase_zip",
+          "value": "undefined"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "cWl2YnczNWhmamcx"
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAMs4f82MAu6mNLNM3t9cMitD72sW_KvSrdu6jB-O67KyxRnb1TbONpiU-abyUouuppKeEbc"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "gWdJhSvAd0I55VfkUFle4Y5BahRJKO9S3yLhcoDW9d8-1788850500-1.3.1.1-4iEm.jMXVdvlkpmlgJa_7ZVeIlhR_12KQXxV8J6wz7bbK0enSkxlzNUQZtXXDhkyi6yhQfzDAP1HBFYwrTfQ6w"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "logApplyJobAfterSignIn",
+          "value": "{\"Title\":\"COMPUTER SCIENTIST\",\"Agency\":\"Defense Counterintelligence and Security Agency\",\"SubAgency\":\"DCSA\",\"Department\":\"Department of Defense\",\"DocumentID\":\"883061500\",\"JobCategoryCode\":[{\"Name\":\"Computer Science\",\"Code\":\"1550\"}],\"JobGrade\":\"GG\",\"LowGrade\":\"15\",\"HighGrade\":\"15\",\"DateDisplay\":\"Open 09/01/2026 to 09/14/2026\",\"ClockDisplay\":\"JobClosingIn7Days\"}"
+        },
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

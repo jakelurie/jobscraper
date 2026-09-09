@@ -1,0 +1,273 @@
+{
+  "id": "successfactors__aflac__software-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "aflac",
+    "board": "aflac",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.aflac.com/jobs/search?ss=1",
+    "startUrl": "https://careers.aflac.com/jobs/search?ss=1"
+  },
+  "platform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://careers.aflac.com/jobs/search?ss=1",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "captcha",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Aflac, Incorporated Jobs",
+  "fieldCount": 6,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "q",
+      "id": "",
+      "label": "Search by Keyword",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"q\"]",
+      "visible": true,
+      "normLabel": "search by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "locationsearch",
+      "id": "",
+      "label": "Search by Location or Remote",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"locationsearch\"]",
+      "visible": true,
+      "normLabel": "search by location or remote",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "title",
+      "id": "title",
+      "label": "Title",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Title",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#title",
+      "visible": true,
+      "normLabel": "title",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location",
+      "label": "Location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Location",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#location",
+      "visible": true,
+      "normLabel": "location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "facility",
+      "id": "facility",
+      "label": "Division",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Division",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "#facility",
+      "visible": true,
+      "normLabel": "division",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "date",
+      "id": "date",
+      "label": "Date (M/d/yy)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Date (M/d/yy)",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#date",
+      "visible": true,
+      "normLabel": "date m/d/yy",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 6
+    },
+    "byAction": {
+      "type": 6
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Search results for \"\"."
+  ],
+  "buttons": [
+    "About Aflac",
+    "Career Opportunities",
+    "Subsidiaries",
+    "Show More Options",
+    "Search Jobs",
+    "Title",
+    "Location",
+    "Division",
+    "Date",
+    "Filter",
+    "Reset",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab."
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/aflac__software-engineer.png",
+    "html": "data/html/_unreached/successfactors/aflac__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 2017,
+    "lowestField": 758.78125,
+    "coversAllFields": true
+  },
+  "ms": 9372,
+  "fingerprint": {
+    "labelSig": "b60abb13ef0b",
+    "shapeSig": "24de8502cc29",
+    "controlSig": "c190ee8ba8e9",
+    "controls": {
+      "text": 6
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "1d8fed556929",
+    "typeCounts": {
+      "text": 6
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 4,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "successfactors",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

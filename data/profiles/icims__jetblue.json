@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "w1~D231B665E21F8AA802C8B9BBE8D1997F",
+      "domain": "careers.jetblue.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&715cfb0c-fbdb-4a6e-838a-3d586dd5f6dc\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820437144.959525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202609082059040d4263f4-262e-468c-8338-b010a8636d63AQGi8_SmRPm5fNku-HJg8pHW7YVt0XKz\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820437144.959555,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST04:s=V:r=V:a=V:p=V:g=3834:u=1:x=1:i=1788901144:t=1788987544:v=2:sig=AQFyc0-tQFFQn3nSydYngkchyqerC2je\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788987544.499891,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "QpZ65BtWF.HeEBSshEbLqwI_a1rxezpOlOQh40eIzzI-1788901144.4643476-1.0.1.1-7YiODZa.O5aeT1kA03HnFS7N8J16bgSRpMwjQBoQ7qt9qAiWG_JOYfci7.VHPuM9QrxpEfiyRfJU8QPB1KOevkUrKZu.X8nzWiHhepsTmrph5mJK2Qa.aeiWBSOAm8sv",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788902944.499907,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:2821295060359677589",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rmk12",
+      "value": "1",
+      "domain": "careers.jetblue.com",
+      "path": "/",
+      "expires": 1823461153.372847,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

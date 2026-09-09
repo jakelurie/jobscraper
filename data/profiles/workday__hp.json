@@ -1,0 +1,384 @@
+{
+  "cookies": [
+    {
+      "name": "cdn-user-cc",
+      "value": "US",
+      "domain": "www.autodesk.com",
+      "path": "/company/legal-notices-trademarks/privacy-statement",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad_bm",
+      "value": "Unknown Bot (headlesschro_3C7BC2A20DD521FF9E46D20C3D28FA5C):Headless Browsers/Automation Tools",
+      "domain": "www.autodesk.com",
+      "path": "/company/legal-notices-trademarks/privacy-statement",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "23f02f5c-4833-426b-90ea-ab30964f9765",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "ca3b86a5-3267-4694-b3c5-eec447ace158",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wday_vps_cookie",
+      "value": "410613770.53810.0000",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEyZJzFVW6zKk24RPwbGCT3bS2eAjjgSy4t6XSq5v",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788985201.408173,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "vGpnGfwq.VOx5ymgSITrT8EyZBdfsF8VDlURrRrOqas-1788902400.743547-1.0.1.1-FAHHFIB1a7VEBy5YJ_tC_fhu40pcFscWEm8OmGxFxRI",
+      "domain": ".autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "V0GF833Vjyw9_yj2po5E8CaYsyceNAjK5oJ62nL19PE-1788902404.7837157-1.0.1.1-D.cS_NeUAAxxa8zfH6bog7VZpHyoVM8U89yUzCHfkwKl7wOftco4jzAGIDZmpGpwMkneqmO.ciLU2FCo0DSCy.sd1QINHpFLrYlNHw_ypC57LsDd35BWHNJk9WR8idgm",
+      "domain": ".applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788904204.874492,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEhzEqcmmVbuV8B8iXV23tNdM98u7cYuJu186AcXv",
+      "domain": "applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788985204.874552,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&c2a05a69-16d4-4aee-8c1f-a4c56934a056\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820438405.26722,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908212005ad1a7bfa-df68-4942-8ed4-ac14c5bd2ba7AQGWewXAGlgRg5Yx9S9dvfojK1CtTbee\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820438405.267262,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST04:s=V:r=V:a=V:p=V:g=3834:u=1:x=1:i=1788902405:t=1788988805:v=2:sig=AQE74umjMH1ODQEGoyHSjWtbz0yiKx6X\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788988805.149803,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "6ZqfvFIAL66xEw.f1fUI0eeNVdc4LgTVtg0b2bCjtbo-1788902405.1032207-1.0.1.1-bJM9_u6v.YGo3pavUZffeoyHIZ5IBYJjc9qJI918x9wp4YQ6kQUCxmHMZOfcgt5V7GEYNfKwlGLpIHaY2vTQ87OTIXeIsCs38yASbSERrFRIj2uCA4gsMQhaiTh.SI3m",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788904205.149829,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:6180466317783659246",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "tTc5q_wEPBJqGpCH6NFGO.oNHD9WlzhinJskThxlX4M-1788902474.5231607-1.0.1.1-fRQ4rtvmNUDQm8tZ4KRcR3tV.p3k864cFrwXmSUpJfpDG.zAc9vHlz3MbkGN8dIKUqWsVuBMGfDT7QY00twJoQqpTADOem7x2vUFjLe7lfFc5gOGlY7KAUVhlw3TPbxT",
+      "domain": ".autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788904274.744528,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_LANG",
+      "value": "en-US",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "VwxBDBikPJiOezoN3SsuN5OHxXjn.c2cYloRa5e8j5E-1788902475.8812604-1.0.1.1-91MDUobxVYo5Q8uQ1BF_.09REkBwt6njB14aUZnwg9Lp5mGaTMTe3ULX2ttSXBi_IF3rPn1FlVBWmhr.bLBvXWO.GLSefk9Q.AgjJ3s_OnaCTxYoNZVhHhsyg6kYF7uJ",
+      "domain": ".www.myworkday.com",
+      "path": "/",
+      "expires": 1788904275.910404,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28vBEge8AEKDYKqHXBfswPtaGDsPTbDVPBoF7UByN",
+      "domain": "www.myworkday.com",
+      "path": "/",
+      "expires": 1788985275.910483,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "K5o2u1kTD2WcVp_9acalRQSWI1HOJS_cWnCm1OjGhOE-1788902477.452723-1.0.1.1-GgnYwFVZ32UBPn1BZWPG4QhXX49KIxFL75CoCXRDa3kyRPMUi5LgAzzY8tbBDDoqL9qYtKiU_GPV64rHTUfMxj0SsRDfnHgeUGLwTmoBSTQCdMs_En2924COFuty3OCd",
+      "domain": ".myworkdaycdn.com",
+      "path": "/",
+      "expires": 1788904277.454788,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_SESSION",
+      "value": "48f2143fb1df472bdc7c8b8f79a50ac211a6b443-autodesk_pSessionId=3pnu5con6pl1mq2o12054cgjor&instance=vps-prod-346qi2b8.prod-vps.pr503.cust.ash.wd&requestedpath=%2Fen-US%2FExt%2Flogin",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "803ce88d-ec71-4c28-abc8-55e24b278d70.YXV0b2Rlc2s=.V0RDQzEuMIQAJQAAIEOMyevCJ29WeNo3//BuAQ1EwU4+R6IR7JuRWJdsFZydAACMABYBMQAQrNJ6Qh1Gjdj02Rq0N962IgAAADgwM2NlODhkLWVjNzEtNGMyOC1hYmM4LTU1ZTI0YjI3OGQ3MA==",
+      "domain": "autodesk.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "2c290ffc-07d2-4ab9-9f2b-e0496b162b23",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "d4fea4eb-f61b-4cdc-bee8-439beb44f475",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wday_vps_cookie",
+      "value": "216833034.53810.0000",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuHJZe28xXz6hQKLf1exjNbMDM5uxfeJxxRmatrVf2",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788985318.119776,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "c.JyyBwmTtXVQ6WU0o9roRZgIluqt2vlg_qKbxfGFRw-1788902517.779655-1.0.1.1-RPmYmmPdSBZbiffq01WW3GicO_5C.pBtlUljXvwUKy0",
+      "domain": ".hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enablePrivacyTracking",
+      "value": "true",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "mOfpGe6CEgV6emf7lo3Ua1WZFlyyvBGTkq76mwfkAcs-1788902590.636482-1.0.1.1-loFJVmHSXrzUV80nX4rdxF9mEaERUZsvmfjKS8Ws1SfA7d8JIev6Fbd6SDlgZiDIL9cJlwCo1wQGzAiPh7t4wEHrSxW5QdN0tqUGv1lKi8kuO.EX7mLCB0yI688yUsjz",
+      "domain": ".hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788904391.105733,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_LANG",
+      "value": "en-US",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "EtFfUoYsiNr0oS4MgNgRSlVsD2.Z65.dhDujDt.Z9Uo-1788902592.581923-1.0.1.1-JMjBwXrj3b468qn.vinW01LyIZTa3_B4ryuoFf3ySsIr7g7f1XI8TYPgbnB_QG4VYrysb4.4IC.zxcXtI67b8Df1mYboHFdSNFuyhH5OZsr46DxEbvbhVD1ysR.h1EFY",
+      "domain": ".wd5.myworkday.com",
+      "path": "/",
+      "expires": 1788904392.612424,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuFae6mExAbhzEGLDZiDp2Ceup7jDgx9jvphaAF2EG",
+      "domain": "wd5.myworkday.com",
+      "path": "/",
+      "expires": 1788985392.612499,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_SESSION",
+      "value": "96d3492a1c6520987a0e9d5d191497dd15ecb35e-hp_pSessionId=lg8kimmu0vm5dgu0r6fanh5cik&instance=vps-prod-c2wykfpl.prod-vps.pr503.cust.pdx.wd&requestedpath=%2Fen-US%2FExternalCareerSite%2Flogin",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "3042e8eb-2bb3-4f2b-b60b-7a0b9c8704f6.aHA=.V0RDQzEuMIQAJQAAIGm24wJ2XObOKDx++ndYWZGRojv40+zHsOEB/7225a+DAACMABYBMQAQDeKQqen3T/wikZF30wJoJgAAADMwNDJlOGViLTJiYjMtNGYyYi1iNjBiLTdhMGI5Yzg3MDRmNg==",
+      "domain": "hp.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://hp.wd5.myworkdayjobs.com",
+      "localStorage": [
+        {
+          "name": "localStorageLocale",
+          "value": "en-US"
+        }
+      ]
+    },
+    {
+      "origin": "https://autodesk.wd1.myworkdayjobs.com",
+      "localStorage": [
+        {
+          "name": "localStorageLocale",
+          "value": "en-US"
+        }
+      ]
+    }
+  ]
+}

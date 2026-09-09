@@ -1,0 +1,882 @@
+{
+  "id": "lever__arcadia__principal-software-engineer-platforms",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "arcadia",
+    "board": "arcadia",
+    "title": "Principal Software Engineer-Platforms",
+    "location": "Remote (USA)",
+    "jobUrl": "https://jobs.lever.co/arcadia/631c2c22-0759-4f84-a9a1-11305917c510",
+    "startUrl": "https://jobs.lever.co/arcadia/631c2c22-0759-4f84-a9a1-11305917c510/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/arcadia/631c2c22-0759-4f84-a9a1-11305917c510/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Arcadia - Principal Software Engineer-Platforms",
+  "fieldCount": 22,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "pronouns",
+      "label": "Custom",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "He/him",
+      "required": false,
+      "options": [
+        "He/him",
+        "She/her",
+        "They/them",
+        "Xe/xem",
+        "Ze/hir",
+        "Ey/em",
+        "Hir/hir",
+        "Fae/faer",
+        "Hu/hu",
+        "Use name only"
+      ],
+      "optionValues": [
+        {
+          "label": "He/him",
+          "value": "He/him"
+        },
+        {
+          "label": "She/her",
+          "value": "She/her"
+        },
+        {
+          "label": "They/them",
+          "value": "They/them"
+        },
+        {
+          "label": "Xe/xem",
+          "value": "Xe/xem"
+        },
+        {
+          "label": "Ze/hir",
+          "value": "Ze/hir"
+        },
+        {
+          "label": "Ey/em",
+          "value": "Ey/em"
+        },
+        {
+          "label": "Hir/hir",
+          "value": "Hir/hir"
+        },
+        {
+          "label": "Fae/faer",
+          "value": "Fae/faer"
+        },
+        {
+          "label": "Hu/hu",
+          "value": "Hu/hu"
+        },
+        {
+          "label": "Use name only",
+          "value": "Use name only"
+        }
+      ],
+      "optionCount": 11,
+      "selector": "input[name=\"pronouns\"]",
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "customPronounsOption",
+      "label": "Custom",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#customPronounsOption",
+      "visible": true,
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Twitter]",
+      "id": "",
+      "label": "Twitter URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Twitter]\"]",
+      "visible": true,
+      "normLabel": "twitter url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[181a5d4d-42d5-400b-ba18-d9b352970056][field0]",
+      "id": "",
+      "label": "Your preferred name:",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[181a5d4d-42d5-400b-ba18-d9b352970056][field0]\"]",
+      "visible": true,
+      "normLabel": "your preferred name",
+      "canonical": "preferred_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[181a5d4d-42d5-400b-ba18-d9b352970056][field1]",
+      "id": "",
+      "label": "Pronouns:",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[181a5d4d-42d5-400b-ba18-d9b352970056][field1]\"]",
+      "visible": true,
+      "normLabel": "pronouns",
+      "canonical": "pronouns"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[88fa200c-5353-4c40-8f8d-bffe9306689f][field0]",
+      "id": "",
+      "label": "Where in the United States are you located? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[88fa200c-5353-4c40-8f8d-bffe9306689f][field0]\"]",
+      "visible": true,
+      "normLabel": "where in the united states are you located",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f3c62b1b-51ce-41c2-8728-1b61a4cb3626][field0]",
+      "id": "",
+      "label": "How did you hear about us?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[f3c62b1b-51ce-41c2-8728-1b61a4cb3626][field0]\"]",
+      "visible": true,
+      "normLabel": "how did you hear about us",
+      "canonical": "referral"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[78d31755-4fe1-41bd-8213-9c4582e627db][field0]",
+      "id": "",
+      "label": "In order for you to obtain or to maintain employment eligibility, will you now or in the future require the company's sponsorship for an immigration-related employment benefit (e.g. H-1B, TN, EAD, oth",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[78d31755-4fe1-41bd-8213-9c4582e627db][field0]\"]",
+      "visible": true,
+      "normLabel": "in order for you to obtain or to maintain employment eligibi",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[gender]",
+      "id": "",
+      "label": "Gender Select ... Male Female Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[gender]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Male",
+        "Female",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "gender select male female decline to self identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[race]",
+      "label": "Race",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+      "required": false,
+      "options": [
+        "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+        "White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+        "Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.",
+        "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+        "Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan",
+        "American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affilia",
+        "Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+          "value": "Hispanic or Latino"
+        },
+        {
+          "label": "White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+          "value": "White (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.",
+          "value": "Black or African American (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+          "value": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan",
+          "value": "Asian (Not Hispanic or Latino)"
+        },
+        {
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affilia",
+          "value": "American Indian or Alaska Native (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.",
+          "value": "Two or More Races (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 8,
+      "selector": "input[name=\"eeo[race]\"]",
+      "normLabel": "race",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I identify as one or more of the classifications of protected veteran listed above I am not a protected veteran I decline to self-identify for protected veteran status",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I identify as one or more of the classifications of protected veteran listed above",
+        "I am not a protected veteran",
+        "I decline to self-identify for protected veteran status"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I identify as one or more of the classifications of protected veteran listed above",
+          "value": "I am a Protected Veteran"
+        },
+        {
+          "label": "I am not a protected veteran",
+          "value": "I am not a Protected Veteran"
+        },
+        {
+          "label": "I decline to self-identify for protected veteran status",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i identify as one or more of the class",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[disability]",
+      "id": "disabilitySelectElement",
+      "label": "Disability status Select ... Yes, I have a disability, or have had one in the past No, I do not have a disability and have not had one in the past I do not want to answer",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#disabilitySelectElement",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Yes, I have a disability, or have had one in the past",
+        "No, I do not have a disability and have not had one in the past",
+        "I do not want to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Yes, I have a disability, or have had one in the past",
+          "value": "Yes, I have a disability, or have had one in the past"
+        },
+        {
+          "label": "No, I do not have a disability and have not had one in the past",
+          "value": "No, I do not have a disability and have not had one in the past"
+        },
+        {
+          "label": "I do not want to answer",
+          "value": "I do not want to answer "
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "disability status select yes i have a disability or have had",
+      "canonical": "disability_status"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 13,
+      "checkbox-group": 1,
+      "checkbox": 1,
+      "text-email": 1,
+      "textarea": 1,
+      "native-select": 3,
+      "radio-group": 1
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 15,
+      "check-many": 1,
+      "check": 1,
+      "select-option": 3,
+      "choose-one": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Privacy Notice",
+    "Principal Software Engineer-Platforms",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "NICE TO MEET YOU!",
+    "LOCATION",
+    "HOW DID YOU HEAR ABOUT US?",
+    "EMPLOYMENT STATUS",
+    "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION (Completion is voluntary and will not subject you to adverse treatment)",
+    "SELF-IDENTIFICATION OF VETERAN STATUS (Completion is voluntary and will not subject you to adverse treatment)",
+    "VOLUNTARY SELF-IDENTIFICATION OF DISABILITY"
+  ],
+  "buttons": [
+    "dismiss",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Principal Software Engineer-PlatformsRemote (USA)R&D – Engineering /Full-time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds",
+    "Principal Software Engineer-PlatformsRemote (USA)R&D – Engineering /Full-time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱PronounsHe/him",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱PronounsHe/him",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/arcadia__principal-software-engineer-platforms.png",
+    "html": "data/html/lever/arcadia__principal-software-engineer-platforms.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 3,
+    "docHeight": 7433,
+    "lowestField": 6297.25,
+    "coversAllFields": true
+  },
+  "ms": 3376,
+  "fingerprint": {
+    "labelSig": "04be912d883e",
+    "shapeSig": "37cc40917e10",
+    "controlSig": "906e85140445",
+    "controls": {
+      "file-upload": 1,
+      "text": 13,
+      "checkbox-group": 1,
+      "checkbox": 1,
+      "text-email": 1,
+      "textarea": 1,
+      "native-select": 3,
+      "radio-group": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b3aac77251e6",
+    "typeCounts": {
+      "file": 1,
+      "text": 13,
+      "checkbox": 2,
+      "email": 1,
+      "textarea": 1,
+      "select": 3,
+      "radio": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "disability_status",
+      "email",
+      "employer",
+      "full_name",
+      "gender",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "preferred_name",
+      "pronouns",
+      "race_ethnicity",
+      "referral",
+      "resume",
+      "veteran_status"
+    ],
+    "requiredCount": 5,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "overCap": true
+}

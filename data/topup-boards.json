@@ -1,0 +1,467 @@
+[
+  {
+    "platform": "successfactors",
+    "slug": "l3harris",
+    "url": "https://jobs.l3harris.com/search/?q=engineer"
+  },
+  {
+    "platform": "icims",
+    "slug": "huntingtoningalls",
+    "url": "https://careers.huntingtoningalls.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "huntingtoningalls",
+    "url": "https://careers.huntingtoningalls.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "conocophillips",
+    "url": "https://careers.conocophillips.com/job-search-results/"
+  },
+  {
+    "platform": "jobvite",
+    "slug": "knight",
+    "url": "https://jobs.jobvite.com/knight/search"
+  },
+  {
+    "platform": "icims",
+    "slug": "jetblue",
+    "url": "https://careers.jetblue.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "paramount",
+    "url": "https://careers.paramount.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "ey",
+    "url": "https://careers.ey.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "paccar",
+    "url": "https://jobs.paccar.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "deere",
+    "url": "https://jobs.deere.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "eastman",
+    "url": "https://jobs.eastman.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "exxonmobil",
+    "url": "https://jobs.exxonmobil.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "halliburton",
+    "url": "https://jobs.halliburton.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "newyorklife",
+    "url": "https://jobs.newyorklife.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "xpo",
+    "url": "https://jobs.xpo.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "sap",
+    "url": "https://jobs.sap.com/search/?q=engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "paramount",
+    "url": "https://careers.paramount.com/search/?q=engineer"
+  },
+  {
+    "platform": "icims",
+    "slug": "capgemini",
+    "url": "https://careers.capgemini.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "aflac",
+    "url": "https://careers.aflac.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "avature",
+    "slug": "lululemon",
+    "url": "https://careers.lululemon.com/en_US/careers/SearchJobs"
+  },
+  {
+    "platform": "icims",
+    "slug": "phillips66",
+    "url": "https://careers.phillips66.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "avature",
+    "slug": "mantech",
+    "url": "https://careers.mantech.com/en_US/careers/SearchJobs"
+  },
+  {
+    "platform": "icims",
+    "slug": "tmobile",
+    "url": "https://careers.t-mobile.com/"
+  },
+  {
+    "platform": "icims",
+    "slug": "underarmour",
+    "url": "https://careers.underarmour.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "pwc",
+    "url": "https://careers.pwc.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "l3harris",
+    "url": "https://careers.l3harris.com/en"
+  },
+  {
+    "platform": "icims",
+    "slug": "unilever",
+    "url": "https://careers.unilever.com/en"
+  },
+  {
+    "platform": "avature",
+    "slug": "ford",
+    "url": "https://www.careers.ford.com/"
+  },
+  {
+    "platform": "avature",
+    "slug": "massmutual",
+    "url": "https://careers.massmutual.com/"
+  },
+  {
+    "platform": "icims",
+    "slug": "charter",
+    "url": "https://careers-charter.icims.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "rivian",
+    "url": "https://us-careers-rivian.icims.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "costco",
+    "url": "https://careers-costco.icims.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "pepsico",
+    "url": "https://uscareers-pepsico.icims.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "amd",
+    "url": "https://careers-amd.icims.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "icims",
+    "slug": "arm",
+    "url": "https://experienced-arm.icims.com/jobs/search?ss=1"
+  },
+  {
+    "platform": "jobvite",
+    "slug": "nutanix",
+    "url": "https://jobs.jobvite.com/nutanix/search"
+  },
+  {
+    "platform": "jobvite",
+    "slug": "peloton",
+    "url": "https://jobs.jobvite.com/peloton/search"
+  },
+  {
+    "platform": "avature",
+    "slug": "synopsys",
+    "url": "https://synopsys.avature.net/careers/SearchJobs"
+  },
+  {
+    "platform": "teamtailor",
+    "slug": "toyota",
+    "url": "https://jobb.sverige.toyota/jobs"
+  },
+  {
+    "platform": "teamtailor",
+    "slug": "humana",
+    "url": "https://ura.humana.fi/jobs"
+  },
+  {
+    "platform": "jazzhr",
+    "slug": "cisco",
+    "url": "https://cisco.applytojob.com/apply"
+  },
+  {
+    "platform": "jazzhr",
+    "slug": "oracle",
+    "url": "https://oracle.applytojob.com/apply"
+  },
+  {
+    "platform": "jazzhr",
+    "slug": "accenture",
+    "url": "https://accenture.applytojob.com/apply"
+  },
+  {
+    "platform": "jazzhr",
+    "slug": "ey",
+    "url": "https://ey.applytojob.com/apply"
+  },
+  {
+    "platform": "jazzhr",
+    "slug": "citi",
+    "url": "https://citi.applytojob.com/apply"
+  },
+  {
+    "platform": "jazzhr",
+    "slug": "goldmansachs",
+    "url": "https://goldmansachs.applytojob.com/apply"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "accenture",
+    "url": "https://accenture.pinpointhq.com/"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "kpmg",
+    "url": "https://kpmg.pinpointhq.com/"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "samsung",
+    "url": "https://samsung.pinpointhq.com/"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "bosch",
+    "url": "https://bosch.pinpointhq.com/"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "toyota",
+    "url": "https://toyota.pinpointhq.com/"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "arm",
+    "url": "https://arm.pinpointhq.com/"
+  },
+  {
+    "platform": "clearcompany",
+    "slug": "sony",
+    "url": "https://sony.clearcompany.com/careers/jobs"
+  },
+  {
+    "platform": "clearcompany",
+    "slug": "starbucks",
+    "url": "https://starbucks.clearcompany.com/careers/jobs"
+  },
+  {
+    "platform": "clearcompany",
+    "slug": "citrix",
+    "url": "https://citrix.clearcompany.com/careers/jobs"
+  },
+  {
+    "platform": "clearcompany",
+    "slug": "zillow",
+    "url": "https://zillow.clearcompany.com/careers/jobs"
+  },
+  {
+    "platform": "clearcompany",
+    "slug": "travelers",
+    "url": "https://travelers.clearcompany.com/careers/jobs"
+  },
+  {
+    "platform": "clearcompany",
+    "slug": "metlife",
+    "url": "https://metlife.clearcompany.com/careers/jobs"
+  },
+  {
+    "platform": "dayforce",
+    "slug": "pwc",
+    "url": "https://jobs.dayforcehcm.com/pwc/CANDIDATEPORTAL"
+  },
+  {
+    "platform": "dayforce",
+    "slug": "blackrock",
+    "url": "https://jobs.dayforcehcm.com/blackrock/CANDIDATEPORTAL"
+  },
+  {
+    "platform": "dayforce",
+    "slug": "pfizer",
+    "url": "https://jobs.dayforcehcm.com/pfizer/CANDIDATEPORTAL"
+  },
+  {
+    "platform": "dayforce",
+    "slug": "adidas",
+    "url": "https://jobs.dayforcehcm.com/adidas/CANDIDATEPORTAL"
+  },
+  {
+    "platform": "dayforce",
+    "slug": "lululemon",
+    "url": "https://jobs.dayforcehcm.com/lululemon/CANDIDATEPORTAL"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "sap",
+    "url": "https://jobs.sap.com/search/?q=software%20engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "deere",
+    "url": "https://jobs.deere.com/search/?q=software%20engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "mcdonalds",
+    "url": "https://jobs.mcdonalds.com/search/?q=software%20engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "colgate",
+    "url": "https://jobs.colgate.com/search/?q=software%20engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "exxonmobil",
+    "url": "https://jobs.exxonmobil.com/search/?q=software%20engineer"
+  },
+  {
+    "platform": "successfactors",
+    "slug": "halliburton",
+    "url": "https://jobs.halliburton.com/search/?q=software%20engineer"
+  },
+  {
+    "platform": "taleo",
+    "slug": "att",
+    "url": "https://att.taleo.net/careersection/2/jobsearch.ftl"
+  },
+  {
+    "platform": "taleo",
+    "slug": "baesystems",
+    "url": "https://baesystems.taleo.net/careersection/2/jobsearch.ftl"
+  },
+  {
+    "platform": "taleo",
+    "slug": "starbucks",
+    "url": "https://starbucks.taleo.net/careersection/2/jobsearch.ftl"
+  },
+  {
+    "platform": "taleo",
+    "slug": "hilton",
+    "url": "https://hilton.taleo.net/careersection/2/jobsearch.ftl"
+  },
+  {
+    "platform": "smartrecruiters",
+    "slug": "cisco",
+    "url": "https://careers.smartrecruiters.com/cisco"
+  },
+  {
+    "platform": "smartrecruiters",
+    "slug": "oracle",
+    "url": "https://careers.smartrecruiters.com/oracle"
+  },
+  {
+    "platform": "smartrecruiters",
+    "slug": "sap",
+    "url": "https://careers.smartrecruiters.com/sap"
+  },
+  {
+    "platform": "smartrecruiters",
+    "slug": "accenture",
+    "url": "https://careers.smartrecruiters.com/accenture"
+  },
+  {
+    "platform": "smartrecruiters",
+    "slug": "deloitte",
+    "url": "https://careers.smartrecruiters.com/deloitte"
+  },
+  {
+    "platform": "smartrecruiters",
+    "slug": "pwc",
+    "url": "https://careers.smartrecruiters.com/pwc"
+  },
+  {
+    "platform": "eightfold",
+    "slug": "netflix",
+    "url": "https://explore.jobs.netflix.net/careers?query=engineer"
+  },
+  {
+    "platform": "eightfold",
+    "slug": "chevron",
+    "url": "https://careers.chevron.com/search-jobs?keyword=engineer"
+  },
+  {
+    "platform": "eightfold",
+    "slug": "telusinternational",
+    "url": "https://jobs.telusinternational.com/careers?query=engineer"
+  },
+  {
+    "platform": "eightfold",
+    "slug": "hitachi",
+    "url": "https://careers.hitachi.com/careers?query=engineer"
+  },
+  {
+    "platform": "rippling",
+    "slug": "rippling",
+    "url": "https://ats.rippling.com/rippling/jobs"
+  },
+  {
+    "platform": "rippling",
+    "slug": "anrok",
+    "url": "https://ats.rippling.com/anrok/jobs"
+  },
+  {
+    "platform": "rippling",
+    "slug": "vanta",
+    "url": "https://ats.rippling.com/vanta/jobs"
+  },
+  {
+    "platform": "oracle-hcm",
+    "slug": "uber",
+    "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/requisitions"
+  },
+  {
+    "platform": "oracle-hcm",
+    "slug": "oracle",
+    "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/jobs?keyword=engineer"
+  },
+  {
+    "platform": "deshaw",
+    "slug": "deshaw",
+    "url": "https://www.deshaw.com/careers/choose-your-path"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "bosch",
+    "url": "https://bosch.pinpointhq.com/opportunities"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "kpmg",
+    "url": "https://kpmg.pinpointhq.com/opportunities"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "samsung",
+    "url": "https://samsung.pinpointhq.com/opportunities"
+  },
+  {
+    "platform": "pinpoint",
+    "slug": "arm",
+    "url": "https://arm.pinpointhq.com/opportunities"
+  }
+]

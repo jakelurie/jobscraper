@@ -1,0 +1,459 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Correlation.2p0htMwIkTXKx0RwZHeGy8lj9OspGehmUHPG2q-5cQ0",
+      "value": "N",
+      "domain": ".www.usajobs.gov",
+      "path": "/signin-wsfed",
+      "expires": 1788893375.63282,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DefaultAsserted",
+      "value": "Asserted",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SearchVisitorId",
+      "value": "318d4f2b-4b29-e53b-3659-8c7c1715b2d0",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1820428257,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SearchSessionId",
+      "value": "{%22SearchSessionId%22:%22767060b2-32cb-a5f4-6d25-7593637c2530%22%2C%22ImpressionParentId%22:%22%22%2C%22ViewParentId%22:%22%22%2C%22GoogleSearchRequestId%22:%22%22%2C%22GoogleJobId%22:%22%22%2C%22Created%22:%221788892257099%22}",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1895469486.1788892257",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1823452267.480375,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1322277803.1788892257",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1788978667,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1433383493.1788892258",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1796668258,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLID",
+      "value": "47fffd8973c94a1aac86f5517cd7df60.20260908.20270908",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1820428259.550987,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "14vcn3g%5E2%5Eg9a%5E0%5E2442",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1820428259,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "36EE4F9A3FB263753E9458543E3E62BE",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822588260.60293,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1789497060.603019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "36EE4F9A3FB263753E9458543E3E62BE",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1822588260.603056,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "36EE4F9A3FB263753E9458543E3E62BE",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1822588260.667464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1789497060.66753,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1788892860.667569,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmpb2ZQMv4pIq6P3UNGk4z6oh1SiDgbtOWoGTi3JZUfqL7OvReo2fVmRNxgiWQ",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823452261.435713,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1820428270,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.e168",
+      "value": "*",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1788894072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+14%3A31%3A07+GMT-0400+(Eastern+Daylight+Time)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3f78abcf-90ac-4975-8025-4a0994618bec&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=BG114%3A1%2C2%3A1%2C4%3A1%2C6%3A1%2CBG115%3A1%2C1%3A1%2C3%3A1&AwaitingReconsent=false",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1820428267,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "herehv%5E1788892267735%5E4%5E1%5Ea.clarity.ms%2Fcollect",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1788978667,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PersonalizationCookie",
+      "value": "[{%22Locations%22:[{%22Path%22:%226252001-4482348-4462997-4474186-4049950%22%2C%22FacetType%22:4%2C%22GeolocationLatitude%22:35.5668%2C%22GeolocationLongitude%22:-75.4685%2C%22LocationName%22:%22Waves%252C%2520NC%22}]%2C%22Categories%22:[]%2C%22PersonalizationType%22:0%2C%22DateCreated%22:%222026-09-08T18:30:57.423Z%22%2C%22CustomFacets%22:[]%2C%22TenantId%22:48560%2C%22OnetCode%22:null%2C%22Served%22:true}%2C{%22Locations%22:[{%22Path%22:%226252001-5001836-5014227-4990510%22%2C%22FacetType%22:4}]%2C%22Categories%22:[%229255696%22]%2C%22PersonalizationType%22:1%2C%22DateCreated%22:%222026-09-08T18:31:05.772Z%22%2C%22CustomFacets%22:[{%22CustomFacetValue%22:%22Ford%20Motor%20Company%22%2C%22CustomFacetTerm%22:%22company_name%22}]%2C%22TenantId%22:48560}%2C{%22Locations%22:[{%22Path%22:%221269750-1255053-7646145-1264527%22%2C%22FacetType%22:4}]%2C%22Categories%22:[%229255728%22]%2C%22PersonalizationType%22:1%2C%22DateCreated%22:%222026-09-08T18:31:07.770Z%22%2C%22CustomFacets%22:[{%22CustomFacetValue%22:%22Ford%20Motor%20Private%20Limited%22%2C%22CustomFacetTerm%22:%22company_name%22}]%2C%22TenantId%22:48560}]",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1791484267,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "viewedJobs",
+      "value": "cTEKIRlmaM5osqn85NlaqVDcVThDEpFyPDZDSN%252b2EjqVQXiLrrAKdrRo8qm2V7e1FB4Q5yyVrVFUDlDbwrEtOpcMmM2FHEfIZ1TaI4ckWaK3d5KOwHtfqq5MLg3DCzBEkkW%252fRuZjOEdOCr%252fbCWndnBhlNG3i4P4%252f2vX2AWfc8%252f%252bPseeaij9%252bKVGrBnP849Jwa92DEz3gYLF8aLP5N%252fSo7%252bqafSbeytnGSPT8pV%252beEP%252fLHmsGofRZo3ZxB%252f4a%252f%252b8dBqUSjfzNmln8Qlc%252f8XD9Sxi%252f2AusOxxkLmJa2QiSzX3dB91C6YKA5n38D%252bQmfK12",
+      "domain": "www.careers.ford.com",
+      "path": "/",
+      "expires": 1791484267.874525,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "7beeddfa8c8c778f82e137368c874f3a",
+      "value": "285dc39d40ca503294a2d9ebda8a89a4",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": 1820428272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.e168",
+      "value": "7153ec90-32e1-421e-86d2-caa83e3edc41.1788892263.1.1788892273..4d4fddfa-9971-486a-9c69-c05b9f86c68a..f042fdf9-599c-4428-aa5a-735d311c4051.1788892263327.9",
+      "domain": ".ford.com",
+      "path": "/",
+      "expires": 1823452272.758017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CX_1_cookieConsentEnabled",
+      "value": "true",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_1",
+      "domain": "apply.ford.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w4~EE246AAD08DF6A241D62238C17A32B4D",
+      "domain": "jobs.l3harris.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "route",
+      "value": "9faedc20c7e35ffea1d3ccfc9c2c483b|8b9d6a7da49c46b0f8b875e5553002b7",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "1A94CC85549DAABDC0D0089515423DC7.bizx-car-6989998c59-pzppj",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "L3HHCM20",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8875735Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8875819Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8875873Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8876097Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8876165Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A23.8876224Z%22%7D%5D",
+      "domain": "www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1763424393.1788892464",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452464.833849,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_usajobs",
+      "value": "1788892775~id=4ed114bef082c4eea29bf4860091667c",
+      "domain": ".www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "akavpau_LOGIN_USAJ",
+      "value": "1788892776~id=d91a64eadc0e8267cfe0a5decb353e3c",
+      "domain": ".login.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_CLZB1LJ1VZ",
+      "value": "GS2.1.s1788892464$o1$g1$t1788892476$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452476.052979,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_CSLL4ZEK4L",
+      "value": "GS2.1.s1788892464$o1$g1$t1788892476$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452476.056299,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.careers.ford.com",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"RHLN-QxbOO-AWFe0Xo9XahEV5SAqnElRYw\",\"lastJoinedTimeMs\":1788892258154},\"expires\":1788892558154},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892258155},\"expires\":1796668258155}}"
+        },
+        {
+          "name": "survale_first_visit",
+          "value": "1788892259698"
+        },
+        {
+          "name": "snowplowOutQueue_ford-12792063-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.careers.ford.com/job/livonia/engineering-designer/48560/100352478272\",\"page\":\"Engineering Designer at Ford Motor Company\",\"eid\":\"f042fdf9-599c-4428-aa5a-735d311c4051\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892263327\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJhNTU0ZjRjYy1kMmZjLTQyZGYtOTA0Zi1iZDNhM2NlZGI3ZGYifX1dfQ\",\"vp\":\"1512x982\",\"ds\":\"1512x5567\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"70391\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"8f47cc62-7a37-4c03-80ef-be65b21a32f4\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892263360\",\"vp\":\"1512x982\",\"ds\":\"1512x5567\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/livonia/engineering-designer/48560/100352478272\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJhNTU0ZjRjYy1kMmZjLTQyZGYtOTA0Zi1iZDNhM2NlZGI3ZGYifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.careers.ford.com/job/dearborn/engineering-supervisor-powertrain/48560/100352477888\",\"page\":\"Engineering Supervisor-Powertrain at Ford Motor Company\",\"eid\":\"f0320ce8-23b2-418e-8241-c0e65ca30427\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892265482\",\"vp\":\"1512x982\",\"ds\":\"1512x11585\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJjZmM4YTVkYS03MmJlLTQwNjItYTcyYy1jODQ2ODZmYTM3ZDIifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"70216\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"1693678d-3942-4553-94bf-ac1b3d2b2f3d\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892265482\",\"vp\":\"1512x982\",\"ds\":\"1512x11585\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/dearborn/engineering-supervisor-powertrain/48560/100352477888\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJjZmM4YTVkYS03MmJlLTQwNjItYTcyYy1jODQ2ODZmYTM3ZDIifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728\",\"page\":\"AI Engineer at Ford Motor Company\",\"eid\":\"9439d302-a9d5-4d98-a144-da3add4e0677\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892267489\",\"vp\":\"1512x982\",\"ds\":\"1512x5086\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzBiNzRiZi1iNDg0LTQ0MzYtYjJlYy1mYjA1ZmZlZGE4YWQifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"70162\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"436b403d-52e2-4efe-8767-093240d539be\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892267499\",\"vp\":\"1512x982\",\"ds\":\"1512x5086\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzBiNzRiZi1iNDg0LTQ0MzYtYjJlYy1mYjA1ZmZlZGE4YWQifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"apply-click\",\"se_la\":\"70162\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"a8e23175-ce7a-4a6e-8d66-ac757a86223e\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892270228\",\"vp\":\"1512x982\",\"ds\":\"1512x5087\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"url\":\"https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzBiNzRiZi1iNDg0LTQ0MzYtYjJlYy1mYjA1ZmZlZGE4YWQifX1dfQ\"},\"svrAnon\":false}]"
+        },
+        {
+          "name": "survale_parsed_job_info",
+          "value": "{\"2809\":\"AI Engineer\",\"2810\":\"Chennai~Tamil Nadu~India\",\"3947\":\"48560,Ford Motor Private Limited\",\"3948\":\"Ford Credit Services\",\"3949\":\"JobDetails\",\"3950\":\"Basic JD\",\"3965\":\"100352477728\",\"3966\":\"70162\",\"3975\":\"48560\",\"13795\":\"5219\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MWoxbmVwa2JlaDVqYg=="
+        }
+      ]
+    },
+    {
+      "origin": "https://apply.ford.com",
+      "localStorage": [
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"1EQv7EuunAJqS0X7XT_V1GJgPLp8qGi8qw\",\"lastJoinedTimeMs\":1788892272883},\"expires\":1788892572883},\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892310310},\"expires\":1796668310310}}"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        },
+        {
+          "name": "snowplowOutQueue_ford-12792063-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://apply.ford.com/en/sites/CX_1/job/70162/apply/email\",\"page\":\"Ford Global Career Site\",\"refr\":\"https://www.careers.ford.com/\",\"eid\":\"a296cbc9-80b8-4240-b82e-b5cb3d2529e6\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892272747\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzI2NmZhYS0zYzFmLTRlOTItOTlkNS1mNGNkZGM5YjViOTgifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"staff\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"a0d782de-5d85-41c2-b529-997112d933ec\",\"tv\":\"js-4.3.1\",\"tna\":\"ford-12792063-tracker\",\"aid\":\"ford-12792063\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892272748\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"4d4fddfa-9971-486a-9c69-c05b9f86c68a\",\"duid\":\"7153ec90-32e1-421e-86d2-caa83e3edc41\",\"refr\":\"https://www.careers.ford.com/\",\"url\":\"https://apply.ford.com/en/sites/CX_1/job/70162/apply/email\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI4MzI2NmZhYS0zYzFmLTRlOTItOTlkNS1mNGNkZGM5YjViOTgifX1dfQ\"},\"svrAnon\":false}]"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "z.l02wsDV9aVyBaw3m1w6bar0K4hQLbMxJSkb5kH6Mo-1788892414-1.3.1.1-ZiJCE.V9DSvwN6lZJULhySBj1BUN.rkLCgEbtwSD_JV45BG2bLbVlrsvSQnwKwgDmTIKjSIL9r9GMhQ8T_8tjg"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "logApplyJobAfterSignIn",
+          "value": "{\"Title\":\"COMPUTER SCIENTIST\",\"Agency\":\"Defense Counterintelligence and Security Agency\",\"SubAgency\":\"DCSA\",\"Department\":\"Department of Defense\",\"DocumentID\":\"883061500\",\"JobCategoryCode\":[{\"Name\":\"Computer Science\",\"Code\":\"1550\"}],\"JobGrade\":\"GG\",\"LowGrade\":\"15\",\"HighGrade\":\"15\",\"DateDisplay\":\"Open 09/01/2026 to 09/14/2026\",\"ClockDisplay\":\"JobClosingIn7Days\"}"
+        },
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

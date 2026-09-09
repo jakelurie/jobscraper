@@ -1,0 +1,1328 @@
+{
+  "id": "phenom__cisco__senior-software-engineer-application-rel",
+  "group": "phenom",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "cisco",
+    "atsLabel": "Cisco (in-house)",
+    "company": "cisco",
+    "board": "cisco",
+    "title": "Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid",
+    "location": "",
+    "jobUrl": "https://careers.cisco.com/global/en/job/2013260/Senior-Software-Engineer-Application-Reliability-Kubernetes-GCP-SQL-Hybrid",
+    "startUrl": "https://careers.cisco.com/global/en/job/2013260/Senior-Software-Engineer-Application-Reliability-Kubernetes-GCP-SQL-Hybrid"
+  },
+  "platform": "phenom",
+  "platformLabel": "Phenom People",
+  "finalUrl": "https://careers.cisco.com/global/en/apply?jobSeqNo=CISCISGLOBAL2013260EXTERNALENGLOBAL&step=1&stepname=personalInformation",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Apply",
+  "fieldCount": 18,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "",
+      "labelSource": "none",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div > div:nth-of-type(2) > div:nth-of-type(3) > input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "country",
+      "label": "Country or Region *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "cntry-name",
+      "maxlength": "",
+      "selector": "#country",
+      "visible": true,
+      "options": [
+        "Please Select",
+        "Afghanistan",
+        "Åland Islands",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia",
+        "Bonaire",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "British Virgin Islands",
+        "Brunei",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon"
+      ],
+      "optionValues": [
+        {
+          "label": "Please Select",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AFG"
+        },
+        {
+          "label": "Åland Islands",
+          "value": "ALA"
+        },
+        {
+          "label": "Albania",
+          "value": "ALB"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZA"
+        },
+        {
+          "label": "American Samoa",
+          "value": "ASM"
+        },
+        {
+          "label": "Andorra",
+          "value": "AND"
+        },
+        {
+          "label": "Angola",
+          "value": "AGO"
+        },
+        {
+          "label": "Anguilla",
+          "value": "AIA"
+        },
+        {
+          "label": "Antigua and Barbuda",
+          "value": "ATG"
+        },
+        {
+          "label": "Argentina",
+          "value": "ARG"
+        },
+        {
+          "label": "Armenia",
+          "value": "ARM"
+        },
+        {
+          "label": "Aruba",
+          "value": "ABW"
+        },
+        {
+          "label": "Australia",
+          "value": "AUS"
+        },
+        {
+          "label": "Austria",
+          "value": "AUT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZE"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BHS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BHR"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BGD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BRB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BLR"
+        },
+        {
+          "label": "Belgium",
+          "value": "BEL"
+        },
+        {
+          "label": "Belize",
+          "value": "BLZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BEN"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BMU"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BTN"
+        },
+        {
+          "label": "Bolivia",
+          "value": "BOL"
+        },
+        {
+          "label": "Bonaire",
+          "value": "BES"
+        },
+        {
+          "label": "Bosnia and Herzegovina",
+          "value": "BIH"
+        },
+        {
+          "label": "Botswana",
+          "value": "BWA"
+        },
+        {
+          "label": "Brazil",
+          "value": "BRA"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IOT"
+        },
+        {
+          "label": "British Virgin Islands",
+          "value": "VGB"
+        },
+        {
+          "label": "Brunei",
+          "value": "BRN"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BGR"
+        },
+        {
+          "label": "Burkina Faso",
+          "value": "BFA"
+        },
+        {
+          "label": "Burundi",
+          "value": "BDI"
+        },
+        {
+          "label": "Cabo Verde",
+          "value": "CPV"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KHM"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CMR"
+        }
+      ],
+      "optionCount": 243,
+      "normLabel": "country or region",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "cntryFields.firstName",
+      "label": "Legal First Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "given-name",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > fieldset > div:nth-of-type(1) > input",
+      "visible": true,
+      "normLabel": "legal first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "cntryFields.lastName",
+      "label": "Legal Last Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "family-name",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > fieldset > div:nth-of-type(2) > input",
+      "visible": true,
+      "normLabel": "legal last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "cntryFields.preferredName",
+      "label": "I have a preferred name",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > fieldset > div:nth-of-type(3) > select",
+      "visible": true,
+      "options": [
+        "Please Select",
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Please Select",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "i have a preferred name",
+      "canonical": "preferred_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "cntryFields.city",
+      "label": "City",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "address-level2",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > fieldset > div:nth-of-type(4) > input",
+      "visible": true,
+      "normLabel": "city",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "cntryFields.region",
+      "label": "State *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div > fieldset > div:nth-of-type(5) > select",
+      "visible": true,
+      "options": [
+        "Please Select",
+        "Alabama",
+        "Alaska",
+        "American Samoa",
+        "Arizona",
+        "Arkansas",
+        "Armed Forces Americas",
+        "Armed Forces Europe",
+        "Armed Forces Pacific",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "District of Columbia",
+        "Florida",
+        "Georgia",
+        "Guam",
+        "Hawaii",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maine",
+        "Maryland",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Montana",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina"
+      ],
+      "optionValues": [
+        {
+          "label": "Please Select",
+          "value": ""
+        },
+        {
+          "label": "Alabama",
+          "value": "USA-AL"
+        },
+        {
+          "label": "Alaska",
+          "value": "USA-AK"
+        },
+        {
+          "label": "American Samoa",
+          "value": "USA-AS"
+        },
+        {
+          "label": "Arizona",
+          "value": "USA-AZ"
+        },
+        {
+          "label": "Arkansas",
+          "value": "USA-AR"
+        },
+        {
+          "label": "Armed Forces Americas",
+          "value": "USA-AA"
+        },
+        {
+          "label": "Armed Forces Europe",
+          "value": "USA-AE"
+        },
+        {
+          "label": "Armed Forces Pacific",
+          "value": "USA-AP"
+        },
+        {
+          "label": "California",
+          "value": "USA-CA"
+        },
+        {
+          "label": "Colorado",
+          "value": "USA-CO"
+        },
+        {
+          "label": "Connecticut",
+          "value": "USA-CT"
+        },
+        {
+          "label": "Delaware",
+          "value": "USA-DE"
+        },
+        {
+          "label": "District of Columbia",
+          "value": "USA-DC"
+        },
+        {
+          "label": "Florida",
+          "value": "USA-FL"
+        },
+        {
+          "label": "Georgia",
+          "value": "USA-GA"
+        },
+        {
+          "label": "Guam",
+          "value": "USA-GU"
+        },
+        {
+          "label": "Hawaii",
+          "value": "USA-HI"
+        },
+        {
+          "label": "Idaho",
+          "value": "USA-ID"
+        },
+        {
+          "label": "Illinois",
+          "value": "USA-IL"
+        },
+        {
+          "label": "Indiana",
+          "value": "USA-IN"
+        },
+        {
+          "label": "Iowa",
+          "value": "USA-IA"
+        },
+        {
+          "label": "Kansas",
+          "value": "USA-KS"
+        },
+        {
+          "label": "Kentucky",
+          "value": "USA-KY"
+        },
+        {
+          "label": "Louisiana",
+          "value": "USA-LA"
+        },
+        {
+          "label": "Maine",
+          "value": "USA-ME"
+        },
+        {
+          "label": "Maryland",
+          "value": "USA-MD"
+        },
+        {
+          "label": "Massachusetts",
+          "value": "USA-MA"
+        },
+        {
+          "label": "Michigan",
+          "value": "USA-MI"
+        },
+        {
+          "label": "Minnesota",
+          "value": "USA-MN"
+        },
+        {
+          "label": "Mississippi",
+          "value": "USA-MS"
+        },
+        {
+          "label": "Missouri",
+          "value": "USA-MO"
+        },
+        {
+          "label": "Montana",
+          "value": "USA-MT"
+        },
+        {
+          "label": "Nebraska",
+          "value": "USA-NE"
+        },
+        {
+          "label": "Nevada",
+          "value": "USA-NV"
+        },
+        {
+          "label": "New Hampshire",
+          "value": "USA-NH"
+        },
+        {
+          "label": "New Jersey",
+          "value": "USA-NJ"
+        },
+        {
+          "label": "New Mexico",
+          "value": "USA-NM"
+        },
+        {
+          "label": "New York",
+          "value": "USA-NY"
+        },
+        {
+          "label": "North Carolina",
+          "value": "USA-NC"
+        }
+      ],
+      "optionCount": 61,
+      "normLabel": "state",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "email",
+      "label": "Email Address",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "deviceType",
+      "label": "Phone Device Type *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#deviceType",
+      "visible": true,
+      "options": [
+        "Please Select",
+        "Mobile",
+        "Landline"
+      ],
+      "optionValues": [
+        {
+          "label": "Please Select",
+          "value": ""
+        },
+        {
+          "label": "Mobile",
+          "value": "Mobile"
+        },
+        {
+          "label": "Landline",
+          "value": "Landline"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "phone device type",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "phoneWidget.countryPhoneCode",
+      "label": "Country Phone Code *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "tel-country-code",
+      "maxlength": "",
+      "selector": "fieldset > div > div:nth-of-type(1) > div > select",
+      "visible": true,
+      "options": [
+        "Please Select",
+        "Afghanistan (+93)",
+        "Åland Islands (+358)",
+        "Albania (+355)",
+        "Algeria (+213)",
+        "American Samoa (+1)",
+        "Andorra (+376)",
+        "Angola (+244)",
+        "Anguilla (+1)",
+        "Antigua and Barbuda (+1)",
+        "Argentina (+54)",
+        "Armenia (+374)",
+        "Aruba (+297)",
+        "Australia (+61)",
+        "Austria (+43)",
+        "Azerbaijan (+994)",
+        "Bahamas (+1)",
+        "Bahrain (+973)",
+        "Bangladesh (+880)",
+        "Barbados (+1)",
+        "Belarus (+375)",
+        "Belgium (+32)",
+        "Belize (+501)",
+        "Benin (+229)",
+        "Bermuda (+1)",
+        "Bhutan (+975)",
+        "Bolivia (+591)",
+        "Bonaire (+599)",
+        "Bosnia and Herzegovina (+387)",
+        "Botswana (+267)",
+        "Brazil (+55)",
+        "British Indian Ocean Territory (+246)",
+        "British Virgin Islands (+1)",
+        "Brunei (+673)",
+        "Bulgaria (+359)",
+        "Burkina Faso (+226)",
+        "Burundi (+257)",
+        "Cabo Verde (+238)",
+        "Cambodia (+855)",
+        "Cameroon (+237)"
+      ],
+      "optionValues": [
+        {
+          "label": "Please Select",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan (+93)",
+          "value": "AFG_93"
+        },
+        {
+          "label": "Åland Islands (+358)",
+          "value": "ALA_358"
+        },
+        {
+          "label": "Albania (+355)",
+          "value": "ALB_355"
+        },
+        {
+          "label": "Algeria (+213)",
+          "value": "DZA_213"
+        },
+        {
+          "label": "American Samoa (+1)",
+          "value": "ASM_1"
+        },
+        {
+          "label": "Andorra (+376)",
+          "value": "AND_376"
+        },
+        {
+          "label": "Angola (+244)",
+          "value": "AGO_244"
+        },
+        {
+          "label": "Anguilla (+1)",
+          "value": "AIA_1"
+        },
+        {
+          "label": "Antigua and Barbuda (+1)",
+          "value": "ATG_1"
+        },
+        {
+          "label": "Argentina (+54)",
+          "value": "ARG_54"
+        },
+        {
+          "label": "Armenia (+374)",
+          "value": "ARM_374"
+        },
+        {
+          "label": "Aruba (+297)",
+          "value": "ABW_297"
+        },
+        {
+          "label": "Australia (+61)",
+          "value": "AUS_61"
+        },
+        {
+          "label": "Austria (+43)",
+          "value": "AUT_43"
+        },
+        {
+          "label": "Azerbaijan (+994)",
+          "value": "AZE_994"
+        },
+        {
+          "label": "Bahamas (+1)",
+          "value": "BHS_1"
+        },
+        {
+          "label": "Bahrain (+973)",
+          "value": "BHR_973"
+        },
+        {
+          "label": "Bangladesh (+880)",
+          "value": "BGD_880"
+        },
+        {
+          "label": "Barbados (+1)",
+          "value": "BRB_1"
+        },
+        {
+          "label": "Belarus (+375)",
+          "value": "BLR_375"
+        },
+        {
+          "label": "Belgium (+32)",
+          "value": "BEL_32"
+        },
+        {
+          "label": "Belize (+501)",
+          "value": "BLZ_501"
+        },
+        {
+          "label": "Benin (+229)",
+          "value": "BEN_229"
+        },
+        {
+          "label": "Bermuda (+1)",
+          "value": "BMU_1"
+        },
+        {
+          "label": "Bhutan (+975)",
+          "value": "BTN_975"
+        },
+        {
+          "label": "Bolivia (+591)",
+          "value": "BOL_591"
+        },
+        {
+          "label": "Bonaire (+599)",
+          "value": "BES_599"
+        },
+        {
+          "label": "Bosnia and Herzegovina (+387)",
+          "value": "BIH_387"
+        },
+        {
+          "label": "Botswana (+267)",
+          "value": "BWA_267"
+        },
+        {
+          "label": "Brazil (+55)",
+          "value": "BRA_55"
+        },
+        {
+          "label": "British Indian Ocean Territory (+246)",
+          "value": "IOT_246"
+        },
+        {
+          "label": "British Virgin Islands (+1)",
+          "value": "VGB_1"
+        },
+        {
+          "label": "Brunei (+673)",
+          "value": "BRN_673"
+        },
+        {
+          "label": "Bulgaria (+359)",
+          "value": "BGR_359"
+        },
+        {
+          "label": "Burkina Faso (+226)",
+          "value": "BFA_226"
+        },
+        {
+          "label": "Burundi (+257)",
+          "value": "BDI_257"
+        },
+        {
+          "label": "Cabo Verde (+238)",
+          "value": "CPV_238"
+        },
+        {
+          "label": "Cambodia (+855)",
+          "value": "KHM_855"
+        },
+        {
+          "label": "Cameroon (+237)",
+          "value": "CMR_237"
+        }
+      ],
+      "optionCount": 244,
+      "normLabel": "country phone code",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "phoneWidget.phoneNumber",
+      "label": "Phone Number",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "tel-national",
+      "maxlength": "",
+      "selector": "fieldset > div > div:nth-of-type(2) > div > input",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "applicantSource",
+      "label": "How Did You Hear About Us? *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#applicantSource",
+      "visible": true,
+      "options": [
+        "Please Select",
+        "Cisco Careers Site",
+        "LinkedIn",
+        "Job Posting Site (e.g., Indeed)",
+        "Social Media (e.g., Instagram)",
+        "Job Fair or Event",
+        "Online Search",
+        "Word of Mouth",
+        "Online Advertisement",
+        "From Recruiter / Sourcer"
+      ],
+      "optionValues": [
+        {
+          "label": "Please Select",
+          "value": ""
+        },
+        {
+          "label": "Cisco Careers Site",
+          "value": "APPLICANT_SOURCE_CISCO_JOBS_CAREER_SITE"
+        },
+        {
+          "label": "LinkedIn",
+          "value": "APPLICANT_SOURCE_LINKEDIN"
+        },
+        {
+          "label": "Job Posting Site (e.g., Indeed)",
+          "value": "APPLICANT_SOURCE_OTHER_JOB_POSTING"
+        },
+        {
+          "label": "Social Media (e.g., Instagram)",
+          "value": "APPLICANT_SOURCE_SOCIAL_MEDIA"
+        },
+        {
+          "label": "Job Fair or Event",
+          "value": "APPLICANT_SOURCE_CAMPUS_CAREER_LINK"
+        },
+        {
+          "label": "Online Search",
+          "value": "APPLICANT_SOURCE_ONLINE_SEARCH"
+        },
+        {
+          "label": "Word of Mouth",
+          "value": "APPLICANT_SOURCE_WORD_OF_MOUTH"
+        },
+        {
+          "label": "Online Advertisement",
+          "value": "APPLICANT_SOURCE_ONLINE_ADVERTISEMENT"
+        },
+        {
+          "label": "From Recruiter / Sourcer",
+          "value": "APPLICANT_SOURCE_SOURCED"
+        }
+      ],
+      "optionCount": 10,
+      "normLabel": "how did you hear about us",
+      "canonical": "referral"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "Have you ever been issued a Cisco Employee ID or Cisco Email Address? *",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(1) > fieldset > div > div:nth-of-type(9) > div",
+      "visible": true,
+      "normLabel": "have you ever been issued a cisco employee id or cisco email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "previousWorkerConfirmation",
+      "label": "Have you ever been issued a Cisco Employee ID or Cisco Email Address?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#previousWorkerConfirmation",
+      "visible": true,
+      "normLabel": "have you ever been issued a cisco employee id or cisco email",
+      "canonical": "email"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "previousWorkerConfirmation",
+      "label": "You are applying for -",
+      "labelSource": "legend",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"previousWorkerConfirmation\"]",
+      "normLabel": "you are applying for",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "consent",
+      "label": "Send SMS",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#consent",
+      "visible": true,
+      "normLabel": "send sms",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "emailOptIn",
+      "label": "Send Emails",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#emailOptIn",
+      "visible": true,
+      "normLabel": "send emails",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "whatsAppConsent",
+      "label": "Send WhatsApp",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#whatsAppConsent",
+      "visible": true,
+      "normLabel": "send whatsapp",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "native-select": 6,
+      "text": 7,
+      "radio-group": 1,
+      "checkbox": 3
+    },
+    "byAction": {
+      "upload": 1,
+      "select-option": 6,
+      "type": 7,
+      "choose-one": 1,
+      "check": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 7
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid (2013260)",
+    "My information",
+    "Cookies Preferences",
+    "Accessibility"
+  ],
+  "buttons": [
+    "Careers Home",
+    "Why Work Here",
+    "Who We Hire",
+    "Where We Work",
+    "How We Hire",
+    "Saved jobs (0)",
+    "Global",
+    "Login",
+    "My information",
+    "My experience",
+    "Application questions",
+    "Voluntary disclosures",
+    "Self identify",
+    "Review",
+    "Upload from PC",
+    "Next"
+  ],
+  "resumeUpload": [
+    "You are applying for -Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid (2013260) My informationMy experienceApplication questionsVoluntary disclosuresSelf identifyRevi",
+    "You are applying for -Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid (2013260) My informationMy experienceApplication questionsVoluntary disclosuresSelf identifyRevi",
+    "You are applying for -Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid (2013260) My informationMy experienceApplication questionsVoluntary disclosuresSelf identifyRevi",
+    "You are applying for -Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid (2013260) My informationMy experienceApplication questionsVoluntary disclosuresSelf identifyRevi",
+    "You are applying for -Senior Software Engineer – Application Reliability (Kubernetes, GCP, SQL), Hybrid (2013260) My informationMy experienceApplication questionsVoluntary disclosuresSelf identifyRevi"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/phenom/cisco__senior-software-engineer-application-rel.png",
+    "html": "data/html/phenom/cisco__senior-software-engineer-application-rel.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 3,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 0,
+    "docHeight": 2593,
+    "lowestField": 2072.0625,
+    "coversAllFields": true
+  },
+  "ms": 15871,
+  "fingerprint": {
+    "labelSig": "92f1389ddf1d",
+    "shapeSig": "6b8b15921290",
+    "controlSig": "7d7302888a42",
+    "controls": {
+      "file-upload": 1,
+      "native-select": 6,
+      "text": 7,
+      "radio-group": 1,
+      "checkbox": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "729e90413597",
+    "typeCounts": {
+      "file": 1,
+      "select": 6,
+      "text": 5,
+      "div": 2,
+      "radio": 1,
+      "checkbox": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "phone",
+      "preferred_name",
+      "referral",
+      "resume"
+    ],
+    "requiredCount": 12,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "phenom",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

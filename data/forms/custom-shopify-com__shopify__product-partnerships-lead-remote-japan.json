@@ -1,0 +1,505 @@
+{
+  "id": "custom-shopify-com__shopify__product-partnerships-lead-remote-japan",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "shopify",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Product Partnerships Lead REMOTE - JAPAN",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/product-partnerships-lead_d9993b7d-d973-409c-9da3-0c8d48cff776?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/product-partnerships-lead_d9993b7d-d973-409c-9da3-0c8d48cff776?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "detectedPlatform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/product-partnerships-lead_d9993b7d-d973-409c-9da3-0c8d48cff776?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Product Partnerships Lead - Shopify",
+  "fieldCount": 12,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "5a7c0c24-044d-4285-a679-0bec5be422b5",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "c449a550-dafc-4ef2-bd50-6987c99b9f0a",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#c449a550-dafc-4ef2-bd50-6987c99b9f0a",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "487195d1-ef94-4c34-9522-8617d7faea03",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_resume\"]",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "f6a934a0-e716-4198-a6b8-bd0c0fec44d0",
+      "id": "f6a934a0-e716-4198-a6b8-bd0c0fec44d0",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#f6a934a0-e716-4198-a6b8-bd0c0fec44d0",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "287bce46-9e78-49b8-ab96-381c555dbfee",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "095361f0-b726-43c0-b0d0-e660b1a27131",
+      "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you now or in the future require sponsorship to work in the country of employment?",
+      "required": false,
+      "options": [
+        "Do you now or in the future require sponsorship to work in the country of employment?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you now or in the future require sponsorship to work in the country of employment?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"095361f0-b726-43c0-b0d0-e660b1a27131\"]",
+      "normLabel": "do you now or in the future require sponsorship to work in t",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "6354a28f-f48e-48e7-aee6-2bd3935bce5c",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"6354a28f-f48e-48e7-aee6-2bd3935bce5c\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "05ef1295-bf3e-4fe2-a67b-792d83404c3f",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"05ef1295-bf3e-4fe2-a67b-792d83404c3f\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "0bec75e6-69fd-4e5f-88db-d77d25f2a0b8",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"0bec75e6-69fd-4e5f-88db-d77d25f2a0b8\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "4b34081a-7ebd-4e8e-8b84-ec37c806a841[]",
+      "label": "Besides English, in which other language(s) are you proficient in both spoken and written communication? Please select all that apply.*",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Besides English, in which other language(s) are you proficient in both spoken and written communication? Please select all that apply.* None Japanese Others",
+      "required": true,
+      "options": [
+        "Besides English, in which other language(s) are you proficient in both spoken and written communication? Please select all that apply.* None Japanese Others",
+        "Japanese",
+        "Others"
+      ],
+      "optionValues": [
+        {
+          "label": "Besides English, in which other language(s) are you proficient in both spoken and written communication? Please select all that apply.* None Japanese Others",
+          "value": "None"
+        },
+        {
+          "label": "Japanese",
+          "value": "Japanese"
+        },
+        {
+          "label": "Others",
+          "value": "Others"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"4b34081a-7ebd-4e8e-8b84-ec37c806a841[]\"]",
+      "normLabel": "besides english in which other language s are you proficient",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "4e37362d-a16c-430e-9637-57e6f58ec54e",
+      "id": "beba2345-5418-4e8d-9df7-dfa057a53f4c",
+      "label": "Describe a partnership you've managed that had big impact. What was your role, and what made this collaboration meaningful to you?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#beba2345-5418-4e8d-9df7-dfa057a53f4c",
+      "visible": true,
+      "normLabel": "describe a partnership you ve managed that had big impact wh",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "c866f33a-46b6-4b36-969a-170759653abf[]",
+      "label": "Of the following, please select any/all experience you’ve had with:",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Of the following, please select any/all experience you’ve had with: SaaS solutions Shopify Ecosystem Fintech/payments None",
+      "required": false,
+      "options": [
+        "Of the following, please select any/all experience you’ve had with: SaaS solutions Shopify Ecosystem Fintech/payments None",
+        "Shopify Ecosystem",
+        "Fintech/payments",
+        "None"
+      ],
+      "optionValues": [
+        {
+          "label": "Of the following, please select any/all experience you’ve had with: SaaS solutions Shopify Ecosystem Fintech/payments None",
+          "value": "SaaS solutions"
+        },
+        {
+          "label": "Shopify Ecosystem",
+          "value": "Shopify Ecosystem"
+        },
+        {
+          "label": "Fintech/payments",
+          "value": "Fintech/payments"
+        },
+        {
+          "label": "None",
+          "value": "None"
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"c866f33a-46b6-4b36-969a-170759653abf[]\"]",
+      "normLabel": "of the following please select any/all experience you ve had",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 6,
+      "textarea": 1
+    },
+    "byAction": {
+      "type": 5,
+      "upload": 1,
+      "check-many": 6
+    },
+    "byOptionsSource": {
+      "dom-static": 6
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Product Partnerships Lead",
+    "About the role",
+    "Key Responsibilities",
+    "Qualifications",
+    "Bonus",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackProduct Partnerships LeadRemote - JapanPartnershipsApply NowAbout the roleShopify's platform strategy is powered by partnerships. We're hiring a Senior Product Partnerships Lead to recruit and dev",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employmen",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you now or in the future require sponsorship to work in the country of employment?Please confirm you"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/custom-shopify-com/shopify__product-partnerships-lead-remote-japan.png",
+    "html": "data/html/_nonus/custom-shopify-com/shopify__product-partnerships-lead-remote-japan.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 3,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 5110,
+    "lowestField": 4371.765625,
+    "coversAllFields": true
+  },
+  "ms": 25801,
+  "fingerprint": {
+    "labelSig": "084908686d00",
+    "shapeSig": "6f48f9545903",
+    "controlSig": "6f3da8d671f1",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 6,
+      "textarea": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "d0bceac0737c",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "checkbox": 6,
+      "textarea": 1
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 9,
+    "customQuestionCount": 5,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

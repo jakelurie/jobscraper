@@ -1,0 +1,167 @@
+{
+  "id": "oracle-hcm__goldmansachs__software-engineer-global-banking-markets",
+  "group": "oracle-hcm",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "goldman",
+    "atsLabel": "Goldman Sachs (in-house)",
+    "company": "goldmansachs",
+    "board": "goldman",
+    "title": "Software Engineer, Global Banking & Markets, Front Office Technology Dallas·United States ·Associate",
+    "location": "",
+    "jobUrl": "https://higher.gs.com/roles/183356",
+    "startUrl": "https://higher.gs.com/roles/183356"
+  },
+  "platform": "oracle-hcm",
+  "detectedPlatform": "oracle-hcm",
+  "platformLabel": "Oracle Recruiting Cloud",
+  "finalUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183356/apply/email",
+  "applyTrail": [
+    "clicked: Apply (new tab)",
+    "clicked: NEXT",
+    "saved-session:goldman__goldman.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Software Engineer, Global Banking & Markets, Front Office Technology - Candidate Experience Site - Lateral Careers",
+  "fieldCount": 2,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "primary-email",
+      "id": "primary-email-0",
+      "label": "Email Address",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#primary-email-0",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "honey-pot",
+      "id": "honey-pot-1",
+      "label": "honeypot",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#honey-pot-1",
+      "visible": true,
+      "normLabel": "honeypot",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 1,
+      "text": 1
+    },
+    "byAction": {
+      "type": 2
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Job application form",
+    "Authentication screen. Please provide email address"
+  ],
+  "buttons": [
+    "CANCEL",
+    "NEXT"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/oracle-hcm/goldmansachs__software-engineer-global-banking-markets.png",
+    "html": "data/html/_unreached/oracle-hcm/goldmansachs__software-engineer-global-banking-markets.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 5,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 4,
+    "docHeight": 1002,
+    "lowestField": 447.234375,
+    "coversAllFields": true
+  },
+  "ms": 58332,
+  "fingerprint": {
+    "labelSig": "a37732efb30e",
+    "shapeSig": "2ac47a290a26",
+    "controlSig": "d40f58f90917",
+    "controls": {
+      "text-email": 1,
+      "text": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "e0430f686bbd",
+    "typeCounts": {
+      "email": 1,
+      "text": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

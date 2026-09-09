@@ -1,0 +1,146 @@
+{
+  "id": "snap__snap__principal-software-engineer-ads-platform",
+  "group": "snap",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "snap",
+    "atsLabel": "Snap (in-house)",
+    "company": "snap",
+    "board": "snap",
+    "title": "Principal Software Engineer, Ads Platform",
+    "location": "",
+    "jobUrl": "https://careers.snap.com/job?id=H226PEM10",
+    "startUrl": "https://careers.snap.com/job?id=H226PEM10"
+  },
+  "platform": "snap",
+  "platformLabel": "Snap (in-house)",
+  "finalUrl": "https://careers.snap.com/job?id=H226PEM10",
+  "applyTrail": [
+    "clicked: Apply Now",
+    "saved-session:snap__snap.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Principal Software Engineer, Ads Platform",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "LANGUAGE",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "ul > li > div > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "language",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1
+    },
+    "byAction": {
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Principal Software Engineer, Ads Platform",
+    "Ready to join Team Snap",
+    "Principal Software Engineer, Ads Platform",
+    "Life at Snap"
+  ],
+  "buttons": [
+    "English (US)"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/snap/snap__principal-software-engineer-ads-platform.png",
+    "html": "data/html/_unreached/snap/snap__principal-software-engineer-ads-platform.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 5274,
+    "lowestField": 5258.078125,
+    "coversAllFields": true
+  },
+  "ms": 56544,
+  "fingerprint": {
+    "labelSig": "d0057cef5596",
+    "shapeSig": "2f1d4df9e252",
+    "controlSig": "edf5c3c0cf93",
+    "controls": {
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "f1a8799d0b33",
+    "typeCounts": {
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "snap",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

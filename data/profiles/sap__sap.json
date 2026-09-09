@@ -1,0 +1,2260 @@
+{
+  "cookies": [
+    {
+      "name": "i18next",
+      "value": "en",
+      "domain": "careers-apac-atlassian.icims.com",
+      "path": "/jobs/25565/senior-backend-software-engineer",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Correlation.muv5b-KPZeLNoKIUl2tBh9X6UYM7ogP-qJIeOVDCzYQ",
+      "value": "N",
+      "domain": ".www.usajobs.gov",
+      "path": "/signin-wsfed",
+      "expires": 1788893365.62948,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "SAmCT9m6K4ljaP-FwOxRoD6KJ8eh7drD6CPHEGXUSlA_RVMW_3R1!-1669850838!589826942",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/hcmUI",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ScustomPortal-4",
+      "value": "anvi0jh8jm1jgqrerh3o7vuupn",
+      "domain": "synopsys.avature.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w6~EEAD5E4880DF5AD94A1E4A0D17DF1AC4",
+      "domain": "careers.paramount.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "3C95ADA79E57E9166843081D0ED26ED6.pc41bcar103",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "viacomcbsi",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "route",
+      "value": "e097473f0dcd3d4ee858c1c1b17348a4afa33374",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.767099Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671069Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671145Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671216Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671295Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671367Z%22%7D%5D",
+      "domain": "www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2015499882.1788892454",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452454.779114,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_usajobs",
+      "value": "1788892765~id=ded6e929c7b4fb3931664a184d931bcf",
+      "domain": ".www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "akavpau_LOGIN_USAJ",
+      "value": "1788892766~id=4a7372744872015c5128a32c27dd5e93",
+      "domain": ".login.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_CLZB1LJ1VZ",
+      "value": "GS2.1.s1788892454$o1$g1$t1788892466$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452466.05108,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_CSLL4ZEK4L",
+      "value": "GS2.1.s1788892454$o1$g1$t1788892466$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452466.055464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_essential_",
+      "value": "7949d58e-2a9b-4814-a227-c4393df7914d",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1820428560.028565,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_s",
+      "value": "d33d5662-1036-462c-afe5-d8ed13d9a5e6",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1788894360.028585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_y",
+      "value": "0758b638-5ab4-49e1-8097-9505c55db062",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1820428560.028576,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.557475272.1788892510",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1796668510,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_fat_id_s",
+      "value": "undefined",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1791484527,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.167801323.1788892511",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1823452527.627601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1788892510594.182242802298692880",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1796668527,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.BzmLt%2FJlJ4zXHUoMNOWpDxBvYVCS8J7oV2CH42KSB5E%3D.1788892511",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1823452560.081808,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.557475272.1788892510",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1796668509.788481,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "N0018P8plGQWoALAcErA31U8RZARW2cOvL2ycyJ6VdWvsfy34iUHFvLZWp39sZ1a4WUfV0cVfQjKe01%2FVrxxvESiB2ZrKW99GS15VAKuoPWloqVCyOhAczLCblg6cg%3D%3D",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1788964510.908813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUk0ytWAj3_ic4LtRDk3eYDvIjqidg0IZJZNhh0cUsxctbebi7BgessE2uvI7-s",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823452511.285112,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1788892510.1788892510.G-B7X5MKCR35.YexAfKKH5mmV8TDuSS2rIg",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1788894311.601002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "MUID",
+      "value": "0D0108B75898663206A41F7959CE6770",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822589056.987194,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1789497313.024297,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mto_pvs",
+      "value": "2",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_W6NECZNE63",
+      "value": "GS2.1.s1788892510$o1$g1$t1788892559$j11$l0$h1435339409",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1823452559.865118,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_exists",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6ImRISjFaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJjb29raWUuX2JmX3Nlc3Npb25fZXhpc3RzIn19--c09bf3da17accf4c53e92f910eef613c6f99527b",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "7UKekTA0-U-T-m4WNi0Ky6IbdP0KUR6eZ6XJlQLvV1gA7EAK5m_WkMQl90_Jlwjh2TGVerwn7Ec4d7X2KuXu8g",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_key",
+      "value": "BD4wS7DII6ihNK4d87OLyn22d%2F91rdXiQiTdOK%2FiRRlecfVOfsty5p5d2KPL411p19Qa%2FKnvRD309pEXbO5xC36OX2J6iCobGLbZ%2B105EUjCKX5q7BVH267QEjz8an48rOEeiSuT%2Fz%2B3HjofvC2kYq585t0RwCvcHV74JQADDNOrwC19XJFfHJ7wNsoKLiDz%2BnMAFeXImoPwPf%2BsIRiJL6FfQkVKe0lRyvsttKusinv3AED5J20mf34W2uPEr8K6170vJgrLr9meydAAznp3%2F8gr08W2A6%2BbbooGRNk%2BqzxZb7HHytD%2BOMSMkXlU%2FhLIAKgM--6IvVEhZwyWGd4%2Bge--kC%2FMfkZ0S4G2MkDyBQ8tDw%3D%3D",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a0824e-3f14-7cc0-a9f5-ebd48db97d96%22%2C%22distinct_id%22%3A%2201a0824e-3f14-7cc0-a9f5-ebd48db97d96%22%2C%22%24sesid%22%3A%5B1788892618520%2C%2201a0824e-4044-709a-badc-74dd0fc0961a%22%2C1788892561476%5D%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".workatastartup.com",
+      "path": "/",
+      "expires": 1820428619,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "9a4931132a6ffd6ce79a47f75eb6449e91023d47214ef11b8c444f7ba034beab%7Caef09473356a1fec5aa13166bf70f12f15dc8e8ceda5212c676e481fa252b59f",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fjobs.dayforcehcm.com",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "ai_user",
+      "value": "C1KE6n8iAmNdJQLyVCBqlM|2026-09-08T18:37:00.836Z",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428620.836892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "QJoxWIXzNJfdoSrqAIPvcxgqEmTU6JdYBqNFCYmUa6o-1788892621-1.2.1.1-ubfMrAdTtgtl4aeI9vbNXmyVdD2QY8sRKQqdmhtX53kqlnsBp6txWt1sfiemtVlab.QqQc.dkEcMm.yevKlBVwrt8Ix2nd1aZFzVr6p_qspO.J.JSrfCuQVNZyk1XWpOnn0NrvAci9P2d05RZG3MysiS1e4cH.Ie7iwe1v6jcDK1uEOfcn2brirmUhskXAkYZXkgY8jchddAwQ8llCodk.GueG5TJ5tRlKQmLQFWxUhDa.crCwJ7crko74l16CVKGrrtOapSAKQF4.IgEci.HuZTmLqQ4to0XSqnREUFAGp7IvzIs4WQbF_.nEje5WagA8JNFdvAGIZEj0_PGEBvkGbWTwirkljf.UzVvA4qUVk",
+      "domain": ".dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428620.99686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "EnTo0Dvx4wNeAmmXS9GePnGIIM_n2ZHDvM.RaWwEWHs-1788892621.0233448-1.0.1.1-6.EGvCVmrXaR_CZkuj..3jnCQvi8j2r.XRqgY1O4bGwsA6EFEv5RVI52TNddAnMoH18WxM2S2oG7FyvfyTLmbMK_9q1NBDZ3qJCrhyzK.4XNZZqwxzbNspPrVOE1MnHp",
+      "domain": ".dayforcehcm.com",
+      "path": "/",
+      "expires": 1788894420.9969,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SiteConfig",
+      "value": "{%22blackrock%22:[]%2C%22pfizer%22:[]}",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428630,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_session",
+      "value": "pzKkpXiRWt8nL0FKl16BG5|1788892620910|1788892630625",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1788894430.625556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FUSION_PREFS",
+      "value": "v1.0~bG9jYWxlPWVufmRlZmF1bHRMYW5ndWFnZU1hcmtlcj10cnVl",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FND_SESSION_US2BH6V_F",
+      "value": "DEFAULT_PILLAR:XDUOdv2sPcqQr5MPCPuuVMzEL7rAa4VpMUGpDkNHCaL1Li8554p50Cqv8G9w1lUL:1788892651849",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CX_3002_cookieConsentEnabled",
+      "value": "false",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_3002",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_FPC",
+      "value": "id=a34399da-6479-4b3f-9154-79ee38e1179b",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1823452666.889075,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID",
+      "value": "ca0b467c-1bf0-4991-b27e-49b6cbe75365",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796668667.226686,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID_FUNCTIONAL",
+      "value": "ca0b467c-1bf0-4991-b27e-49b6cbe75365",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796668667.226791,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=2&id=66c901c0-a0cd-41f3-93d9-53428a6487e8&created=1788892639953&expire=1788893551413",
+      "domain": "higher.gs.com",
+      "path": "/",
+      "expires": 1788893565,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "%2231ca9f69-5466-4287-a8ca-97e130fa690e%22",
+      "domain": ".atlassian.com",
+      "path": "/",
+      "expires": 1820428699,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sn_id",
+      "value": "%227ce9d271-7af5-476b-a8c3-ae35d906c985%22",
+      "domain": ".atlassian.com",
+      "path": "/",
+      "expires": 1788979099,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "atl_xid.xc",
+      "value": "%7B%22value%22%3A%226349a077-1615-4272-816a-a96a3a044916%22%2C%22type%22%3A%22xc%22%2C%22createdAt%22%3A%222026-09-08T18%3A38%3A19.607Z%22%7D",
+      "domain": ".atl-paas.net",
+      "path": "/",
+      "expires": 1820428699,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "atl_xid.xc",
+      "value": "%7B%22value%22%3A%2224150777-05a4-4305-b94a-e2c4fae74640%22%2C%22createdAt%22%3A%222026-09-08T18%3A38%3A19.608Z%22%2C%22type%22%3A%22xc%22%7D",
+      "domain": ".atlassian.com",
+      "path": "/",
+      "expires": 1820428699,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "atl_xid.ts",
+      "value": "1788892699609",
+      "domain": "www.atlassian.com",
+      "path": "/",
+      "expires": 1820428699,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "atl_xid.current",
+      "value": "%5B%7B%22type%22%3A%22xc%22%2C%22value%22%3A%2224150777-05a4-4305-b94a-e2c4fae74640%22%2C%22createdAt%22%3A%222026-09-08T18%3A38%3A19.608Z%22%7D%5D",
+      "domain": "www.atlassian.com",
+      "path": "/",
+      "expires": 1820428699,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_otPreferencesSynced",
+      "value": "",
+      "domain": "www.atlassian.com",
+      "path": "/",
+      "expires": 1820428700,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+14%3A38%3A20+GMT-0400+(Eastern+Daylight+Time)&version=202605.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&identifierType=null&hosts=&landingPath=https%3A%2F%2Fwww.atlassian.com%2Fcompany%2Fcareers%2Fdetails%2F25565&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1",
+      "domain": ".www.atlassian.com",
+      "path": "/",
+      "expires": 1820428700,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.943445424.1788892701",
+      "domain": ".atlassian.com",
+      "path": "/",
+      "expires": 1796668700,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "EE0003D2CF3A50F6C0C45E5C600CDE76",
+      "domain": "careers-apac-atlassian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "%222dc00aea-e033-45d3-917b-1ca86925d434%22",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1820428704,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "21.YT=KAYIwoK3p8-YL1x-CB2BJ6O-YbeeFLeOOv0oMzkMsxHH2ggEiohY6yHS2kNC1F17mpeqEWxcTkJqIXHls43k1JO4CVbCWmm81NVA1U9Ja78qcJuh9X393gklN8nt06xcpbLQxbXSTwVmhOWl_bw7xOPD22U9vN-6eUjtUNUEdDJkc6yqe5TF9etH2wJJeJpgOexCiiY5IjEeSf2ektSPucbfI3PTo9RxbX41D_1jjhO7YWKhr366hHA6oybH4QQjI6K7iPxpAG4RfyImNXQeMoM3euFo3-xNuQT7n_vEO92mMn1wdqTkfjnNo1RwTtDDcx8b5osGbfjWAQdyfILl3Q",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444704.503008,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://icims.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "YSC",
+      "value": "513xqJof6i0",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "5GDrk0KCJ3M",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444830.601565,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVUxIEGgAgXQ%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444830.601581,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CKDf44-iq_bk0QEQ0bXH0dDflgMY0bXH0dDflgM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444704.503152,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://icims.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "cookie_icims_iframe_content_height",
+      "value": "1421",
+      "domain": "careers-apac-atlassian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "icimsCookiesEnabledCheck",
+      "value": "1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "CC6BB7F2C031291B54AE9BC091CAE70C",
+      "domain": "cdn02.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Gee6HdWSWy2wNdMTEdzeT9sF5Sco2WDzpqkEZQbgM3c-1788892706.3087034-1.0.1.1-lQrFqQzSsg117Po.cN4XMnCO1ysXe1HaMQvPbrYb9LnriJrdmqTFwk1rTX_olW66NWg6xkyElbHNFvbTnhQtKrsHS4dZb78IIeJVk2bRdsnk4vRut1BUOR3sY8d2fRTs",
+      "domain": ".hcaptcha.com",
+      "path": "/",
+      "expires": 1788894506.2935,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1398679568.1788892707",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452707.452597,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_janalytics_ses.4357",
+      "value": "*",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1788894508,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_janalytics_id.4357",
+      "value": "60d3652a-0a28-47fa-bbf9-7c2ebf998741.1788892709.1.1788892709.1788892709.6d6e7d7c-c1b6-4e10-a5f9-69337f36e35f",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452708.912842,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "icims_JibeSessionId",
+      "value": "6d6e7d7c-c1b6-4e10-a5f9-69337f36e35f",
+      "domain": "careers-apac-atlassian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "icims_JibeUserId",
+      "value": "60d3652a-0a28-47fa-bbf9-7c2ebf998741",
+      "domain": "careers-apac-atlassian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "sp",
+      "value": "a33fd990-ebbe-4666-8ab5-5065f95baa0f",
+      "domain": "c.talentplatform.us",
+      "path": "/",
+      "expires": 1820428709.301368,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_5Y2BYGL910",
+      "value": "GS2.1.s1788892707$o1$g1$t1788892722$j45$l0$h0",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452722.33772,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_vs",
+      "value": "1851514870179116843:1788892723.315484:585584919019513393",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1820428724.977861,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "value": "603764c8-9c0b-4ec3-a02c-722ed34b4ab4",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428726.559015,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MS0",
+      "value": "28f8f4ec08ee447eb0728a1f73c76123",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1788894528.720563,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSCC",
+      "value": "NR",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1788979129,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "handleWcpConsentGCSVNext",
+      "value": "{%22Required%22:true%2C%22Analytics%22:true%2C%22SocialMedia%22:true%2C%22Advertising%22:true}",
+      "domain": ".careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428729,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_user",
+      "value": "jhC0P|2026-09-08T18:38:49.645Z",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428729,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MC1",
+      "value": "GUID%3Dff8450c962a94735bbaba59768e108dd%26HASH%3Dff84%26LV%3D202609%26V%3D4%26LU%3D1788892730453",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1820428829.327666,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSFPC",
+      "value": "GUID=ff8450c962a94735bbaba59768e108dd&HASH=ff84&LV=202609&V=4&LU=1788892730453",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428730.456804,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_vscid",
+      "value": "0",
+      "domain": ".apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428741.81879,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "NmZAed8DOQkq2IFfPF0R0i|1788892726562|1788892799016",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1788894599,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ahoy_visitor",
+      "value": "55687a1c-bad1-4390-a516-f880ef7da1ed",
+      "domain": "bosch.pinpointhq.com",
+      "path": "/",
+      "expires": 1823452828.574357,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ahoy_visit",
+      "value": "cd2e7f80-3403-4c76-923b-4f8e09e59b5a",
+      "domain": "bosch.pinpointhq.com",
+      "path": "/",
+      "expires": 1788907246.83183,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "21.YT=c1xVzO3naM9E740Q1uLl-G9V1a7fpKyQPuTNgfHzkbuJsLbrIxrdGxhnoeK9CjPPbi7QhVCA2AebnTexthRKePgAWNd9ZzTEBRI1cmND4YZGE0CuesbTq8U1HmOalmtWdu9xJLlP21VDlQAadymZ4a-EoOdO0kKbg78T8eN5l1Q3HOm_EBVeL1sCbkST2mscdgmDCmGIm1vxHk436sCqNW5eItUJIdrQHzv0mfmZjEh-Nir98uxd6RUKXTu8FL1udcpl3STcmAZ-EGi0SR8Tx3s6DB_W30gei-2972rv5HR8cJp9mYaBW7aOvUU0id91hJQ8Q-14BNMfQ4nsQW2xtA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444830.60149,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://pinpointhq.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CIXg4-S5rZL5kwEQ65_CjdHflgMY-97SjdHflgM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444830.601534,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://pinpointhq.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "cc_cookie",
+      "value": "%7B%22categories%22%3A%5B%22necessary%22%2C%22analytics%22%5D%2C%22revision%22%3A0%2C%22data%22%3Anull%2C%22consentTimestamp%22%3A%222026-09-08T18%3A40%3A32.715Z%22%2C%22consentId%22%3A%22eee14840-790c-4d54-b826-da025d96e2ba%22%2C%22services%22%3A%7B%22necessary%22%3A%5B%5D%2C%22analytics%22%3A%5B%5D%7D%2C%22languageCode%22%3A%22en%22%2C%22lastConsentTimestamp%22%3A%222026-09-08T18%3A40%3A32.715Z%22%2C%22expirationTime%22%3A1804617632715%7D",
+      "domain": ".bosch.pinpointhq.com",
+      "path": "/",
+      "expires": 1804617632,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pinpoint_session",
+      "value": "%2F1Kx6L39BiyFUyY%2F0W217Ny57WC36A84rg5FQwPaSQM9b5mzTY7f5Dm95Z99UimRqdbdbst862RgIcT8xt9yvMlfPUh8%2Ft2qPNtVEyjQjEEp88GUPCp75kpblej6YaJcVIaCZlw%2BHW8cA%2Bu80Ar9CFQY1PygayXKqYLnvz76llVExg1VCehwExzI1cW0sSxWNE902LJ6faJMkkPCGI3t%2FwtAVPzJuLUv9ljRUAHXXvkriRqKiZe75%2B2xlEM3QDeEBYE39nolKGWdD2fovhdPV8FUm%2BdpaaUvh1I5qBw5l%2FKUyxh5HBhsCsqKd%2BDxRFsmlC5Veyxd08nzxpglyL1enNEWZi6L4JFTJAqOgnaQLlM9pr5%2BCS6B9TS%2BI7ov2AOvOxw4vScDuoKIVcY0yL8J--zeYhL9x99VJUJuah--uQKBBv7aWtNgvO%2B8No8hwg%3D%3D",
+      "domain": ".pinpointhq.com",
+      "path": "/",
+      "expires": 1789497646.831895,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc-wcid",
+      "value": "9bd3832f-701a-471f-910d-4198a5388c55",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428901,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sc-cookies-accepted",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "EssentialSession",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Preferences",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Performance",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Marketing",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "blizzard_client_id",
+      "value": "acea9516-c6c3-4d65-814d-2c99a717d888:1788892903114",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1791484903,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "blizzard_web_session_id",
+      "value": "YnQn+pWX+Lz/Fy8W",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1788894713,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1758086581.1788892904",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1823452903.851439,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_SESSION",
+      "value": "adfc1515b0de12a59794297d273f631d17cf8a05-snapchat_pSessionId=not9ncfb9m3p15glsdl434r9eo&instance=vps-prod-e0bf561f.prod-vps.pr502.cust.ash.wd",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "18160248-380a-4605-adee-2001e320316d",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "dc1effed-ced4-4b19-bc8e-90a502981197",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "e67120e3-c453-4362-9b01-49d4ec38006b.c25hcGNoYXQ=.V0RDQzEuMIQAJQAAIHUHA9ILnbHXBtg0DnueP95F6Z9UoxH242qzcHXM26zqAACMABYBMQAQTLD8YRwVggGF30lDShM8HAAAAGU2NzEyMGUzLWM0NTMtNDM2Mi05YjAxLTQ5ZDRlYzM4MDA2Yg==",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wday_vps_cookie",
+      "value": "2591651850.53810.0000",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuJVDbZPi41TnVhCfXo5jBtc76tsE3mgy869ecTfbS",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": 1788975713.575307,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "391_JDZRuPhhUDmfrrNTHOxRbl65uSVXqoNn9ATLYRo-1788892913.260009-1.0.1.1-OeG7zP5mp6g47CArVMDXRn6brp6FtPV3e4OYWSO3xt4",
+      "domain": ".wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "pdzAe.WXY7EzPS_vromYEHf3yu7komR4Wo.v3gBC6EM-1788892915.3804154-1.0.1.1-0CvrPc7V8zVBQiXmMdMBURZD5FYfXRHE9z5_1SXinS0fTI2oWihn6OQuM6yTomzfcyreSHCuOi9.29DYjaMIcgqQysiLtvYykGw45cdPmNyWCzS9sfNr4.Kxg.Q6vhJM",
+      "domain": ".myworkdaycdn.com",
+      "path": "/",
+      "expires": 1788894715.2264,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1895575556.1788892915",
+      "domain": ".wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": 1823453033.675726,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "iB26gvB.hGAJFvX7av16XmdprljK2ZOUZzuJKEUTdmk-1788892917.0999274-1.0.1.1-cSFvi2gksUs_vVncCLcvUqb3m_y.ZNxrlAsXrLDH17iYxyguk.6qdbOeIF5BPcpT9TwAnVceY3Ghpskxc1iNQu02clB.11FVc_pw8zioTV_e0N7VFoTEQNdqUeUHzN11",
+      "domain": ".applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788894717.028091,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEhzEqcmmVbuV88jDX6wmYNPEp8AZRxABzWHAX1mE",
+      "domain": "applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788975717.028319,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&763c8b97-f26d-42a2-89da-741d14183752\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820428917.548915,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&2026090818415759014383-ba34-46dc-8912-dc7aefa05d9bAQHBTmqSlycFFXi2a2OQm1KHmXQKB--s\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820428917.548966,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST04:s=O:r=O:a=O:p=O:g=3807:u=1:x=1:i=1788892917:t=1788979317:v=2:sig=AQG1N-xXBxrKd4wjmu3eqf4souDQyL3l\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788979317.34542,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Fn99uVyLLZxeWQ88nr_lJlIBqq.uvjQWTwIWTGIgH38-1788892917.4059305-1.0.1.1-5G0L0wVS58Nh3_PM3P3xQcIUHzbs7eCS7gEuWq3R7z0sy8IQyICl15sBPXyMoXdRH_s8_49IwqFzA.4LTdGLxQ18rt_DV_JXTfBmcA5.H0Qcxnfo1Qqg0M2AHSX9hCq0",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788894717.3455,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:3001448069024494019",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_GKBE1PEVE6",
+      "value": "GS2.1.s1788892903$o1$g1$t1788892927$j45$l0$h0",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1823452927.826591,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "_IWBbU4ULKYmdga_ksr9QwJ1CUyuRdDr7T4msByzH.A-1788893032.3781898-1.0.1.1-Vp3dB2TkhSxMJKsQwSIWkstvRyZFKGVmmf2DZq07H6rBZsaBUndn6GOhe9rDg5xYDR.lm.MzoVaqllxbpgrmffJGmC319noyRZ.OV2HXma9f0qNqRe2wgJ5l7sLBdfCj",
+      "domain": ".wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": 1788894832.351706,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_LANG",
+      "value": "en-US",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "V.o2R1z4cVOFJK0GhJxyKtbmRXzgQcoyB..vK9SUtT0-1788893033.9574113-1.0.1.1-yc2xhnl3kpfelZN2MlehlAL5L2b3UuIU3690z2PZP_bWQlptqX9D4pzIovHC1lprl7amANbLuUtgE_0ZFS3A_UDtgAhX79sy4cO8Q0h2EtP54JC0Ri5T2_fHsJQ8lFex",
+      "domain": ".www.myworkday.com",
+      "path": "/",
+      "expires": 1788894833.824244,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuErDpuS6PzRvyTPnTkgbHDx3LySgHx2VWyKfaDhvt",
+      "domain": "www.myworkday.com",
+      "path": "/",
+      "expires": 1788975833.824288,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w7~FF0BD9B702CBC2845D5171D06CBABE36",
+      "domain": "careers.huntingtoningalls.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TDID",
+      "value": "9798914f-555c-4b97-9657-86fddc9831e5",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820429101.714581,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.981072985.1788893056",
+      "domain": ".huntingtoningalls.com",
+      "path": "/",
+      "expires": 1788979465,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1789497856.987245,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1565575379.1788893056",
+      "domain": ".huntingtoningalls.com",
+      "path": "/",
+      "expires": 1823453065.14303,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "4ae064a0abb511f1be5f0fc8caef0dd4",
+      "domain": ".huntingtoningalls.com",
+      "path": "/",
+      "expires": 1788979465,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "4ae09690abb511f1896be1c506de575e",
+      "domain": ".huntingtoningalls.com",
+      "path": "/",
+      "expires": 1822589065,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|LNo9Me+G8ZFHUTbCUShQwVye0ur5ruNI2EuelpiTLE2fIMz7Zz7aazq7dv268I+LkCP/jhJstIWM1KxoLazIt9i2Wk5FrGos0XY24Ec+XLsHnXkkUvfBvUM05TIgcWFjg6exuYCjKrR97RZSe/LEqfyYLUBgEhZrXHRiEbp3BzpbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820429065.859204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://huntingtoningalls.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MTT0QRS1-25-9H4J",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820429065.859231,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MTT0QRS1-25-9H4J",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820429065.859241,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://huntingtoningalls.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|LNo9Me+G8ZFHUTbCUShQwVye0ur5ruNI2EuelpiTLE2fIMz7Zz7aazq7dv268I+LkCP/jhJstIWM1KxoLazIt9i2Wk5FrGos0XY24Ec+XLsHnXkkUvfBvUM05TIgcWFjg6exuYCjKrR97RZSe/LEqfyYLUBgEhZrXHRiEbp3BzpbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820429065.859249,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "aqBXitHM5rYAF5LFAAZyWAAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1820429066.170124,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "6152",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1796669066.090615,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "6152",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1796669066.170251,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "96208C9E335E9FFD7258C41B9F00E74C.pc68bcar1010",
+      "domain": "career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "huntingt01P2",
+      "domain": "career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "route",
+      "value": "bfa22e9fb88af09aaca3291d0e6ab1c0726d1c11",
+      "domain": "career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_PTR82E305T",
+      "value": "GS2.1.s1788893055$o1$g1$t1788893096$j19$l0$h0",
+      "domain": ".huntingtoningalls.com",
+      "path": "/",
+      "expires": 1823453096.259618,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1829925951.1788893099",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1788979498,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KRTBCOOKIE_377",
+      "value": "6810-9798914f-555c-4b97-9657-86fddc9831e5&KRTB&22918-9798914f-555c-4b97-9657-86fddc9831e5&KRTB&22926-9798914f-555c-4b97-9657-86fddc9831e5&KRTB&23031-9798914f-555c-4b97-9657-86fddc9831e5",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1796669098.641358,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1788893098",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1791485098.641397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1074093313.1788893099",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1823453101.347363,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_PTR82E305T",
+      "value": "GS2.1.s1788893098$o1$g0$t1788893101$j57$l0$h0",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1823453101.353383,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "660a7040abb511f193c783eb6ea37fd7",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1788979501,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "660a6680abb511f1a76b51980e7b529a",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1822589101,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tuuid",
+      "value": "f18bae9e-3966-4f82-97e5-189f305d967b",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1820429101.65906,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1788893101",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1820429101.592649,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1788893101",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1820429101.659148,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFwoIYXBwbmV4dXMSCwiMifmTrca7PxAFEhUKBmdvb2dsZRILCIjUw9Tn-MY_EAUSFgoHcnViaWNvbhILCKj3w9Tn-MY_EAUSFQoGY2FzYWxlEgsI9LWP1-f4xj8QBRIXCghwdWJtYXRpYxILCMLoho3q-MY_EAUSGAoJYmlkc3dpdGNoEgsIxKaUkOr4xj8QBRgFOAE.",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820429101.714728,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w5~8FBAA22FA9547D39ABF0551A6B660E15",
+      "domain": "jobs.sap.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "country",
+      "value": "US",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLID",
+      "value": "5c021a55416246eebf859d575b7177ca.20260908.20270908",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1820429199.963832,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ssds",
+      "value": "2",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1804448810,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__ssuzjsr2",
+      "value": "a9be0cd8e",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1804448810,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmaj2",
+      "value": "2933e5dd-0d44-4464-a1e1-768c08922392",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1804448810,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmbj2",
+      "value": "1788893200",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1804448810,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "1fem1c0%5E2%5Eg9a%5E0%5E2442",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1820429200,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pxvid",
+      "value": "a117e628-abb5-11f1-a67e-1a318d15c764",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1820429200.422529,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TAsessionID",
+      "value": "13b9a40e-9de7-4274-af5d-7eb91fa9ac69|NEW",
+      "domain": ".jobs.sap.com",
+      "path": "/",
+      "expires": 1788895001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "implied,eu",
+      "domain": ".jobs.sap.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SRM_B",
+      "value": "0D0108B75898663206A41F7959CE6770",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1822589203.314569,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "0D0108B75898663206A41F7959CE6770",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1822589202.388897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1789498002.388919,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1788893802.388932,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_preferences",
+      "value": "1:",
+      "domain": ".jobs.sap.com",
+      "path": "/",
+      "expires": 1823021209,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_gdpr_prefs",
+      "value": "0,1::implied,eu",
+      "domain": ".jobs.sap.com",
+      "path": "/",
+      "expires": 1823021209,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cmapi_gtm_bl",
+      "value": "ta-asp-bzi-sp-awct-cts-csm-img-flc-fls-mpm-mpr-m6d-tc-tdc",
+      "domain": ".jobs.sap.com",
+      "path": "/",
+      "expires": 1823021209,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cmapi_cookie_privacy",
+      "value": "permit 1,2 functional",
+      "domain": ".jobs.sap.com",
+      "path": "/",
+      "expires": 1823021209,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmcj2",
+      "value": "136761382957",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1804448810,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__uzmdj2",
+      "value": "1788893210",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1804448810,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "ffrczf%5E1788893210994%5E2%5E1%5Et.clarity.ms%2Fcollect",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1788979610,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "70468269845563470894510009046618736274",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1804445211.416514,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_227AC2D754DCAB340A4C98C6_AdobeOrg_identity",
+      "value": "CiY3MDQzODI1NjA2NjI4NDkzNTcwNDUxMTgxMTM3NDk4MzcwNDg5N1ISCKPX4JKINBABGAEqA1ZBNjAAoAGu1-CSiDSwAa4s8AGj1-CSiDQ=",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1823021211,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kndctr_227AC2D754DCAB340A4C98C6_AdobeOrg_cluster",
+      "value": "va6",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1788895011,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_227AC2D754DCAB340A4C98C6%40AdobeOrg",
+      "value": "MCMID|70438256066284935704511811374983704897",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1822589211,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gd_visitor",
+      "value": "af9cef28-4fc7-409a-8bc7-23fa10a7f5c1",
+      "domain": "jobs.sap.com",
+      "path": "/",
+      "expires": 1823453211.505268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gd_session",
+      "value": "80687c6e-a1d7-42c1-84e3-a0b228062626",
+      "domain": "jobs.sap.com",
+      "path": "/",
+      "expires": 1788907611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "6suuid",
+      "value": "e91f3617318100001b58a06a3f030000dc2b5700",
+      "domain": ".6sc.co",
+      "path": "/",
+      "expires": 1823453211.710832,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gd_svisitor",
+      "value": "e91f3617318100001b58a06a3f030000dc2b5700",
+      "domain": "jobs.sap.com",
+      "path": "/",
+      "expires": 1823453211.734755,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_px3",
+      "value": "f208223ea886947a4036861569289d22f242d35b571cfd0b2f338a5c7def2353:yGKUeJa5vhA8jDo1KAee5hLLXLrM07hDfcA24VuOkHTh3nGAMGdcmOi8ZKRpgcytR128kFIWGXyV0LwiBBGq7Q==:1000:hhCh5v0+FSdXQA5yi3kTn1jmOnStq/qD4iZeyhXzaVjAtcBMe+kr2ZeAVd9hzkc8k557qn03L80XLzn1sq4I0df6GffHx4NGWwLFB3x1h4NPw9tSx3anVyAKlT19B4IVRFdEY5fs+IVMAl3XyyeV1tvLMGuskPNe0xzdKoxfGilKa4RxlaXEj1kJd5JqPl3FIydVtohvky4Ef7cFoeaWb3LcgFhodYW7Wg2Sldz6CRKdSeXckpt631elTc+chsQ1mek9wiAWgwphFVgGZU6Gem6x6kJL0SMkymJenrlCPfKdP47MjnYn1TQXBr0zn4D6nwT/L+ff1N6YSeNRNXD5pYKGiiImXtXhzQk2AMSH6yZmVHpVS5T43sUko71huomN+TRzU7kXdRxM8mcyv5yUVemj9ZGfwrs1O9Fe0WPj0CVDwVeUQnMVbdYW08OsOkYOKDyq/7bqqJK0WD8mwozR5mC6Le4ShmI4ttlPitrEsDTDXB4OhB805EFwItEYr+ri",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": 1788893552.031385,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pxcts",
+      "value": "JPmIOg72eUNcfnkbbHJ1R70SZpiB/ZXVcS8lf0WPRIs=:-qAkw6QFZxTYu1OfBvaP7NXz43JR0ema8ukYzt/aV6biVQDRf272dc-QT-Sir4pbJjOjEJLGwKf8BnzpGLuN0S5RQA6MAyrf-FVJCWAK8mfw7sK0pKomk6woG4VwkT383EVEhas-jYuv44n7qFnxj7RoeSpYG7uSQHLIrTz1Vdxk0nn2YFeroqe3TJ6P7zvA",
+      "domain": ".sap.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://jobs.sap.com",
+      "localStorage": [
+        {
+          "name": "PXyAcH2HjB_px_fp",
+          "value": "eyJPMk1MSVg0TEN4TT0iOiI2YTUwMDY1YjY3NTlhNDMyNThkNmI0NDhiZjg1OTM0MyIsIk5rNUdESEFnUkR3PSI6IjRiMmFlOWM3YTI2ZTNiYjRkYjhmZmE2MTAzMjQ0MjRhIiwiRVhWaE4xUWFid2M9IjoiV2ViS2l0IiwiRlVsbFMxTWhaSDQ9IjoiV2ViS2l0IFdlYkdMIiwiSVVVUlIyUW9GWGM9IjoiV2ViR0wgMS4wIChPcGVuR0wgRVMgMi4wIENocm9taXVtKSIsIlBrWk9CSGd1U2pBPSI6WyJBTkdMRV9pbnN0YW5jZWRfYXJyYXlzIiwiRVhUX2JsZW5kX21pbm1heCIsIkVYVF9jbGlwX2NvbnRyb2wiLCJFWFRfY29sb3JfYnVmZmVyX2hhbGZfZmxvYXQiLCJFWFRfZGVwdGhfY2xhbXAiLCJFWFRfZGlzam9pbnRfdGltZXJfcXVlcnkiLCJFWFRfZmxvYXRfYmxlbmQiLCJFWFRfZnJhZ19kZXB0aCIsIkVYVF9wb2x5Z29uX29mZnNldF9jbGFtcCIsIkVYVF9zaGFkZXJfdGV4dHVyZV9sb2QiLCJFWFRfdGV4dHVyZV9jb21wcmVzc2lvbl9icHRjIiwiRVhUX3RleHR1cmVfY29tcHJlc3Npb25fcmd0YyIsIkVYVF90ZXh0dXJlX2ZpbHRlcl9hbmlzb3Ryb3BpYyIsIkVYVF90ZXh0dXJlX21pcnJvcl9jbGFtcF90b19lZGdlIiwiRVhUX3NSR0IiLCJLSFJfcGFyYWxsZWxfc2hhZGVyX2NvbXBpbGUiLCJPRVNfZWxlbWVudF9pbmRleF91aW50IiwiT0VTX2Zib19yZW5kZXJfbWlwbWFwIiwiT0VTX3N0YW5kYXJkX2Rlcml2YXRpdmVzIiwiT0VTX3RleHR1cmVfZmxvYXQiLCJPRVNfdGV4dHVyZV9mbG9hdF9saW5lYXIiLCJPRVNfdGV4dHVyZV9oYWxmX2Zsb2F0IiwiT0VTX3RleHR1cmVfaGFsZl9mbG9hdF9saW5lYXIiLCJPRVNfdmVydGV4X2FycmF5X29iamVjdCIsIldFQkdMX2JsZW5kX2Z1bmNfZXh0ZW5kZWQiLCJXRUJHTF9jb2xvcl9idWZmZXJfZmxvYXQiLCJXRUJHTF9jb21wcmVzc2VkX3RleHR1cmVfYXN0YyIsIldFQkdMX2NvbXByZXNzZWRfdGV4dHVyZV9ldGMiLCJXRUJHTF9jb21wcmVzc2VkX3RleHR1cmVfZXRjMSIsIldFQkdMX2NvbXByZXNzZWRfdGV4dHVyZV9wdnJ0YyIsIldFQkdMX2NvbXByZXNzZWRfdGV4dHVyZV9zM3RjIiwiV0VCR0xfY29tcHJlc3NlZF90ZXh0dXJlX3MzdGNfc3JnYiIsIldFQkdMX2RlYnVnX3JlbmRlcmVyX2luZm8iLCJXRUJHTF9kZWJ1Z19zaGFkZXJzIiwiV0VCR0xfZGVwdGhfdGV4dHVyZSIsIldFQkdMX2RyYXdfYnVmZmVycyIsIldFQkdMX2xvc2VfY29udGV4dCIsIldFQkdMX211bHRpX2RyYXciLCJXRUJHTF9wb2x5Z29uX21vZGUiXSwiY3l0RGFUWkhRRkk9IjpbIlsxLCAxXSIsIlsxLCA1MTFdIiw4LCJ5ZXMiLDgsMjQsOCwxNiwzMiwxNjM4NCwxMDI0LDE2Mzg0LDE2LDE2Mzg0LDMwLDE2LDE2LDEwMjQsIlsxNjM4NCwgMTYzODRdIiwibm9fZnAiLDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3XSwiWVFWUkJ5UnJVemM9IjoiR29vZ2xlIEluYy4gKEFwcGxlKSIsIkJYbDFPME1RZHd3PSI6IkFOR0xFIChBcHBsZSwgQU5HTEUgTWV0YWwgUmVuZGVyZXI6IEFwcGxlIE0yLCBVbnNwZWNpZmllZCBWZXJzaW9uKSIsIklDUlFKbVpNVkJBPSI6IldlYkdMIEdMU0wgRVMgMS4wIChPcGVuR0wgRVMgR0xTTCBFUyAxLjAgQ2hyb21pdW0pIiwiVGxaK0ZBcytlU1U9IjoiMjY5YmY2ZjU0Yzk3ZjRkNWFlYmFhNGExMmVlYmVhZGIiLCJWaTVtTEJOR1lSdz0iOiI5YjZlOGFhMjRjOWM4OTFjMGFjMTJiMzVlZWM2NGI2YSIsIlFBUndSZ1pnZFhNPSI6IjA0ODM4MjU0NjQ5MzVkNTQyMTAzNTU5NmVlNGMwZTcxIiwiSHdkdkJWcHZielU9IjoiZWU2ZTNmYzkxZjEyODMyODk4YjZjODZlM2Y0NTFjNjQiLCJQQUJNUW5scVNIUT0iOiJbNjMsNjMsNjMsNjMsMCwxOTEsMTkxLDE5MSwxOTEsMCwxOTEsMTkxLDE5MSwxOTEsMTkxLDE5MSwxOTEsMTkxLDE5MSwxMjgsMTI4LDEyOCwxMjgsMTI4LDEyOCwxMjhdIiwiUFNFTlkzdElEVlk9IjoiMTI2Ljg2OTcxOTc0Njk4ODI3IiwiS0R4WVBtMVFYd1U9IjoiZGM4YTQzYzI4MzM2OTE1NWRlOGZlNzRkYzAzYTc1YzMiLCJEaFkrVkV0NFBHST0iOiI2N2JmZTE5N2JjZTYyZGRlOTM3ODgwYjNjMzJjZWViZiIsImNnb0NTRGRoQjNnPSI6ImNlMjFjMDJmNWZlYWIwNjEyM2E5ZDI1MmQxNmMxZDk3IiwiSG1ZdVpGc0tLbFk9IjpbIiQiLCJfc2F0ZWxsaXRlIiwiX19zYXRlbGxpdGVMb2FkZWQiLCJfX2FsbG95TW9uaXRvcnMiLCJfX2FsbG95TlMiLCJfX3B3Q2xvY2siLCJqMnciLCJfX2NsciIsIl9zdG9yYWdlUG9wdWxhdGVkIiwiXzZzaSIsIiR0ZW1wX291dGVyZGl2IiwiJHRlbXBfc3R5bGVfb3V0ZXJkaXYiLCIkdGVtcF9ib3hfb3ZlcmxheV9ib3JkZXIiLCIkdGVtcF9jbG9zZWJ0bl9zdHlsZSIsIiR0ZW1wX2V4dGVybmFsY3NzIiwiX3RydXN0ZV9ldSIsIldBRlF1YWx0cmljc1dlYnBhY2tKc29uUC1jbG91ZC0yLjU2LjAtMCJdLCJJbnBTZUdjVVVFcz0iOlsialF1ZXJ5MzUxMDc1MzE0MTk2NjQ5MjgzNzkxIl0sImNIUUFkalVjQlVFPSI6IjY3NmZjZjlmODQ1YjQ4ODBiZjc0NmViMGE2ZDExZmNiIiwiRlVsbFMxQWhZSDg9IjoiYzJmYmQ4M2YwMWQzNTU2ZTFlOWViMzNhMDgxODBhY2MiLCJMeGNmRldsekhDOD0iOjEsIldHeG9iaDRJWjFvPSI6dHJ1ZSwiY0hRQWRqVWJEazA9Ijp0cnVlLCJFWFZoTjFRYlpRUT0iOmZhbHNlLCJXR3hvYmg0Q2Jsbz0iOmZhbHNlLCJSbDUySEFBM2RTWT0iOnRydWUsIlAyY1BKWG9MQVJFPSI6Im1pc3NpbmciLCJlVzFKTHp3RVRCbz0iOlsiJCIsIl9zYXRlbGxpdGUiLCJfX3NhdGVsbGl0ZUxvYWRlZCIsIl9fYWxsb3lNb25pdG9ycyIsIl9fYWxsb3lOUyIsIl9weEFwcElkIiwiX19wd0Nsb2NrIiwiX3lBY0gySGpCaGFuZGxlciIsIl9fY2xyIiwiX3N0b3JhZ2VQb3B1bGF0ZWQiLCJfNnNpIiwiJHRlbXBfb3V0ZXJkaXYiLCIkdGVtcF9zdHlsZV9vdXRlcmRpdiIsIiR0ZW1wX2JveF9vdmVybGF5X2JvcmRlciIsIiR0ZW1wX2Nsb3NlYnRuX3N0eWxlIiwiJHRlbXBfZXh0ZXJuYWxjc3MiLCJfdHJ1c3RlX2V1Il0sIloxOVhYU0U2VkcwPSI6W10sIk5rNUdESE1uUWpjPSI6WyJ1bmRlZmluZWQ6OnVuZGVmaW5lZCIsInVuZGVmaW5lZDo6dW5kZWZpbmVkIiwidW5kZWZpbmVkOjp1bmRlZmluZWQiLCJ1bmRlZmluZWQ6OnVuZGVmaW5lZCIsInVuZGVmaW5lZDo6dW5kZWZpbmVkIl0sIk5BaEVTbkpzU25zPSI6IjE3ODg4OTMyMTA3ODgiLCJPa0pLQUg4dFR6bz0iOiJUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgbnVsbCAocmVhZGluZyAnMCcpIGF0IG9kIChodHRwczovL2NsaWVudC5weC1jbG91ZC5uZXQvUFh5QWNIMkhqQi9tYWluLm1pbi5qczoyOjYxNTYwKSBhdCBvZSAoaHR0cHM6Ly9jbGllbnQucHgtY2xvdWQubmV0L1BYeUFjSDJIakIvbWFpbi5taW4uanM6Mjo2MTYxNykgYXQgZnVuYyAoaHR0cHM6Ly9jbGllbnQucHgtY2xvdWQubmV0L1BYeUFjSDJIakIvbWFpbi5taW4uanM6MjoxOTQzMzcpIGF0IGx0IChodHRwczovL2NsaWVudC5weC1jbG91ZC5uZXQvUFh5QWNIMkhqQi9tYWluLm1pbi5qczoyOjQ3NzI3KSBhdCBodHRwczovL2NsaWVudC5weC1jbG91ZC5uZXQvUFh5QWNIMkhqQi9tYWluLm1pbi5qczoyOjE5NTU1MCIsIlVCUmdWaFY3YjJ3PSI6dHJ1ZSwiSXhzVEdXWnlFQzA9IjozMywiZFdsRkt6QUdRUjg9IjoiZmQ3MTQ5YmJmYjMxNjY5OWVmOTE4ZmE3YmI3NTEwYTgiLCJUbForRkFnNGVTOD0iOiJkNDFkOGNkOThmMDBiMjA0ZTk4MDA5OThlY2Y4NDI3ZSIsIkx4Y2ZGV2wvSFNZPSI6ImZkNzE0OWJiZmIzMTY2OTllZjkxOGZhN2JiNzUxMGE4IiwiVzBNclFSNHJKSFU9IjozLCJpZnYiOjMsImlmdCI6IjE3ODg4OTMyMTA3ODgiLCJmV0ZOSXpzRVRoST0iOjE1MTIsIk1EUkFOblplVHdVPSI6OTgyLCJFWFZoTjFRWlpBUT0iOjE1MTIsImN5dERhVFpGVEZ3PSI6IjE1MTJYOTgyIiwiU0J4NFhnNXlkMnc9IjoyNCwiS3hNYkVXNStIQ0E9IjoyNCwiRW1vaWFGY0dKMUk9Ijo5ODIsIlhpWnVKQmhEYlI4PSI6IjEwMjA3YjJmIiwiWVFWUkJ5ZHRYalk9IjoiZW4tVVMiLCJiUkZkRXloNFh5az0iOiJNYWNJbnRlbCIsIlZHaGthaElDWmx3PSI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIEhlYWRsZXNzQ2hyb21lLzE1Mi4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiUEFCTVFucHJRM0U9IjpbImVuLVVTIiwiZW4iXSwiR21JcVlGOFBMbFU9Ijp0cnVlLCJHVTFwVDE4bWJIdz0iOjE2LCJTQng0WGc1M2Qyaz0iOjgsIlQzYy9OUWtaTVFjPSI6MjQwLCJEWEY5TTBzYWZRaz0iOmZhbHNlLCJNVlVCVjNjd0FtVT0iOiJUdWUgU2VwIDA4IDIwMjYgMTQ6NDY6NTAgR01ULTA0MDAgKEVhc3Rlcm4gRGF5bGlnaHQgVGltZSkiLCJOazVHREhBbVJUND0iOnRydWUsIlRsWitGQWcrZWk4PSI6IjY0NTU2Yzc3IiwiR0N3b0xsNUVLaGs9Ijo0Mzk1NjMwNTkyLCJUQkI4VWdwNWZtST0iOiI3YzVmOTcyNCIsImJIQWNjaWtZR1VjPSI6ImQ0YWNiZTcwMmIyY2U5ZDdiMTg1Y2JmMDA2MmM4ZGVhIiwiYUh3WWZpMFZGMG89IjpudWxsLCJIQ0FzSWxsT0xSST0iOiIyYjEwZWI2ODUzN2Q4ZWMwMGM3MTkzNGVhMzIxYTRmZCJ9"
+        },
+        {
+          "name": "PXyAcH2HjB_px_hvd",
+          "value": "586a8c932f799da801e2479f50ff3ebe"
+        },
+        {
+          "name": "https://contextualnavigation.api.community.sap.com/navigation_touchpoint_configuration/careers/en-us/data_latest.json",
+          "value": "{\"data\":{\"profile\":{\"accountManagementUrl\":\"\",\"links\":[]},\"searchConfig\":{\"disabled\":false,\"url\":\"https://jobs.sap.com/search/\",\"placeholder\":\"Search for jobs\",\"inputName\":\"q\",\"queryParameters\":{}},\"countrySelectorConfig\":{\"enabled\":true,\"searchDisabled\":true,\"regions\":[{\"title\":\"Languages\",\"countries\":[{\"url\":\"https://jobs.sap.com/?locale=en_US\",\"displayTitle\":\"Global - English\",\"nativeTitle\":\"\",\"countryCode\":\"en\"},{\"url\":\"https://jobs.sap.com/?locale=de_DE\",\"displayTitle\":\"Germany - Deutsch\",\"nativeTitle\":\"Deutschland\",\"countryCode\":\"de\"},{\"url\":\"https://jobs.sap.com/?locale=zh_CN\",\"displayTitle\":\"China - 中文\",\"nativeTitle\":\"中文\",\"countryCode\":\"zh\"},{\"url\":\"https://jobs.sap.com/?locale=fr_FR\",\"displayTitle\":\"France - Français\",\"nativeTitle\":\"\",\"countryCode\":\"fr\"},{\"url\":\"https://jobs.sap.com/?locale=ja_JP\",\"displayTitle\":\"Japan - 日本語\",\"nativeTitle\":\"日本\",\"countryCode\":\"jp\"}]}]},\"shoppingCartConfig\":{},\"hideExploreSapLink\":false,\"disableProfileMenu\":false,\"showSearchInputByDefault\":false},\"expiry\":1788979610693}"
+        },
+        {
+          "name": "_sap",
+          "value": "{\"e\":1788894999794,\"v\":0}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_preferences",
+          "value": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"1:\",\"path\":\"/\",\"expires\":1823035609204}"
+        },
+        {
+          "name": "truste.eu.cookie.cmapi_cookie_privacy",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_cookie_privacy\",\"value\":\"permit 1,2 functional\",\"path\":\"/\",\"expires\":1823035609226}"
+        },
+        {
+          "name": "https://contextualnavigation.api.community.sap.com/navigation_explore_sap/explore_sap/en-us/data_latest.json",
+          "value": "{\"data\":{\"exploreSapLink\":{\"title\":\"Explore SAP\",\"subMenuRows\":[{\"subMenuLinkItems\":[{\"category\":\"Products\",\"url\":\"https://www.sap.com/products.html\",\"items\":[{\"title\":\"Autonomous Enterprise\",\"url\":\"https://www.sap.com/products/business-suite.html\"},{\"title\":\"Artificial intelligence\",\"url\":\"https://www.sap.com/products/artificial-intelligence.html\"},{\"title\":\"Data and analytics\",\"url\":\"https://www.sap.com/products/data-cloud.html\"},{\"title\":\"Autonomous Suite\",\"url\":\"https://www.sap.com/products/business-applications.html\"},{\"title\":\"Technology platform\",\"url\":\"https://www.sap.com/products/technology-platform.html\"},{\"title\":\"Transformation management\",\"url\":\"https://www.sap.com/products/business-transformation-management.html\"},{\"title\":\"Midsize business solutions\",\"url\":\"https://www.sap.com/products/erp/grow.html\"},{\"title\":\"Financial management\",\"url\":\"https://www.sap.com/products/financial-management.html\"},{\"title\":\"Spend management\",\"url\":\"https://www.sap.com/products/spend-management.html\"},{\"title\":\"Supply chain management\",\"url\":\"https://www.sap.com/products/scm.html\"},{\"title\":\"Human capital management\",\"url\":\"https://www.sap.com/products/hcm.html\"},{\"title\":\"Customer experience\",\"url\":\"https://www.sap.com/products/crm.html\"},{\"title\":\"Enterprise resource planning\",\"url\":\"https://www.sap.com/products/erp.html\"},{\"title\":\"Business network\",\"url\":\"https://www.sap.com/products/business-network.html\"},{\"title\":\"Sustainability management\",\"url\":\"https://www.sap.com/products/sustainability.html\"},{\"title\":\"-\"},{\"title\":\"SAP Store\",\"url\":\"https://www.sap.com/store.html\"},{\"title\":\"Try SAP\",\"url\":\"https://www.sap.com/products/try-sap.html\"},{\"title\":\"View all industries\",\"url\":\"https://www.sap.com/industries.html\"},{\"title\":\"-\"},{\"title\":\"Partners\",\"url\":\"https://www.sap.com/partners.html\"},{\"title\":\"-\"},{\"title\":\"Services\",\"url\":\"https://www.sap.com/services-support.html\"}],\"displayItemsAsCategoryLink\":false},{\"category\":\"Learning and support\",\"url\":\"\",\"items\":[{\"title\":\"Learning and certification\",\"url\":\"https://learning.sap.com\"},{\"title\":\"Support\",\"url\":\"https://support.sap.com\"},{\"title\":\"Documentation\",\"url\":\"https://help.sap.com\"},{\"title\":\"Community\",\"url\":\"https://community.sap.com/\"}],\"displayItemsAsCategoryLink\":false},{\"category\":\"About\",\"url\":\"\",\"items\":[{\"title\":\"Company information\",\"url\":\"https://www.sap.com/about/company.html\"},{\"title\":\"Careers\",\"url\":\"https://jobs.sap.com/?utm_source=CareerSite&utm_campaign=CorpSite_HD\"},{\"title\":\"Customer stories\",\"url\":\"https://www.sap.com/about/customer-stories.html\"},{\"title\":\"Ethics and compliance\",\"url\":\"https://www.sap.com/about/ethics-and-compliance.html\"},{\"title\":\"Events\",\"url\":\"https://www.sap.com/events.html\"},{\"title\":\"Investor Relations\",\"url\":\"https://www.sap.com/investors/en.html\"},{\"title\":\"News center\",\"url\":\"https://news.sap.com/\"},{\"title\":\"SAP Trust Center\",\"url\":\"https://www.sap.com/about/trust-center.html\"}],\"displayItemsAsCategoryLink\":false}]}],\"displayTitle\":\"Explore all areas of SAP\"}},\"expiry\":1788979610693}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_gdpr_prefs",
+          "value": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0,1::implied,eu\",\"path\":\"/\",\"expires\":1823035609205}"
+        },
+        {
+          "name": "PXyAcH2HjB_px-ff",
+          "value": "eyJjYyI6eyJ0dGwiOjE3ODg4OTMyNzEsInZhbCI6IlUyRnRaVk5wZEdVOVRHRjRPdz09In0sInRtIjp7InR0bCI6MTc4ODg5MzUxMSwidmFsIjoiMSJ9fQ=="
+        },
+        {
+          "name": "_6signalTTL",
+          "value": "1788907611143"
+        },
+        {
+          "name": "https://contextualnavigation.api.community.sap.com/translations/navigation_labels/en-us/data_latest.json",
+          "value": "{\"data\":{\"translations\":{\"ContactUs\":\"Contact Us\",\"CountrySelector\":\"\",\"CountrySelector.BackToRegions\":\"\",\"CountrySelector.ChooseCountry\":\"Choose your country\",\"CountrySelector.ChooseLanguage\":\"\",\"CountrySelector.ChooseRegion\":\"Choose your region\",\"CountrySelector.LastVisited\":\"\",\"Generic.More\":\"More\",\"Generic.Overview\":\"Overview\",\"Generic.Return\":\"\",\"Generic.Settings\":\"\",\"LandingZone.SapLogo\":\"\",\"Navigation.CloseMenu\":\"\",\"Navigation.MainLinks\":\"\",\"Navigation.OpenMenu\":\"\",\"Navigation.ToggleSubMenu\":\"\",\"Notifications\":\"\",\"Notifications.Bell\":\"\",\"Profile\":\"\",\"Profile.CreateUniversalId\":\"\",\"Profile.Logout\":\"\",\"Profile.MyAccount\":\"\",\"Profile.UserAvatar\":\"\",\"Search\":\"Search\",\"Search.Cancel\":\"\",\"Search.Close\":\"\",\"Search.Open\":\"\",\"Search.Submit\":\"\",\"ShoppingCart\":\"\"}},\"expiry\":1788979610693}"
+        },
+        {
+          "name": "truste.eu.cookie.cmapi_gtm_bl",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_gtm_bl\",\"value\":\"ta-asp-bzi-sp-awct-cts-csm-img-flc-fls-mpm-mpr-m6d-tc-tdc\",\"path\":\"/\",\"expires\":1823035609226}"
+        },
+        {
+          "name": "https://contextualnavigation.api.community.sap.com/navigation_landing_zone/careers/en-us/data_latest.json",
+          "value": "{\"data\":{\"landingZone\":{\"title\":\"Careers\",\"url\":\"https://jobs.sap.com/\"},\"mainLinks\":[{\"title\":\"Students and graduates\",\"url\":\"https://jobs.sap.com/content/Students-and-Graduates/?locale=en_US\",\"subMenuRows\":[]},{\"title\":\"Professionals\",\"url\":\"\",\"subMenuRows\":[{\"subMenuLinkItems\":[{\"category\":\"\",\"url\":\"\",\"items\":[{\"title\":\"Overview\",\"url\":\"https://jobs.sap.com/content/Professionals/?locale=en_US\",\"externalLink\":false},{\"title\":\"Job areas\",\"url\":\"https://jobs.sap.com/content/job-areas/?locale=en_US\",\"externalLink\":false},{\"title\":\"Dremio careers\",\"url\":\"https://www.dremio.com/careers/job-postings/\",\"externalLink\":true},{\"title\":\"Reltio careers\",\"url\":\"https://www.reltio.com/careers/\",\"externalLink\":true},{\"title\":\"SmartRecruiters careers\",\"url\":\"https://www.smartrecruiterscareers.com/\",\"externalLink\":true},{\"title\":\"Taulia careers\",\"url\":\"https://taulia.com/company/careers/\",\"externalLink\":true},{\"title\":\"Walkme careers\",\"url\":\"https://www.walkme.com/careers/\",\"externalLink\":true}],\"displayItemsAsCategoryLink\":false}]}]},{\"title\":\"Leaders\",\"url\":\"https://jobs.sap.com/content/Leadership/?locale=en_US\",\"subMenuRows\":[]},{\"title\":\"Locations\",\"url\":\"https://jobs.sap.com/content/locations/?locale=en_US\",\"subMenuRows\":[]},{\"title\":\"Life at SAP\",\"url\":\"\",\"subMenuRows\":[{\"subMenuLinkItems\":[{\"category\":\"\",\"url\":\"\",\"items\":[{\"title\":\"Overview\",\"url\":\"https://jobs.sap.com/content/Life-at-Sap/?locale=en_US\",\"externalLink\":false},{\"title\":\"Benefits and rewards\",\"url\":\"https://jobs.sap.com/content/Benefits/?locale=en_US\",\"externalLink\":false},{\"title\":\"Hybrid work\",\"url\":\"https://jobs.sap.com/content/flex-work/?locale=en_US\",\"externalLink\":false},{\"title\":\"People stories\",\"url\":\"https://jobs.sap.com/content/People-Stories/?locale=en_US\",\"externalLink\":false},{\"title\":\"Employer awards\",\"url\":\"https://jobs.sap.com/content/Employer-Awards/?locale=en_US\",\"externalLink\":false},{\"title\":\"Inclusion and equality\",\"url\":\"https://www.sap.com/about/inclusion.html\",\"externalLink\":false},{\"title\":\"Employee network groups\",\"url\":\"https://jobs.sap.com/content/Employee-Network-Groups/?locale=en_US\",\"externalLink\":false},{\"title\":\"Sustainability\",\"url\":\"https://www.sap.com/sustainability/our-approach.html\",\"externalLink\":false},{\"title\":\"Military veterans\",\"url\":\"https://jobs.sap.com/content/Military-Veterans/?locale=en_US\",\"externalLink\":false},{\"title\":\"Neuroinclusion at SAP\",\"url\":\"https://jobs.sap.com/content/Neuroinclusion_at_SAP/?locale=en_US\",\"externalLink\":false},{\"title\":\"SAP employees (Internal)\",\"url\":\"https://performancemanager5.successfactors.eu/sf/careers?company=SAP\",\"externalLink\":false}],\"displayItemsAsCategoryLink\":false}]}]},{\"title\":\"How we hire\",\"url\":\"\",\"subMenuRows\":[{\"subMenuLinkItems\":[{\"category\":\"\",\"url\":\"\",\"items\":[{\"title\":\"Overview\",\"url\":\"https://jobs.sap.com/content/Hiring-Process/?locale=en_US\",\"externalLink\":false},{\"title\":\"FAQ\",\"url\":\"https://jobs.sap.com/content/FAQ/?locale=en_US\",\"externalLink\":false},{\"title\":\"Ethical usage of AI in the recruiting process\",\"url\":\"https://jobs.sap.com/content/Ethical_usage_of_AI_in_the_recruiting_process/?locale=en_US\",\"externalLink\":false}],\"displayItemsAsCategoryLink\":false}]}]}]},\"expiry\":1788979610693}"
+        },
+        {
+          "name": "optout_domains",
+          "value": "{\"Required Cookies\":{\"domains\":{\"jobs.sap.com\":\"2\",\"schemaapp.com\":\"2\",\"assets.adobedtm.com\":\"2\",\"cdn.schemaapp.com\":\"2\",\"data.schemaapp.com\":\"2\",\"adobedtm.com\":\"2\"},\"value\":\"0\"},\"Functional Cookies\":{\"domains\":{\"qualtrics.com\":\"1\",\"sap.demdex.net\":\"1\",\"6sense.com\":\"1\",\"cc365-eu-c1.sapcctr.com\":\"1\",\"cm.everesttech.net\":\"1\",\"demdex.net\":\"1\",\"omtrdc.net\":\"1\",\"6sc.co\":\"1\",\"login-eu-c1.cc.sinch.com\":\"1\",\"sinch.com\":\"1\",\"b.6sc.co\":\"1\",\"www.sinch.com\":\"1\",\"everesttech.net\":\"1\",\"dpm.demdex.net\":\"1\",\"sapglobalmarketingin.tt.omtrdc.net\":\"1\"},\"value\":\"1\"}}"
+        },
+        {
+          "name": "_6senseCompanyDetails",
+          "value": "{\"company\":{\"domain\":\"hilton.com\",\"name\":\"Hilton\",\"region\":\"Northern America\",\"country\":\"United States\",\"state\":\"Virginia\",\"city\":\"McLean\",\"industry\":\"Hospitality and Travel\",\"companyId\":\"14e407efae22697\",\"country_iso_code\":\"US\",\"address\":\"7930 Jones Branch Drive\",\"zip\":\"22102\",\"phone\":\"+1 510-751-4993\",\"employee_range\":\"10,000+\",\"revenue_range\":\"$5B+\",\"employee_count\":\"151206\",\"annual_revenue\":\"11174000000\",\"is_blacklisted\":false,\"state_code\":\"VA\",\"is_6qa\":true,\"geoIP_country\":\"United States\",\"geoIP_state\":\"North Carolina\",\"geoIP_city\":\"\",\"company_match\":\"Match\",\"additional_comment\":\"Company name or domain match was found\",\"naics\":\"721110\",\"industry_v2\":[{\"industry\":\"Hospitality, Travel, and Recreation\",\"subindustry\":\"Lodging\"}],\"sic\":\"7011\",\"sic_description\":\"Hotels and Motels\",\"naics_description\":\"Hotels (except Casino Hotels) and Motels\"},\"scores\":[{\"product\":\"bdc\",\"intent_score\":80,\"buying_stage\":\"Decision\",\"profile_score\":84,\"profile_fit\":\"Strong\",\"is_6qa\":true,\"product_display_name\":\"BDC\"},{\"product\":\"fns\",\"intent_score\":92,\"buying_stage\":\"Purchase\",\"profile_score\":81,\"profile_fit\":\"Strong\",\"is_6qa\":true,\"product_display_name\":\"F&S\"},{\"product\":\"cx\",\"intent_score\":83,\"buying_stage\":\"Decision\",\"profile_score\":83,\"profile_fit\":\"Strong\",\"is_6qa\":true,\"product_display_name\":\"CX\"},{\"product\":\"btp\",\"intent_score\":71,\"buying_stage\":\"Decision\",\"profile_score\":86,\"profile_fit\":\"Strong\",\"is_6qa\":true,\"product_display_name\":\"BTP\"},{\"product\":\"erp\",\"intent_score\":82,\"buying_stage\":\"Decision\",\"profile_score\":69,\"profile_fit\":\"Moderate\",\"is_6qa\":true,\"product_display_name\":\"ERP\"},{\"product\":\"scm\",\"intent_score\":76,\"buying_stage\":\"Decision\",\"profile_score\":52,\"profile_fit\":\"Moderate\",\"is_6qa\":true,\"product_display_name\":\"SCM\"},{\"product\":\"hcm\",\"intent_score\":73,\"buying_stage\":\"Decision\",\"profile_score\":83,\"profile_fit\":\"Strong\",\"is_6qa\":true,\"product_display_name\":\"HCM\"}],\"segments\":{\"ids\":[2546906,2540805,2412209,2546904,2467320,2546901,2467920,2328544,2076774,849826,769067,2391979,2448527,2467925,2555176,2457828,2073887,2427110,2098128,2467298,2546911,2328559,2194412,856800,854301,2467932,851900,805335,2417443,838392,2417482,2089016,2457939,2155858,2466054,706782,2085305,2417476,2414483,854308,2449878,2420531,2073706,2553788,2445513,2168536,2098109,2076915,2457806,2419594,2469774,2525086,2419598,2097575,2469770,2506983,2467313,2469777,2085358,2458015,2445500,2072209,2422888,2104670,2071713],\"names\":[\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-105 Land AI cloud ERP Corporate Customers through Supply Chain\",\"[focus]MAPs_AccountBasedMarketing_CloudERPNN_LandNNCustomersWithCloudERPDP\",\"total bdc segment\",\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-105 Land AI cloud ERP Corporate Customers through Finance\",\"BDC D&P\",\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-111 Land Net New Customers with Cloud ERP demand program\",\"F&S D&P\",\"MDAS | TAL | HCM | IDP 025-Upsell HCM Learning & Talent Management_09.2025\",\"MDAS | TAL | HCM | IDP 012-Cross-Sell Install Base with Core HR_02.2025\",\"[status]sas_tt_7999\",\"[intent]sas_tt_7327\",\"ICP - Base Enterprise - Existing Accounts\",\"WS_HCM_IDP-101_Land Corporate Customers with Core HR - Decision & Purchase\",\"SCM D&P\",\"LisaLewis_AE_Segment_Combined_inmarket\",\"All IB ICPs\",\"[focus]sas_7990\",\"MDAS | TAL | CX | IDP 014-Expanded ERP IB with CX Portfolio_01.2026\",\"[intent]sas_tt_8045\",\"HCM D&P\",\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-101 Land Corporate Customers with Core HR\",\"MDAS | TAL | HCM | IDP 012-Cross-Sell Install Base with Core HR_09.2025\",\"[focus]sas_8271\",\"[intent]sas_tt_8020\",\"[focus]sas_8025_noncrm\",\"ERP D&P\",\"[focus]sas_7991_part2\",\"MDAS | TAL | ERP | IDP 042-Business Suite GROW Cross Portfolio_03.2025\",\"F&S_IDP-013_Cross Sell SAP IB and Upsell FSM IB Demand with Strategic and Operational Procurement\",\"[status]sas_7945_usa\",\"CX_IDP-014_Cross Sell and Upsell CX Solutions into ERP and CX IB\",\"[intent]sas_tt_8030\",\"WS_ERP SCM_IDP-105_Land AI cloud ERP Corp. Cust. through Finance & Supply Chain - Decision & Purchase\",\"[intent]sas_tt_8045xxxx\",\"CX D&P\",\"[focus]sf_customers_versionB\",\"[intent]sas_tt_8003\",\"SCM_IDP-107_Cross Sell SAP IB and Upsell SCM Demand with AI powered, end-to-end Supply Chain Management solutions\",\"D&AI_IDP-023_Cross sell-BDC into ERP IB to enable AI ready Data Fabric\",\"[focus]sas_8025_crm1\",\"MAPS | ABM | ERP | Business Suite NN Corp 06.2026\",\"HCM_IDP-102_Cross Sell HCM Solutions to SAP IB\",\"[intent]sas_tt_8021\",\"LisaLewis_AE_Segment_Combined\",\"HCM - SuccessFactors + Workday Technographicx\",\"[intent]sas_tt_6624\",\"[intent]sas_tt_8019\",\"MDAS | TAL | F&S | IDP 013-Expand & Upsell with Procurement_02.2025\",\"WS_ERP_IDP-111_Acquire Corporate Customers through AI cloud ERP​ - Decision & Purchase\",\"BTP_IDP-024_Cross sell Build into ERP IB to enable Custom AI & extend applications\",\"[focus]MAPs_AccountBasedMarketing_CloudERPCorporate_LandHR\",\"Technographic - Workday\",\"BTP_IDP-007_Cross-sell Integration Suite into ERP IB to standardize Integration enterprise-wide\",\"[intent]sas_tt_8002\",\"[focus]MAPs_AccountBasedMarketing_CloudERPCorporate_AcquireAccounts\",\"Developers Campaign\",\"BTP D&P\",\"[focus]MAPs_AccountBasedMarketing_CloudERPCorporate_LandAIFinSCM\",\"[intent]sas_tt_8046\",\"G2 Meeting\",\"HCM Workday Technographics\",\"[intent]sas_tt_8018\",\"RISE_IDP-006_Migrate legacy enterprise ERP systems and modernize your business with SAP Business Suite - RISE\",\"[intent]sas_tt_8103\",\"[intent]sas_tt_7986\"],\"list\":[{\"name\":\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-105 Land AI cloud ERP Corporate Customers through Supply Chain\",\"id\":2546906},{\"name\":\"[focus]MAPs_AccountBasedMarketing_CloudERPNN_LandNNCustomersWithCloudERPDP\",\"id\":2540805},{\"name\":\"total bdc segment\",\"id\":2412209},{\"name\":\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-105 Land AI cloud ERP Corporate Customers through Finance\",\"id\":2546904},{\"name\":\"BDC D&P\",\"id\":2467320},{\"name\":\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-111 Land Net New Customers with Cloud ERP demand program\",\"id\":2546901},{\"name\":\"F&S D&P\",\"id\":2467920},{\"name\":\"MDAS | TAL | HCM | IDP 025-Upsell HCM Learning & Talent Management_09.2025\",\"id\":2328544},{\"name\":\"MDAS | TAL | HCM | IDP 012-Cross-Sell Install Base with Core HR_02.2025\",\"id\":2076774},{\"name\":\"[status]sas_tt_7999\",\"id\":849826},{\"name\":\"[intent]sas_tt_7327\",\"id\":769067},{\"name\":\"ICP - Base Enterprise - Existing Accounts\",\"id\":2391979},{\"name\":\"WS_HCM_IDP-101_Land Corporate Customers with Core HR - Decision & Purchase\",\"id\":2448527},{\"name\":\"SCM D&P\",\"id\":2467925},{\"name\":\"LisaLewis_AE_Segment_Combined_inmarket\",\"id\":2555176},{\"name\":\"All IB ICPs\",\"id\":2457828},{\"name\":\"[focus]sas_7990\",\"id\":2073887},{\"name\":\"MDAS | TAL | CX | IDP 014-Expanded ERP IB with CX Portfolio_01.2026\",\"id\":2427110},{\"name\":\"[intent]sas_tt_8045\",\"id\":2098128},{\"name\":\"HCM D&P\",\"id\":2467298},{\"name\":\"SAP | 6Sense | Cloud ERP NN | 2026 | ICP | IDP-101 Land Corporate Customers with Core HR\",\"id\":2546911},{\"name\":\"MDAS | TAL | HCM | IDP 012-Cross-Sell Install Base with Core HR_09.2025\",\"id\":2328559},{\"name\":\"[focus]sas_8271\",\"id\":2194412},{\"name\":\"[intent]sas_tt_8020\",\"id\":856800},{\"name\":\"[focus]sas_8025_noncrm\",\"id\":854301},{\"name\":\"ERP D&P\",\"id\":2467932},{\"name\":\"[focus]sas_7991_part2\",\"id\":851900},{\"name\":\"MDAS | TAL | ERP | IDP 042-Business Suite GROW Cross Portfolio_03.2025\",\"id\":805335},{\"name\":\"F&S_IDP-013_Cross Sell SAP IB and Upsell FSM IB Demand with Strategic and Operational Procurement\",\"id\":2417443},{\"name\":\"[status]sas_7945_usa\",\"id\":838392},{\"name\":\"CX_IDP-014_Cross Sell and Upsell CX Solutions into ERP and CX IB\",\"id\":2417482},{\"name\":\"[intent]sas_tt_8030\",\"id\":2089016},{\"name\":\"WS_ERP SCM_IDP-105_Land AI cloud ERP Corp. Cust. through Finance & Supply Chain - Decision & Purchase\",\"id\":2457939},{\"name\":\"[intent]sas_tt_8045xxxx\",\"id\":2155858},{\"name\":\"CX D&P\",\"id\":2466054},{\"name\":\"[focus]sf_customers_versionB\",\"id\":706782},{\"name\":\"[intent]sas_tt_8003\",\"id\":2085305},{\"name\":\"SCM_IDP-107_Cross Sell SAP IB and Upsell SCM Demand with AI powered, end-to-end Supply Chain Management solutions\",\"id\":2417476},{\"name\":\"D&AI_IDP-023_Cross sell-BDC into ERP IB to enable AI ready Data Fabric\",\"id\":2414483},{\"name\":\"[focus]sas_8025_crm1\",\"id\":854308},{\"name\":\"MAPS | ABM | ERP | Business Suite NN Corp 06.2026\",\"id\":2449878},{\"name\":\"HCM_IDP-102_Cross Sell HCM Solutions to SAP IB\",\"id\":2420531},{\"name\":\"[intent]sas_tt_8021\",\"id\":2073706},{\"name\":\"LisaLewis_AE_Segment_Combined\",\"id\":2553788},{\"name\":\"HCM - SuccessFactors + Workday Technographicx\",\"id\":2445513},{\"name\":\"[intent]sas_tt_6624\",\"id\":2168536},{\"name\":\"[intent]sas_tt_8019\",\"id\":2098109},{\"name\":\"MDAS | TAL | F&S | IDP 013-Expand & Upsell with Procurement_02.2025\",\"id\":2076915},{\"name\":\"WS_ERP_IDP-111_Acquire Corporate Customers through AI cloud ERP​ - Decision & Purchase\",\"id\":2457806},{\"name\":\"BTP_IDP-024_Cross sell Build into ERP IB to enable Custom AI & extend applications\",\"id\":2419594},{\"name\":\"[focus]MAPs_AccountBasedMarketing_CloudERPCorporate_LandHR\",\"id\":2469774},{\"name\":\"Technographic - Workday\",\"id\":2525086},{\"name\":\"BTP_IDP-007_Cross-sell Integration Suite into ERP IB to standardize Integration enterprise-wide\",\"id\":2419598},{\"name\":\"[intent]sas_tt_8002\",\"id\":2097575},{\"name\":\"[focus]MAPs_AccountBasedMarketing_CloudERPCorporate_AcquireAccounts\",\"id\":2469770},{\"name\":\"Developers Campaign\",\"id\":2506983},{\"name\":\"BTP D&P\",\"id\":2467313},{\"name\":\"[focus]MAPs_AccountBasedMarketing_CloudERPCorporate_LandAIFinSCM\",\"id\":2469777},{\"name\":\"[intent]sas_tt_8046\",\"id\":2085358},{\"name\":\"G2 Meeting\",\"id\":2458015},{\"name\":\"HCM Workday Technographics\",\"id\":2445500},{\"name\":\"[intent]sas_tt_8018\",\"id\":2072209},{\"name\":\"RISE_IDP-006_Migrate legacy enterprise ERP systems and modernize your business with SAP Business Suite - RISE\",\"id\":2422888},{\"name\":\"[intent]sas_tt_8103\",\"id\":2104670},{\"name\":\"[intent]sas_tt_7986\",\"id\":2071713}]},\"confidence\":\"Low\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "aWcbtp5wNfWUFiMRQrsMkRFxyAXB9Fzb2VVbxUW9htU-1788892405-1.3.1.1-OthqPE4fkvGxCESLAypBnZJnF.CmqClF7DYIj.m2hPdiHe_xa5VEQao6SVmJM2IgCvUqt8aGvtgZEH6rarOAwQ"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "logApplyJobAfterSignIn",
+          "value": "{\"Title\":\"Computer Scientist (Software/Cloud Architect)\",\"Agency\":\"Defense Counterintelligence and Security Agency\",\"SubAgency\":\"DCSA\",\"Department\":\"Department of Defense\",\"DocumentID\":\"883232800\",\"JobCategoryCode\":[{\"Name\":\"Computer Science\",\"Code\":\"1550\"}],\"JobGrade\":\"GG\",\"LowGrade\":\"15\",\"HighGrade\":\"15\",\"DateDisplay\":\"Open 09/02/2026 to 09/14/2026\",\"ClockDisplay\":\"JobClosingIn7Days\"}"
+        },
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.shopify.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"6xUEsWgoJjWJd_pJ3eJDtikMsS2dPcTR1g\",\"lastJoinedTimeMs\":1788892510100},\"expires\":1788892810100},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892510102},\"expires\":1796668510102},\"gtg_load_status\":{\"status\":2,\"expires\":1788978910284}}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1788892527658"
+        },
+        {
+          "name": "gtmBrowserId",
+          "value": "1788893255530"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.workatastartup.com",
+      "localStorage": [
+        {
+          "name": "unleash:repository:sessionId",
+          "value": "\"841454435\""
+        },
+        {
+          "name": "unleash:repository:repo",
+          "value": "[]"
+        },
+        {
+          "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+          "value": "{\"$device_id\":\"01a0824e-3f14-7cc0-a9f5-ebd48db97d96\",\"distinct_id\":\"01a0824e-3f14-7cc0-a9f5-ebd48db97d96\",\"$sesid\":[1788892618520,\"01a0824e-4044-709a-badc-74dd0fc0961a\",1788892561476],\"$user_state\":\"anonymous\",\"$initialization_time\":\"2026-09-08T18:36:34.200Z\",\"$configured_session_timeout_ms\":1800000,\"$autocapture_disabled_server_side\":false,\"$logs_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1788892594216,\"enabled\":true,\"canvasFps\":3,\"canvasQuality\":\"0.4\",\"consoleLogRecordingEnabled\":true,\"endpoint\":\"/s/\",\"eventTriggers\":[],\"linkedFlag\":null,\"masking\":null,\"minimumDurationMilliseconds\":null,\"networkPayloadCapture\":{\"capturePerformance\":false},\"recordCanvas\":true,\"recorderVersion\":\"v2\",\"sampleRate\":null,\"scriptConfig\":{\"script\":\"posthog-recorder\"},\"triggerGroups\":[{\"conditions\":{\"matchType\":\"all\",\"urls\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www\\\\.ycombinator\\\\.com(?!/avatars/kiosk).*$\"}]},\"id\":\"41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\",\"name\":\"Migrated trigger conditions\",\"sampleRate\":1}],\"triggerMatchType\":null,\"urlBlocklist\":[],\"urlTriggers\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"}],\"version\":2,\"canvasRecording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"}},\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$client_session_props\":{\"sessionId\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"props\":{\"r\":\"$direct\",\"u\":\"https://www.workatastartup.com/jobs/106672\"}},\"$posthog_sr_group_sampling_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":{\"sessionId\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"sampleRate\":1,\"sampled\":true},\"$posthog_sr_group_url_trigger_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"$feature_flag_errors\":[],\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"a2a6da2c-26ea-4838-b8af-e989af5a5c26\",\"$feature_flag_evaluated_at\":1788892594319,\"$sess_rec_flush_size\":{\"sessionId\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"size\":565298},\"$debug_first_full_snapshot_timestamp\":1788892594211}"
+        }
+      ]
+    },
+    {
+      "origin": "https://jobs.dayforcehcm.com",
+      "localStorage": [
+        {
+          "name": "CookiePreferences",
+          "value": "\"{\\\"Version\\\":\\\"1.0.0\\\",\\\"Cookies\\\":{\\\"blackrock\\\":{\\\"strictlyNecessaryCookies\\\":[\\\"DF\\\"],\\\"functionalCookies\\\":[],\\\"functionalCookiesRejected\\\":[],\\\"performanceCookies\\\":[\\\"GA\\\"],\\\"performanceCookiesRejected\\\":[]},\\\"pfizer\\\":{\\\"strictlyNecessaryCookies\\\":[\\\"DF\\\"],\\\"functionalCookies\\\":[],\\\"functionalCookiesRejected\\\":[],\\\"performanceCookies\\\":[\\\"GA\\\"],\\\"performanceCookiesRejected\\\":[]}}}\""
+        },
+        {
+          "name": "ld:62a0a637cc384b1581554ac5:$diagnostics",
+          "value": "{\"dataSinceDate\":1788892620934,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1788892630}"
+        }
+      ]
+    },
+    {
+      "origin": "https://hdpc.fa.us2.oraclecloud.com",
+      "localStorage": [
+        {
+          "name": "ORA_COOK_STORE",
+          "value": "{\"ORA_FPC\":\"ORA_FPC=id=a34399da-6479-4b3f-9154-79ee38e1179b; expires=Fri, 08 Sep 2028 06:15:18 GMT; path=/\"}"
+        },
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        },
+        {
+          "name": "recent-searches",
+          "value": "[]"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.atlassian.com",
+      "localStorage": [
+        {
+          "name": "statsig.failed_logs.1698794961",
+          "value": "[{\"eventName\":\"statsig::diagnostics\",\"user\":{\"customIDs\":{\"stableID\":\"b2b4c215-563e-4abd-8550-6669ed0f414c\"},\"custom\":{\"platform\":\"magnolia\",\"loginUserDetected\":true,\"requestPath\":\"/company/careers/details/25565\",\"queryParams\":\"\",\"locale\":\"en\",\"browserOS\":\"Macintosh\",\"browserName\":\"Chrome\",\"browserVersion\":\"152\",\"isMobile\":false,\"isTablet\":false,\"isDesktop\":true},\"statsigEnvironment\":{\"tier\":\"production\"}},\"value\":null,\"metadata\":{\"context\":\"initialize\",\"markers\":[{\"key\":\"overall\",\"action\":\"start\",\"timestamp\":1788892698329},{\"key\":\"initialize\",\"action\":\"start\",\"step\":\"process\",\"timestamp\":1788892698329},{\"key\":\"initialize\",\"action\":\"end\",\"step\":\"process\",\"timestamp\":1788892698329,\"success\":false},{\"key\":\"overall\",\"action\":\"end\",\"timestamp\":1788892698329,\"success\":false,\"error\":{\"name\":\"InitializeError\",\"message\":\"Failed to initialize\"},\"evaluationDetails\":{\"reason\":\"NoValues\"}}],\"statsigOptions\":{\"apiKey\":\"b9a5d4ea-66db-4082-8e75-963afd1dd6ba\",\"targetApp\":\"bxp-magnolia_web\",\"networkConfig\":{\"logEventUrl\":\"https://xp.atlassian.com/v1/rgstr\",\"preventAllNetworkTraffic\":false},\"includeCurrentPageUrlWithEvents\":false,\"environment\":{\"tier\":\"production\"},\"dataAdapter\":{\"_adapterName\":\"NoFetchDataAdapter\",\"_cacheSuffix\":\"nofetch\",\"_sdkKey\":\"client-default-key\",\"_lastModifiedStoreKey\":\"statsig.last_modified_time.nofetch\"},\"overrideAdapter\":{\"_overrides\":{\"gates\":{},\"configs\":{},\"layers\":{}},\"_djb2Map\":{},\"_localStorageKey\":\"STATSIG_OVERRIDES\"}}},\"time\":1788892698330},{\"eventName\":\"statsig::gate_exposure\",\"user\":{\"customIDs\":{\"stableID\":\"b2b4c215-563e-4abd-8550-6669ed0f414c\"},\"custom\":{\"platform\":\"magnolia\",\"loginUserDetected\":true,\"requestPath\":\"/company/careers/details/25565\",\"queryParams\":\"\",\"locale\":\"en\",\"browserOS\":\"Macintosh\",\"browserName\":\"Chrome\",\"browserVersion\":\"152\",\"isMobile\":false,\"isTablet\":false,\"isDesktop\":true},\"statsigEnvironment\":{\"tier\":\"production\"}},\"value\":null,\"metadata\":{\"gate\":\"platform_ufo_ssr_render_profiler\",\"gateValue\":\"false\",\"ruleID\":\"default\",\"reason\":\"NoValues\"},\"secondaryExposures\":[],\"time\":1788892698384}]"
+        },
+        {
+          "name": "statsig.session_id.3464514880",
+          "value": "{\"sessionID\":\"39ca5cdc-4a44-46a6-bc9e-8ed4566f3441\",\"startTime\":1788892698533,\"lastUpdate\":1788892698533}"
+        },
+        {
+          "name": "atl_xid.current",
+          "value": "[{\"type\":\"xc\",\"value\":\"24150777-05a4-4305-b94a-e2c4fae74640\",\"createdAt\":\"2026-09-08T18:38:19.608Z\"}]"
+        },
+        {
+          "name": "trace_id",
+          "value": "b78f97a8-b976-45f1-9162-7f235a3a81d5"
+        },
+        {
+          "name": "atl_first_visit",
+          "value": "{\"originProduct\":\"wac-company-careers-details-25565\",\"campaign\":{\"name\":\"\",\"campaign\":\"\",\"sfdc-campaign_id\":\"\",\"medium\":\"\",\"source\":\"\",\"content\":\"\"},\"page_url_params_json\":\"{}\",\"page_url\":\"https://www.atlassian.com/company/careers/details/25565\",\"page_canonical_url\":\"https://www.atlassian.com/company/careers/details\",\"page_path\":\"/company/careers/details/25565\",\"page_domain\":\"www.atlassian.com\",\"page_subdomain\":\"www.atlassian.com\",\"page_referrer_url\":\"\",\"page_referrer_domain\":\"\",\"page_referrer_subdomain\":\"\",\"page_url_parameters\":\"\",\"page_referrer_url_parameters\":\"\",\"isMarketingEvent\":true,\"cookiesEnabled\":true,\"onboardingJourney\":\"\",\"cmsPageVariant\":\"\",\"bxpGatewayRequestId\":\"\",\"user-agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36\",\"writeKey\":\"kiv6wyh2nw\",\"expiresAt\":1788979099178,\"activeGroups\":\",1,2,3,4,\"}"
+        },
+        {
+          "name": "com.atlassian.www.bxp.storage.timestamp",
+          "value": "1788892698000"
+        },
+        {
+          "name": "atl_xid.ts",
+          "value": "1788892699609"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892700537},\"expires\":1796668700537}}"
+        },
+        {
+          "name": "statsig.stable_id.3464514880",
+          "value": "\"b2b4c215-563e-4abd-8550-6669ed0f414c\""
+        },
+        {
+          "name": "marketingContext",
+          "value": "{\"sessionId\":null,\"domain\":\"www.atlassian.com\",\"lastUpdated\":null,\"utm\":{\"sfdcCampaignId\":\"\",\"campaign\":\"\",\"source\":\"\",\"medium\":\"\",\"content\":\"\"}}"
+        },
+        {
+          "name": "atl_xid.xc",
+          "value": "{\"type\":\"xc\",\"value\":\"24150777-05a4-4305-b94a-e2c4fae74640\",\"createdAt\":\"2026-09-08T18:38:19.608Z\"}"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"31ca9f69-5466-4287-a8ca-97e130fa690e\""
+        }
+      ]
+    },
+    {
+      "origin": "https://www.recaptcha.net",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "bjY4cm5pMTM3dHp0MQ=="
+        }
+      ]
+    },
+    {
+      "origin": "https://careers-apac-atlassian.icims.com",
+      "localStorage": [
+        {
+          "name": "snowplowOutQueue___jibe_sp_tracker_ref_pointer__jibe-3.5.5_post2",
+          "value": "[]"
+        },
+        {
+          "name": "statsig.stable_id.3464514880",
+          "value": "\"a1895311-40a5-4eac-bd7e-7ce96a65e0f5\""
+        },
+        {
+          "name": "statsig.failed_logs.1698794961",
+          "value": "[{\"eventName\":\"statsig::gate_exposure\",\"user\":{\"customIDs\":{\"stableID\":\"a1895311-40a5-4eac-bd7e-7ce96a65e0f5\"},\"custom\":{\"platform\":\"magnolia\",\"loginUserDetected\":true,\"requestPath\":\"/jobs/25565/senior-backend-software-engineer/job\",\"queryParams\":\"?mode=apply\",\"locale\":\"en\",\"browserOS\":\"Macintosh\",\"browserName\":\"Chrome\",\"browserVersion\":\"152\",\"isMobile\":false,\"isTablet\":false,\"isDesktop\":true},\"statsigEnvironment\":{\"tier\":\"staging\"}},\"value\":null,\"metadata\":{\"gate\":\"gwp-enable-magnolia-experience-per-route\",\"gateValue\":\"false\",\"ruleID\":\"default\",\"reason\":\"NoValues\"},\"secondaryExposures\":[],\"time\":1788892714127},{\"eventName\":\"statsig::gate_exposure\",\"user\":{\"customIDs\":{\"stableID\":\"a1895311-40a5-4eac-bd7e-7ce96a65e0f5\"},\"custom\":{\"platform\":\"magnolia\",\"loginUserDetected\":true,\"requestPath\":\"/jobs/25565/senior-backend-software-engineer/job\",\"queryParams\":\"?mode=apply\",\"locale\":\"en\",\"browserOS\":\"Macintosh\",\"browserName\":\"Chrome\",\"browserVersion\":\"152\",\"isMobile\":false,\"isTablet\":false,\"isDesktop\":true},\"statsigEnvironment\":{\"tier\":\"staging\"}},\"value\":null,\"metadata\":{\"gate\":\"gwp-6073-dreamdata-gate\",\"gateValue\":\"false\",\"ruleID\":\"default\",\"reason\":\"NoValues\"},\"secondaryExposures\":[],\"time\":1788892714304},{\"eventName\":\"statsig::gate_exposure\",\"user\":{\"customIDs\":{\"stableID\":\"a1895311-40a5-4eac-bd7e-7ce96a65e0f5\"},\"custom\":{\"platform\":\"magnolia\",\"loginUserDetected\":true,\"requestPath\":\"/jobs/25565/senior-backend-software-engineer/job\",\"queryParams\":\"?mode=apply\",\"locale\":\"en\",\"browserOS\":\"Macintosh\",\"browserName\":\"Chrome\",\"browserVersion\":\"152\",\"isMobile\":false,\"isTablet\":false,\"isDesktop\":true},\"statsigEnvironment\":{\"tier\":\"staging\"}},\"value\":null,\"metadata\":{\"gate\":\"confluence-templates-dxp-migration\",\"gateValue\":\"false\",\"ruleID\":\"default\",\"reason\":\"NoValues\"},\"secondaryExposures\":[],\"time\":1788892714332}]"
+        },
+        {
+          "name": "statsig.session_id.3464514880",
+          "value": "{\"sessionID\":\"60a332d9-a382-431b-90f9-015e8ca753c7\",\"startTime\":1788892704537,\"lastUpdate\":1788892714335}"
+        },
+        {
+          "name": "com.icims.careers-apac-atlassian.bxp.storage.timestamp",
+          "value": "1788892704000"
+        },
+        {
+          "name": "snowplowOutQueue___jibe_sp_tracker_ref_pointer__jibe-3.5.5_post2.expires",
+          "value": "1851964709302"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"2dc00aea-e033-45d3-917b-1ca86925d434\""
+        }
+      ]
+    },
+    {
+      "origin": "https://apply.careers.microsoft.com",
+      "localStorage": [
+        {
+          "name": "efUserInteractionHistory",
+          "value": "[]"
+        },
+        {
+          "name": "obf-CampaignDefinitions",
+          "value": "[{\"CampaignId\":\"5ac3a929-71dd-4455-b2dc-3f9dec5fd7f2\",\"StartTimeUtc\":\"2023-06-28T00:00:00Z\",\"GovernedChannelType\":0,\"NominationScheme\":{\"Type\":0,\"PercentageNumerator\":50,\"PercentageDenominator\":100,\"NominationPeriod\":{\"Type\":0,\"IntervalSeconds\":\"2592000\"},\"CooldownPeriod\":{\"Type\":0,\"IntervalSeconds\":\"7776000\"}},\"SurveyTemplate\":{\"Type\":2,\"ActivationEvent\":{\"Type\":0,\"Activity\":\"AppUsageTime\",\"Count\":1,\"IsAggregate\":true},\"Content\":{\"Prompt\":{\"Title\":\"FPS_Prompt_Title\",\"Question\":\"FPS_Prompt_Question\",\"YesLabel\":\"FPS_Prompt_YesLabel\",\"NoLabel\":\"FPS_Prompt_NoLabel\"},\"Rating\":{\"IsZeroBased\":false,\"Question\":\"FPS_Rating_Question\",\"RatingValuesAscending\":[\"FPS_Rating_Values_5\",\"FPS_Rating_Values_4\",\"FPS_Rating_Values_3\",\"FPS_Rating_Values_2\",\"FPS_Rating_Values_1\"]},\"Question\":{\"Question\":\"FPS_Question_Question\"}}}}]"
+        },
+        {
+          "name": "obf-SurveyActivationStats",
+          "value": "{\"Surveys\":{\"3cd7df40-8d58-42bc-b14b-6b04cb18f271\":{\"SurveyLaunchCount\":1,\"SurveyLaunchCountPerSession\":0,\"Type\":4,\"ExpirationTimeUtc\":\"2026-10-08T18:40:19.000Z\",\"ActivationTimeUtc\":\"2026-09-08T18:40:19.676Z\"}}}"
+        },
+        {
+          "name": "obf-SurveyEventActivityStats",
+          "value": "{\"Surveys\":{\"3cd7df40-8d58-42bc-b14b-6b04cb18f271\":{\"ExpirationTimeUtc\":\"2026-10-08T18:40:19.000Z\",\"Counts\":[1]}}}"
+        },
+        {
+          "name": "obf-CampaignStates",
+          "value": "{\"CampaignStates\":[{\"CampaignId\":\"5ac3a929-71dd-4455-b2dc-3f9dec5fd7f2\",\"LastNominationTimeUtc\":\"2026-09-08T18:40:19.669Z\",\"LastNominationBuildNumber\":\"0.0.0.0\",\"DeleteAfterSecondsWhenStale\":\"2592000\",\"ForceCandidacy\":false,\"IsCandidate\":true,\"DidCandidateTriggerSurvey\":true,\"LastSurveyActivatedTimeUtc\":\"2026-09-08T18:40:19.677Z\",\"LastSurveyId\":\"3cd7df40-8d58-42bc-b14b-6b04cb18f271\",\"LastSurveyStartTimeUtc\":\"2026-09-08T18:40:19.669Z\",\"LastSurveyExpirationTimeUtc\":\"2026-10-08T18:40:19.669Z\",\"LastCooldownEndTimeUtc\":\"2026-12-07T18:40:19.677Z\"}]}"
+        },
+        {
+          "name": "obf-GovernedChannelStates",
+          "value": "{\"ChannelStates\":[{\"ChannelType\":0,\"CooldownStartTimeUtc\":\"2026-09-08T18:40:19.677Z\"},{\"ChannelType\":1,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":2,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":3,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":4,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"}]}"
+        },
+        {
+          "name": "obf-FloodgateSettings",
+          "value": "null"
+        }
+      ]
+    },
+    {
+      "origin": "https://bosch.pinpointhq.com",
+      "localStorage": [
+        {
+          "name": "cache-sprite-plyr",
+          "value": "{\"content\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?><!DOCTYPE svg PUBLIC \\\"-//W3C//DTD SVG 1.1//EN\\\" \\\"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\\\"><svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\"><symbol id=\\\"plyr-airplay\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M16 1H2a1 1 0 00-1 1v10a1 1 0 001 1h3v-2H3V3h12v8h-2v2h3a1 1 0 001-1V2a1 1 0 00-1-1z\\\"/><path d=\\\"M4 17h10l-5-6z\\\"/></symbol><symbol id=\\\"plyr-captions-off\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M1 1c-.6 0-1 .4-1 1v11c0 .6.4 1 1 1h4.6l2.7 2.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3l2.7-2.7H17c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1H1zm4.52 10.15c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41C8.47 4.96 7.46 3.76 5.5 3.76c-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69zm7.57 0c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41c-.28-1.15-1.29-2.35-3.25-2.35-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69z\\\" fill-rule=\\\"evenodd\\\" fill-opacity=\\\".5\\\"/></symbol><symbol id=\\\"plyr-captions-on\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M1 1c-.6 0-1 .4-1 1v11c0 .6.4 1 1 1h4.6l2.7 2.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3l2.7-2.7H17c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1H1zm4.52 10.15c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41C8.47 4.96 7.46 3.76 5.5 3.76c-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69zm7.57 0c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41c-.28-1.15-1.29-2.35-3.25-2.35-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69z\\\" fill-rule=\\\"evenodd\\\"/></symbol><symbol id=\\\"plyr-download\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z\\\"/></symbol><symbol id=\\\"plyr-enter-fullscreen\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M10 3h3.6l-4 4L11 8.4l4-4V8h2V1h-7zM7 9.6l-4 4V10H1v7h7v-2H4.4l4-4z\\\"/></symbol><symbol id=\\\"plyr-exit-fullscreen\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M1 12h3.6l-4 4L2 17.4l4-4V17h2v-7H1zM16 .6l-4 4V1h-2v7h7V6h-3.6l4-4z\\\"/></symbol><symbol id=\\\"plyr-fast-forward\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M7.875 7.171L0 1v16l7.875-6.171V17L18 9 7.875 1z\\\"/></symbol><symbol id=\\\"plyr-logo-vimeo\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M17 5.3c-.1 1.6-1.2 3.7-3.3 6.4-2.2 2.8-4 4.2-5.5 4.2-.9 0-1.7-.9-2.4-2.6C5 10.9 4.4 6 3 6c-.1 0-.5.3-1.2.8l-.8-1c.8-.7 3.5-3.4 4.7-3.5 1.2-.1 2 .7 2.3 2.5.3 2 .8 6.1 1.8 6.1.9 0 2.5-3.4 2.6-4 .1-.9-.3-1.9-2.3-1.1.8-2.6 2.3-3.8 4.5-3.8 1.7.1 2.5 1.2 2.4 3.3z\\\"/></symbol><symbol id=\\\"plyr-logo-youtube\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M16.8 5.8c-.2-1.3-.8-2.2-2.2-2.4C12.4 3 9 3 9 3s-3.4 0-5.6.4C2 3.6 1.3 4.5 1.2 5.8 1 7.1 1 9 1 9s0 1.9.2 3.2c.2 1.3.8 2.2 2.2 2.4C5.6 15 9 15 9 15s3.4 0 5.6-.4c1.4-.3 2-1.1 2.2-2.4.2-1.3.2-3.2.2-3.2s0-1.9-.2-3.2zM7 12V6l5 3-5 3z\\\"/></symbol><symbol id=\\\"plyr-muted\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M12.4 12.5l2.1-2.1 2.1 2.1 1.4-1.4L15.9 9 18 6.9l-1.4-1.4-2.1 2.1-2.1-2.1L11 6.9 13.1 9 11 11.1zM3.786 6.008H.714C.286 6.008 0 6.31 0 6.76v4.512c0 .452.286.752.714.752h3.072l4.071 3.858c.5.3 1.143 0 1.143-.602V2.752c0-.601-.643-.977-1.143-.601L3.786 6.008z\\\"/></symbol><symbol id=\\\"plyr-pause\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M6 1H3c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1zm6 0c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1h-3z\\\"/></symbol><symbol id=\\\"plyr-pip\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M13.293 3.293L7.022 9.564l1.414 1.414 6.271-6.271L17 7V1h-6z\\\"/><path d=\\\"M13 15H3V5h5V3H2a1 1 0 00-1 1v12a1 1 0 001 1h12a1 1 0 001-1v-6h-2v5z\\\"/></symbol><symbol id=\\\"plyr-play\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M15.562 8.1L3.87.225c-.818-.562-1.87 0-1.87.9v15.75c0 .9 1.052 1.462 1.87.9L15.563 9.9c.584-.45.584-1.35 0-1.8z\\\"/></symbol><symbol id=\\\"plyr-restart\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M9.7 1.2l.7 6.4 2.1-2.1c1.9 1.9 1.9 5.1 0 7-.9 1-2.2 1.5-3.5 1.5-1.3 0-2.6-.5-3.5-1.5-1.9-1.9-1.9-5.1 0-7 .6-.6 1.4-1.1 2.3-1.3l-.6-1.9C6 2.6 4.9 3.2 4 4.1 1.3 6.8 1.3 11.2 4 14c1.3 1.3 3.1 2 4.9 2 1.9 0 3.6-.7 4.9-2 2.7-2.7 2.7-7.1 0-9.9L16 1.9l-6.3-.7z\\\"/></symbol><symbol id=\\\"plyr-rewind\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M10.125 1L0 9l10.125 8v-6.171L18 17V1l-7.875 6.171z\\\"/></symbol><symbol id=\\\"plyr-settings\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M16.135 7.784a2 2 0 01-1.23-2.969c.322-.536.225-.998-.094-1.316l-.31-.31c-.318-.318-.78-.415-1.316-.094a2 2 0 01-2.969-1.23C10.065 1.258 9.669 1 9.219 1h-.438c-.45 0-.845.258-.997.865a2 2 0 01-2.969 1.23c-.536-.322-.999-.225-1.317.093l-.31.31c-.318.318-.415.781-.093 1.317a2 2 0 01-1.23 2.969C1.26 7.935 1 8.33 1 8.781v.438c0 .45.258.845.865.997a2 2 0 011.23 2.969c-.322.536-.225.998.094 1.316l.31.31c.319.319.782.415 1.316.094a2 2 0 012.969 1.23c.151.607.547.865.997.865h.438c.45 0 .845-.258.997-.865a2 2 0 012.969-1.23c.535.321.997.225 1.316-.094l.31-.31c.318-.318.415-.781.094-1.316a2 2 0 011.23-2.969c.607-.151.865-.547.865-.997v-.438c0-.451-.26-.846-.865-.997zM9 12a3 3 0 110-6 3 3 0 010 6z\\\"/></symbol><symbol id=\\\"plyr-volume\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M15.6 3.3c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4C15.4 5.9 16 7.4 16 9c0 1.6-.6 3.1-1.8 4.3-.4.4-.4 1 0 1.4.2.2.5.3.7.3.3 0 .5-.1.7-.3C17.1 13.2 18 11.2 18 9s-.9-4.2-2.4-5.7z\\\"/><path d=\\\"M11.282 5.282a.909.909 0 000 1.316c.735.735.995 1.458.995 2.402 0 .936-.425 1.917-.995 2.487a.909.909 0 000 1.316c.145.145.636.262 1.018.156a.725.725 0 00.298-.156C13.773 11.733 14.13 10.16 14.13 9c0-.17-.002-.34-.011-.51-.053-.992-.319-2.005-1.522-3.208a.909.909 0 00-1.316 0zm-7.496.726H.714C.286 6.008 0 6.31 0 6.76v4.512c0 .452.286.752.714.752h3.072l4.071 3.858c.5.3 1.143 0 1.143-.602V2.752c0-.601-.643-.977-1.143-.601L3.786 6.008z\\\"/></symbol></svg>\"}"
+        },
+        {
+          "name": "plyr",
+          "value": "{\"volume\":1,\"muted\":false}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1791484833573,\"creation\":1788892833573}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1786214431208"
+        }
+      ]
+    },
+    {
+      "origin": "https://wd1.myworkdaysite.com",
+      "localStorage": [
+        {
+          "name": "localStorageLocale",
+          "value": "en-US"
+        }
+      ]
+    },
+    {
+      "origin": "https://careers.huntingtoningalls.com",
+      "localStorage": [
+        {
+          "name": "_uetvid",
+          "value": "4ae09690abb511f1896be1c506de575e"
+        },
+        {
+          "name": "careersitecookiepreferences",
+          "value": "{\"functionalCookies\":[{\"company\":\"YouTube\",\"checked\":1}],\"performanceCookies\":[],\"advertisingCookies\":[{\"company\":\"LinkedIn\",\"checked\":1}],\"countrytype\":\"optin\",\"dateexpires\":1804531464426}"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 03 Oct 2027 18:44:25 GMT"
+        },
+        {
+          "name": "_uetsid",
+          "value": "4ae064a0abb511f1be5f0fc8caef0dd4"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 09 Sep 2026 18:44:25 GMT"
+        }
+      ]
+    },
+    {
+      "origin": "https://career4.successfactors.com",
+      "localStorage": [
+        {
+          "name": "_uetvid",
+          "value": "660a6680abb511f1a76b51980e7b529a"
+        },
+        {
+          "name": "careersitecookiepreferences",
+          "value": "{\"functionalCookies\":[{\"company\":\"YouTube\",\"checked\":1}],\"performanceCookies\":[],\"advertisingCookies\":[{\"company\":\"LinkedIn\",\"checked\":1}],\"countrytype\":\"optin\",\"dateexpires\":1804531464426}"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 03 Oct 2027 18:45:01 GMT"
+        },
+        {
+          "name": "_uetsid",
+          "value": "660a7040abb511f193c783eb6ea37fd7"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 09 Sep 2026 18:45:01 GMT"
+        }
+      ]
+    }
+  ]
+}

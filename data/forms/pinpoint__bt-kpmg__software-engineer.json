@@ -1,0 +1,208 @@
+{
+  "id": "pinpoint__bt-kpmg__software-engineer",
+  "group": "pinpoint",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "pinpoint",
+    "atsLabel": "pinpoint",
+    "company": "bt-kpmg",
+    "board": "kpmg",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://kpmg.pinpointhq.com/",
+    "startUrl": "https://kpmg.pinpointhq.com/"
+  },
+  "platform": "pinpoint",
+  "platformLabel": "Pinpoint",
+  "finalUrl": "https://www.kpmgcareers.co.uk/search/?intakeType=Experienced",
+  "applyTrail": [
+    "clicked: values",
+    "clicked: Applying to KPMG",
+    "clicked: View more",
+    "clicked: Search and apply"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Jobs at KPMG | KPMG Careers",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "range",
+      "control": "range",
+      "fill": {
+        "action": "set-range",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "plyr-seek-4461",
+      "label": "Seek",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#plyr-seek-4461",
+      "visible": true,
+      "min": "0",
+      "max": "100",
+      "step": "0.01",
+      "normLabel": "seek",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "range",
+      "control": "range",
+      "fill": {
+        "action": "set-range",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "plyr-volume-4461",
+      "label": "Volume",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#plyr-volume-4461",
+      "visible": true,
+      "min": "0",
+      "max": "1",
+      "step": "0.05",
+      "normLabel": "volume",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "search",
+      "id": "search",
+      "label": "Search...",
+      "labelSource": "placeholder",
+      "required": false,
+      "placeholder": "Search...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#search",
+      "visible": true,
+      "normLabel": "search",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "range": 2,
+      "text": 1
+    },
+    "byAction": {
+      "set-range": 2,
+      "type": 1
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "KPMG Careers",
+    "Our KPMG",
+    "What's it like to work at KPMG?",
+    "Our Values",
+    "Integrity",
+    "Excellence",
+    "Courage",
+    "Together",
+    "For Better",
+    "Current Opportunities"
+  ],
+  "buttons": [
+    "Departments",
+    "Locations",
+    "Play",
+    "Mute",
+    "Enter fullscreen",
+    "Play",
+    "COOKIES"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/pinpoint/bt-kpmg__software-engineer.png",
+    "html": "data/html/_unreached/pinpoint/bt-kpmg__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 1745,
+    "lowestField": 396,
+    "coversAllFields": true
+  },
+  "ms": 155423,
+  "fingerprint": {
+    "labelSig": "533d21188b00",
+    "shapeSig": "21c0ac512d65",
+    "controlSig": "4295d190f1ef",
+    "controls": {
+      "range": 2,
+      "text": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "94bc659212eb",
+    "typeCounts": {
+      "range": 2,
+      "text": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 3,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "pinpoint",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,95 @@
+{
+  "id": "oracle-hcm__goldmansachs__software-engineer-fco-technology-team-an",
+  "group": "oracle-hcm",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "goldman",
+    "atsLabel": "Goldman Sachs (in-house)",
+    "company": "goldmansachs",
+    "board": "goldman",
+    "title": "Software Engineer - FCO Technology Team - Analyst - SLC Salt Lake City·United States ·Analyst",
+    "location": "",
+    "jobUrl": "https://higher.gs.com/roles/119977",
+    "startUrl": "https://higher.gs.com/roles/119977"
+  },
+  "platform": "oracle-hcm",
+  "detectedPlatform": "oracle-hcm",
+  "platformLabel": "Oracle Recruiting Cloud",
+  "finalUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/119977",
+  "applyTrail": [
+    "clicked: Apply (new tab)",
+    "saved-session:goldman__goldman.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Candidate Experience Site - Lateral Careers",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/oracle-hcm/goldmansachs__software-engineer-fco-technology-team-an.png",
+    "html": "data/html/_unreached/oracle-hcm/goldmansachs__software-engineer-fco-technology-team-an.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 1721,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 60246,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "6b31689c4838",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

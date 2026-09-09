@@ -1,0 +1,280 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2-3.1225282515.1788892254",
+      "domain": ".google.com",
+      "path": "/about/careers/",
+      "expires": 1823452254.183787,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_41NEC9ZD62",
+      "value": "GS2.2-3.s1788892254$o1$g1$t1788892266$j48$l0$h0",
+      "domain": ".google.com",
+      "path": "/about/careers/",
+      "expires": 1823452266.786148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_KZKKTZQKX5",
+      "value": "GS2.2-3.s1788892254$o1$g1$t1788892266$j48$l0$h0",
+      "domain": ".google.com",
+      "path": "/about/careers/",
+      "expires": 1823452266.788227,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2-3.1225282515.1788892254",
+      "domain": ".google.com",
+      "path": "/about/careers",
+      "expires": 1823452254.602454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2-3.1848042971.1788892255",
+      "domain": ".google.com",
+      "path": "/about/careers",
+      "expires": 1788978654,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "8776471_72_76_104100_72_446760",
+      "domain": "www.google.com",
+      "path": "/",
+      "expires": 1791484252,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "CvABCAESogEBp2sxrioWvYkNjlYArMpltenG1dbyAAOHp6ECWKPa_r6d4Nz06FA0kCXQVwEcX-_oTOxBm0vMt0pSJEWIggKePFwxJ-ZzzoZCob19j_zpo1KzDJWitREu6B4a5zfNmJD78cmtQ9Xg6-yL3cVqdyOPsu_8mTmC7AIlLTjXjHkarCC8EXUZbAei5hIyeE099EdJB0mnusRuMOEqTqC8V5oTB8AoATJFAQ4r3hH7XEO5DdU2NVp2tf5zczQ6yUgXOv8qaJP0MDKUlZ90iykOQnN3f9F2Xweyc_BCUIWvIaV0BfDv4dCpHKYfm6UA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1804703451.699303,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:XYmgraD87uKWGxtVY87xaBWnzdP84w:B2pjMB-AyU2LkDy_",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1823452267.570684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "C64D6F49A126AD117D10007A898E407D",
+      "domain": "us-careers-rivian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.349171121.1788892359",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1796668359,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.59611384.1788892359",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452359.201871,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tq_id.TV-5418458154-1.9d23",
+      "value": "ec354a1e18566496.1788892359.0.1788892359..",
+      "domain": "us-careers-rivian.icims.com",
+      "path": "/",
+      "expires": 1823452359.499724,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "tcC7XI9VixSZ3Gl1yOc0MB7iHarOHr.o57Jh8S_imGA-1788892359.6237526-1.0.1.1-exBLhasTb.ot5Pz5L5S5u9r4C0qJ2gSt3iiDEtfEhELkotjSMsVNYYZmbwqc8ipAO105Oa4c8_2x9W1fDeSOilJTDs1HWbqRvmbfwBPD5GTzMn2P9wHAhVqu4o2kY.C6",
+      "domain": ".sierra.chat",
+      "path": "/",
+      "expires": 1788894159.619859,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUl7sjLj24pecQLWaqQFTbCNOPlXDzKz3uP5ljkzQwIsVlB-FXPFesV6pnGjzbg",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823452359.650982,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_swb",
+      "value": "62c8da84-e637-412b-88f6-f42b8d58912c",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452359,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ketch_consent_v1_",
+      "value": "eyJ3ZWJfc3RyaWN0bHlfbmVjZXNzYXJ5Ijp7InN0YXR1cyI6ImdyYW50ZWQiLCJjYW5vbmljYWxQdXJwb3NlcyI6WyJlc3NlbnRpYWxfc2VydmljZXMiXX19",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452359,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_swb_consent_",
+      "value": "eyJjb2xsZWN0ZWRBdCI6MTc4ODg5MjM1OSwiY29udGV4dCI6eyJjb25maWd1cmF0aW9uSWQiOiJhMlYwWTJoZmNtbDJhV0Z1TDNkbFluTnBkR1ZmYzIxaGNuUmZkR0ZuTDNCeWIyUjFZM1JwYjI0dmRYTXZaVzR2TVRjNE9ERTNNems1TlE9PSIsImlzc3VlZEF0IjowLCJzb3VyY2UiOiJsZWdhbEJhc2lzRGVmYXVsdCJ9LCJjb250cm9sbGVyQ29kZSI6IiIsImVudmlyb25tZW50Q29kZSI6InByb2R1Y3Rpb24iLCJpZGVudGl0aWVzIjp7Il9nb29nbGVBbmFseXRpY3NDbGllbnRJRCI6IkdBMS4xLjU5NjExMzg0LjE3ODg4OTIzNTkiLCJzd2Jfd2Vic2l0ZV9zbWFydF90YWciOiI2MmM4ZGE4NC1lNjM3LTQxMmItODhmNi1mNDJiOGQ1ODkxMmMifSwianVyaXNkaWN0aW9uQ29kZSI6InVzIiwicHJvcGVydHlDb2RlIjoid2Vic2l0ZV9zbWFydF90YWciLCJwdXJwb3NlcyI6eyJ3ZWJfc3RyaWN0bHlfbmVjZXNzYXJ5Ijp7ImFsbG93ZWQiOiJ0cnVlIiwiY29sbGVjdGVkQXQiOjAsImlzc3VlZEF0IjowLCJsZWdhbEJhc2lzQ29kZSI6ImRpc2Nsb3N1cmUiLCJzb3VyY2UiOiIifX0sImludGVyYWN0aXZlIjpmYWxzZSwiY2FjaGVkQXQiOjE3ODg4OTIzNjB9",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1789497160,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetmsdns",
+      "value": "1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1820428360,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "global-chat-state",
+      "value": "{\"open\":false,\"active\":false,\"rollout\":82.4475305495836,\"visibleNotification\":true,\"showWelcomeMessage\":true,\"ts\":1788892362659}",
+      "domain": ".us-careers-rivian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cookie_icims_iframe_content_height",
+      "value": "1441",
+      "domain": "us-careers-rivian.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_sp_id.4357",
+      "value": ".1788892366.1.1788892366..32d2dff5-9089-4956-889b-db30c6483172..5c556165-4630-4e7a-a7f4-a1af819a7fe6.1788892365839.1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452365.85073,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.4357",
+      "value": "*",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1788894165,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "icimsCookiesEnabledCheck",
+      "value": "1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_ZK75JEL9E3",
+      "value": "GS2.1.s1788892359$o1$g0$t1788892368$j51$l0$h0",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": 1823452368.022583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"hWg_OK-AqDtQFvC43YrGOz_R_cp12Asp8g\",\"lastJoinedTimeMs\":1788892253354},\"expires\":1788892553354},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892266784},\"expires\":1796668266784}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://us-careers-rivian.icims.com",
+      "localStorage": [
+        {
+          "name": "snowplowOutQueue_snowplow_sp-gtm-global",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://us-careers-rivian.icims.com/jobs/search?ss=1\",\"eid\":\"5c556165-4630-4e7a-a7f4-a1af819a7fe6\",\"tv\":\"js-4.6.2\",\"tna\":\"sp-gtm-global\",\"aid\":\"rivian-com\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1440x900\",\"cd\":24,\"tz\":\"America/New_York\",\"dtm\":\"1788892365839\",\"co\":\"{\\\"schema\\\":\\\"iglu:com.snowplowanalytics.snowplow/contexts/jsonschema/1-0-0\\\",\\\"data\\\":[{\\\"schema\\\":\\\"iglu:com.snowplowanalytics.snowplow/web_page/jsonschema/1-0-0\\\",\\\"data\\\":{\\\"id\\\":\\\"bb09a5ed-b90f-4713-a7e0-c9fea47595b6\\\"}},{\\\"schema\\\":\\\"iglu:com.snowplowanalytics.snowplow/client_session/jsonschema/1-0-2\\\",\\\"data\\\":{\\\"userId\\\":\\\"00000000-0000-0000-0000-000000000000\\\",\\\"sessionId\\\":\\\"32d2dff5-9089-4956-889b-db30c6483172\\\",\\\"eventIndex\\\":1,\\\"sessionIndex\\\":1,\\\"previousSessionId\\\":null,\\\"storageMechanism\\\":\\\"COOKIE_1\\\",\\\"firstEventId\\\":\\\"5c556165-4630-4e7a-a7f4-a1af819a7fe6\\\",\\\"firstEventTimestamp\\\":\\\"2026-09-08T18:32:45.839Z\\\"}}]}\",\"vp\":\"1440x900\",\"ds\":\"1440x937\",\"vid\":1,\"sid\":\"32d2dff5-9089-4956-889b-db30c6483172\"},\"svrAnon\":false}]"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"yt-EUB4iAChcp4ryY5TZJdA5d5Rzyb7qjw\",\"lastJoinedTimeMs\":1788892358612},\"expires\":1788892658612},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892358613},\"expires\":1796668358613}}"
+        },
+        {
+          "name": "_swb_consent_",
+          "value": "eyJjb2xsZWN0ZWRBdCI6MTc4ODg5MjM1OSwiY29udGV4dCI6eyJjb25maWd1cmF0aW9uSWQiOiJhMlYwWTJoZmNtbDJhV0Z1TDNkbFluTnBkR1ZmYzIxaGNuUmZkR0ZuTDNCeWIyUjFZM1JwYjI0dmRYTXZaVzR2TVRjNE9ERTNNems1TlE9PSIsImlzc3VlZEF0IjowLCJzb3VyY2UiOiJsZWdhbEJhc2lzRGVmYXVsdCJ9LCJjb250cm9sbGVyQ29kZSI6IiIsImVudmlyb25tZW50Q29kZSI6InByb2R1Y3Rpb24iLCJpZGVudGl0aWVzIjp7Il9nb29nbGVBbmFseXRpY3NDbGllbnRJRCI6IkdBMS4xLjU5NjExMzg0LjE3ODg4OTIzNTkiLCJzd2Jfd2Vic2l0ZV9zbWFydF90YWciOiI2MmM4ZGE4NC1lNjM3LTQxMmItODhmNi1mNDJiOGQ1ODkxMmMifSwianVyaXNkaWN0aW9uQ29kZSI6InVzIiwicHJvcGVydHlDb2RlIjoid2Vic2l0ZV9zbWFydF90YWciLCJwcm90b2NvbHMiOnt9LCJwdXJwb3NlcyI6eyJ3ZWJfc3RyaWN0bHlfbmVjZXNzYXJ5Ijp7ImFsbG93ZWQiOiJ0cnVlIiwiY29sbGVjdGVkQXQiOjAsImlzc3VlZEF0IjowLCJsZWdhbEJhc2lzQ29kZSI6ImRpc2Nsb3N1cmUiLCJzb3VyY2UiOiIifX0sInZlbmRvckNvbnNlbnRzIjp7fSwiaW50ZXJhY3RpdmUiOmZhbHNlLCJjYWNoZWRBdCI6MTc4ODg5MjM2MH0="
+        },
+        {
+          "name": "_swb_consent__metadata",
+          "value": "eyJpYXQiOjE3ODg4OTIzNjAsImV4cCI6MTc4ODk3ODc2MH0="
+        },
+        {
+          "name": "_ketch_consent_v1_",
+          "value": "eyJ3ZWJfc3RyaWN0bHlfbmVjZXNzYXJ5Ijp7InN0YXR1cyI6ImdyYW50ZWQiLCJjYW5vbmljYWxQdXJwb3NlcyI6WyJlc3NlbnRpYWxfc2VydmljZXMiXX19"
+        }
+      ]
+    }
+  ]
+}

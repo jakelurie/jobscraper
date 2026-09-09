@@ -1,0 +1,546 @@
+{
+  "id": "lever__finch__staff-software-engineer-backend",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "finch",
+    "board": "finch",
+    "title": "Staff Software Engineer, Backend",
+    "location": "San Francisco, New York City",
+    "jobUrl": "https://jobs.lever.co/finch/62ac428a-80ef-4469-9e06-0b87ed4f206f",
+    "startUrl": "https://jobs.lever.co/finch/62ac428a-80ef-4469-9e06-0b87ed4f206f/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/finch/62ac428a-80ef-4469-9e06-0b87ed4f206f/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Finch - Staff Software Engineer, Backend",
+  "fieldCount": 14,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "pronouns",
+      "label": "Custom",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "He/him",
+      "required": false,
+      "options": [
+        "He/him",
+        "She/her",
+        "They/them",
+        "Xe/xem",
+        "Ze/hir",
+        "Ey/em",
+        "Hir/hir",
+        "Fae/faer",
+        "Hu/hu",
+        "Use name only"
+      ],
+      "optionValues": [
+        {
+          "label": "He/him",
+          "value": "He/him"
+        },
+        {
+          "label": "She/her",
+          "value": "She/her"
+        },
+        {
+          "label": "They/them",
+          "value": "They/them"
+        },
+        {
+          "label": "Xe/xem",
+          "value": "Xe/xem"
+        },
+        {
+          "label": "Ze/hir",
+          "value": "Ze/hir"
+        },
+        {
+          "label": "Ey/em",
+          "value": "Ey/em"
+        },
+        {
+          "label": "Hir/hir",
+          "value": "Hir/hir"
+        },
+        {
+          "label": "Fae/faer",
+          "value": "Fae/faer"
+        },
+        {
+          "label": "Hu/hu",
+          "value": "Hu/hu"
+        },
+        {
+          "label": "Use name only",
+          "value": "Use name only"
+        }
+      ],
+      "optionCount": 11,
+      "selector": "input[name=\"pronouns\"]",
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "customPronounsOption",
+      "label": "Custom",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#customPronounsOption",
+      "visible": true,
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Twitter]",
+      "id": "",
+      "label": "Twitter URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Twitter]\"]",
+      "visible": true,
+      "normLabel": "twitter url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[33355b73-ef85-474e-b094-584d51919968][field0]",
+      "id": "",
+      "label": "This role is a hybrid role requiring 3 days per week in office (Tuesday/Wednesday/Thursday). Are you able to work 3 days per week in our San Francisco or NYC office? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[33355b73-ef85-474e-b094-584d51919968][field0]\"]",
+      "visible": true,
+      "normLabel": "this role is a hybrid role requiring 3 days per week in offi",
+      "canonical": "remote_preference"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 9,
+      "checkbox-group": 1,
+      "checkbox": 1,
+      "text-email": 1,
+      "textarea": 1
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 11,
+      "check-many": 1,
+      "check": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Staff Software Engineer, Backend",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "HYBRID"
+  ],
+  "buttons": [
+    "Apply with LinkedIn",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Staff Software Engineer, BackendSan Francisco, New York CityEngineering /Full Time /HybridSubmit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selected",
+    "Staff Software Engineer, BackendSan Francisco, New York CityEngineering /Full Time /HybridSubmit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selected",
+    "Submit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profile details toauto-complete this form. Learn moreResume/CV ✱ATTACH RESUME/CVC",
+    "Submit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profile details toauto-complete this form. Learn moreResume/CV ✱ATTACH RESUME/CVC",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/finch__staff-software-engineer-backend.png",
+    "html": "data/html/lever/finch__staff-software-engineer-backend.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 3232,
+    "lowestField": 2209.015625,
+    "coversAllFields": true
+  },
+  "ms": 11469,
+  "fingerprint": {
+    "labelSig": "9cbb2b317a5a",
+    "shapeSig": "3cb01c48e9e5",
+    "controlSig": "24c50c2d5ecc",
+    "controls": {
+      "file-upload": 1,
+      "text": 9,
+      "checkbox-group": 1,
+      "checkbox": 1,
+      "text-email": 1,
+      "textarea": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "752e0b819dc0",
+    "typeCounts": {
+      "file": 1,
+      "text": 9,
+      "checkbox": 2,
+      "email": 1,
+      "textarea": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "employer",
+      "full_name",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "remote_preference",
+      "resume"
+    ],
+    "requiredCount": 5,
+    "customQuestionCount": 2,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "overCap": true
+}

@@ -1,0 +1,766 @@
+{
+  "id": "lever__tala__senior-backend-engineer",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "tala",
+    "board": "tala",
+    "title": "Senior Backend Engineer",
+    "location": "MX",
+    "jobUrl": "https://jobs.lever.co/tala/653aa0c7-fcb3-487f-b70c-00b461ebd725",
+    "startUrl": "https://jobs.lever.co/tala/653aa0c7-fcb3-487f-b70c-00b461ebd725/apply"
+  },
+  "platform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/tala/653aa0c7-fcb3-487f-b70c-00b461ebd725/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Tala - Senior Backend Engineer",
+  "fieldCount": 17,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Twitter]",
+      "id": "",
+      "label": "Twitter URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Twitter]\"]",
+      "visible": true,
+      "normLabel": "twitter url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[gender]",
+      "id": "",
+      "label": "Gender Select ... Male Female Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[gender]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Male",
+        "Female",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "gender select male female decline to self identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[race]",
+      "id": "",
+      "label": "Race Select ... Hispanic or Latino White (Not Hispanic or Latino) Black or African American (Not Hispanic or Latino) Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) Asian (Not Hispa",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[race]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Hispanic or Latino",
+        "White (Not Hispanic or Latino)",
+        "Black or African American (Not Hispanic or Latino)",
+        "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "Asian (Not Hispanic or Latino)",
+        "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "Two or More Races (Not Hispanic or Latino)",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Hispanic or Latino",
+          "value": "Hispanic or Latino"
+        },
+        {
+          "label": "White (Not Hispanic or Latino)",
+          "value": "White (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Black or African American (Not Hispanic or Latino)",
+          "value": "Black or African American (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+          "value": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Asian (Not Hispanic or Latino)",
+          "value": "Asian (Not Hispanic or Latino)"
+        },
+        {
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+          "value": "American Indian or Alaska Native (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Two or More Races (Not Hispanic or Latino)",
+          "value": "Two or More Races (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 9,
+      "normLabel": "race select hispanic or latino white not hispanic or latino ",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I am a veteran I am not a veteran Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I am a veteran",
+        "I am not a veteran",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I am a veteran",
+          "value": "I am a veteran"
+        },
+        {
+          "label": "I am not a veteran",
+          "value": "I am not a veteran"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i am a veteran i am not a veteran decl",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[7621d051-f909-46ef-ba4a-b3b5fc2a14f1][responses][field0]",
+      "label": "What is your age range?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "17 or younger",
+      "required": false,
+      "options": [
+        "17 or younger",
+        "18-20",
+        "21-29",
+        "30-39",
+        "40-49",
+        "50-59",
+        "60 or older"
+      ],
+      "optionValues": [
+        {
+          "label": "17 or younger",
+          "value": "17 or younger"
+        },
+        {
+          "label": "18-20",
+          "value": "18-20"
+        },
+        {
+          "label": "21-29",
+          "value": "21-29"
+        },
+        {
+          "label": "30-39",
+          "value": "30-39"
+        },
+        {
+          "label": "40-49",
+          "value": "40-49"
+        },
+        {
+          "label": "50-59",
+          "value": "50-59"
+        },
+        {
+          "label": "60 or older",
+          "value": "60 or older"
+        }
+      ],
+      "optionCount": 7,
+      "selector": "input[name=\"surveysResponses[7621d051-f909-46ef-ba4a-b3b5fc2a14f1][responses][field0]\"]",
+      "normLabel": "what is your age range",
+      "canonical": "age_range"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[7621d051-f909-46ef-ba4a-b3b5fc2a14f1][responses][field1]",
+      "label": "I identify my ethnicity as Select all that apply",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "White / Caucasian",
+      "required": false,
+      "options": [
+        "White / Caucasian",
+        "Hispanic, Latino, or Spanish origin",
+        "Black or African American",
+        "Asian",
+        "Native Hawaiian or other Pacific Islander",
+        "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+        "Middle Eastern or North African",
+        "Some other race, ethnicity, or origin"
+      ],
+      "optionValues": [
+        {
+          "label": "White / Caucasian",
+          "value": "White / Caucasian"
+        },
+        {
+          "label": "Hispanic, Latino, or Spanish origin",
+          "value": "Hispanic, Latino, or Spanish origin"
+        },
+        {
+          "label": "Black or African American",
+          "value": "Black or African American"
+        },
+        {
+          "label": "Asian",
+          "value": "Asian"
+        },
+        {
+          "label": "Native Hawaiian or other Pacific Islander",
+          "value": "Native Hawaiian or other Pacific Islander"
+        },
+        {
+          "label": "Indigenous Peoples, First Nations, Native American, or Alaska Native",
+          "value": "Indigenous Peoples, First Nations, Native American, or Alaska Native"
+        },
+        {
+          "label": "Middle Eastern or North African",
+          "value": "Middle Eastern or North African"
+        },
+        {
+          "label": "Some other race, ethnicity, or origin",
+          "value": "Some other race, ethnicity, or origin"
+        }
+      ],
+      "optionCount": 8,
+      "selector": "input[name=\"surveysResponses[7621d051-f909-46ef-ba4a-b3b5fc2a14f1][responses][field1]\"]",
+      "normLabel": "i identify my ethnicity as select all that apply",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[7621d051-f909-46ef-ba4a-b3b5fc2a14f1][responses][field2]",
+      "label": "What gender do you identify as?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Female",
+      "required": false,
+      "options": [
+        "Female",
+        "Male",
+        "Non-binary"
+      ],
+      "optionValues": [
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Non-binary",
+          "value": "Non-binary"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"surveysResponses[7621d051-f909-46ef-ba4a-b3b5fc2a14f1][responses][field2]\"]",
+      "normLabel": "what gender do you identify as",
+      "canonical": "gender"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 9,
+      "text-email": 1,
+      "native-select": 3,
+      "radio-group": 2,
+      "checkbox-group": 1
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 10,
+      "select-option": 3,
+      "choose-one": 2,
+      "check-many": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 6
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Backend Engineer",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION (Completion is voluntary and will not subject you to adverse treatment)",
+    "DEMOGRAPHIC SURVEY FOR TALA"
+  ],
+  "buttons": [
+    "Apply with LinkedIn",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Senior Backend EngineerMXTechnology – Product Engineering /Full-time /RemoteSubmit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profi",
+    "Senior Backend EngineerMXTechnology – Product Engineering /Full-time /RemoteSubmit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profi",
+    "Submit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profile details toauto-complete this form. Learn moreResume/CV ✱ATTACH RESUME/CVC",
+    "Submit your applicationLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn profile details toauto-complete this form. Learn moreResume/CV ✱ATTACH RESUME/CVC",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/tala__senior-backend-engineer.png",
+    "html": "data/html/lever/tala__senior-backend-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 4509,
+    "lowestField": 3381.0625,
+    "coversAllFields": true
+  },
+  "ms": 10777,
+  "fingerprint": {
+    "labelSig": "76a697181b20",
+    "shapeSig": "50c2e9330f13",
+    "controlSig": "9411e6ecf36b",
+    "controls": {
+      "file-upload": 1,
+      "text": 9,
+      "text-email": 1,
+      "native-select": 3,
+      "radio-group": 2,
+      "checkbox-group": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "ead509a5ce01",
+    "typeCounts": {
+      "file": 1,
+      "text": 9,
+      "email": 1,
+      "select": 3,
+      "radio": 2,
+      "checkbox": 1
+    },
+    "canonicals": [
+      "age_range",
+      "email",
+      "employer",
+      "full_name",
+      "gender",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "race_ethnicity",
+      "resume",
+      "veteran_status"
+    ],
+    "requiredCount": 4,
+    "customQuestionCount": 0,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "lever",
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "overCap": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": "jazzhr__bt-citi__software-engineer",
+  "group": "jazzhr",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "jazzhr",
+    "atsLabel": "jazzhr",
+    "company": "bt-citi",
+    "board": "citi",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://citi.applytojob.com/apply",
+    "startUrl": "https://citi.applytojob.com/apply"
+  },
+  "platform": "jazzhr",
+  "platformLabel": "JazzHR",
+  "finalUrl": "https://citi.applytojob.com/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "JazzHR - Inactive Career Page",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "This account is no longer active. Learn more about JazzHR."
+  ],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/jazzhr/bt-citi__software-engineer.png",
+    "html": "data/html/_unreached/jazzhr/bt-citi__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 900,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 12561,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "1949f261fc9a",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "jazzhr",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

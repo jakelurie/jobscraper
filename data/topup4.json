@@ -1,0 +1,82 @@
+[
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "adobe",
+    "company": "adobe",
+    "title": "Senior Software Engineer",
+    "location": "2 Locations",
+    "jobUrl": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Engineer_R170546-1",
+    "applyUrl": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Engineer_R170546-1/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "ebay",
+    "company": "ebay",
+    "title": "Sr. Software Engineer, Auth Tech",
+    "location": "Toronto",
+    "jobUrl": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Toronto/Sr-Software-Engineer--Auth-Tech_R0075649-1",
+    "applyUrl": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Toronto/Sr-Software-Engineer--Auth-Tech_R0075649-1/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "autodesk",
+    "company": "autodesk",
+    "title": "Senior Software Engineer",
+    "location": "Singapore, SGP",
+    "jobUrl": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Senior-Software-Engineer_26WD94601-1",
+    "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Senior-Software-Engineer_26WD94601-1/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "autodesk",
+    "company": "autodesk",
+    "title": "Senior Software Engineer",
+    "location": "Singapore, SGP",
+    "jobUrl": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Senior-Software-Engineer_26WD99895-1",
+    "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Singapore-SGP/Senior-Software-Engineer_26WD99895-1/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "hpe",
+    "company": "hpe",
+    "title": "Senior Software Engineer",
+    "location": "Cupertino, California, United States of America",
+    "jobUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Cupertino-California-United-States-of-America/Senior-Software-Engineer_1208571-2",
+    "applyUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Cupertino-California-United-States-of-America/Senior-Software-Engineer_1208571-2/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "hpe",
+    "company": "hpe",
+    "title": "Senior Software Engineer Datapath",
+    "location": "Westford, Massachusetts, United States of America",
+    "jobUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Senior-Software-Engineer-Datapath_1200972-2",
+    "applyUrl": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Senior-Software-Engineer-Datapath_1200972-2/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "hp",
+    "company": "hp",
+    "title": "Senior Android/Linux Firmware Developer",
+    "location": "Vancouver, British Columbia, Canada",
+    "jobUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Senior-Software-Firmware-Developer_3167155-1",
+    "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Senior-Software-Firmware-Developer_3167155-1/apply"
+  },
+  {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "board": "hp",
+    "company": "hp",
+    "title": "Senior Machine Learning Engineer",
+    "location": "2 Locations",
+    "jobUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Senior-Machine-Learning-Engineer_3167308-1",
+    "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Senior-Machine-Learning-Engineer_3167308-1/apply"
+  }
+]

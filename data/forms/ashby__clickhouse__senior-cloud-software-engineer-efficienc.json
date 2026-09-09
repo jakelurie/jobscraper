@@ -1,0 +1,366 @@
+{
+  "id": "ashby__clickhouse__senior-cloud-software-engineer-efficienc",
+  "group": "ashby",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "ashby",
+    "atsLabel": "Ashby",
+    "company": "clickhouse",
+    "board": "clickhouse",
+    "title": "Senior Cloud Software Engineer - Efficiency Engineering",
+    "location": "AMER",
+    "jobUrl": "https://jobs.ashbyhq.com/clickhouse/db498a8c-c8d8-405b-b86a-0943a5122e7d",
+    "startUrl": "https://jobs.ashbyhq.com/clickhouse/db498a8c-c8d8-405b-b86a-0943a5122e7d/application"
+  },
+  "platform": "ashby",
+  "detectedPlatform": "ashby",
+  "platformLabel": "Ashby",
+  "finalUrl": "https://jobs.ashbyhq.com/clickhouse/db498a8c-c8d8-405b-b86a-0943a5122e7d/application",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Cloud Software Engineer - Efficiency Engineering @ ClickHouse",
+  "fieldCount": 9,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Name",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > div > input",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md",
+      "multiple": false,
+      "normLabel": "name",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "_systemfield_name",
+      "label": "Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "_systemfield_email",
+      "label": "Email",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "hello@example.com...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "_systemfield_resume",
+      "label": "Resume",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(3) > div > input",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "phone",
+      "label": "Phone",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#phone",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "cover_letter",
+      "label": "Cover Letter",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cover_letter",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*",
+      "multiple": false,
+      "normLabel": "cover letter",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "question_19435485004",
+      "id": "question_19435485004",
+      "label": "LinkedIn Profile",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#question_19435485004",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "question_19435486004",
+      "id": "question_19435486004",
+      "label": "Website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#question_19435486004",
+      "visible": true,
+      "normLabel": "website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "question_19435487004",
+      "id": "question_19435487004",
+      "label": "LinkedIn Profile",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#question_19435487004",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 3,
+      "text": 5,
+      "text-email": 1
+    },
+    "byAction": {
+      "upload": 3,
+      "type": 6
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "dropzone",
+      "count": 6
+    }
+  ],
+  "sections": [
+    "Senior Cloud Software Engineer - Efficiency Engineering",
+    "Location",
+    "Employment Type",
+    "Department",
+    "Autofill from resume"
+  ],
+  "buttons": [
+    "Upload file",
+    "Upload File",
+    "Upload File",
+    "Yes",
+    "No",
+    "Submit Application"
+  ],
+  "resumeUpload": [
+    "Senior Cloud Software Engineer - Efficiency Engineering LocationAMEREmployment TypeFull timeDepartmentEngineeringOverviewApplicationAutofill from resumeUpload your resume here to autofill key applicat",
+    "Senior Cloud Software Engineer - Efficiency Engineering LocationAMEREmployment TypeFull timeDepartmentEngineeringOverviewApplicationAutofill from resumeUpload your resume here to autofill key applicat",
+    "LocationAMEREmployment TypeFull timeDepartmentEngineeringOverviewApplicationAutofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your",
+    "OverviewApplicationAutofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your resume. Autofilling key fields...NameEmailResumeUpload F",
+    "Autofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your resume. Autofilling key fields...NameEmailResumeUpload Fileor drag and drop"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/ashby/clickhouse__senior-cloud-software-engineer-efficienc.png",
+    "html": "data/html/ashby/clickhouse__senior-cloud-software-engineer-efficienc.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 4306,
+    "lowestField": 4026.234375,
+    "coversAllFields": true
+  },
+  "ms": 4575,
+  "fingerprint": {
+    "labelSig": "e2ce1b97c761",
+    "shapeSig": "1f7cbaf08f4a",
+    "controlSig": "9bd88df8c464",
+    "controls": {
+      "file-upload": 3,
+      "text": 5,
+      "text-email": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "f99ac0d0b176",
+    "typeCounts": {
+      "file": 3,
+      "text": 5,
+      "email": 1
+    },
+    "canonicals": [
+      "email",
+      "full_name",
+      "linkedin",
+      "phone",
+      "portfolio",
+      "resume"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 0,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": true
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

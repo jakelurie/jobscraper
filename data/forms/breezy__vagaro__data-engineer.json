@@ -1,0 +1,427 @@
+{
+  "id": "breezy__vagaro__data-engineer",
+  "group": "breezy",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "breezy",
+    "atsLabel": "breezy",
+    "company": "vagaro",
+    "board": "vagaro",
+    "title": "Data Engineer",
+    "location": "Pleasanton, CA",
+    "jobUrl": "https://vagaro.breezy.hr/p/d2dbbec730ba-data-engineer",
+    "startUrl": "https://vagaro.breezy.hr/p/d2dbbec730ba-data-engineer/applicant/new"
+  },
+  "platform": "breezy",
+  "detectedPlatform": "breezy",
+  "platformLabel": "Breezy HR",
+  "finalUrl": "https://vagaro.breezy.hr/p/d1ade44fbc28-director-of-devops-sre-infrastructure/apply",
+  "applyTrail": [
+    "primed board: View Openings",
+    "clicked: Apply",
+    "clicked: Apply To Position"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Director of DevOps, SRE & Infrastructure",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "cResume",
+      "id": "main-attachment",
+      "label": "c Resume",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#main-attachment",
+      "visible": false,
+      "accept": ".pdf, .doc, .docx, .txt, .rtd, .pages",
+      "multiple": false,
+      "normLabel": "c resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cName",
+      "id": "",
+      "label": "Full Name",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Full Name",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cName\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cEmail",
+      "id": "",
+      "label": "Email Address",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Email Address",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cEmail\"]",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cPhoneNumber",
+      "id": "",
+      "label": "Phone Number",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Phone Number",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cPhoneNumber\"]",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "smsConsent",
+      "label": "sms Consent",
+      "labelSource": "name-attr",
+      "firstOptionLabel": "sms Consent",
+      "required": false,
+      "options": [
+        "on"
+      ],
+      "optionValues": [
+        {
+          "label": "on",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"smsConsent\"]",
+      "normLabel": "sms consent",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cLocation",
+      "id": "",
+      "label": "c Location",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"cLocation\"]",
+      "visible": true,
+      "options": [
+        "Ahmedabad, IN"
+      ],
+      "optionValues": [
+        {
+          "label": "Ahmedabad, IN",
+          "value": "0"
+        }
+      ],
+      "optionCount": 1,
+      "normLabel": "c location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cSummary",
+      "id": "",
+      "label": "c Summary",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cSummary\"]",
+      "visible": true,
+      "normLabel": "c summary",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cCoverLetter",
+      "id": "",
+      "label": "c Cover Letter",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cCoverLetter\"]",
+      "visible": true,
+      "normLabel": "c cover letter",
+      "canonical": "cover_letter"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "hp_7f2b",
+      "id": "hp_7f2b",
+      "label": "hp 7f2b",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "hp-4f3c9a",
+      "maxlength": "",
+      "selector": "#hp_7f2b",
+      "visible": true,
+      "normLabel": "hp 7f2b",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "gdprAgreement",
+      "label": "I've read the Privacy Notice below and consent the processing of my data as part of my job application.",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "I've read the Privacy Notice below and consent the processing of my data as part of my job application.",
+      "required": true,
+      "options": [
+        "I've read the Privacy Notice below and consent the processing of my data as part of my job application."
+      ],
+      "optionValues": [
+        {
+          "label": "I've read the Privacy Notice below and consent the processing of my data as part of my job application.",
+          "value": "true"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"gdprAgreement\"]",
+      "normLabel": "i ve read the privacy notice below and consent the processin",
+      "canonical": "consent"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 3,
+      "text-email": 1,
+      "checkbox-group": 2,
+      "native-select": 1,
+      "textarea": 2
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 6,
+      "check-many": 2,
+      "select-option": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Vagaro",
+    "Director of DevOps, SRE & Infrastructure",
+    "Personal Details",
+    "Full Name*",
+    "Email Address*",
+    "Phone Number*",
+    "Which location are you applying for*",
+    "Experience",
+    "Work History",
+    "Education",
+    "Experience Summary",
+    "Cover Letter",
+    "Recruitment Privacy Notice*"
+  ],
+  "buttons": [
+    "Upload Resume*",
+    "Use My Indeed Resume",
+    "Apply Using LinkedIn",
+    "Submit Application"
+  ],
+  "resumeUpload": [
+    "VagaroApplication SubmittedYour application has been submitted successfully. Good luck!Director of DevOps, SRE & InfrastructureAhmedabad, INFull-TimeJob OpeningsDirector of DevOps, SRE & Infrastructur",
+    "Job OpeningsDirector of DevOps, SRE & InfrastructureApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A f",
+    "Job OpeningsDirector of DevOps, SRE & InfrastructureApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A f",
+    "Job OpeningsDirector of DevOps, SRE & InfrastructureApply Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A f",
+    "Upload Resume* Use My Indeed ResumeApply Using LinkedInA resume is requiredThe file attachment is limited to 50MBPersonal DetailsFull Name*A full name is requiredEmail Address*An email is requiredAn e"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/breezy/vagaro__data-engineer.png",
+    "html": "data/html/breezy/vagaro__data-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 2628,
+    "lowestField": 2298.03125,
+    "coversAllFields": true
+  },
+  "ms": 63722,
+  "fingerprint": {
+    "labelSig": "18934a51d067",
+    "shapeSig": "66f35dc58d97",
+    "controlSig": "515b8aedccc5",
+    "controls": {
+      "file-upload": 1,
+      "text": 3,
+      "text-email": 1,
+      "checkbox-group": 2,
+      "native-select": 1,
+      "textarea": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "9ef1428e0b77",
+    "typeCounts": {
+      "file": 1,
+      "text": 3,
+      "email": 1,
+      "checkbox": 2,
+      "select": 1,
+      "textarea": 2
+    },
+    "canonicals": [
+      "consent",
+      "cover_letter",
+      "custom_question",
+      "email",
+      "full_name",
+      "location",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 2,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

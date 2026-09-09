@@ -1,0 +1,90 @@
+{
+  "id": "clearcompany__bt-travelers__software-engineer",
+  "group": "custom-travelers-hrmdirect-com",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "clearcompany",
+    "atsLabel": "clearcompany",
+    "company": "bt-travelers",
+    "board": "travelers",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://travelers.clearcompany.com/careers/jobs",
+    "startUrl": "https://travelers.clearcompany.com/careers/jobs"
+  },
+  "platform": "clearcompany",
+  "platformLabel": "travelers.hrmdirect.com",
+  "finalUrl": "https://travelers.hrmdirect.com/employment/job-openings.php",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "404 Not Found (shortname)"
+  ],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/clearcompany/bt-travelers__software-engineer.png",
+    "html": "data/html/_unreached/clearcompany/bt-travelers__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 900,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 12705,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "de5978eee763",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:travelers.hrmdirect.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,678 @@
+{
+  "id": "avature__ford__software-engineer",
+  "group": "custom-apply-ford-com",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "ford",
+    "board": "ford",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://www.careers.ford.com/",
+    "startUrl": "https://www.careers.ford.com/"
+  },
+  "platform": "avature",
+  "platformLabel": "apply.ford.com",
+  "finalUrl": "https://apply.ford.com/en/sites/CX_1/job/70162/apply/email",
+  "applyTrail": [
+    "opened posting: Engineering Designer",
+    "opened posting: Engineering Supervisor-Powertrain",
+    "opened posting: AI Engineer",
+    "clicked: Apply Now",
+    "clicked: NEXT"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "AI Engineer at Ford Motor Company",
+  "fieldCount": 4,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "ac",
+      "id": "advanced-search-category-7d4b08ea6b",
+      "label": "Job Category",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#advanced-search-category-7d4b08ea6b",
+      "visible": true,
+      "options": [
+        "Select",
+        "Administrative",
+        "Communications",
+        "Customer Experience",
+        "Enterprise Product Line Management",
+        "Enterprise Technology",
+        "Environmental & Safety Compliance",
+        "Finance",
+        "Ford Credit Services",
+        "Ford Customer Service",
+        "Ford Next Businesses",
+        "General Management",
+        "Global Data Insight & Analytics",
+        "Health and Safety",
+        "Human Resources",
+        "Manufacturing",
+        "Manufacturing Engineering",
+        "Marketing & Sales",
+        "Office of General Counsel",
+        "Other",
+        "PD Operations and Quality",
+        "Quality",
+        "Research and Advance Engineering",
+        "Strategy",
+        "Supply Chain"
+      ],
+      "optionValues": [
+        {
+          "label": "Select",
+          "value": ""
+        },
+        {
+          "label": "Administrative",
+          "value": "9370448"
+        },
+        {
+          "label": "Communications",
+          "value": "9260000"
+        },
+        {
+          "label": "Customer Experience",
+          "value": "9263616"
+        },
+        {
+          "label": "Enterprise Product Line Management",
+          "value": "9255744"
+        },
+        {
+          "label": "Enterprise Technology",
+          "value": "9255664"
+        },
+        {
+          "label": "Environmental & Safety Compliance",
+          "value": "9260016"
+        },
+        {
+          "label": "Finance",
+          "value": "9258304"
+        },
+        {
+          "label": "Ford Credit Services",
+          "value": "9255728"
+        },
+        {
+          "label": "Ford Customer Service",
+          "value": "9259984"
+        },
+        {
+          "label": "Ford Next Businesses",
+          "value": "9255712"
+        },
+        {
+          "label": "General Management",
+          "value": "9260080"
+        },
+        {
+          "label": "Global Data Insight & Analytics",
+          "value": "9260064"
+        },
+        {
+          "label": "Health and Safety",
+          "value": "9255760"
+        },
+        {
+          "label": "Human Resources",
+          "value": "9255648"
+        },
+        {
+          "label": "Manufacturing",
+          "value": "9255696"
+        },
+        {
+          "label": "Manufacturing Engineering",
+          "value": "9388128"
+        },
+        {
+          "label": "Marketing & Sales",
+          "value": "9255776"
+        },
+        {
+          "label": "Office of General Counsel",
+          "value": "9260112"
+        },
+        {
+          "label": "Other",
+          "value": "9261024"
+        },
+        {
+          "label": "PD Operations and Quality",
+          "value": "9255632"
+        },
+        {
+          "label": "Quality",
+          "value": "9260048"
+        },
+        {
+          "label": "Research and Advance Engineering",
+          "value": "9260032"
+        },
+        {
+          "label": "Strategy",
+          "value": "9260096"
+        },
+        {
+          "label": "Supply Chain",
+          "value": "9259968"
+        }
+      ],
+      "optionCount": 25,
+      "normLabel": "job category",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Country",
+      "id": "advanced-search-country-location-7d4b08ea6b",
+      "label": "Country",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#advanced-search-country-location-7d4b08ea6b",
+      "visible": true,
+      "options": [
+        "Select",
+        "Argentina",
+        "Australia",
+        "Brazil",
+        "Canada",
+        "France",
+        "Germany",
+        "Hungary",
+        "India",
+        "Mexico",
+        "Philippines",
+        "Remote",
+        "South Africa",
+        "Spain",
+        "Thailand",
+        "Trinidad and Tobago",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States",
+        "Venezuela"
+      ],
+      "optionValues": [
+        {
+          "label": "Select",
+          "value": ""
+        },
+        {
+          "label": "Argentina",
+          "value": "3865483"
+        },
+        {
+          "label": "Australia",
+          "value": "2077456"
+        },
+        {
+          "label": "Brazil",
+          "value": "3469034"
+        },
+        {
+          "label": "Canada",
+          "value": "6251999"
+        },
+        {
+          "label": "France",
+          "value": "3017382"
+        },
+        {
+          "label": "Germany",
+          "value": "2921044"
+        },
+        {
+          "label": "Hungary",
+          "value": "719819"
+        },
+        {
+          "label": "India",
+          "value": "1269750"
+        },
+        {
+          "label": "Mexico",
+          "value": "3996063"
+        },
+        {
+          "label": "Philippines",
+          "value": "1694008"
+        },
+        {
+          "label": "Remote",
+          "value": "1000000000100"
+        },
+        {
+          "label": "South Africa",
+          "value": "953987"
+        },
+        {
+          "label": "Spain",
+          "value": "2510769"
+        },
+        {
+          "label": "Thailand",
+          "value": "1605651"
+        },
+        {
+          "label": "Trinidad and Tobago",
+          "value": "3573591"
+        },
+        {
+          "label": "United Arab Emirates",
+          "value": "290557"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "2635167"
+        },
+        {
+          "label": "United States",
+          "value": "6252001"
+        },
+        {
+          "label": "Venezuela",
+          "value": "3625428"
+        }
+      ],
+      "optionCount": 20,
+      "normLabel": "country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "State",
+      "id": "advanced-search-state-location-7d4b08ea6b",
+      "label": "State/Region",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#advanced-search-state-location-7d4b08ea6b",
+      "visible": true,
+      "options": [
+        "Select",
+        "Alberta",
+        "Autonomous Region in Muslim Mindanao",
+        "Bangkok",
+        "Budapest",
+        "California",
+        "Carabobo",
+        "Chihuahua",
+        "Colorado",
+        "Florida",
+        "Gauteng",
+        "Georgia",
+        "Guanajuato",
+        "Guerrero",
+        "Gujarat",
+        "Île-de-France Region",
+        "Illinois",
+        "Kansas",
+        "Kentucky",
+        "Metro Manila",
+        "México",
+        "Mexico City",
+        "Michigan",
+        "Missouri",
+        "New Hampshire",
+        "New York",
+        "North Carolina",
+        "North Rhine-Westphalia",
+        "Ohio",
+        "Ontario",
+        "Oregon",
+        "Pest megye",
+        "Port of Spain",
+        "Rayong",
+        "Santa Fe",
+        "São Paulo",
+        "Sonora",
+        "Tamil Nadu",
+        "United Kingdom",
+        "Utah"
+      ],
+      "optionValues": [
+        {
+          "label": "Select",
+          "value": ""
+        },
+        {
+          "label": "Alberta",
+          "value": "6251999-5883102"
+        },
+        {
+          "label": "Autonomous Region in Muslim Mindanao",
+          "value": "1694008-7115989"
+        },
+        {
+          "label": "Bangkok",
+          "value": "1605651-1609348"
+        },
+        {
+          "label": "Budapest",
+          "value": "719819-3054638"
+        },
+        {
+          "label": "California",
+          "value": "6252001-5332921"
+        },
+        {
+          "label": "Carabobo",
+          "value": "3625428-3646751"
+        },
+        {
+          "label": "Chihuahua",
+          "value": "3996063-4014336"
+        },
+        {
+          "label": "Colorado",
+          "value": "6252001-5417618"
+        },
+        {
+          "label": "Florida",
+          "value": "6252001-4155751"
+        },
+        {
+          "label": "Gauteng",
+          "value": "953987-1085594"
+        },
+        {
+          "label": "Georgia",
+          "value": "6252001-4197000"
+        },
+        {
+          "label": "Guanajuato",
+          "value": "3996063-4005267"
+        },
+        {
+          "label": "Guerrero",
+          "value": "3996063-3527213"
+        },
+        {
+          "label": "Gujarat",
+          "value": "1269750-1270770"
+        },
+        {
+          "label": "Île-de-France Region",
+          "value": "3017382-3012874"
+        },
+        {
+          "label": "Illinois",
+          "value": "6252001-4896861"
+        },
+        {
+          "label": "Kansas",
+          "value": "6252001-4273857"
+        },
+        {
+          "label": "Kentucky",
+          "value": "6252001-6254925"
+        },
+        {
+          "label": "Metro Manila",
+          "value": "1694008-7521311"
+        },
+        {
+          "label": "México",
+          "value": "3996063-3523272"
+        },
+        {
+          "label": "Mexico City",
+          "value": "3996063-3527646"
+        },
+        {
+          "label": "Michigan",
+          "value": "6252001-5001836"
+        },
+        {
+          "label": "Missouri",
+          "value": "6252001-4398678"
+        },
+        {
+          "label": "New Hampshire",
+          "value": "6252001-5090174"
+        },
+        {
+          "label": "New York",
+          "value": "6252001-5128638"
+        },
+        {
+          "label": "North Carolina",
+          "value": "6252001-4482348"
+        },
+        {
+          "label": "North Rhine-Westphalia",
+          "value": "2921044-2861876"
+        },
+        {
+          "label": "Ohio",
+          "value": "6252001-5165418"
+        },
+        {
+          "label": "Ontario",
+          "value": "6251999-6093943"
+        },
+        {
+          "label": "Oregon",
+          "value": "6252001-5744337"
+        },
+        {
+          "label": "Pest megye",
+          "value": "719819-3046431"
+        },
+        {
+          "label": "Port of Spain",
+          "value": "3573591-3573891"
+        },
+        {
+          "label": "Rayong",
+          "value": "1605651-1607016"
+        },
+        {
+          "label": "Santa Fe",
+          "value": "3865483-3836276"
+        },
+        {
+          "label": "São Paulo",
+          "value": "3469034-3448433"
+        },
+        {
+          "label": "Sonora",
+          "value": "3996063-3982846"
+        },
+        {
+          "label": "Tamil Nadu",
+          "value": "1269750-1255053"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "2635167-6269131"
+        },
+        {
+          "label": "Utah",
+          "value": "6252001-5549030"
+        }
+      ],
+      "optionCount": 45,
+      "normLabel": "state/region",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "advanced-search-keyword-7d4b08ea6b",
+      "label": "Keyword",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Role or Skill",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#advanced-search-keyword-7d4b08ea6b",
+      "visible": true,
+      "normLabel": "keyword",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "native-select": 3,
+      "text-search": 1
+    },
+    "byAction": {
+      "select-option": 3,
+      "type": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "AI Engineer",
+    "CORE TECHNICAL AREAS",
+    "REQUIRED QUALIFICATIONS",
+    "PREFERRED QUALIFICATIONS",
+    "Share this job",
+    "JOBS FOR YOU.",
+    "Engineering Designer",
+    "FinSimple Business Development Manager",
+    "Engineering Supervisor-Powertrain",
+    "AI Engineer",
+    "BE THE FIRST TO KNOW ABOUT NEW JOBS.",
+    "Follow Ford Careers"
+  ],
+  "buttons": [
+    "About Us",
+    "Career Areas",
+    "Go For It",
+    "Apply Now",
+    "Apply Now",
+    "What We Do",
+    "Our People And Culture",
+    "Your Benefits",
+    "Click Here",
+    "Cookie Settings",
+    "Candidate FEEDBACK",
+    "Cookie Settings"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/avature/ford__software-engineer.png",
+    "html": "data/html/_unreached/avature/ford__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 4,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 3,
+    "docHeight": 870,
+    "lowestField": 503.0625,
+    "coversAllFields": true
+  },
+  "ms": 52446,
+  "fingerprint": {
+    "labelSig": "4b032ca55b5a",
+    "shapeSig": "472a813b55bb",
+    "controlSig": "88c450e2f3bd",
+    "controls": {
+      "native-select": 3,
+      "text-search": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "23dc97f5fb85",
+    "typeCounts": {
+      "select": 3,
+      "search": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:apply.ford.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

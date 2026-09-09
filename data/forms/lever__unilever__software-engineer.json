@@ -1,0 +1,685 @@
+{
+  "id": "lever__unilever__software-engineer",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "unilever",
+    "board": "unilever",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.unilever.com/en",
+    "startUrl": "https://careers.unilever.com/en"
+  },
+  "platform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://careers.unilever.com/en",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Working at Unilever",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "search-keyword-858fdce38f",
+      "label": "Keyword search",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Search job title/keyword",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-keyword-858fdce38f",
+      "visible": true,
+      "normLabel": "keyword search",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "l",
+      "id": "search-location-858fdce38f",
+      "label": "City, State, or ZIP",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Location",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-location-858fdce38f",
+      "visible": true,
+      "normLabel": "city state or zip",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "FirstName",
+      "id": "form-field-313f918207",
+      "label": "First Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "25",
+      "selector": "#form-field-313f918207",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "LastName",
+      "id": "form-field-6d4595ebc8",
+      "label": "Last Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "25",
+      "selector": "#form-field-6d4595ebc8",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "EmailAddress",
+      "id": "form-field-702eca8f8a",
+      "label": "Email Address",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#form-field-702eca8f8a",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "CountryCode",
+      "id": "form-field-1728968ae3_country",
+      "label": "Country Code",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-1728968ae3_country",
+      "visible": true,
+      "options": [
+        "+1",
+        "+1242",
+        "+1246",
+        "+1264",
+        "+1268",
+        "+1284",
+        "+1340",
+        "+1441",
+        "+1473",
+        "+1649",
+        "+1664",
+        "+1670",
+        "+1671",
+        "+1684",
+        "+1758",
+        "+1767",
+        "+1784",
+        "+1849",
+        "+1868",
+        "+1869",
+        "+1876",
+        "+1939",
+        "+20",
+        "+211",
+        "+212",
+        "+213",
+        "+216",
+        "+218",
+        "+220",
+        "+221",
+        "+222",
+        "+223",
+        "+224",
+        "+225",
+        "+226",
+        "+227",
+        "+228",
+        "+229",
+        "+230",
+        "+231"
+      ],
+      "optionValues": [
+        {
+          "label": "+1",
+          "value": "1"
+        },
+        {
+          "label": "+1242",
+          "value": "1242"
+        },
+        {
+          "label": "+1246",
+          "value": "1246"
+        },
+        {
+          "label": "+1264",
+          "value": "1264"
+        },
+        {
+          "label": "+1268",
+          "value": "1268"
+        },
+        {
+          "label": "+1284",
+          "value": "1284"
+        },
+        {
+          "label": "+1340",
+          "value": "1340"
+        },
+        {
+          "label": "+1441",
+          "value": "1441"
+        },
+        {
+          "label": "+1473",
+          "value": "1473"
+        },
+        {
+          "label": "+1649",
+          "value": "1649"
+        },
+        {
+          "label": "+1664",
+          "value": "1664"
+        },
+        {
+          "label": "+1670",
+          "value": "1670"
+        },
+        {
+          "label": "+1671",
+          "value": "1671"
+        },
+        {
+          "label": "+1684",
+          "value": "1684"
+        },
+        {
+          "label": "+1758",
+          "value": "1758"
+        },
+        {
+          "label": "+1767",
+          "value": "1767"
+        },
+        {
+          "label": "+1784",
+          "value": "1784"
+        },
+        {
+          "label": "+1849",
+          "value": "1849"
+        },
+        {
+          "label": "+1868",
+          "value": "1868"
+        },
+        {
+          "label": "+1869",
+          "value": "1869"
+        },
+        {
+          "label": "+1876",
+          "value": "1876"
+        },
+        {
+          "label": "+1939",
+          "value": "1939"
+        },
+        {
+          "label": "+20",
+          "value": "20"
+        },
+        {
+          "label": "+211",
+          "value": "211"
+        },
+        {
+          "label": "+212",
+          "value": "212"
+        },
+        {
+          "label": "+213",
+          "value": "213"
+        },
+        {
+          "label": "+216",
+          "value": "216"
+        },
+        {
+          "label": "+218",
+          "value": "218"
+        },
+        {
+          "label": "+220",
+          "value": "220"
+        },
+        {
+          "label": "+221",
+          "value": "221"
+        },
+        {
+          "label": "+222",
+          "value": "222"
+        },
+        {
+          "label": "+223",
+          "value": "223"
+        },
+        {
+          "label": "+224",
+          "value": "224"
+        },
+        {
+          "label": "+225",
+          "value": "225"
+        },
+        {
+          "label": "+226",
+          "value": "226"
+        },
+        {
+          "label": "+227",
+          "value": "227"
+        },
+        {
+          "label": "+228",
+          "value": "228"
+        },
+        {
+          "label": "+229",
+          "value": "229"
+        },
+        {
+          "label": "+230",
+          "value": "230"
+        },
+        {
+          "label": "+231",
+          "value": "231"
+        }
+      ],
+      "optionCount": 224,
+      "normLabel": "country code",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "text-tel",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "MobilePhone",
+      "id": "form-field-1728968ae3",
+      "label": "Phone Number",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "1234445567",
+      "autocomplete": "",
+      "maxlength": "15",
+      "selector": "#form-field-1728968ae3",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "form-field-cc078c28dc",
+      "label": "Upload Resume",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-cc078c28dc",
+      "visible": true,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Category",
+      "id": "form-field-d03bc843f5-category",
+      "label": "Job Category",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-d03bc843f5-category",
+      "visible": true,
+      "options": [
+        "Select a Job Category",
+        "Customer Development",
+        "Early Careers",
+        "Finance",
+        "General Management",
+        "Global Digital & Technology",
+        "Human Resources",
+        "Marketing",
+        "Research & Development",
+        "Supply Chain"
+      ],
+      "optionValues": [
+        {
+          "label": "Select a Job Category",
+          "value": ""
+        },
+        {
+          "label": "Customer Development",
+          "value": "8110032"
+        },
+        {
+          "label": "Early Careers",
+          "value": "8634992"
+        },
+        {
+          "label": "Finance",
+          "value": "8110128"
+        },
+        {
+          "label": "General Management",
+          "value": "8110000"
+        },
+        {
+          "label": "Global Digital & Technology",
+          "value": "9372592"
+        },
+        {
+          "label": "Human Resources",
+          "value": "8110048"
+        },
+        {
+          "label": "Marketing",
+          "value": "8110080"
+        },
+        {
+          "label": "Research & Development",
+          "value": "9020368"
+        },
+        {
+          "label": "Supply Chain",
+          "value": "8109968"
+        }
+      ],
+      "optionCount": 10,
+      "normLabel": "job category",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Location",
+      "id": "form-field-d03bc843f5-location",
+      "label": "Location Type to Search for a Location",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Type to Search for a Location",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#form-field-d03bc843f5-location",
+      "visible": true,
+      "normLabel": "location type to search for a location",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-search": 1,
+      "text": 5,
+      "native-select": 2,
+      "text-tel": 1,
+      "file-upload": 1
+    },
+    "byAction": {
+      "type": 7,
+      "select-option": 2,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 2
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "A bright, new future",
+    "Your Unilever",
+    "Market-makers and big brands",
+    "Expert teams",
+    "Human Resources",
+    "Legal",
+    "Global Business Services",
+    "Customer Development",
+    "Research & Development",
+    "Supply Chain",
+    "Marketing",
+    "Communications, Corporate Affairs & Sustainability",
+    "Global Digital & Technology (GDT)",
+    "Finance",
+    "Human Resources",
+    "Legal",
+    "Global Business Services",
+    "Customer Development",
+    "Research & Development",
+    "Supply Chain",
+    "Marketing",
+    "Communications, Corporate Affairs & Sustainability",
+    "Global Digital & Technology (GDT)",
+    "Finance",
+    "Human Resources",
+    "Legal",
+    "Global Business Services",
+    "Customer Development",
+    "Jobs for you",
+    "Join our talent network"
+  ],
+  "buttons": [
+    "EN",
+    "Search",
+    "Join Our Talent Community",
+    "Previous",
+    "Next",
+    "Save Job",
+    "Save Job",
+    "Save Job",
+    "Save Job",
+    "Add",
+    "Sign up",
+    "Already a Member? Sign in",
+    "Cookie Settings"
+  ],
+  "resumeUpload": [
+    "Skip to main content Life at Unilever Experienced Professionals Early Careers Events Locations Saved Jobs Talent Community EN English English Deutsch German Español Spanish Français French Türkçe Turk",
+    "Join our talent network Make sure you see job opportunities when they become available. Just leave details here to stay up to date with jobs that suit you and your skills. * Indicates required field F",
+    "Join our talent network Make sure you see job opportunities when they become available. Just leave details here to stay up to date with jobs that suit you and your skills. * Indicates required field F",
+    "First NameLast NameEmail AddressCountry Code+1+1242+1246+1264+1268+1284+1340+1441+1473+1649+1664+1670+1671+1684+1758+1767+1784+1849+1868+1869+1876+1939+20+211+212+213+216+218+220+221+222+223+224+225+2",
+    "First NameLast NameEmail AddressCountry Code+1+1242+1246+1264+1268+1284+1340+1441+1473+1649+1664+1670+1671+1684+1758+1767+1784+1849+1868+1869+1876+1939+20+211+212+213+216+218+220+221+222+223+224+225+2"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/unilever__software-engineer.png",
+    "html": "data/html/lever/unilever__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 5710,
+    "lowestField": 4866,
+    "coversAllFields": true
+  },
+  "ms": 11904,
+  "fingerprint": {
+    "labelSig": "16e947947d6a",
+    "shapeSig": "0515bda26660",
+    "controlSig": "a8738e447b58",
+    "controls": {
+      "text-search": 1,
+      "text": 5,
+      "native-select": 2,
+      "text-tel": 1,
+      "file-upload": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "c04ecd13502a",
+    "typeCounts": {
+      "search": 1,
+      "text": 5,
+      "select": 2,
+      "tel": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 2,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "lever",
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "overCap": true
+}

@@ -1,0 +1,235 @@
+{
+  "cookies": [
+    {
+      "name": "PLAY_SESSION",
+      "value": "129a21da98d078db6353b416461aded3185cff88-ebay_pSessionId=lk26re1cgca0k61isfqh8l8uof&instance=vps-prod-c74g0kj2.prod-vps.pr502.cust.pdx.wd",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "98f1b8c2-820b-48b0-bdba-1d657791ce52",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "2cf974ed-8f26-4c7a-8525-ec2fec034049",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "642304f0-92fa-485e-a8f8-670c12314a1d.ZWJheQ==.V0RDQzEuMIQAJQAAIBN2NiUkzIxS7FYLih9wd+1dQjINk6vpCa8gkI1/MD/nAACMABYBMQAQOy5fAjX9bsdH+w2RLczN1gAAADY0MjMwNGYwLTkyZmEtNDg1ZS1hOGY4LTY3MGMxMjMxNGExZA==",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wday_vps_cookie",
+      "value": "3203177482.53810.0000",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuHJZe28xXz6hQKLeTYyWYf7NxYcM2MG6FX3ap3xua",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788985201.409587,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "mquGFNrcAhZT5IxTlwEL6hObxLA.A7EtlOnl1GQ9ob0-1788902400.734345-1.0.1.1-IsAYOPYr.ncQAmfg19THcgLjYiCdssKclzmte2n71eY",
+      "domain": ".ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ywt_6YjYRmuQmok3SIKkA8QuWSwf1b3YgaKuUUeJlLc-1788902403.3245714-1.0.1.1-z5FcXXe8zRIMwsAaf6O3.qmhLsWZE1ju3TvlELfVHvANhIbQZHdz9kYo6.jhmmCyq7W0swxgERpD0WOnDlzK1YlvoP0cIaI5XwnnDgLvIVfqtR5cABiNDotlWwfd7QoR",
+      "domain": ".myworkdaycdn.com",
+      "path": "/",
+      "expires": 1788904203.341652,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.4.545477890.1788902403",
+      "domain": ".ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1823462503.075739,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "XAmvoI.5uCDoCvoyGfZg7.2pIDAtsSbN8PYjT1MfM1g-1788902404.7826447-1.0.1.1-Ie6loXFoFMVFo7nwFIITYX.kzOVrwZAtKdDeUSxs7VHtw8GdE_0Urzmb7d9goVsL6U31kRJhBhKCuMJKaWYhyNOd1g6K6jvrumMNFgWjQBfVlYqMMqKl55fzp.FyQF44",
+      "domain": ".applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788904205.007786,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEhzEqcmmVbuV8B8iXV23tNdM98u7cYuJu186AcXv",
+      "domain": "applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788985205.007827,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&4c53d517-1cbc-4bb5-8f6d-18933ca2d88f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820438405.419845,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202609082120055486b4d3-3229-4718-8946-e79ef4fdf87dAQH-DoFJuZx0zCJjd1luXKwuUsVdFSjb\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820438405.419876,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3763:u=1:x=1:i=1788902405:t=1788988805:v=2:sig=AQH4OaF2ZYFTefGiJKK0_u2g6b7Z7Psc\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788988805.287693,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "C.Cp2qmhlXnfSK_9Vs9zMBYlw34VRJzLVB8ykgJg8n4-1788902405.2325284-1.0.1.1-qAzZMlsNRLCdcsffeRfaWdb_42PfiFu4WI.03fLlddEwHa2Nbm2iXFEjimlWmvGoc3tvyuuW_IzdPfMYEP3lL2wtflhu75Q7dvUX4rsUu7U996Eq7FOAaNkCrRbqmzYU",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788904205.287722,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:4154417871027269801",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "LXiLX53qLT55Hl_zAax9uPjXoA8D2wLHPj5.Yn4N430-1788902501.9597912-1.0.1.1-E55jvujkW3ioi8PHXPNo5MA4Jbhaq1_9bA0OcOy0TD5gAjINis0671ngs0xcf9qW5EF4cTyD1UwbWT8cdN8NXOWYKg2lG0mT0tGCo_pMTDEHNasBqrJJvSOzPAP6wY5c",
+      "domain": ".ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788904302.068403,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_LANG",
+      "value": "en-US",
+      "domain": "ebay.wd5.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "L69WGLdLpfWKOQnsHqfq7PSkjTHm.VLMzMemF4t7ElQ-1788902503.1259673-1.0.1.1-m_uF2NO2_qrWdYLZ8cF8qW6Do3inwhQRbB9nTCNAwKV6KH8o1qFS_P4i04xpX08uiVOJj6JR5y7dKxv0Pf3DsEmiShyE.Dae8P731PLNahjq3g0ubu97TfvX.pFDHvsI",
+      "domain": ".wd5.myworkday.com",
+      "path": "/",
+      "expires": 1788904303.135775,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuFae6mExAbhzEGM1WrinZzXvJvW3rS5MNt5DVDB9n",
+      "domain": "wd5.myworkday.com",
+      "path": "/",
+      "expires": 1788985303.135853,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://ebay.wd5.myworkdayjobs.com",
+      "localStorage": [
+        {
+          "name": "localStorageLocale",
+          "value": "en-US"
+        }
+      ]
+    }
+  ]
+}

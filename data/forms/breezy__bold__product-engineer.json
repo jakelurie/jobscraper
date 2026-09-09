@@ -1,0 +1,551 @@
+{
+  "id": "breezy__bold__product-engineer",
+  "group": "breezy",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "breezy",
+    "atsLabel": "breezy",
+    "company": "bold",
+    "board": "bold",
+    "title": "Product Engineer",
+    "location": "Muskegon, MI",
+    "jobUrl": "https://bold.breezy.hr/p/942ace5530f9-product-engineer",
+    "startUrl": "https://bold.breezy.hr/p/942ace5530f9-product-engineer/applicant/new"
+  },
+  "platform": "breezy",
+  "detectedPlatform": "breezy",
+  "platformLabel": "Breezy HR",
+  "finalUrl": "https://bold.breezy.hr/p/2d3309664253-bespoke-assembly/apply",
+  "applyTrail": [
+    "primed board: View Openings",
+    "clicked: Apply",
+    "clicked: Apply To Position"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Bespoke Assembly",
+  "fieldCount": 12,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cName",
+      "id": "",
+      "label": "Full Name",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Full Name",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cName\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cEmail",
+      "id": "",
+      "label": "Email Address",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Email Address",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cEmail\"]",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cPhoneNumber",
+      "id": "",
+      "label": "Phone Number",
+      "labelSource": "placeholder",
+      "required": true,
+      "placeholder": "Phone Number",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cPhoneNumber\"]",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "smsConsent",
+      "label": "sms Consent",
+      "labelSource": "name-attr",
+      "firstOptionLabel": "sms Consent",
+      "required": false,
+      "options": [
+        "on"
+      ],
+      "optionValues": [
+        {
+          "label": "on",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"smsConsent\"]",
+      "normLabel": "sms consent",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cSummary",
+      "id": "",
+      "label": "c Summary",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cSummary\"]",
+      "visible": true,
+      "normLabel": "c summary",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "hp_7f2b",
+      "id": "hp_7f2b",
+      "label": "hp 7f2b",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "hp-4f3c9a",
+      "maxlength": "",
+      "selector": "#hp_7f2b",
+      "visible": true,
+      "normLabel": "hp 7f2b",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "section_1784921210672_question_0",
+      "label": "What position are you most interested in?*",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Mark all that apply",
+      "required": true,
+      "options": [
+        "on",
+        "on",
+        "on",
+        "on",
+        "on",
+        "on"
+      ],
+      "optionValues": [
+        {
+          "label": "on",
+          "value": "on"
+        },
+        {
+          "label": "on",
+          "value": "on"
+        },
+        {
+          "label": "on",
+          "value": "on"
+        },
+        {
+          "label": "on",
+          "value": "on"
+        },
+        {
+          "label": "on",
+          "value": "on"
+        },
+        {
+          "label": "on",
+          "value": "on"
+        }
+      ],
+      "optionCount": 6,
+      "selector": "input[name=\"section_1784921210672_question_0\"]",
+      "normLabel": "what position are you most interested in",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "section_1784921210672_question_1",
+      "id": "",
+      "label": "section 1784921210672 question 1",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"section_1784921210672_question_1\"]",
+      "visible": true,
+      "options": [
+        "1st : M-Th 5am - 3pm",
+        "2nd : M-Th 3pm - 1am"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": "? undefined:undefined ?"
+        },
+        {
+          "label": "1st : M-Th 5am - 3pm",
+          "value": "1st :  M-Th 5am - 3pm "
+        },
+        {
+          "label": "2nd : M-Th 3pm - 1am",
+          "value": "2nd : M-Th 3pm - 1am"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "section 1784921210672 question 1",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "section_1784921210672_question_2",
+      "label": "What type of work are you looking for?*",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Full Time",
+      "required": true,
+      "options": [
+        "Full Time",
+        "Part Time",
+        "Temporary"
+      ],
+      "optionValues": [
+        {
+          "label": "Full Time",
+          "value": "Full Time"
+        },
+        {
+          "label": "Part Time",
+          "value": "Part Time "
+        },
+        {
+          "label": "Temporary",
+          "value": "Temporary"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"section_1784921210672_question_2\"]",
+      "normLabel": "what type of work are you looking for",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "date",
+      "control": "date-native",
+      "fill": {
+        "action": "pick-date",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "section_1784921210672_question_3",
+      "id": "",
+      "label": "What position are you most interested in?* Mark all that apply Assembly Contour Operator CNC Operator Edgeband Operator Material Handler Other",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"section_1784921210672_question_3\"]",
+      "visible": true,
+      "dateFormat": "date",
+      "normLabel": "what position are you most interested in mark all that apply",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "section_1784921210672_question_4",
+      "id": "",
+      "label": "section 1784921210672 question 4",
+      "labelSource": "name-attr",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"section_1784921210672_question_4\"]",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": "? undefined:undefined ?"
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "section 1784921210672 question 4",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "section_1784921210672_question_5",
+      "id": "",
+      "label": "What position are you most interested in?* Mark all that apply Assembly Contour Operator CNC Operator Edgeband Operator Material Handler Other",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"section_1784921210672_question_5\"]",
+      "visible": true,
+      "normLabel": "what position are you most interested in mark all that apply",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 4,
+      "text-email": 1,
+      "checkbox-group": 2,
+      "textarea": 1,
+      "native-select": 2,
+      "radio-group": 1,
+      "date-native": 1
+    },
+    "byAction": {
+      "type": 6,
+      "check-many": 2,
+      "select-option": 2,
+      "choose-one": 1,
+      "pick-date": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 5
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "date-picker",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Bespoke Assembly",
+    "Personal Details",
+    "Full Name*",
+    "Email Address*",
+    "Phone Number*",
+    "Experience",
+    "Work History*",
+    "Education*",
+    "Experience Summary*",
+    "What position are you most interested in?*",
+    "What shift are you interested in?*",
+    "What type of work are you looking for?*",
+    "What date are you available to start?*",
+    "Have you ever worked for Bold+ in the past? If so when?*",
+    "How did you hear about Bold+?*"
+  ],
+  "buttons": [
+    "Use My Indeed Resume",
+    "Apply Using LinkedIn",
+    "Submit Application"
+  ],
+  "resumeUpload": [
+    "Application SubmittedYour application has been submitted successfully. Good luck!Bespoke AssemblyMuskegon, MIFull-TimeAssemblyJob OpeningsBespoke AssemblyApply Use My Indeed ResumeApply Using LinkedIn",
+    "Job OpeningsBespoke AssemblyApply Use My Indeed ResumeApply Using LinkedInPersonal DetailsFull Name*A full name is requiredEmail Address*An email is requiredAn email is requiredPhone Number*A phone nu",
+    "Job OpeningsBespoke AssemblyApply Use My Indeed ResumeApply Using LinkedInPersonal DetailsFull Name*A full name is requiredEmail Address*An email is requiredAn email is requiredPhone Number*A phone nu",
+    "Job OpeningsBespoke AssemblyApply Use My Indeed ResumeApply Using LinkedInPersonal DetailsFull Name*A full name is requiredEmail Address*An email is requiredAn email is requiredPhone Number*A phone nu",
+    "Use My Indeed ResumeApply Using LinkedInPersonal DetailsFull Name*A full name is requiredEmail Address*An email is requiredAn email is requiredPhone Number*A phone number is requiredBy providing your "
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/breezy/bold__product-engineer.png",
+    "html": "data/html/breezy/bold__product-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 2835,
+    "lowestField": 2568.203125,
+    "coversAllFields": true
+  },
+  "ms": 68766,
+  "fingerprint": {
+    "labelSig": "fb16eb60a03f",
+    "shapeSig": "f6db3f88b6f2",
+    "controlSig": "ac6ec343cebb",
+    "controls": {
+      "text": 4,
+      "text-email": 1,
+      "checkbox-group": 2,
+      "textarea": 1,
+      "native-select": 2,
+      "radio-group": 1,
+      "date-native": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": true,
+    "uiSig": "57a61c22cff0",
+    "typeCounts": {
+      "text": 4,
+      "email": 1,
+      "checkbox": 2,
+      "textarea": 1,
+      "select": 2,
+      "radio": 1,
+      "date": 1
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "phone"
+    ],
+    "requiredCount": 10,
+    "customQuestionCount": 8,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

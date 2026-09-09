@@ -1,0 +1,146 @@
+{
+  "id": "snap__snap__machine-learning-engineer-level-5",
+  "group": "snap",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "snap",
+    "atsLabel": "Snap (in-house)",
+    "company": "snap",
+    "board": "snap",
+    "title": "Machine Learning Engineer, Level 5",
+    "location": "",
+    "jobUrl": "https://careers.snap.com/job?id=Q326SWEML5",
+    "startUrl": "https://careers.snap.com/job?id=Q326SWEML5"
+  },
+  "platform": "snap",
+  "platformLabel": "Snap (in-house)",
+  "finalUrl": "https://careers.snap.com/job?id=Q326SWEML5",
+  "applyTrail": [
+    "clicked: Apply Now",
+    "saved-session:snap__snap.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Machine Learning Engineer, Level 5",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "LANGUAGE",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "ul > li > div > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "language",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1
+    },
+    "byAction": {
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Machine Learning Engineer, Level 5",
+    "Ready to join Team Snap",
+    "Machine Learning Engineer, Level 5",
+    "Life at Snap"
+  ],
+  "buttons": [
+    "English (US)"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/snap/snap__machine-learning-engineer-level-5.png",
+    "html": "data/html/_unreached/snap/snap__machine-learning-engineer-level-5.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 5043,
+    "lowestField": 5026.546875,
+    "coversAllFields": true
+  },
+  "ms": 58007,
+  "fingerprint": {
+    "labelSig": "d0057cef5596",
+    "shapeSig": "2f1d4df9e252",
+    "controlSig": "edf5c3c0cf93",
+    "controls": {
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "f1a8799d0b33",
+    "typeCounts": {
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "snap",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

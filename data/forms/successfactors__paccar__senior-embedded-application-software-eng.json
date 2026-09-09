@@ -1,0 +1,351 @@
+{
+  "id": "successfactors__paccar__senior-embedded-application-software-eng",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "paccar",
+    "board": "paccar",
+    "title": "Senior Embedded Application Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.paccar.com/job/Kirkland-Senior-Embedded-Application-Software-Engineer-WA-98033/1427208033/",
+    "startUrl": "https://jobs.paccar.com/job/Kirkland-Senior-Embedded-Application-Software-Engineer-WA-98033/1427208033/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career5.successfactors.eu/career?company=paccarinc&site=&lang=en_US&requestParams=NUB3BTfwMUNz7%2fB56RUszXT3efF42m1SzW4TMRA2KaEpVNCqUm9c9hxF%2bWnYNhxoVVSIVCSk0kqo%0aQovjnTRuHNsdzzaJovJE8BCIJ4AjEmfEgXdgtlRqFuKDZc18%2fn7G%2fvhblAOK9XN5KWsZaVN7KcPg%0alfTl5e%2bfv2y%2b%2f7okSgfivnEyPZCKHHbFCg0QwsCZdOKf7Yp8rY4rvK%2flJxJ3gybIUGycHl6zGmnP%0aakeE2p49%2ffTt5Oevx7MXJSEmnuF3SAgSFWU0WOqm2YX4IJb%2b1ivnrheaY%2biRWFcSATDhSoJwkegC%0asBy36nGTxIPglJZmz3szLfT70gTgPl9%2frT0YbWG%2bf%2b%2b5RlBE4qFyiGAkaWeTopnVRutJM47r7Xpc%0abzBSh64lQCvNcQBcpLas3MhLe%2bukRGLFS8VRtFX%2fnG%2fy2TDP9CiPKzmNVteWeLL5KAtiYJPjIxJr%0a%2fBzjPQNI%2bwiSIF3kaANHwyRju4lH6AOCVYU5%2fJhF%2fYztsJQ0%2b84NNYSoczqLbpJEnehEj8BF1UgN%0aQA0hjTqNq%2bp8%2f63L3mQ9KCLeVSMP2Hc4kqx4S8x1mV6yZx34aywWPNSWWbr2P0blMks4pakHhjlP%0aOseknB0mnt%2bTiRrb9a12a2cn3m5sta8mfwC9UeI1&login_ns=register&career_ns=job%5fapplication&career_job_req_id=73072&jobPipeline=Direct&clientId=jobs2web&_s.crb=CxJkC18jJaN94i%2fb5UE77%2f19IQ1yuMNh04VyARJoVCg%3d",
+  "applyTrail": [
+    "clicked: Apply now",
+    "clicked: Apply Now",
+    "clicked: Create an account",
+    "clicked: Create Account",
+    "filled:email+password+password-confirm+required-field+required-field",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on register screen: Please complete all required fields and re-submit. The following fields require a valid input: Retype Email Address | Please complete all ",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Career Opportunities: Create an Account",
+  "fieldCount": 8,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Retype Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "retype email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Choose Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "choose password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Retype Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "retype password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "First Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Last Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notification:",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notification:",
+      "required": false,
+      "options": [
+        "Notification:"
+      ],
+      "optionValues": [
+        {
+          "label": "Notification:",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notification",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_campaignEmailEnabled",
+      "label": "Hear more about career opportunities",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Hear more about career opportunities",
+      "required": false,
+      "options": [
+        "Hear more about career opportunities"
+      ],
+      "optionValues": [
+        {
+          "label": "Hear more about career opportunities",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_campaignEmailEnabled\"]",
+      "normLabel": "hear more about career opportunities",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 4,
+      "text-password": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 6,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 2
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Career Opportunities: Create an Account"
+  ],
+  "buttons": [
+    "Why Work With Us",
+    "Job Opportunities",
+    "Connect With Us",
+    "Create Account",
+    "Cookie Consent Manager"
+  ],
+  "resumeUpload": [
+    "We use cookies to offer you the best possible website experience. Your cookie preferences will be stored in your browser’s local storage. This includes cookies necessary for the website's operation. A",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/paccar__senior-embedded-application-software-eng.png",
+    "html": "data/html/_unreached/successfactors/paccar__senior-embedded-application-software-eng.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1326,
+    "lowestField": 1026.25,
+    "coversAllFields": true
+  },
+  "ms": 123371,
+  "fingerprint": {
+    "labelSig": "433c1062eab5",
+    "shapeSig": "5bd6f457f438",
+    "controlSig": "310dfbe43f60",
+    "controls": {
+      "text": 4,
+      "text-password": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "f9682cf68f96",
+    "typeCounts": {
+      "text": 4,
+      "password": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "password"
+    ],
+    "requiredCount": 6,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

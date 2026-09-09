@@ -1,0 +1,588 @@
+{
+  "id": "successfactors__eastman__rotating-equipment-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "eastman",
+    "board": "eastman",
+    "title": "Rotating Equipment Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.eastman.com/job/Kingsport-Rotating-Equipment-Engineer-TN-37660/1426647800/",
+    "startUrl": "https://jobs.eastman.com/job/Kingsport-Rotating-Equipment-Engineer-TN-37660/1426647800/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career4.successfactors.com/career?company=eastmanprd&site=&lang=en_US&requestParams=nno77mWxixw9cxILJbaSg60lzMN42m1R3UpCQRCeNPOXUoLuegXxiKLQRUlhCQWB2E0Xp3HPpCvr%0antPumEbQE9VDRE9Ql71AdNE7tFqQp1qYhZ3v25nvm7n%2fgJQ1UBrhNZYnLFX5CO3wBKNU%2bvXxaevi%0aOQmJNuRUiEEbBYemA1keGrLDUAWzaHcP5qcwzbi76CLPsGol08TA5vnxoqpCPSh32Ug92Hl4OXt7%0a3749TADMIkdfYQCGjFCSNHeCyRXcQfIrnxmFfVudUp%2bhJNAQGd9lfENXvowRU%2fVGvVZnyNtQSFSt%0aKFI3MfwSlSWHu%2b%2bnMiIlNS3jawfSkGCGdREaQwpZhtqPiyl4lWbVazS9mlepOKa0Hc1kNKqeJfNf%0at7QIxxHqHyUJhhyh5THqyAS%2fHtlvh9ou19qYG0bnR4qFKDfb%2bTBj7Uj7vS5D0S1k2lJkeN8QMgV%2f%0aNc0%2bAbThjIM%3d&login_ns=register&career_ns=job%5fapplication&career_job_req_id=57545&jobPipeline=Direct&clientId=jobs2web&_s.crb=nxs95DHtkDauCAnJp8VrQ1Lj%2f87aFanNAFqCuTaKDAs%3d",
+  "applyTrail": [
+    "clicked: Apply now »",
+    "clicked: Create an account",
+    "clicked: Create Account",
+    "filled:email+password+password-confirm+select+required-field+required-field",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on register screen: Please complete all required fields and re-submit. The following fields require a valid input: Retype Email Address, Please open the data p",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Career Opportunities: Create an Account",
+  "fieldCount": 9,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Retype Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "retype email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Choose Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "choose password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Retype Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "retype password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "First Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Last Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_country",
+      "id": "fbclc_country",
+      "label": "Country/Region of Residence",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_country",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bonaire, Sint Eustatius and Saba",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon",
+        "Canada"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AF"
+        },
+        {
+          "label": "Albania",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra",
+          "value": "AD"
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua and Barbuda",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba",
+          "value": "AW"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Belize",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BT"
+        },
+        {
+          "label": "Bonaire, Sint Eustatius and Saba",
+          "value": "BQ"
+        },
+        {
+          "label": "Bosnia and Herzegovina",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi",
+          "value": "BI"
+        },
+        {
+          "label": "Cabo Verde",
+          "value": "CV"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CM"
+        },
+        {
+          "label": "Canada",
+          "value": "CA"
+        }
+      ],
+      "optionCount": 243,
+      "normLabel": "country/region of residence",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notification:",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notification:",
+      "required": false,
+      "options": [
+        "Notification:"
+      ],
+      "optionValues": [
+        {
+          "label": "Notification:",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notification",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_campaignEmailEnabled",
+      "label": "Hear more about career opportunities",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Hear more about career opportunities",
+      "required": false,
+      "options": [
+        "Hear more about career opportunities"
+      ],
+      "optionValues": [
+        {
+          "label": "Hear more about career opportunities",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_campaignEmailEnabled\"]",
+      "normLabel": "hear more about career opportunities",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 4,
+      "text-password": 2,
+      "native-select": 1,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 6,
+      "select-option": 1,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Career Opportunities: Create an Account"
+  ],
+  "buttons": [
+    "Featured Jobs",
+    "Join Our Talent Community",
+    "Read and accept the data privacy statement.",
+    "Create Account",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab.",
+    "Opens in a new tab."
+  ],
+  "resumeUpload": [
+    "Skip to main content Featured Jobs Administrative Support Circular Economy Commercial Sales, Marketing and Pricing Engineering Finance Human Resources Information Technology Legal Manufacturing Procur",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/eastman__rotating-equipment-engineer.png",
+    "html": "data/html/_unreached/successfactors/eastman__rotating-equipment-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1576,
+    "lowestField": 1034.75,
+    "coversAllFields": true
+  },
+  "ms": 92240,
+  "fingerprint": {
+    "labelSig": "96b3773c22b6",
+    "shapeSig": "439c657d763b",
+    "controlSig": "2446a5130e5f",
+    "controls": {
+      "text": 4,
+      "text-password": 2,
+      "native-select": 1,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "d4e904db2cf7",
+    "typeCounts": {
+      "text": 4,
+      "password": 2,
+      "select": 1,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "password"
+    ],
+    "requiredCount": 7,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

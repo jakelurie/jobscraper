@@ -1,0 +1,94 @@
+{
+  "id": "taleo__baesystems__senior-mission-system-architect-network-",
+  "group": "taleo",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "taleo",
+    "atsLabel": "taleo",
+    "company": "baesystems",
+    "board": "baesystems",
+    "title": "Senior Mission System Architect - Network & Data Communications",
+    "location": "",
+    "jobUrl": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00137895&tz=GMT-04%3A00&tzname=America%2FNew_York",
+    "startUrl": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00137895&tz=GMT-04%3A00&tzname=America%2FNew_York"
+  },
+  "platform": "taleo",
+  "detectedPlatform": "taleo",
+  "platformLabel": "Oracle Taleo",
+  "finalUrl": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00137895&tz=GMT-04%3A00&tzname=America%2FNew_York",
+  "applyTrail": [
+    "saved-session:taleo__baesystems.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": true,
+  "pageTitle": "Ajax FTL Proxy",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/taleo/baesystems__senior-mission-system-architect-network-.png",
+    "html": "data/html/_unreached/taleo/baesystems__senior-mission-system-architect-network-.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 2409,
+    "lowestField": 2229.0625,
+    "coversAllFields": true
+  },
+  "ms": 19757,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "1c4c31a4b657",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

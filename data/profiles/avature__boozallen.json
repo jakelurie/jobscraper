@@ -1,0 +1,331 @@
+{
+  "cookies": [
+    {
+      "name": "jobs",
+      "value": "138e61dcb375698a5211447b3c83cd5f",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/assets/ac-footer/breadcrumbs/separator",
+      "expires": 1788846351.767048,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "e2a2caf69ee689e7aa2646daffb8f6dc",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/assets/ac-footer/breadcrumbs/apple",
+      "expires": 1788846351.766795,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "e2a2caf69ee689e7aa2646daffb8f6dc",
+      "domain": "jobs.apple.com",
+      "path": "/en-us/details/200314122/in-technical-specialist",
+      "expires": 1788846347.988124,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/scripts",
+      "expires": 1788846351.766552,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/styles",
+      "expires": 1788846351.085471,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "e2a2caf69ee689e7aa2646daffb8f6dc",
+      "domain": "jobs.apple.com",
+      "path": "/content/js/analytics/v4",
+      "expires": 1788846351.122892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "138e61dcb375698a5211447b3c83cd5f",
+      "domain": "jobs.apple.com",
+      "path": "/public/images",
+      "expires": 1788846351.309285,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/static",
+      "expires": 1788846355.088025,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cs-id",
+      "value": "7feed3d6-1e67-49da-8ee6-baadb31bfe14",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-1",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088081,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-2",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088098,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-3",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088114,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-0",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088062,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geo",
+      "value": "US",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_exists",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6ImRISjFaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJjb29raWUuX2JmX3Nlc3Npb25fZXhpc3RzIn19--c09bf3da17accf4c53e92f910eef613c6f99527b",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "--IJ9xktdlt-oc32iIa-SQiPTiqnxlD5IUh72BNU9rx6AbUv_ScdlmOdfrgTmbLBLQ-SxCozhApCyfUgnzd4eg",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_key",
+      "value": "9mMXNPZUjR%2FuJYT81WWLLmyRGlQFv5OhOQau980Mi1Mu%2B7tWU2AQ4Nt9PmxtrgBY2r6t0w6GvGdfB3xwxF1Yc9YkQc%2FR%2Beuuv0GWScEC%2BPmDV69%2BOPvQnFsw9f0Z%2BIDAjCfEVDXCARObVQx7rna42XQb86SGfmQhuYbTGTUwuRBmGAby6jb%2BFtjdYuIWtzoW1i2bpK22Y%2Ff3hEtmHNecClX2cz3qgjlotymyExpJ3J0jMBZwIgQXgdMedfW%2BAkRkWINGofQF8Mmile5BkSVtGAyuSS26nGSM%2F5j7eL3EVs6chJIuBLyfB6rw%2FsKw9AgCz%2Fw4--XCY7MHpEBZxDVWAl--jVyj5EPZ5QZwCDBzipytlQ%3D%3D",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a07f56-584d-73ab-822c-60e1e1a0302a%22%2C%22distinct_id%22%3A%2201a07f56-584d-73ab-822c-60e1e1a0302a%22%2C%22%24sesid%22%3A%5B1788842784691%2C%2201a07f56-5989-778a-9117-d86c0556f2b2%22%2C1788842760585%5D%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".workatastartup.com",
+      "path": "/",
+      "expires": 1820378784,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ScustomPortal-L-L-cz_sVwl4yYSB",
+      "value": "k2g46stm1brohgaud5s0s7endp",
+      "domain": "careers.boozallen.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "5MBKUxXRFcGleWeBTTWnZCw1p1y0x_ZYODcR5eBOJlQ-1788842786.6048489-1.0.1.1-mpAoNdMiKJMEBOawRvCl5EadZcn5xymp5oS28On5Oi_2XDCDBiHkRAj.ciF7QnWIbXH8tj6DFj_yAUFSTtVR.QBEohBYMi0XBcnrjDaFkReR2WRveyqIhrq5qB48AlLH",
+      "domain": ".sitescdn.net",
+      "path": "/",
+      "expires": 1788844586.514315,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "9cFbYXyllauC2LNZygyGqygpwxODBQUFVKeg1qEJA7U-1788842787.739031-1.0.1.1-KbfqMFndyKUnThJnS2pSDIo61M3BQi.2h_DiaEZBVkFAotxIiio38eL16nnFQcMLQ37N67mH6k6bkbfxjlaTGld9cT9VW_GNijMgnXlPco9mFPhIt0N5kVO4JGFCkxSADo5cnRC30lQzbh4pUKkPOw",
+      "domain": ".answers.yext-pixel.com",
+      "path": "/",
+      "expires": 1788844587.674842,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "a4e50b0c-6423-4a9a-810b-be17c1bd5dbe",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1796618791.149793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&86b32ba0-4007-4d6c-8900-4a18ed97e00f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820378791.249078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3763:u=1:x=1:i=1788842788:t=1788929188:v=2:sig=AQFzke4-_ASph5TL4U5fKY43fxn49Cjt\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788929187.970739,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "2tZ9K8I2qSzxcwPNC6sceJMJ9MYZI512jqULn99M7sc-1788842788.0402174-1.0.1.1-exVmvuAqhHWrd47HsZvWTies_wJ4ZElAK4QveeU2atap6YFHmQUngJK9TGH7fZSRZUQTcmeATP7240A6B8731Ccpg8PflSwOHZ8cdCrPjlpgUoZHRPMCC.fctZ0hgaA.",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788844587.970757,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQKPeH4LiKUXGQAAAaB_VsU21fvkyrVXu_85rPR_Zj1dSK4qFlm4XIxuqM0bJJBamLxdn1l8Xgl8mQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791434788.056392,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQJd0bjN1gxBRwAAAaB_VsU25CiBpkdTAPzz-DHnAOHhRSUo_gXlXWRHFEcftXWXSp6_1PXeYeETtcjuH9QkGA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791434788.056409,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908044628e0f80a33-72d4-468a-86d6-446adb9b90caAQHcwpuwf7by_5hDYKDVA9HOChfmIpgI\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820378791.2491,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://careers.boozallen.com",
+      "localStorage": [
+        {
+          "name": "li_adsId",
+          "value": "305d5283-f838-412e-9d94-f8106dc906d6"
+        }
+      ]
+    },
+    {
+      "origin": "https://jobs.apple.com",
+      "localStorage": [
+        {
+          "name": "com.adobe.reactor.dataElementCookiesMigrated",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.workatastartup.com",
+      "localStorage": [
+        {
+          "name": "unleash:repository:sessionId",
+          "value": "\"30190945\""
+        },
+        {
+          "name": "unleash:repository:repo",
+          "value": "[]"
+        },
+        {
+          "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+          "value": "{\"$initialization_time\":\"2026-09-08T04:46:00.267Z\",\"$configured_session_timeout_ms\":1800000,\"distinct_id\":\"01a07f56-584d-73ab-822c-60e1e1a0302a\",\"$device_id\":\"01a07f56-584d-73ab-822c-60e1e1a0302a\",\"$user_state\":\"anonymous\",\"$autocapture_disabled_server_side\":false,\"$logs_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1788842760586,\"enabled\":true,\"canvasFps\":3,\"canvasQuality\":\"0.4\",\"consoleLogRecordingEnabled\":true,\"endpoint\":\"/s/\",\"eventTriggers\":[],\"linkedFlag\":null,\"masking\":null,\"minimumDurationMilliseconds\":null,\"networkPayloadCapture\":{\"capturePerformance\":false},\"recordCanvas\":true,\"recorderVersion\":\"v2\",\"sampleRate\":null,\"scriptConfig\":{\"script\":\"posthog-recorder\"},\"triggerGroups\":[{\"conditions\":{\"matchType\":\"all\",\"urls\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www\\\\.ycombinator\\\\.com(?!/avatars/kiosk).*$\"}]},\"id\":\"41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\",\"name\":\"Migrated trigger conditions\",\"sampleRate\":1}],\"triggerMatchType\":null,\"urlBlocklist\":[],\"urlTriggers\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"}],\"version\":2,\"canvasRecording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"}},\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$sesid\":[1788842784691,\"01a07f56-5989-778a-9117-d86c0556f2b2\",1788842760585],\"$client_session_props\":{\"sessionId\":\"01a07f56-5989-778a-9117-d86c0556f2b2\",\"props\":{\"r\":\"$direct\",\"u\":\"https://www.workatastartup.com/jobs/103934\"}},\"$posthog_sr_group_sampling_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":{\"sessionId\":\"01a07f56-5989-778a-9117-d86c0556f2b2\",\"sampleRate\":1,\"sampled\":true},\"$posthog_sr_group_url_trigger_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":\"01a07f56-5989-778a-9117-d86c0556f2b2\",\"$debug_first_full_snapshot_timestamp\":1788842760599,\"$feature_flag_errors\":[],\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"5418b1cc-e88c-49ca-8c0c-2f90c1d0acaf\",\"$feature_flag_evaluated_at\":1788842760829,\"$sess_rec_flush_size\":{\"sessionId\":\"01a07f56-5989-778a-9117-d86c0556f2b2\",\"size\":145651}}"
+        }
+      ]
+    }
+  ]
+}

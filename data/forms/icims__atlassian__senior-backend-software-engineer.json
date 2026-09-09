@@ -1,0 +1,215 @@
+{
+  "id": "icims__atlassian__senior-backend-software-engineer",
+  "group": "icims",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "atlassian",
+    "atsLabel": "Atlassian (in-house)",
+    "company": "atlassian",
+    "board": "atlassian",
+    "title": "Senior Backend Software Engineer",
+    "location": "",
+    "jobUrl": "https://www.atlassian.com/company/careers/details/25565",
+    "startUrl": "https://www.atlassian.com/company/careers/details/25565"
+  },
+  "platform": "icims",
+  "platformLabel": "iCIMS",
+  "finalUrl": "https://careers-apac-atlassian.icims.com/jobs/25565/senior-backend-software-engineer/login?mobile=false&width=1406&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+  "applyTrail": [
+    "clicked: Apply for this job"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "captcha",
+    "via": null
+  },
+  "inIframe": true,
+  "pageTitle": "Login | General Data Protection Regulation (GDPR)",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "css_loginName",
+      "id": "email",
+      "label": "Email",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "gdpr_consent_type",
+      "id": "gdpr_consent_type",
+      "label": "— Make a Selection — Continue",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#gdpr_consent_type",
+      "visible": true,
+      "options": [
+        "— Make a Selection —",
+        "Continue"
+      ],
+      "optionValues": [
+        {
+          "label": "— Make a Selection —",
+          "value": ""
+        },
+        {
+          "label": "Continue",
+          "value": "37002057001"
+        }
+      ],
+      "optionCount": 2,
+      "normLabel": "make a selection continue",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "accept_gdpr",
+      "label": "I accept",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "I accept",
+      "required": true,
+      "options": [
+        "I accept"
+      ],
+      "optionValues": [
+        {
+          "label": "I accept",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"accept_gdpr\"]",
+      "normLabel": "i accept",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 1,
+      "native-select": 1,
+      "checkbox-group": 1
+    },
+    "byAction": {
+      "type": 1,
+      "select-option": 1,
+      "check-many": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 2
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Enter Your Information"
+  ],
+  "buttons": [
+    "Next"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/icims/atlassian__senior-backend-software-engineer.png",
+    "html": "data/html/_unreached/icims/atlassian__senior-backend-software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 1,
+    "docHeight": 1759,
+    "lowestField": 1656.359375,
+    "coversAllFields": true
+  },
+  "ms": 25301,
+  "fingerprint": {
+    "labelSig": "fdd7aae8e2c4",
+    "shapeSig": "d741b480ccd7",
+    "controlSig": "cfc8dd013c48",
+    "controls": {
+      "text-email": 1,
+      "native-select": 1,
+      "checkbox-group": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "9042fab96dc9",
+    "typeCounts": {
+      "email": 1,
+      "select": 1,
+      "checkbox": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email"
+    ],
+    "requiredCount": 2,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "icims",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

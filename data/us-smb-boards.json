@@ -1,0 +1,26 @@
+[
+  {
+    "platform": "teamtailor",
+    "slug": "root",
+    "url": "https://root.teamtailor.com/jobs",
+    "postings": 5
+  },
+  {
+    "platform": "teamtailor",
+    "slug": "doodle",
+    "url": "https://careers.doodle.com/jobs",
+    "postings": 8
+  },
+  {
+    "platform": "teamtailor",
+    "slug": "spacelift",
+    "url": "https://careers.spacelift.io/jobs",
+    "postings": 10
+  },
+  {
+    "platform": "teamtailor",
+    "slug": "scalr",
+    "url": "https://scalr.teamtailor.com/jobs",
+    "postings": 2
+  }
+]

@@ -1,0 +1,215 @@
+{
+  "cookies": [
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/assets/ac-footer/breadcrumbs/separator",
+      "expires": 1788846351.623016,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "e2a2caf69ee689e7aa2646daffb8f6dc",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/assets/ac-footer/breadcrumbs/apple",
+      "expires": 1788846351.622518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/scripts",
+      "expires": 1788846350.900107,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "e2a2caf69ee689e7aa2646daffb8f6dc",
+      "domain": "jobs.apple.com",
+      "path": "/content/globalfooter/en_US/styles",
+      "expires": 1788846350.345387,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/en-us/details/200314122",
+      "expires": 1788846348.073576,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/content/js/analytics/v4",
+      "expires": 1788846350.601625,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "9e43e410dcc023b0496ff8a5338757dd",
+      "domain": "jobs.apple.com",
+      "path": "/public/images",
+      "expires": 1788846354.401839,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jobs",
+      "value": "138e61dcb375698a5211447b3c83cd5f",
+      "domain": "jobs.apple.com",
+      "path": "/static",
+      "expires": 1788846355.088025,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cs-id",
+      "value": "1fb43e8b-7851-43f2-8308-b9a1888361b8",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-1",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088081,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-2",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088099,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-3",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088115,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBAPP-0",
+      "value": "_remove_",
+      "domain": "jobs.apple.com",
+      "path": "/",
+      "expires": 1789447555.088062,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geo",
+      "value": "US",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_fid",
+      "value": "0BC4E20992B67838-024249B93FC1B499",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": 1823402754.242321,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gpv",
+      "value": "jobs%3Aen-us%3Ajob%20details%3Ain-technical-specialist",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": 1788844554,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aa_lastvisit",
+      "value": "1788842754242",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": 1823402754.242743,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_getNewRepeat",
+      "value": "1788842754242-New",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": 1791434754,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_vi",
+      "value": "[CS]v1|354FC98115D31944-600003AE84D49823[CE]",
+      "domain": ".apple.com",
+      "path": "/",
+      "expires": 1823402754.742153,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://jobs.apple.com",
+      "localStorage": [
+        {
+          "name": "com.adobe.reactor.dataElementCookiesMigrated",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

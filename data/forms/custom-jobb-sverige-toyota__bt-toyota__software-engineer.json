@@ -1,0 +1,434 @@
+{
+  "id": "teamtailor__bt-toyota__software-engineer",
+  "group": "custom-jobb-sverige-toyota",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "bt-toyota",
+    "board": "toyota",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobb.sverige.toyota/jobs",
+    "startUrl": "https://jobb.sverige.toyota/jobs"
+  },
+  "platform": "teamtailor",
+  "platformLabel": "jobb.sverige.toyota",
+  "finalUrl": "https://jobb.sverige.toyota/jobs",
+  "applyTrail": [
+    "saved-session:teamtailor__toyota.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Current job openings - Toyota",
+  "fieldCount": 6,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-26d98845",
+      "label": "Dela sidan",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-26d98845",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "dela sidan",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "query",
+      "id": "query",
+      "label": "Sök",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Sök",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#query",
+      "visible": true,
+      "normLabel": "s k",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "department-select",
+      "label": "Avdelningar",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#department-select",
+      "visible": true,
+      "options": [
+        "Alla",
+        "Sales (1)",
+        "Business Development",
+        "Collection",
+        "Credit Department",
+        "Customer Service",
+        "Finance",
+        "HR",
+        "Insurance",
+        "IT",
+        "Marketing",
+        "Remarketing",
+        "Risk & Compliance"
+      ],
+      "optionValues": [
+        {
+          "label": "Alla",
+          "value": ""
+        },
+        {
+          "label": "Sales (1)",
+          "value": "Sales"
+        },
+        {
+          "label": "Business Development",
+          "value": "Business Development"
+        },
+        {
+          "label": "Collection",
+          "value": "Collection"
+        },
+        {
+          "label": "Credit Department",
+          "value": "Credit Department"
+        },
+        {
+          "label": "Customer Service",
+          "value": "Customer Service"
+        },
+        {
+          "label": "Finance",
+          "value": "Finance"
+        },
+        {
+          "label": "HR",
+          "value": "HR"
+        },
+        {
+          "label": "Insurance",
+          "value": "Insurance"
+        },
+        {
+          "label": "IT",
+          "value": "IT"
+        },
+        {
+          "label": "Marketing",
+          "value": "Marketing"
+        },
+        {
+          "label": "Remarketing",
+          "value": "Remarketing"
+        },
+        {
+          "label": "Risk & Compliance",
+          "value": "Risk & Compliance"
+        }
+      ],
+      "optionCount": 13,
+      "normLabel": "avdelningar",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "location-select",
+      "label": "Platser",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#location-select",
+      "visible": true,
+      "options": [
+        "Alla",
+        "Göteborg (1)",
+        "Malmö (1)",
+        "Stockholm (1)",
+        "Toyota Financial Services, Sundbyberg (1)",
+        "Copenhagen"
+      ],
+      "optionValues": [
+        {
+          "label": "Alla",
+          "value": ""
+        },
+        {
+          "label": "Göteborg (1)",
+          "value": "Göteborg"
+        },
+        {
+          "label": "Malmö (1)",
+          "value": "Malmö"
+        },
+        {
+          "label": "Stockholm (1)",
+          "value": "Stockholm"
+        },
+        {
+          "label": "Toyota Financial Services, Sundbyberg (1)",
+          "value": "Toyota Financial Services, Sundbyberg"
+        },
+        {
+          "label": "Copenhagen",
+          "value": "Copenhagen"
+        }
+      ],
+      "optionCount": 6,
+      "normLabel": "platser",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "remote_status_id-select",
+      "label": "Alternativ för distansarbete",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#remote_status_id-select",
+      "visible": true,
+      "options": [
+        "Alla",
+        "Inget distansarbete (1)",
+        "Hybridarbete (4)",
+        "Distansarbete (1)",
+        "Tillfälligt distansarbete",
+        "På plats"
+      ],
+      "optionValues": [
+        {
+          "label": "Alla",
+          "value": ""
+        },
+        {
+          "label": "Inget distansarbete (1)",
+          "value": "none"
+        },
+        {
+          "label": "Hybridarbete (4)",
+          "value": "hybrid"
+        },
+        {
+          "label": "Distansarbete (1)",
+          "value": "fully"
+        },
+        {
+          "label": "Tillfälligt distansarbete",
+          "value": "temporary"
+        },
+        {
+          "label": "På plats",
+          "value": "onsite"
+        }
+      ],
+      "optionCount": 6,
+      "normLabel": "alternativ f r distansarbete",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "rich-text",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "E-postadress utan domän",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > form > div:nth-of-type(1) > div",
+      "visible": true,
+      "normLabel": "e postadress utan dom n",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1,
+      "text": 1,
+      "native-select": 3,
+      "rich-text": 1
+    },
+    "byAction": {
+      "click-pick": 1,
+      "type": 2,
+      "select-option": 3
+    },
+    "byOptionsSource": {
+      "unknown": 1,
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "rich-text",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Webbplatsen använder cookies för att säkerställa att du får den bästa upplevelsen.",
+    "Jobbfilter",
+    "6 jobb",
+    "Om Toyota",
+    "Karriärsida",
+    "Toyota",
+    "Jobbar du redan på Toyota?"
+  ],
+  "buttons": [
+    "Acceptera alla cookies",
+    "Neka alla icke-nödvändiga cookies",
+    "Inställningar för cookies",
+    "KARRIÄRMENY",
+    "Dela sidan",
+    "Avdelningar",
+    "Platser",
+    "Alternativ för distansarbete",
+    "Hantera cookies",
+    "Logga in"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/teamtailor/bt-toyota__software-engineer.png",
+    "html": "data/html/_unreached/teamtailor/bt-toyota__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 0,
+    "docHeight": 2309,
+    "lowestField": 2049.859375,
+    "coversAllFields": true
+  },
+  "ms": 4662,
+  "fingerprint": {
+    "labelSig": "d13d1255500d",
+    "shapeSig": "1a7b838c9187",
+    "controlSig": "35b11c78f933",
+    "controls": {
+      "combobox": 1,
+      "text": 1,
+      "native-select": 3,
+      "rich-text": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "ce4e50c9fbba",
+    "typeCounts": {
+      "button-dropdown": 1,
+      "text": 1,
+      "select": 3,
+      "div": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 6,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:jobb.sverige.toyota",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

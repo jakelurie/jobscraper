@@ -1,0 +1,102 @@
+{
+  "id": "goldman__goldmansachs__compliance-engineering-software-engineer",
+  "group": "goldman",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "goldman",
+    "atsLabel": "Goldman Sachs (in-house)",
+    "company": "goldmansachs",
+    "board": "goldman",
+    "title": "Compliance Engineering - Software Engineer - Associate - Bengaluru Hyderabad·India ·Associate",
+    "location": "",
+    "jobUrl": "https://higher.gs.com/roles/108692",
+    "startUrl": "https://higher.gs.com/roles/108692"
+  },
+  "platform": "goldman",
+  "platformLabel": "Goldman Sachs (in-house)",
+  "finalUrl": "https://higher.gs.com/roles/108692",
+  "applyTrail": [
+    "clicked: Apply",
+    "saved-session:goldman__goldman.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Compliance Engineering - Software Engineer - Associate - Bengaluru | Goldman Sachs",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [
+    "help_outline",
+    "person expand_more",
+    "share Share",
+    "share Share",
+    "bookmark_border Save",
+    "Apply"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/goldman/goldmansachs__compliance-engineering-software-engineer.png",
+    "html": "data/html/_unreached/goldman/goldmansachs__compliance-engineering-software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 3565,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 56199,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "5dea6f5606f7",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "goldman",
+  "duplicateOfSameForm": false,
+  "nonUS": true
+}

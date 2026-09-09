@@ -1,0 +1,607 @@
+{
+  "id": "custom-shopify-com__shopify__design-design-the-world-s-best-tools-for",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "Shopify careers",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "DESIGN Design the world's best tools for entrepreneurs. TYPES OF ROLES: Product DesignDesign ManagementWritingBrand Desi",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/disciplines/design",
+    "startUrl": "https://www.shopify.com/careers/disciplines/design"
+  },
+  "platform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/ux_2e7f4ee3-5570-4d21-a0c0-a0baddd66bb5?mode=title",
+  "applyTrail": [
+    "clicked: Apply now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Designers - Shopify",
+  "fieldCount": 14,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "8185171a-af0b-4b96-910a-eda736a3cbec",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "1889078a-a02c-47db-81fa-f53ebb165a96",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "92b41c19-d64b-408f-abf5-b0a2f9656b8a",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "b4a7e501-8713-47de-854e-79dce32af150",
+      "id": "d8b75064-f789-4083-ab87-a4792fa13481",
+      "label": "For this role, we are looking to hire in North America. Shopify will not be offering relocation assistance. If you secure this position, will you be eligible to work in, and physically located in Nort",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#d8b75064-f789-4083-ab87-a4792fa13481",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "for this role we are looking to hire in north america shopif",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "9a68510e-8df6-406f-9a60-5675cfc645f5",
+      "id": "9a68510e-8df6-406f-9a60-5675cfc645f5",
+      "label": "Linkedin Profile",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"9a68510e-8df6-406f-9a60-5675cfc645f5\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "eaaeeeef-3e7b-49c0-aee9-b46956e47044",
+      "label": "Resume",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#eaaeeeef-3e7b-49c0-aee9-b46956e47044",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "6cdbe179-6abe-4fd1-8113-c4d0406b6626",
+      "id": "e1264e55-1bd8-412c-a78b-90d342951a41",
+      "label": "Why are you interested in Design at Shopify? Hint: we'd really like to know",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#e1264e55-1bd8-412c-a78b-90d342951a41",
+      "visible": true,
+      "normLabel": "why are you interested in design at shopify hint we d really",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "6189cb57-634f-4904-84f2-705ec5b18109[]",
+      "label": "How would you define yourself as a Designer? *",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "How would you define yourself as a Designer? * Brand Designer Product Designer Motion Designer",
+      "required": true,
+      "options": [
+        "How would you define yourself as a Designer? * Brand Designer Product Designer Motion Designer",
+        "Product Designer",
+        "Motion Designer"
+      ],
+      "optionValues": [
+        {
+          "label": "How would you define yourself as a Designer? * Brand Designer Product Designer Motion Designer",
+          "value": "Brand Designer"
+        },
+        {
+          "label": "Product Designer",
+          "value": "Product Designer "
+        },
+        {
+          "label": "Motion Designer",
+          "value": "Motion Designer"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"6189cb57-634f-4904-84f2-705ec5b18109[]\"]",
+      "normLabel": "how would you define yourself as a designer",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "5d20a3b0-9888-4b11-a763-9bdd3d852ec9",
+      "id": "3f8fc2b0-5e34-44d2-8351-04da3493c666",
+      "label": "How many years of hands-on Design experience do you have? 0-2 2-4 4-6 6-8 8-10 10+",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"5d20a3b0-9888-4b11-a763-9bdd3d852ec9\"]",
+      "visible": true,
+      "options": [
+        "0-2",
+        "2-4",
+        "4-6",
+        "6-8",
+        "8-10",
+        "10+"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "0-2",
+          "value": "0-2"
+        },
+        {
+          "label": "2-4",
+          "value": "2-4"
+        },
+        {
+          "label": "4-6",
+          "value": "4-6"
+        },
+        {
+          "label": "6-8",
+          "value": "6-8"
+        },
+        {
+          "label": "8-10",
+          "value": "8-10"
+        },
+        {
+          "label": "10+",
+          "value": "10+"
+        }
+      ],
+      "optionCount": 7,
+      "normLabel": "how many years of hands on design experience do you have 0 2",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "aaa9073c-0780-4dab-9613-efbfdabfabcb",
+      "id": "2dc471dc-abe8-4d4d-940e-e36e348d863a",
+      "label": "Please provide your portfolio link Please ensure this includes recent work. If you have highlights that can't be included here for confidentiality reasons, there will be an opportunity within intervie",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"aaa9073c-0780-4dab-9613-efbfdabfabcb\"]",
+      "visible": true,
+      "normLabel": "please provide your portfolio link please ensure this includ",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "e3b3d0a8-fc80-4c65-a998-39fd9c50cbe2",
+      "id": "e3b3d0a8-fc80-4c65-a998-39fd9c50cbe2",
+      "label": "If your portfolio requires a password, please provide it here Please type N/A if a password is not required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#e3b3d0a8-fc80-4c65-a998-39fd9c50cbe2",
+      "visible": true,
+      "normLabel": "if your portfolio requires a password please provide it here",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "354fb131-939d-4ee2-bbe7-6df48b25e81b",
+      "id": "c596e0ba-81cd-4e77-ba75-7cf17f08b429",
+      "label": "How would you rate your comfort with incorporating AI in your workflows? Developing Proficient Advanced I don't believe in using AI in my design workflow",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#c596e0ba-81cd-4e77-ba75-7cf17f08b429",
+      "visible": true,
+      "options": [
+        "Developing",
+        "Proficient",
+        "Advanced",
+        "I don't believe in using AI in my design workflow"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Developing",
+          "value": "Developing"
+        },
+        {
+          "label": "Proficient",
+          "value": "Proficient"
+        },
+        {
+          "label": "Advanced",
+          "value": "Advanced"
+        },
+        {
+          "label": "I don't believe in using AI in my design workflow",
+          "value": "I don't believe in using AI in my design workflow"
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "how would you rate your comfort with incorporating ai in you",
+      "canonical": "salary"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "bb1a3945-ab41-4557-b2d3-cf38d5856851",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"bb1a3945-ab41-4557-b2d3-cf38d5856851\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "c08d4929-7cc3-4314-b44d-8a776e03395d",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"c08d4929-7cc3-4314-b44d-8a776e03395d\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 5,
+      "text-email": 1,
+      "native-select": 3,
+      "file-upload": 1,
+      "textarea": 1,
+      "checkbox-group": 3
+    },
+    "byAction": {
+      "type": 7,
+      "select-option": 3,
+      "upload": 1,
+      "check-many": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 6
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Designers",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [],
+  "resumeUpload": [
+    "BackDesignersRemote - AmericasDesignApplication*RequiredName*Email*Location*Start typing and select a location from the dropdown.For this role, we are looking to hire in North America. Shopify will no",
+    "Application*RequiredName*Email*Location*Start typing and select a location from the dropdown.For this role, we are looking to hire in North America. Shopify will not be offering relocation assistance.",
+    "Application*RequiredName*Email*Location*Start typing and select a location from the dropdown.For this role, we are looking to hire in North America. Shopify will not be offering relocation assistance.",
+    "Name*Email*Location*Start typing and select a location from the dropdown.For this role, we are looking to hire in North America. Shopify will not be offering relocation assistance. If you secure this ",
+    "Name*Email*Location*Start typing and select a location from the dropdown.For this role, we are looking to hire in North America. Shopify will not be offering relocation assistance. If you secure this "
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__design-design-the-world-s-best-tools-for.png",
+    "html": "data/html/custom-shopify-com/shopify__design-design-the-world-s-best-tools-for.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 3069,
+    "lowestField": 2286.765625,
+    "coversAllFields": true
+  },
+  "ms": 17286,
+  "fingerprint": {
+    "labelSig": "f07d1b72ff27",
+    "shapeSig": "368d3261bd38",
+    "controlSig": "2723e32592a9",
+    "controls": {
+      "text": 5,
+      "text-email": 1,
+      "native-select": 3,
+      "file-upload": 1,
+      "textarea": 1,
+      "checkbox-group": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "546729dbc3c4",
+    "typeCounts": {
+      "text": 5,
+      "email": 1,
+      "select": 3,
+      "file": 1,
+      "textarea": 1,
+      "checkbox": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "portfolio",
+      "resume",
+      "salary",
+      "years_experience"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 5,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:shopify.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,256 @@
+{
+  "id": "avature__massmutual__software-engineer",
+  "group": "custom-careers-massmutual-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "massmutual",
+    "board": "massmutual",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.massmutual.com/",
+    "startUrl": "https://careers.massmutual.com/"
+  },
+  "platform": "avature",
+  "platformLabel": "careers.massmutual.com",
+  "finalUrl": "https://careers.massmutual.com/",
+  "applyTrail": [
+    "clicked: Next"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Financial Services and Insurance Jobs and Careers with MassMutual",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "search-keyword-82540a50aa",
+      "label": "Search jobs by keyword",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g., job title, category or skills",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-keyword-82540a50aa",
+      "visible": true,
+      "normLabel": "search jobs by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "l",
+      "id": "search-location-82540a50aa",
+      "label": "Job location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g., city, state or zip",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-location-82540a50aa",
+      "visible": true,
+      "normLabel": "job location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "form-field-df2a710eb9",
+      "label": "Add Resume (Optional)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-df2a710eb9",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "add resume",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-search": 1,
+      "combobox": 1,
+      "file-upload": 1
+    },
+    "byAction": {
+      "type": 1,
+      "click-type-pick": 1,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "At MassMutual, We Live Mutual.",
+    "Working at MassMutual",
+    "Listening to our Employees",
+    "Benefits",
+    "Core Values",
+    "Inclusion",
+    "Learning and Development",
+    "Career Growth",
+    "Leading Responsibly",
+    "Community Responsibility",
+    "Listening to our Employees",
+    "Benefits",
+    "Core Values",
+    "Inclusion",
+    "Learning and Development",
+    "Career Growth",
+    "Leading Responsibly",
+    "Community Responsibility",
+    "Listening to our Employees",
+    "What employees say about MassMutual",
+    "Meet Erica",
+    "Meet Atsam",
+    "WHERE WE WORK",
+    "How we work",
+    "Hiring Process",
+    "Explore",
+    "Apply",
+    "Screen",
+    "Interview",
+    "Offer"
+  ],
+  "buttons": [
+    "Career Areas",
+    "Culture",
+    "Locations",
+    "Search",
+    "Go to slide 1",
+    "Go to slide 2",
+    "Go to slide 3",
+    "Go to slide 4",
+    "Go to slide 5",
+    "Go to slide 6",
+    "Go to slide 7",
+    "Go to slide 8",
+    "Pause",
+    "Previous",
+    "Next",
+    "Recruitment Fraud Awareness",
+    "Save Job",
+    "Save Job",
+    "Save Job",
+    "Sign Up"
+  ],
+  "resumeUpload": [
+    "Skip to main content Menu Career Areas Actuarial Customer Service Corporate Functions Finance Investment Sales Technology Underwriting Culture Benefits Inclusion Students Locations United States India",
+    "Close Join Our Talent Network. Check out why it’s great to work at MassMutual. Please complete the form to join our Talent Network, which means you’ll receive follow-up emails with additional informat",
+    "First Name*Last Name*Email*Country Code+1+1242+1246+1264+1268+1284+1340+1441+1473+1649+1664+1670+1671+1684+1758+1767+1784+1849+1868+1869+1876+1939+20+211+212+213+216+218+220+221+222+223+224+225+226+22"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/avature/massmutual__software-engineer.png",
+    "html": "data/html/avature/massmutual__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 3,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 7459,
+    "lowestField": 779.609375,
+    "coversAllFields": true
+  },
+  "ms": 32740,
+  "fingerprint": {
+    "labelSig": "1cf679b93e23",
+    "shapeSig": "ed1390500939",
+    "controlSig": "93e61e4c6370",
+    "controls": {
+      "text-search": 1,
+      "combobox": 1,
+      "file-upload": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "2ca5c651bb8e",
+    "typeCounts": {
+      "search": 1,
+      "text": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location",
+      "resume"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "reclassified": true,
+  "detectedPlatform": "custom:careers.massmutual.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

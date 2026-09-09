@@ -1,0 +1,1393 @@
+{
+  "id": "lever__lyrahealth__senior-ai-ml-platform-engineer",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "lyrahealth",
+    "board": "lyrahealth",
+    "title": "Senior AI/ML Platform Engineer",
+    "location": "United States",
+    "jobUrl": "https://jobs.lever.co/lyrahealth/12b44bca-f78d-45c7-9dad-5bb7c45103a2",
+    "startUrl": "https://jobs.lever.co/lyrahealth/12b44bca-f78d-45c7-9dad-5bb7c45103a2/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/lyrahealth/12b44bca-f78d-45c7-9dad-5bb7c45103a2/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Lyra Health - Senior AI/ML Platform Engineer",
+  "fieldCount": 30,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "pronouns",
+      "label": "Custom",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "He/him",
+      "required": false,
+      "options": [
+        "He/him",
+        "She/her",
+        "They/them",
+        "Xe/xem",
+        "Ze/hir",
+        "Ey/em",
+        "Hir/hir",
+        "Fae/faer",
+        "Hu/hu",
+        "Use name only"
+      ],
+      "optionValues": [
+        {
+          "label": "He/him",
+          "value": "He/him"
+        },
+        {
+          "label": "She/her",
+          "value": "She/her"
+        },
+        {
+          "label": "They/them",
+          "value": "They/them"
+        },
+        {
+          "label": "Xe/xem",
+          "value": "Xe/xem"
+        },
+        {
+          "label": "Ze/hir",
+          "value": "Ze/hir"
+        },
+        {
+          "label": "Ey/em",
+          "value": "Ey/em"
+        },
+        {
+          "label": "Hir/hir",
+          "value": "Hir/hir"
+        },
+        {
+          "label": "Fae/faer",
+          "value": "Fae/faer"
+        },
+        {
+          "label": "Hu/hu",
+          "value": "Hu/hu"
+        },
+        {
+          "label": "Use name only",
+          "value": "Use name only"
+        }
+      ],
+      "optionCount": 11,
+      "selector": "input[name=\"pronouns\"]",
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "customPronounsOption",
+      "label": "Custom",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#customPronounsOption",
+      "visible": true,
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Twitter]",
+      "id": "",
+      "label": "Twitter URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Twitter]\"]",
+      "visible": true,
+      "normLabel": "twitter url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[ea0dec84-f343-49ac-b002-4cac72a0808e][field0]",
+      "id": "",
+      "label": "Please share an example of a project where you've delivered production-ready APIs? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[ea0dec84-f343-49ac-b002-4cac72a0808e][field0]\"]",
+      "visible": true,
+      "normLabel": "please share an example of a project where you ve delivered ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[ea0dec84-f343-49ac-b002-4cac72a0808e][field1]",
+      "id": "",
+      "label": "Do you have experience building reusable tooling and infrastructure for ML and AI teams? Please share an example. ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[ea0dec84-f343-49ac-b002-4cac72a0808e][field1]\"]",
+      "visible": true,
+      "normLabel": "do you have experience building reusable tooling and infrast",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[dad87a9b-052f-4cbc-a67d-b9fd6d8189ff][field0]",
+      "label": "Are you legally authorized to work in the United States for our Company? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[dad87a9b-052f-4cbc-a67d-b9fd6d8189ff][field0]\"]",
+      "normLabel": "are you legally authorized to work in the united states for ",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[dad87a9b-052f-4cbc-a67d-b9fd6d8189ff][field1]",
+      "label": "Do you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally for our Company in the United States? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[dad87a9b-052f-4cbc-a67d-b9fd6d8189ff][field1]\"]",
+      "normLabel": "do you now or will you in the future require sponsorship for",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field0]",
+      "label": "Are you an employee of Lyra, Bend or an affiliated company (Currently or Previously)? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field0]\"]",
+      "normLabel": "are you an employee of lyra bend or an affiliated company cu",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field1]",
+      "label": "If yes to the previous question, please select your affiliation:",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Lyra Health Employee",
+      "required": false,
+      "options": [
+        "Lyra Health Employee",
+        "Lyra Clinical Associate",
+        "Lyra Health International LLC Employee (ICAS)",
+        "Lyra Health Alumni",
+        "Lyra Clinical Alumni",
+        "Lyra Health International LLC Alumni (ICAS)",
+        "Bend Health",
+        "Other (ie. Contractor)"
+      ],
+      "optionValues": [
+        {
+          "label": "Lyra Health Employee",
+          "value": "Lyra Health Employee"
+        },
+        {
+          "label": "Lyra Clinical Associate",
+          "value": "Lyra Clinical Associate"
+        },
+        {
+          "label": "Lyra Health International LLC Employee (ICAS)",
+          "value": "Lyra Health International LLC Employee (ICAS)"
+        },
+        {
+          "label": "Lyra Health Alumni",
+          "value": "Lyra Health Alumni"
+        },
+        {
+          "label": "Lyra Clinical Alumni",
+          "value": "Lyra Clinical Alumni"
+        },
+        {
+          "label": "Lyra Health International LLC Alumni (ICAS)",
+          "value": "Lyra Health International LLC Alumni (ICAS)"
+        },
+        {
+          "label": "Bend Health",
+          "value": "Bend Health"
+        },
+        {
+          "label": "Other (ie. Contractor)",
+          "value": "Other (ie. Contractor)"
+        }
+      ],
+      "optionCount": 8,
+      "selector": "input[name=\"cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field1]\"]",
+      "normLabel": "if yes to the previous question please select your affiliati",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field2]",
+      "id": "",
+      "label": "If you selected \"other\", please share your relationship here",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field2]\"]",
+      "visible": true,
+      "normLabel": "if you selected other please share your relationship here",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field3]",
+      "label": "If you are a Lyra employee, do you certify you have reviewed the Internal Mobility Policy and meet the requirements?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[d75eb035-dbc0-4bd0-87c6-852017951bd1][field3]\"]",
+      "normLabel": "if you are a lyra employee do you certify you have reviewed ",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[gender]",
+      "id": "",
+      "label": "Gender Select ... Male Female Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[gender]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Male",
+        "Female",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "gender select male female decline to self identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[race]",
+      "id": "",
+      "label": "Race Select ... Hispanic or Latino White (Not Hispanic or Latino) Black or African American (Not Hispanic or Latino) Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) Asian (Not Hispa",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[race]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Hispanic or Latino",
+        "White (Not Hispanic or Latino)",
+        "Black or African American (Not Hispanic or Latino)",
+        "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "Asian (Not Hispanic or Latino)",
+        "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "Two or More Races (Not Hispanic or Latino)",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Hispanic or Latino",
+          "value": "Hispanic or Latino"
+        },
+        {
+          "label": "White (Not Hispanic or Latino)",
+          "value": "White (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Black or African American (Not Hispanic or Latino)",
+          "value": "Black or African American (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+          "value": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Asian (Not Hispanic or Latino)",
+          "value": "Asian (Not Hispanic or Latino)"
+        },
+        {
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+          "value": "American Indian or Alaska Native (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Two or More Races (Not Hispanic or Latino)",
+          "value": "Two or More Races (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 9,
+      "normLabel": "race select hispanic or latino white not hispanic or latino ",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I am a veteran I am not a veteran Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I am a veteran",
+        "I am not a veteran",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I am a veteran",
+          "value": "I am a veteran"
+        },
+        {
+          "label": "I am not a veteran",
+          "value": "I am not a veteran"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i am a veteran i am not a veteran decl",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field0]",
+      "label": "To which gender identity do you most identify?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Agender",
+      "required": false,
+      "options": [
+        "Agender",
+        "Gender non-conforming",
+        "Genderqueer",
+        "Intersex",
+        "Man",
+        "Non-binary",
+        "Two-spirit",
+        "Transgender",
+        "Woman",
+        "Prefer not to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Agender",
+          "value": "Agender"
+        },
+        {
+          "label": "Gender non-conforming",
+          "value": "Gender non-conforming"
+        },
+        {
+          "label": "Genderqueer",
+          "value": "Genderqueer"
+        },
+        {
+          "label": "Intersex",
+          "value": "Intersex"
+        },
+        {
+          "label": "Man",
+          "value": "Man"
+        },
+        {
+          "label": "Non-binary",
+          "value": "Non-binary"
+        },
+        {
+          "label": "Two-spirit",
+          "value": "Two-spirit"
+        },
+        {
+          "label": "Transgender",
+          "value": "Transgender"
+        },
+        {
+          "label": "Woman",
+          "value": "Woman"
+        },
+        {
+          "label": "Prefer not to answer",
+          "value": "Prefer not to answer"
+        }
+      ],
+      "optionCount": 10,
+      "selector": "input[name=\"surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field0]\"]",
+      "normLabel": "to which gender identity do you most identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field1]",
+      "label": "To which sexual orientation do you most identify?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Asexual",
+      "required": false,
+      "options": [
+        "Asexual",
+        "Bisexual",
+        "Fluid",
+        "Gay",
+        "Lesbian",
+        "Pansexual",
+        "Queer",
+        "Questioning or unsure",
+        "Straight (Heterosexual)",
+        "Prefer not to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Asexual",
+          "value": "Asexual"
+        },
+        {
+          "label": "Bisexual",
+          "value": "Bisexual"
+        },
+        {
+          "label": "Fluid",
+          "value": "Fluid"
+        },
+        {
+          "label": "Gay",
+          "value": "Gay"
+        },
+        {
+          "label": "Lesbian",
+          "value": "Lesbian"
+        },
+        {
+          "label": "Pansexual",
+          "value": "Pansexual"
+        },
+        {
+          "label": "Queer",
+          "value": "Queer"
+        },
+        {
+          "label": "Questioning or unsure",
+          "value": "Questioning or unsure"
+        },
+        {
+          "label": "Straight (Heterosexual)",
+          "value": "Straight (Heterosexual)"
+        },
+        {
+          "label": "Prefer not to answer",
+          "value": "Prefer not to answer"
+        }
+      ],
+      "optionCount": 10,
+      "selector": "input[name=\"surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field1]\"]",
+      "normLabel": "to which sexual orientation do you most identify",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field2]",
+      "label": "Do you identify as a person living with a disability?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No",
+        "Prefer not to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "Prefer not to answer",
+          "value": "Prefer not to answer"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field2]\"]",
+      "normLabel": "do you identify as a person living with a disability",
+      "canonical": "disability_status"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field3]",
+      "label": "Are you fluent in any of the following languages?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "American Sign Language",
+      "required": false,
+      "options": [
+        "American Sign Language",
+        "Arabic",
+        "Chinese",
+        "English",
+        "Farsi",
+        "Filipino",
+        "French",
+        "German",
+        "Greek",
+        "Hebrew",
+        "Hindi",
+        "Japanese",
+        "Italian",
+        "Korean",
+        "Portuguese",
+        "Polish",
+        "Punjabi",
+        "Urdu",
+        "Russian",
+        "Spanish",
+        "Vietnamese",
+        "Tagalog"
+      ],
+      "optionValues": [
+        {
+          "label": "American Sign Language",
+          "value": "American Sign Language"
+        },
+        {
+          "label": "Arabic",
+          "value": "Arabic"
+        },
+        {
+          "label": "Chinese",
+          "value": "Chinese"
+        },
+        {
+          "label": "English",
+          "value": "English"
+        },
+        {
+          "label": "Farsi",
+          "value": "Farsi"
+        },
+        {
+          "label": "Filipino",
+          "value": "Filipino"
+        },
+        {
+          "label": "French",
+          "value": "French"
+        },
+        {
+          "label": "German",
+          "value": "German"
+        },
+        {
+          "label": "Greek",
+          "value": "Greek"
+        },
+        {
+          "label": "Hebrew",
+          "value": "Hebrew"
+        },
+        {
+          "label": "Hindi",
+          "value": "Hindi"
+        },
+        {
+          "label": "Japanese",
+          "value": "Japanese"
+        },
+        {
+          "label": "Italian",
+          "value": "Italian"
+        },
+        {
+          "label": "Korean",
+          "value": "Korean"
+        },
+        {
+          "label": "Portuguese",
+          "value": "Portuguese"
+        },
+        {
+          "label": "Polish",
+          "value": "Polish"
+        },
+        {
+          "label": "Punjabi",
+          "value": "Punjabi"
+        },
+        {
+          "label": "Urdu",
+          "value": "Urdu"
+        },
+        {
+          "label": "Russian",
+          "value": "Russian"
+        },
+        {
+          "label": "Spanish",
+          "value": "Spanish"
+        },
+        {
+          "label": "Vietnamese",
+          "value": "Vietnamese"
+        },
+        {
+          "label": "Tagalog",
+          "value": "Tagalog"
+        }
+      ],
+      "optionCount": 22,
+      "selector": "input[name=\"surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field3]\"]",
+      "normLabel": "are you fluent in any of the following languages",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field4]",
+      "label": "Do you identify as LGBTQIA+?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No",
+        "Prefer not to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "Prefer not to answer",
+          "value": "Prefer not to answer"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"surveysResponses[d979bc26-4bd0-42a2-83c5-13bbfcd39bbe][responses][field4]\"]",
+      "normLabel": "do you identify as lgbtqia+",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "consent[marketing]",
+      "label": "Yes, Lyra Health can contact me about future job opportunities for up to 1 year Privacy policy",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Yes, Lyra Health can contact me about future job opportunities for up to 1 year Privacy policy",
+      "required": false,
+      "options": [
+        "0",
+        "Yes, Lyra Health can contact me about future job opportunities for up to 1 year Privacy policy"
+      ],
+      "optionValues": [
+        {
+          "label": "0",
+          "value": "0"
+        },
+        {
+          "label": "Yes, Lyra Health can contact me about future job opportunities for up to 1 year Privacy policy",
+          "value": "1"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"consent[marketing]\"]",
+      "normLabel": "yes lyra health can contact me about future job opportunitie",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 9,
+      "checkbox-group": 5,
+      "checkbox": 1,
+      "text-email": 1,
+      "textarea": 3,
+      "radio-group": 7,
+      "native-select": 3
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 13,
+      "check-many": 5,
+      "check": 1,
+      "choose-one": 7,
+      "select-option": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 15
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Privacy Notice",
+    "Senior AI/ML Platform Engineer",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "APPLICATION QUESTIONS - SENIOR AI/ML PLATFORM ENGINEER - Q3 2026",
+    "LH WORK AUTHORIZATION",
+    "LYRA AFFILIATE",
+    "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION (Completion is voluntary and will not subject you to adverse treatment)",
+    "LYRA APPLICATION QUESTIONS"
+  ],
+  "buttons": [
+    "dismiss",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Senior AI/ML Platform EngineerUnited StatesTechnology – Data Science and Machine Learning /Full-time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume",
+    "Senior AI/ML Platform EngineerUnited StatesTechnology – Data Science and Machine Learning /Full-time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱PronounsHe/him",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱PronounsHe/him",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/lyrahealth__senior-ai-ml-platform-engineer.png",
+    "html": "data/html/lever/lyrahealth__senior-ai-ml-platform-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 3,
+    "docHeight": 8053,
+    "lowestField": 7074.3125,
+    "coversAllFields": true
+  },
+  "ms": 3520,
+  "fingerprint": {
+    "labelSig": "69ad825bece8",
+    "shapeSig": "bb9abe16b1ae",
+    "controlSig": "10b620f9799a",
+    "controls": {
+      "file-upload": 1,
+      "text": 9,
+      "checkbox-group": 5,
+      "checkbox": 1,
+      "text-email": 1,
+      "textarea": 3,
+      "radio-group": 7,
+      "native-select": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b3f64bd17a0c",
+    "typeCounts": {
+      "file": 1,
+      "text": 9,
+      "checkbox": 6,
+      "email": 1,
+      "textarea": 3,
+      "radio": 7,
+      "select": 3
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "disability_status",
+      "email",
+      "employer",
+      "full_name",
+      "gender",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "race_ethnicity",
+      "resume",
+      "veteran_status",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 9,
+    "customQuestionCount": 11,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

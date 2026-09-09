@@ -1,0 +1,826 @@
+{
+  "id": "greenhouse__databricks__senior-ai-engineer-fde-forward-deployed-",
+  "group": "greenhouse",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "greenhouse",
+    "atsLabel": "Greenhouse",
+    "company": "databricks",
+    "board": "databricks",
+    "title": "Senior AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Tokyo, Japan",
+    "jobUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+    "startUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002"
+  },
+  "platform": "greenhouse",
+  "platformLabel": "Greenhouse",
+  "finalUrl": "https://www.databricks.com/company/careers/-field-engineering---indirect/senior-ai-engineer---fde-forward-deployed-engineer-8569392002?gh_jid=8569392002",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": true,
+  "pageTitle": "Job Application for Senior AI Engineer - FDE (Forward Deployed Engineer) at Databricks",
+  "fieldCount": 17,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "first_name",
+      "label": "First Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "given-name",
+      "maxlength": "255",
+      "selector": "#first_name",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "last_name",
+      "label": "Last Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "family-name",
+      "maxlength": "255",
+      "selector": "#last_name",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "preferred_name",
+      "label": "Preferred First Name",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#preferred_name",
+      "visible": true,
+      "normLabel": "preferred first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "email",
+      "label": "Email",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "255",
+      "selector": "#email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "country",
+      "label": "Country*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#country",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 244,
+        "optionsAfterTyping": 5,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "United States +1",
+          "Afghanistan +93",
+          "Åland Islands +358",
+          "Albania +355",
+          "Algeria +213",
+          "American Samoa +1",
+          "Andorra +376",
+          "Angola +244"
+        ],
+        "sampleAfterTyping": [
+          "United States +1",
+          "Réunion +262",
+          "Tunisia +216",
+          "United Arab Emirates +971",
+          "United Kingdom +44"
+        ]
+      },
+      "optionCount": 244,
+      "options": [
+        "United States +1",
+        "Afghanistan +93",
+        "Åland Islands +358",
+        "Albania +355",
+        "Algeria +213",
+        "American Samoa +1",
+        "Andorra +376",
+        "Angola +244",
+        "Anguilla +1",
+        "Antigua & Barbuda +1",
+        "Argentina +54",
+        "Armenia +374",
+        "Aruba +297",
+        "Ascension Island +247",
+        "Australia +61",
+        "Austria +43",
+        "Azerbaijan +994",
+        "Bahamas +1",
+        "Bahrain +973",
+        "Bangladesh +880",
+        "Barbados +1",
+        "Belarus +375",
+        "Belgium +32",
+        "Belize +501",
+        "Benin +229",
+        "Bermuda +1",
+        "Bhutan +975",
+        "Bolivia +591",
+        "Bosnia & Herzegovina +387",
+        "Botswana +267",
+        "Brazil +55",
+        "British Indian Ocean Territory +246",
+        "British Virgin Islands +1",
+        "Brunei +673",
+        "Bulgaria +359",
+        "Burkina Faso +226",
+        "Burundi +257",
+        "Cambodia +855",
+        "Cameroon +237",
+        "Canada +1"
+      ],
+      "normLabel": "country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "phone",
+      "label": "Phone",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "255",
+      "selector": "#phone",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "resume",
+      "label": "Attach",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume",
+      "visible": true,
+      "accept": ".pdf,.doc,.docx,.txt,.rtf",
+      "multiple": false,
+      "normLabel": "attach",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "cover_letter",
+      "label": "Attach",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#cover_letter",
+      "visible": true,
+      "accept": ".pdf,.doc,.docx,.txt,.rtf",
+      "multiple": false,
+      "normLabel": "attach",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "question_36739365002",
+      "label": "LinkedIn Profile",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#question_36739365002",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "question_36739367002",
+      "label": "How did you hear about this job?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "255",
+      "selector": "#question_36739367002",
+      "visible": true,
+      "normLabel": "how did you hear about this job",
+      "canonical": "referral"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_36739368002",
+      "label": "Are you legally authorized to work in the country in which you are applying?*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_36739368002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 1,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No"
+        ],
+        "sampleAfterTyping": [
+          "No options"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "normLabel": "are you legally authorized to work in the country in which y",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_36739369002",
+      "label": "Do you now or will you in the future need sponsorship for employment visa status in the country in which you are applying?*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_36739369002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 1,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No"
+        ],
+        "sampleAfterTyping": [
+          "No options"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "normLabel": "do you now or will you in the future need sponsorship for em",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "question_37586780002",
+      "label": "Do you have business-level fluency in Japanese? *",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#question_37586780002",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 2,
+        "optionsAfterTyping": 1,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No"
+        ],
+        "sampleAfterTyping": [
+          "No options"
+        ]
+      },
+      "optionCount": 2,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "normLabel": "do you have business level fluency in japanese",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "gender",
+      "label": "Gender",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#gender",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 3,
+        "optionsAfterTyping": 2,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Male",
+          "Female",
+          "Decline To Self Identify"
+        ],
+        "sampleAfterTyping": [
+          "Male",
+          "Female"
+        ]
+      },
+      "optionCount": 3,
+      "options": [
+        "Male",
+        "Female",
+        "Decline To Self Identify"
+      ],
+      "normLabel": "gender",
+      "canonical": "gender"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "hispanic_ethnicity",
+      "label": "Are you Hispanic/Latino?",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#hispanic_ethnicity",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 3,
+        "optionsAfterTyping": 1,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes",
+          "No",
+          "Decline To Self Identify"
+        ],
+        "sampleAfterTyping": [
+          "No options"
+        ]
+      },
+      "optionCount": 3,
+      "options": [
+        "Yes",
+        "No",
+        "Decline To Self Identify"
+      ],
+      "normLabel": "are you hispanic/latino",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "veteran_status",
+      "label": "Veteran Status",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#veteran_status",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 3,
+        "optionsAfterTyping": 3,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "I am not a protected veteran",
+          "I identify as one or more of the classifications of a protec",
+          "I don't wish to answer"
+        ],
+        "sampleAfterTyping": [
+          "I am not a protected veteran",
+          "I identify as one or more of the classifications of a protec",
+          "I don't wish to answer"
+        ]
+      },
+      "optionCount": 3,
+      "options": [
+        "I am not a protected veteran",
+        "I identify as one or more of the classifications of a protec",
+        "I don't wish to answer"
+      ],
+      "normLabel": "veteran status",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "disability_status",
+      "label": "Disability Status",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#disability_status",
+      "visible": true,
+      "widgetHint": "select__input",
+      "probe": {
+        "optionsOnOpen": 3,
+        "optionsAfterTyping": 3,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Yes, I have a disability, or have had one in the past",
+          "No, I do not have a disability and have not had one in the p",
+          "I do not want to answer"
+        ],
+        "sampleAfterTyping": [
+          "Yes, I have a disability, or have had one in the past",
+          "No, I do not have a disability and have not had one in the p",
+          "I do not want to answer"
+        ]
+      },
+      "optionCount": 3,
+      "options": [
+        "Yes, I have a disability, or have had one in the past",
+        "No, I do not have a disability and have not had one in the p",
+        "I do not want to answer"
+      ],
+      "normLabel": "disability status",
+      "canonical": "disability_status"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 6,
+      "combobox": 8,
+      "phone-intl": 1,
+      "file-upload": 2
+    },
+    "byAction": {
+      "type": 6,
+      "click-type-pick": 8,
+      "type-then-pick-country": 1,
+      "upload": 2
+    },
+    "byOptionsSource": {
+      "dom-on-open": 8,
+      "country-picker-unprobed": 1
+    }
+  },
+  "widgetsProbed": 9,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 8
+    },
+    {
+      "widget": "combobox",
+      "count": 8
+    },
+    {
+      "widget": "typeahead",
+      "count": 8
+    }
+  ],
+  "sections": [
+    "Apply for this job",
+    "Phone",
+    "Voluntary Self-Identification",
+    "Voluntary Self-Identification of Disability"
+  ],
+  "buttons": [
+    "Attach",
+    "Dropbox",
+    "Enter manually",
+    "Attach",
+    "Dropbox",
+    "Enter manually",
+    "Submit application"
+  ],
+  "resumeUpload": [
+    "Apply for this job*indicates a required fieldFirst Name*Last Name*Preferred First Name*Email*PhoneCountry*Phone* 244 results foundNo results foundAfghanistan+93Åland Islands+358Albania+355Algeria+213A",
+    "Apply for this job*indicates a required fieldFirst Name*Last Name*Preferred First Name*Email*PhoneCountry*Phone* 244 results foundNo results foundAfghanistan+93Åland Islands+358Albania+355Algeria+213A",
+    "First Name*Last Name*Preferred First Name*Email*PhoneCountry*Phone* 244 results foundNo results foundAfghanistan+93Åland Islands+358Albania+355Algeria+213American Samoa+1Andorra+376Angola+244Anguilla+",
+    "Resume/CV*AttachAttachDropboxEnter manuallyEnter manuallyAccepted file types: pdf, doc, docx, txt, rtf",
+    "Resume/CV*AttachAttachDropboxEnter manuallyEnter manuallyAccepted file types: pdf, doc, docx, txt, rtf"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_nonus/greenhouse/databricks__senior-ai-engineer-fde-forward-deployed-.png",
+    "html": "data/html/_nonus/greenhouse/databricks__senior-ai-engineer-fde-forward-deployed-.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 11,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 6622,
+    "lowestField": 4468,
+    "coversAllFields": true
+  },
+  "ms": 37961,
+  "fingerprint": {
+    "labelSig": "22f4fb492785",
+    "shapeSig": "735fe8cc5f4d",
+    "controlSig": "8704b5759008",
+    "controls": {
+      "text": 6,
+      "combobox": 8,
+      "phone-intl": 1,
+      "file-upload": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "6d577d28770b",
+    "typeCounts": {
+      "text": 14,
+      "tel": 1,
+      "file": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "disability_status",
+      "email",
+      "first_name",
+      "gender",
+      "last_name",
+      "linkedin",
+      "location",
+      "phone",
+      "race_ethnicity",
+      "referral",
+      "resume",
+      "veteran_status",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 9,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "greenhouse",
+  "duplicateOfSameForm": false,
+  "overCap": true,
+  "nonUS": true
+}

@@ -1,0 +1,893 @@
+{
+  "id": "custom-shopify-com__shopify__senior-financial-analyst-multiple-roles-",
+  "group": "custom-shopify-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "shopify",
+    "atsLabel": "shopify",
+    "company": "shopify",
+    "board": "shopify",
+    "title": "Senior Financial Analyst - Multiple Roles REMOTE - AMERICAS",
+    "location": "",
+    "jobUrl": "https://www.shopify.com/careers/senior-financial-analyst-multiple-roles_40ef1cb0-5c56-4963-84fe-946708e5d74a?keywords=engineer",
+    "startUrl": "https://www.shopify.com/careers/senior-financial-analyst-multiple-roles_40ef1cb0-5c56-4963-84fe-946708e5d74a?keywords=engineer"
+  },
+  "platform": "custom:shopify.com",
+  "detectedPlatform": "custom:shopify.com",
+  "platformLabel": "shopify.com",
+  "finalUrl": "https://www.shopify.com/careers/senior-financial-analyst-multiple-roles_40ef1cb0-5c56-4963-84fe-946708e5d74a?keywords=engineer",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Financial Analyst - Multiple Roles - Shopify",
+  "fieldCount": 20,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "e3575333-8c9b-4a7b-9f90-236a5a8f7634",
+      "label": "Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#e3575333-8c9b-4a7b-9f90-236a5a8f7634",
+      "visible": true,
+      "normLabel": "name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "916bde42-1f54-4578-b5bb-ca5b337f71a6",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "_systemfield_resume",
+      "id": "7f1f9312-359f-4da4-9a78-974db0f7d81b",
+      "label": "Resume*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_resume\"]",
+      "visible": true,
+      "accept": "application/pdf,image/jpg,image/jpeg,image/png,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.oasis.opendocument.text,application/vnd.apple.pages",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "37db15c4-fd23-4b98-a214-99a7d963a748",
+      "id": "37db15c4-fd23-4b98-a214-99a7d963a748",
+      "label": "Linkedin Profile*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"37db15c4-fd23-4b98-a214-99a7d963a748\"]",
+      "visible": true,
+      "normLabel": "linkedin profile",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_location_label",
+      "id": "171cb47b-43c0-4238-b37e-bdf389429880",
+      "label": "Location* Start typing and select a location from the dropdown.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Ottawa, ON, Canada",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "input[name=\"_systemfield_location_label\"]",
+      "visible": true,
+      "normLabel": "location start typing and select a location from the dropdow",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cbed8968-eed5-48ee-a155-b29448d42668",
+      "label": "Do you have the right to work in North America?",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Do you have the right to work in North America?",
+      "required": false,
+      "options": [
+        "Do you have the right to work in North America?"
+      ],
+      "optionValues": [
+        {
+          "label": "Do you have the right to work in North America?",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"cbed8968-eed5-48ee-a155-b29448d42668\"]",
+      "normLabel": "do you have the right to work in north america",
+      "canonical": "work_authorization"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "6839991e-ff70-4b77-b544-cc427bc90dc1",
+      "label": "Please confirm you've read and agree with our candidate NDA*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read and agree with our candidate NDA*",
+      "required": true,
+      "options": [
+        "Please confirm you've read and agree with our candidate NDA*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read and agree with our candidate NDA*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"6839991e-ff70-4b77-b544-cc427bc90dc1\"]",
+      "normLabel": "please confirm you ve read and agree with our candidate nda",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "78d7c5bd-6d56-4104-9d17-c1468fc221a8",
+      "label": "Please confirm you've read our applicant privacy notice*",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm you've read our applicant privacy notice*",
+      "required": true,
+      "options": [
+        "Please confirm you've read our applicant privacy notice*"
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm you've read our applicant privacy notice*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"78d7c5bd-6d56-4104-9d17-c1468fc221a8\"]",
+      "normLabel": "please confirm you ve read our applicant privacy notice",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "80feab39-2600-470a-90e0-1dc4fd0c51a0",
+      "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+      "required": false,
+      "options": [
+        "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision."
+      ],
+      "optionValues": [
+        {
+          "label": "Please confirm if you agree to your Shopify interview(s) being recorded and transcribed to help improve our hiring process. Agreeing/not agreeing to recording has no impact on our hiring decision.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"80feab39-2600-470a-90e0-1dc4fd0c51a0\"]",
+      "normLabel": "please confirm if you agree to your shopify interview s bein",
+      "canonical": "consent"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "71a51d60-7dee-459c-9668-73c2976ae173",
+      "id": "543b6674-4d4b-4ab0-81e1-4ac416b0ef49",
+      "label": "What was Shopify's gross profit dollars for Q1 2023?* $426 Million $717 Million $864 Million",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"71a51d60-7dee-459c-9668-73c2976ae173\"]",
+      "visible": true,
+      "options": [
+        "$426 Million",
+        "$717 Million",
+        "$864 Million"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "$426 Million",
+          "value": "$426 Million"
+        },
+        {
+          "label": "$717 Million",
+          "value": "$717 Million"
+        },
+        {
+          "label": "$864 Million",
+          "value": "$864 Million"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "what was shopify s gross profit dollars for q1 2023 426 mill",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "94680d73-d56f-4be8-b847-b0a1b06d5c23",
+      "id": "48772e4d-d298-4fc7-a95b-f2dd7318ffc3",
+      "label": "In which quarter of 2019/2020 did Shopify record positive net income for the first time as a public company?* Q3 2019 Q4 2019 Q1 2020 Q2 2020",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"94680d73-d56f-4be8-b847-b0a1b06d5c23\"]",
+      "visible": true,
+      "options": [
+        "Q3 2019",
+        "Q4 2019",
+        "Q1 2020",
+        "Q2 2020"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Q3 2019",
+          "value": "Q3 2019"
+        },
+        {
+          "label": "Q4 2019",
+          "value": "Q4 2019"
+        },
+        {
+          "label": "Q1 2020",
+          "value": "Q1 2020"
+        },
+        {
+          "label": "Q2 2020",
+          "value": "Q2 2020"
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "in which quarter of 2019/2020 did shopify record positive ne",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "02b1b5eb-99a5-4eb8-a9de-00c49b6f115b",
+      "id": "c78e3d15-5b13-477d-bac5-218f2716837b",
+      "label": "Do you have experience using Microsoft Excel or Google Sheets to create a financial model? If so, how would you characterize your skill level?* No Yes, basic proficiency Yes, intermediate proficiency ",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#c78e3d15-5b13-477d-bac5-218f2716837b",
+      "visible": true,
+      "options": [
+        "No",
+        "Yes, basic proficiency",
+        "Yes, intermediate proficiency",
+        "Yes, advanced proficiency"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "No",
+          "value": "No "
+        },
+        {
+          "label": "Yes, basic proficiency",
+          "value": "Yes, basic proficiency"
+        },
+        {
+          "label": "Yes, intermediate proficiency",
+          "value": "Yes, intermediate proficiency"
+        },
+        {
+          "label": "Yes, advanced proficiency",
+          "value": "Yes, advanced proficiency"
+        }
+      ],
+      "optionCount": 5,
+      "normLabel": "do you have experience using microsoft excel or google sheet",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "03ccf858-cbe2-4e9a-9bd6-42acfcff222e",
+      "id": "6924a632-dccd-4646-9c8a-91de8e89d9b9",
+      "label": "Have you ever worked on a business case? Building a financial model and presenting a deck to a group of individuals.* Yes No",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"03ccf858-cbe2-4e9a-9bd6-42acfcff222e\"]",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "have you ever worked on a business case building a financial",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "847a6561-8e7c-441d-baab-d19a3519f521",
+      "id": "b2386a38-f2ac-441b-b664-9f4ac239caaa",
+      "label": "Do you have experience working in one of the following industries? Select all that apply.* Investment Banking Management Consulting Corporate FP&A Corporate Finance Tech None of the above",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#b2386a38-f2ac-441b-b664-9f4ac239caaa",
+      "visible": true,
+      "options": [
+        "Investment Banking",
+        "Management Consulting",
+        "Corporate FP&A",
+        "Corporate Finance",
+        "Tech",
+        "None of the above"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Investment Banking",
+          "value": "Investment Banking "
+        },
+        {
+          "label": "Management Consulting",
+          "value": "Management Consulting"
+        },
+        {
+          "label": "Corporate FP&A",
+          "value": "Corporate FP&A"
+        },
+        {
+          "label": "Corporate Finance",
+          "value": "Corporate Finance"
+        },
+        {
+          "label": "Tech",
+          "value": "Tech"
+        },
+        {
+          "label": "None of the above",
+          "value": "None of the above"
+        }
+      ],
+      "optionCount": 7,
+      "normLabel": "do you have experience working in one of the following indus",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "bf78c84e-a41c-4061-8bb5-e7dc8990853e",
+      "id": "8632e009-a7ae-44e0-8f99-206b1e57dd96",
+      "label": "Do you have experience partnering with Marketing or Sales teams?* Yes No",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"bf78c84e-a41c-4061-8bb5-e7dc8990853e\"]",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes "
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "do you have experience partnering with marketing or sales te",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "8ce07519-176d-4d25-991c-a511d8325c55",
+      "id": "1a07e6e0-7d26-406f-8cf9-62b3a6d01efb",
+      "label": "Do you have experience working on a company’s reporting cycle?* Yes No",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"8ce07519-176d-4d25-991c-a511d8325c55\"]",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes "
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "do you have experience working on a company s reporting cycl",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "b3894d03-6477-4670-922e-f971b7bbda65",
+      "id": "a29323a2-f5d0-4016-babb-8c13b7c8ba3a",
+      "label": "Do you have experience working in the payments, online banking, or fintech space?* Yes No",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#a29323a2-f5d0-4016-babb-8c13b7c8ba3a",
+      "visible": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "do you have experience working in the payments online bankin",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "694d6c0d-a5c5-4e2e-83a7-4d996e1fe583",
+      "id": "885196ba-d948-49a2-ad76-c8f04532c0e9",
+      "label": "What motivated you to apply to Shopify (in 200 words or less)?*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "textarea[name=\"694d6c0d-a5c5-4e2e-83a7-4d996e1fe583\"]",
+      "visible": true,
+      "normLabel": "what motivated you to apply to shopify in 200 words or less",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "927b5651-ba6a-4a47-9a13-aa50efae8b8c",
+      "id": "dd5877f1-4589-4b32-965e-0993a12f4a11",
+      "label": "Please rate your SQL knowledge/expertise.* I could teach a class OK - I know my way around Rusty/I'm a beginner. I know I could pick it up pretty easily though.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#dd5877f1-4589-4b32-965e-0993a12f4a11",
+      "visible": true,
+      "options": [
+        "I could teach a class",
+        "OK - I know my way around",
+        "Rusty/I'm a beginner. I know I could pick it up pretty easily though."
+      ],
+      "optionValues": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "I could teach a class",
+          "value": "I could teach a class "
+        },
+        {
+          "label": "OK - I know my way around",
+          "value": "OK - I know my way around"
+        },
+        {
+          "label": "Rusty/I'm a beginner. I know I could pick it up pretty easily though.",
+          "value": "Rusty/I'm a beginner. I know I could pick it up pretty easily though."
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "please rate your sql knowledge/expertise i could teach a cla",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "93e39904-6f8d-4588-bd61-87eae17953c3",
+      "id": "cce994d2-a729-4932-bcf1-86b8e8e530ab",
+      "label": "Please identify and explain why this query wouldn’t work, and then provide a corrected version of the SQL:* SELECT field1, COUNT(field2) AS field2_count, SUM(field3) AS field3_sum AVG(field4) AS field",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "1000",
+      "selector": "#cce994d2-a729-4932-bcf1-86b8e8e530ab",
+      "visible": true,
+      "normLabel": "please identify and explain why this query wouldn t work and",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 9,
+      "textarea": 2
+    },
+    "byAction": {
+      "type": 6,
+      "upload": 1,
+      "check-many": 4,
+      "select-option": 9
+    },
+    "byOptionsSource": {
+      "dom-static": 13
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Financial Analyst - Multiple Roles",
+    "About the role",
+    "About Shopify",
+    "About you",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application",
+    "Work with us in your early career",
+    "Dev Degree Program",
+    "Internship Program",
+    "APM Program",
+    "Design Apprentice Program"
+  ],
+  "buttons": [
+    "Apply Now",
+    "Apply Now"
+  ],
+  "resumeUpload": [
+    "BackSenior Financial Analyst - Multiple Roles Remote - AmericasFinanceApply NowAbout the roleFinance’s mission is to help support Shopify’s growth over the long-term and ensure we achieve our objectiv",
+    "We hire people, not resumes. If you think you’re right for the role, apply now.",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you have the right to work in North America?Please confirm you've read and agree",
+    "Application*RequiredName*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you have the right to work in North America?Please confirm you've read and agree",
+    "Name*Email*Resume*Linkedin Profile*Location*Start typing and select a location from the dropdown.Do you have the right to work in North America?Please confirm you've read and agree with our candidate "
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/custom-shopify-com/shopify__senior-financial-analyst-multiple-roles-.png",
+    "html": "data/html/custom-shopify-com/shopify__senior-financial-analyst-multiple-roles-.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 6757,
+    "lowestField": 5998.765625,
+    "coversAllFields": true
+  },
+  "ms": 27862,
+  "fingerprint": {
+    "labelSig": "f86cc368189d",
+    "shapeSig": "b0dca13ff177",
+    "controlSig": "1b18b458756a",
+    "controls": {
+      "text": 3,
+      "text-email": 1,
+      "file-upload": 1,
+      "checkbox-group": 4,
+      "native-select": 9,
+      "textarea": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b82007050a64",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "file": 1,
+      "checkbox": 4,
+      "select": 9,
+      "textarea": 2
+    },
+    "canonicals": [
+      "consent",
+      "custom_question",
+      "email",
+      "full_name",
+      "linkedin",
+      "location",
+      "resume",
+      "salary",
+      "work_authorization"
+    ],
+    "requiredCount": 18,
+    "customQuestionCount": 12,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "ScustomPortal-4",
+      "value": "o2m56mibdn5hbv6jd7jq4rg206",
+      "domain": "synopsys.avature.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

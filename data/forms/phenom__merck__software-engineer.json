@@ -1,0 +1,234 @@
+{
+  "id": "phenom__merck__software-engineer",
+  "group": "phenom",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "phenom",
+    "atsLabel": "phenom",
+    "company": "merck",
+    "board": "merck",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.merck.com/us/en",
+    "startUrl": "https://jobs.merck.com/us/en"
+  },
+  "platform": "phenom",
+  "platformLabel": "Phenom People",
+  "finalUrl": "https://jobs.merck.com/us/en",
+  "applyTrail": [
+    "clicked: view next slide",
+    "clicked: Get started"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Discover Job Opportunities at Merck | Merck Careers",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "typehead",
+      "id": "typehead",
+      "label": "Search by job title or location",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Search by job title or location",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#typehead",
+      "visible": true,
+      "widgetHint": "au-target input-group dropdown-close",
+      "normLabel": "search by job title or location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "PhenomChatbotMenuButton",
+      "label": "More Options",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#PhenomChatbotMenuButton",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "more options",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "PhenomChatbotFooterInput",
+      "label": "Chatbot User Input Box With Send Button",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Ask anything",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#PhenomChatbotFooterInput",
+      "visible": true,
+      "normLabel": "chatbot user input box with send button",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 2,
+      "text": 1
+    },
+    "byAction": {
+      "click-type-pick": 1,
+      "click-pick": 1,
+      "type": 1
+    },
+    "byOptionsSource": {
+      "unknown": 2
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Together, we can make an impact.",
+    "Get tailored job recommendations based on your interests.",
+    "Your curiosity can help change lives.",
+    "Animal Health",
+    "Merck Manufacturing Division",
+    "Global Support Functions",
+    "Merck Research Labs",
+    "Human Health",
+    "Animal Health",
+    "Merck Manufacturing Division",
+    "Global Support Functions",
+    "Merck Research Labs",
+    "Human Health",
+    "Animal Health",
+    "Merck Manufacturing Division",
+    "Global Support Functions",
+    "Merck Research Labs",
+    "Human Health",
+    "Animal Health",
+    "Merck Manufacturing Division",
+    "Find your next opportunity and help us make a difference.",
+    "Professionals",
+    "Students",
+    "Veterans",
+    "Contingent workers",
+    "Skilled workers",
+    "Discover what life at Merck is all about.",
+    "Join our talent community today.",
+    "Connect with us on social.",
+    "Beware of hiring scams. Review our Applicant Notice."
+  ],
+  "buttons": [
+    "English",
+    "Search Jobs",
+    "Get started",
+    "Search opportunities >",
+    "Join now",
+    "Cookie Preferences",
+    "Reject Optional Cookies",
+    "Accept Optional Cookies",
+    "Find a job",
+    "Ask a question"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/phenom/merck__software-engineer.png",
+    "html": "data/html/_unreached/phenom/merck__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 6,
+    "hiddenOverlays": 2,
+    "unpinnedElements": 1,
+    "docHeight": 6041,
+    "lowestField": 6009.8125,
+    "coversAllFields": true
+  },
+  "ms": 64640,
+  "fingerprint": {
+    "labelSig": "0acf1e41a2c5",
+    "shapeSig": "156a917f216f",
+    "controlSig": "3cbd4c535fdd",
+    "controls": {
+      "combobox": 2,
+      "text": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "759f91efe290",
+    "typeCounts": {
+      "text": 2,
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "phenom",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "platform": "successfactors",
+    "slug": "l3harris",
+    "url": "https://jobs.l3harris.com/search/?q=engineer",
+    "postings": 81,
+    "sample": [
+      "/job/Ottawa-Lead%2C-Systems-Engineering-ON-K2H-9N6/1365112700/",
+      "/job/Brisbane-Specialist-Systems-Engineer-QLD-4113/1421371500/"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "huntingtoningalls",
+    "url": "https://careers.huntingtoningalls.com/jobs/search?ss=1",
+    "postings": 50,
+    "sample": [
+      "/job/Newport-News-ENGINEERING-TECHNICIAN-3-Virg/1410081800/",
+      "/job/Goose-Creek-NUMERICAL-CONTROL-PGMR-4-Sout/1417758500/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "huntingtoningalls",
+    "url": "https://careers.huntingtoningalls.com/search/?q=engineer",
+    "postings": 50,
+    "sample": [
+      "/job/Newport-News-ENGINEER-SYSTEMS-3-SENIOR-MODEL-BASED-SYSTEMS-ENGINEER-Virg/1419658300/",
+      "/job/Pascagoula-ENGINEER-STRUCTURAL-5-Miss/1426454900/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "conocophillips",
+    "url": "https://careers.conocophillips.com/job-search-results/",
+    "postings": 44,
+    "sample": [
+      "https://conocophillips.wd1.myworkdayjobs.com/External/job/Brisbane-QLD/Lead--Supply-Chain-Projects_REQ-006552-1",
+      "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/AI-Application-Developer_REQ-006547"
+    ]
+  },
+  {
+    "platform": "jobvite",
+    "slug": "knight",
+    "url": "https://jobs.jobvite.com/knight/search",
+    "postings": 26,
+    "sample": [
+      "/knight/job/o0IKAfwM",
+      "/knight/job/oMpuAfwZ"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "jetblue",
+    "url": "https://careers.jetblue.com/jobs/search?ss=1",
+    "postings": 25,
+    "sample": [
+      "/job/Long-Island-City-Coordinator-Load-Planning-NY-11101/1427558300/",
+      "/job/Orlando-Instructor-Maintenance-FL-32827/1391184300/"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "paramount",
+    "url": "https://careers.paramount.com/jobs/search?ss=1",
+    "postings": 25,
+    "sample": [
+      "/job/New-York-Account-Executive%2C-Programmatic-Sales-NY-10036/1391500700/",
+      "/job/Los-Angeles-Director%2C-Business-Affairs-Theatrical-Motion-Pictures-CA-90038/1408040300/"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "ey",
+    "url": "https://careers.ey.com/jobs/search?ss=1",
+    "postings": 25,
+    "sample": [
+      "/ey/job/Noida-RC-REGULATORY-COMPLIANCE-GxP-AI-Model-Consultant-Manager-UP-201301/1424765833/",
+      "/ey/job/Taguig-FTV-QTT-Associate-Analyst-1-6-1634/1424591133/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "paccar",
+    "url": "https://jobs.paccar.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/Mount-Vernon-Senior-System-Performance-Verification-Engineer-WA-98273-9671/1431663033/",
+      "/job/Mount-Vernon-Automation-Test-Cell-&amp;-Facility-Engineer-WA-98273-9671/1433563933/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "deere",
+    "url": "https://jobs.deere.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/eightfold/job/Moline-Engineering-Development-Program-Product-Iowa/1427480900/",
+      "/eightfold/job/Pozna%C5%84-Staff-Software-Engineer-Python%2BReact-Wiel-60-198/1427214100/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "eastman",
+    "url": "https://jobs.eastman.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/Kingsport-Lead-CivilStructural-Design-Engineer-TN-37660/1394973800/",
+      "/job/Kingsport-Experienced-Mechanical-Engineer-TN-37660/1423588700/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "exxonmobil",
+    "url": "https://jobs.exxonmobil.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/Huizhou-Advanced-Instrument-Engineer-GD-516281/1408525000/",
+      "/job/Spring-STEM-Students-Seeking-Internship-or-Co-op-Opportunities-TX-77389/1415276000/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "halliburton",
+    "url": "https://jobs.halliburton.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/Oslo-Engineering-Manager-03-0167/1399694700/",
+      "/job/Abingdon-Software-Engineer-LND-OX14-4RW/1410909700/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "newyorklife",
+    "url": "https://jobs.newyorklife.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/New-York-Corporate-Vice-President-Senior-Director-Head-of-Integrated-Solutions-Engineering-NY-10001/1420169500/",
+      "/job/New-York-Corporate-Vice-President-Enterprise-AI-Architect-NY-10001/1414653500/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "xpo",
+    "url": "https://jobs.xpo.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/Boston-Machine-Learning-Engineer-Hybrid-MA-02110/1422078600/",
+      "/job/Boston-Machine-Learning-Engineer-Hybrid-MA-02110/1422080400/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "sap",
+    "url": "https://jobs.sap.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Forward-Deployed-Engineering-Senior-Manager-%28fmd%29-85748/1422796633/",
+      "/job/Palo-Alto-Head-Engineering-SAP-Business-Network-Core-CA-94304/1422592533/"
+    ]
+  },
+  {
+    "platform": "successfactors",
+    "slug": "paramount",
+    "url": "https://careers.paramount.com/search/?q=engineer",
+    "postings": 25,
+    "sample": [
+      "/job/New-York-Senior-Manager-Software-Engineering-NY-10036/1387728000/",
+      "/job/New-York-Data-Engineering-Manager-NY-10036/1414418100/"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "capgemini",
+    "url": "https://careers.capgemini.com/jobs/search?ss=1",
+    "postings": 24,
+    "sample": [
+      "/job/Manila-Contact-Center-Process-Associate/1424816433/",
+      "/job/Aguascalientes-Java-%2B-ASO-Engineer/1424987833/"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "aflac",
+    "url": "https://careers.aflac.com/jobs/search?ss=1",
+    "postings": 21,
+    "sample": [
+      "/job/Remote-Sr-Invest-Acct%2C-Derivatives-31999/1417019600/",
+      "/job/Remote-Software-Engineer-III-31999/1399079200/"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "lululemon",
+    "url": "https://careers.lululemon.com/en_US/careers/SearchJobs",
+    "postings": 20,
+    "sample": [
+      "https://careers.lululemon.com/en_US/careers/JobDetail/Community-Specialist-The-Shoppes-at-Stadium/63418",
+      "https://careers.lululemon.com/en_US/careers/ApplicationMethods?jobId=63418"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "phillips66",
+    "url": "https://careers.phillips66.com/jobs/search?ss=1",
+    "postings": 15,
+    "sample": [
+      "/job/Houston-Future-Talent-Pipeline-FP&amp;A-Analyst-TX-77042/1417733100/",
+      "/job/London-Trader%2C-WAF-&amp;-Med-Crude/1427382000/"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "mantech",
+    "url": "https://careers.mantech.com/en_US/careers/SearchJobs",
+    "postings": 12,
+    "sample": [
+      "https://careers.mantech.com/en_US/careers/JobDetail/Freight-Coordinators/65925",
+      "https://careers.mantech.com/en_US/careers/ApplicationMethods?jobId=65925"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "mantech",
+    "url": "https://careers.mantech.com/en_US/careers/",
+    "postings": 12,
+    "sample": [
+      "https://careers.mantech.com/en_US/careers/JobDetail/Freight-Coordinators/65925",
+      "https://careers.mantech.com/en_US/careers/ApplicationMethods?jobId=65925"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "tmobile",
+    "url": "https://careers.t-mobile.com/",
+    "postings": 10,
+    "sample": [
+      "/account-associate/job/6E480BDDB6A2E39429F10D1E42D3E422",
+      "/account-associate-customer-service-onsite/job/BBE434F23F7916731E68441A948DB819"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "underarmour",
+    "url": "https://careers.underarmour.com/jobs/search?ss=1",
+    "postings": 10,
+    "sample": [
+      "/job/Santa-Agnes-de-Malanyanes-Sales-Associate%2C-PT-B-8430/1417626100/",
+      "/job/Oshkosh-Sales-Associate%2C-PT-WI-54904/1417948800/"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "pwc",
+    "url": "https://careers.pwc.com/jobs/search?ss=1",
+    "postings": 10,
+    "sample": [
+      "/job/Amman-Assurance-External-Audit-RTM-Senior-Associate-%28BankingInsurance%29/1400753733/",
+      "/job/Doha-Assurance-External-Audit-Manager-ESG/1404339533/"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "tmobile",
+    "url": "https://careers.t-mobile.com/",
+    "postings": 10,
+    "sample": [
+      "/account-associate/job/6E480BDDB6A2E39429F10D1E42D3E422",
+      "/account-associate-customer-service-onsite/job/BBE434F23F7916731E68441A948DB819"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "nike",
+    "url": "https://careers.nike.com/",
+    "postings": 10,
+    "sample": [
+      "/lead-process-analyst/job/R-88191",
+      "/retail-associate-pt-nike-national-harbor-14-29-hours-week/job/R-89418"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "tmobile",
+    "url": "https://careers.t-mobile.com/",
+    "postings": 10,
+    "sample": [
+      "/account-associate/job/6E480BDDB6A2E39429F10D1E42D3E422",
+      "/account-associate-customer-service-onsite/job/BBE434F23F7916731E68441A948DB819"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "l3harris",
+    "url": "https://careers.l3harris.com/en",
+    "postings": 6,
+    "sample": [
+      "https://careers.l3harris.com/en/job/wilmington/l3harris-engineering-hiring-event-greater-boston-ma/4832/98348330736",
+      "https://careers.l3harris.com/en/job/camden/l3harris-engineering-and-technician-career-fair-camden-ar/4832/99420660864"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "l3harris",
+    "url": "https://careers.l3harris.com/en",
+    "postings": 6,
+    "sample": [
+      "https://careers.l3harris.com/en/job/wilmington/l3harris-engineering-hiring-event-greater-boston-ma/4832/98348330736",
+      "https://careers.l3harris.com/en/job/camden/l3harris-engineering-and-technician-career-fair-camden-ar/4832/99420660864"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "l3harris",
+    "url": "https://careers.l3harris.com/en",
+    "postings": 6,
+    "sample": [
+      "https://careers.l3harris.com/en/job/wilmington/l3harris-engineering-hiring-event-greater-boston-ma/4832/98348330736",
+      "https://careers.l3harris.com/en/job/camden/l3harris-engineering-and-technician-career-fair-camden-ar/4832/99420660864"
+    ]
+  },
+  {
+    "platform": "icims",
+    "slug": "unilever",
+    "url": "https://careers.unilever.com/en",
+    "postings": 4,
+    "sample": [
+      "/en/job/valinhos/instrumentista-eletricista-fabrica-valinhos/34155/100344104656",
+      "/en/job/anderlecht/trade-assistant-belgium/34155/95887487856"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "unilever",
+    "url": "https://careers.unilever.com/en",
+    "postings": 4,
+    "sample": [
+      "/en/job/valinhos/instrumentista-eletricista-fabrica-valinhos/34155/100344104656",
+      "/en/job/anderlecht/trade-assistant-belgium/34155/95887487856"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "ford",
+    "url": "https://www.careers.ford.com/",
+    "postings": 4,
+    "sample": [
+      "/job/livonia/engineering-designer/48560/100352478272",
+      "/job/united-kingdom/finsimple-business-development-manager/48560/100352478032"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "merck",
+    "url": "https://jobs.merck.com/us/en",
+    "postings": 4,
+    "sample": [
+      "//privacy.truste.com/privacy-seal/validation?rid=0077ae82-f489-452b-a850-0e896f5a1566",
+      "http://privacy.truste.com/privacy-seal/validation?rid=343d5d70-40be-4ab1-8853-82bfbd0fe8f2"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "unilever",
+    "url": "https://careers.unilever.com/en",
+    "postings": 4,
+    "sample": [
+      "/en/job/valinhos/instrumentista-eletricista-fabrica-valinhos/34155/100344104656",
+      "/en/job/anderlecht/trade-assistant-belgium/34155/95887487856"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "ford",
+    "url": "https://www.careers.ford.com/",
+    "postings": 4,
+    "sample": [
+      "/job/livonia/engineering-designer/48560/100352478272",
+      "/job/united-kingdom/finsimple-business-development-manager/48560/100352478032"
+    ]
+  },
+  {
+    "platform": "avature",
+    "slug": "massmutual",
+    "url": "https://careers.massmutual.com/",
+    "postings": 3,
+    "sample": [
+      "/job/boston/client-portfolio-manager/724/100330433440",
+      "/job/springfield/field-compensation-specialist/724/100287641984"
+    ]
+  },
+  {
+    "platform": "phenom",
+    "slug": "massmutual",
+    "url": "https://careers.massmutual.com/",
+    "postings": 3,
+    "sample": [
+      "/job/boston/client-portfolio-manager/724/100330433440",
+      "/job/springfield/field-compensation-specialist/724/100287641984"
+    ]
+  }
+]

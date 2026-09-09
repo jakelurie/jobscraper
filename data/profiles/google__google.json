@@ -1,0 +1,95 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2-3.1225282515.1788892254",
+      "domain": ".google.com",
+      "path": "/about/careers/",
+      "expires": 1823452254.183787,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_41NEC9ZD62",
+      "value": "GS2.2-3.s1788892254$o1$g1$t1788892266$j48$l0$h0",
+      "domain": ".google.com",
+      "path": "/about/careers/",
+      "expires": 1823452266.786148,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_KZKKTZQKX5",
+      "value": "GS2.2-3.s1788892254$o1$g1$t1788892266$j48$l0$h0",
+      "domain": ".google.com",
+      "path": "/about/careers/",
+      "expires": 1823452266.788227,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2-3.1225282515.1788892254",
+      "domain": ".google.com",
+      "path": "/about/careers",
+      "expires": 1823452254.602454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2-3.1848042971.1788892255",
+      "domain": ".google.com",
+      "path": "/about/careers",
+      "expires": 1788978654,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OTZ",
+      "value": "8776471_72_76_104100_72_446760",
+      "domain": "www.google.com",
+      "path": "/",
+      "expires": 1791484252,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "CvABCAESogEBp2sxrioWvYkNjlYArMpltenG1dbyAAOHp6ECWKPa_r6d4Nz06FA0kCXQVwEcX-_oTOxBm0vMt0pSJEWIggKePFwxJ-ZzzoZCob19j_zpo1KzDJWitREu6B4a5zfNmJD78cmtQ9Xg6-yL3cVqdyOPsu_8mTmC7AIlLTjXjHkarCC8EXUZbAei5hIyeE099EdJB0mnusRuMOEqTqC8V5oTB8AoATJFAQ4r3hH7XEO5DdU2NVp2tf5zczQ6yUgXOv8qaJP0MDKUlZ90iykOQnN3f9F2Xweyc_BCUIWvIaV0BfDv4dCpHKYfm6UA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1804703451.699303,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-GAPS",
+      "value": "1:XYmgraD87uKWGxtVY87xaBWnzdP84w:B2pjMB-AyU2LkDy_",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1823452267.570684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"hWg_OK-AqDtQFvC43YrGOz_R_cp12Asp8g\",\"lastJoinedTimeMs\":1788892253354},\"expires\":1788892553354},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892266784},\"expires\":1796668266784}}"
+        }
+      ]
+    }
+  ]
+}

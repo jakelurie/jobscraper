@@ -1,0 +1,479 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Correlation.muv5b-KPZeLNoKIUl2tBh9X6UYM7ogP-qJIeOVDCzYQ",
+      "value": "N",
+      "domain": ".www.usajobs.gov",
+      "path": "/signin-wsfed",
+      "expires": 1788893365.62948,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ScustomPortal-4",
+      "value": "anvi0jh8jm1jgqrerh3o7vuupn",
+      "domain": "synopsys.avature.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w6~EEAD5E4880DF5AD94A1E4A0D17DF1AC4",
+      "domain": "careers.paramount.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "3C95ADA79E57E9166843081D0ED26ED6.pc41bcar103",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "viacomcbsi",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "route",
+      "value": "e097473f0dcd3d4ee858c1c1b17348a4afa33374",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "usaj-f",
+      "value": "%5B%7B%22Name%22%3A%22TalentNetworks%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.767099Z%22%7D%2C%7B%22Name%22%3A%22SearchFilters%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671069Z%22%7D%2C%7B%22Name%22%3A%22TalentPoolCertificateType%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671145Z%22%7D%2C%7B%22Name%22%3A%22RequestAccess%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671216Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkNoAccount%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671295Z%22%7D%2C%7B%22Name%22%3A%22TalentNetworkArchive%22%2C%22Enabled%22%3Atrue%2C%22Variant%22%3A%22%22%2C%22LastModified%22%3A%222026-09-08T18%3A34%3A13.7671367Z%22%7D%5D",
+      "domain": "www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2015499882.1788892454",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452454.779114,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "akavpau_usajobs",
+      "value": "1788892765~id=ded6e929c7b4fb3931664a184d931bcf",
+      "domain": ".www.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "akavpau_LOGIN_USAJ",
+      "value": "1788892766~id=4a7372744872015c5128a32c27dd5e93",
+      "domain": ".login.usajobs.gov",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_CLZB1LJ1VZ",
+      "value": "GS2.1.s1788892454$o1$g1$t1788892466$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452466.05108,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_CSLL4ZEK4L",
+      "value": "GS2.1.s1788892454$o1$g1$t1788892466$j48$l0$h0",
+      "domain": ".usajobs.gov",
+      "path": "/",
+      "expires": 1823452466.055464,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_shopify_essential_",
+      "value": "7949d58e-2a9b-4814-a227-c4393df7914d",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1820428560.028565,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_s",
+      "value": "d33d5662-1036-462c-afe5-d8ed13d9a5e6",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1788894360.028585,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_shopify_y",
+      "value": "0758b638-5ab4-49e1-8097-9505c55db062",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1820428560.028576,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.557475272.1788892510",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1796668510,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_fat_id_s",
+      "value": "undefined",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1791484527,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.167801323.1788892511",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1823452527.627601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1788892510594.182242802298692880",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1796668527,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPID",
+      "value": "FPID2.2.BzmLt%2FJlJ4zXHUoMNOWpDxBvYVCS8J7oV2CH42KSB5E%3D.1788892511",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1823452560.081808,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPAU",
+      "value": "1.1.557475272.1788892510",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1796668509.788481,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FPLC",
+      "value": "N0018P8plGQWoALAcErA31U8RZARW2cOvL2ycyJ6VdWvsfy34iUHFvLZWp39sZ1a4WUfV0cVfQjKe01%2FVrxxvESiB2ZrKW99GS15VAKuoPWloqVCyOhAczLCblg6cg%3D%3D",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1788964510.908813,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUk0ytWAj3_ic4LtRDk3eYDvIjqidg0IZJZNhh0cUsxctbebi7BgessE2uvI7-s",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823452511.285112,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FPGSID",
+      "value": "1.1788892510.1788892510.G-B7X5MKCR35.YexAfKKH5mmV8TDuSS2rIg",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1788894311.601002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "MUID",
+      "value": "0D0108B75898663206A41F7959CE6770",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822588513.02417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1789497313.024297,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mto_pvs",
+      "value": "2",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_W6NECZNE63",
+      "value": "GS2.1.s1788892510$o1$g1$t1788892559$j11$l0$h1435339409",
+      "domain": ".shopify.com",
+      "path": "/",
+      "expires": 1823452559.865118,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_exists",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6ImRISjFaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJjb29raWUuX2JmX3Nlc3Npb25fZXhpc3RzIn19--c09bf3da17accf4c53e92f910eef613c6f99527b",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "7UKekTA0-U-T-m4WNi0Ky6IbdP0KUR6eZ6XJlQLvV1gA7EAK5m_WkMQl90_Jlwjh2TGVerwn7Ec4d7X2KuXu8g",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_key",
+      "value": "BD4wS7DII6ihNK4d87OLyn22d%2F91rdXiQiTdOK%2FiRRlecfVOfsty5p5d2KPL411p19Qa%2FKnvRD309pEXbO5xC36OX2J6iCobGLbZ%2B105EUjCKX5q7BVH267QEjz8an48rOEeiSuT%2Fz%2B3HjofvC2kYq585t0RwCvcHV74JQADDNOrwC19XJFfHJ7wNsoKLiDz%2BnMAFeXImoPwPf%2BsIRiJL6FfQkVKe0lRyvsttKusinv3AED5J20mf34W2uPEr8K6170vJgrLr9meydAAznp3%2F8gr08W2A6%2BbbooGRNk%2BqzxZb7HHytD%2BOMSMkXlU%2FhLIAKgM--6IvVEhZwyWGd4%2Bge--kC%2FMfkZ0S4G2MkDyBQ8tDw%3D%3D",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a0824e-3f14-7cc0-a9f5-ebd48db97d96%22%2C%22distinct_id%22%3A%2201a0824e-3f14-7cc0-a9f5-ebd48db97d96%22%2C%22%24sesid%22%3A%5B1788892618520%2C%2201a0824e-4044-709a-badc-74dd0fc0961a%22%2C1788892561476%5D%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".workatastartup.com",
+      "path": "/",
+      "expires": 1820428619,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "9a4931132a6ffd6ce79a47f75eb6449e91023d47214ef11b8c444f7ba034beab%7Caef09473356a1fec5aa13166bf70f12f15dc8e8ceda5212c676e481fa252b59f",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fjobs.dayforcehcm.com",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "ai_user",
+      "value": "C1KE6n8iAmNdJQLyVCBqlM|2026-09-08T18:37:00.836Z",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428620.836892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "QJoxWIXzNJfdoSrqAIPvcxgqEmTU6JdYBqNFCYmUa6o-1788892621-1.2.1.1-ubfMrAdTtgtl4aeI9vbNXmyVdD2QY8sRKQqdmhtX53kqlnsBp6txWt1sfiemtVlab.QqQc.dkEcMm.yevKlBVwrt8Ix2nd1aZFzVr6p_qspO.J.JSrfCuQVNZyk1XWpOnn0NrvAci9P2d05RZG3MysiS1e4cH.Ie7iwe1v6jcDK1uEOfcn2brirmUhskXAkYZXkgY8jchddAwQ8llCodk.GueG5TJ5tRlKQmLQFWxUhDa.crCwJ7crko74l16CVKGrrtOapSAKQF4.IgEci.HuZTmLqQ4to0XSqnREUFAGp7IvzIs4WQbF_.nEje5WagA8JNFdvAGIZEj0_PGEBvkGbWTwirkljf.UzVvA4qUVk",
+      "domain": ".dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428620.99686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dayforcehcm.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "EnTo0Dvx4wNeAmmXS9GePnGIIM_n2ZHDvM.RaWwEWHs-1788892621.0233448-1.0.1.1-6.EGvCVmrXaR_CZkuj..3jnCQvi8j2r.XRqgY1O4bGwsA6EFEv5RVI52TNddAnMoH18WxM2S2oG7FyvfyTLmbMK_9q1NBDZ3qJCrhyzK.4XNZZqwxzbNspPrVOE1MnHp",
+      "domain": ".dayforcehcm.com",
+      "path": "/",
+      "expires": 1788894420.9969,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SiteConfig",
+      "value": "{%22blackrock%22:[]%2C%22pfizer%22:[]}",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1820428630,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_session",
+      "value": "pzKkpXiRWt8nL0FKl16BG5|1788892620910|1788892630625",
+      "domain": "jobs.dayforcehcm.com",
+      "path": "/",
+      "expires": 1788894430.625556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://jobs.dayforcehcm.com",
+      "localStorage": [
+        {
+          "name": "CookiePreferences",
+          "value": "\"{\\\"Version\\\":\\\"1.0.0\\\",\\\"Cookies\\\":{\\\"blackrock\\\":{\\\"strictlyNecessaryCookies\\\":[\\\"DF\\\"],\\\"functionalCookies\\\":[],\\\"functionalCookiesRejected\\\":[],\\\"performanceCookies\\\":[\\\"GA\\\"],\\\"performanceCookiesRejected\\\":[]},\\\"pfizer\\\":{\\\"strictlyNecessaryCookies\\\":[\\\"DF\\\"],\\\"functionalCookies\\\":[],\\\"functionalCookiesRejected\\\":[],\\\"performanceCookies\\\":[\\\"GA\\\"],\\\"performanceCookiesRejected\\\":[]}}}\""
+        },
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1788892630}"
+        },
+        {
+          "name": "ld:62a0a637cc384b1581554ac5:$diagnostics",
+          "value": "{\"dataSinceDate\":1788892620934,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "aWcbtp5wNfWUFiMRQrsMkRFxyAXB9Fzb2VVbxUW9htU-1788892405-1.3.1.1-OthqPE4fkvGxCESLAypBnZJnF.CmqClF7DYIj.m2hPdiHe_xa5VEQao6SVmJM2IgCvUqt8aGvtgZEH6rarOAwQ"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.usajobs.gov",
+      "localStorage": [
+        {
+          "name": "logApplyJobAfterSignIn",
+          "value": "{\"Title\":\"Computer Scientist (Software/Cloud Architect)\",\"Agency\":\"Defense Counterintelligence and Security Agency\",\"SubAgency\":\"DCSA\",\"Department\":\"Department of Defense\",\"DocumentID\":\"883232800\",\"JobCategoryCode\":[{\"Name\":\"Computer Science\",\"Code\":\"1550\"}],\"JobGrade\":\"GG\",\"LowGrade\":\"15\",\"HighGrade\":\"15\",\"DateDisplay\":\"Open 09/02/2026 to 09/14/2026\",\"ClockDisplay\":\"JobClosingIn7Days\"}"
+        },
+        {
+          "name": "usaj-l",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.shopify.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"6xUEsWgoJjWJd_pJ3eJDtikMsS2dPcTR1g\",\"lastJoinedTimeMs\":1788892510100},\"expires\":1788892810100},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892510102},\"expires\":1796668510102},\"gtg_load_status\":{\"status\":2,\"expires\":1788978910284}}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1788892527658"
+        },
+        {
+          "name": "gtmBrowserId",
+          "value": "1788893255530"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.workatastartup.com",
+      "localStorage": [
+        {
+          "name": "unleash:repository:sessionId",
+          "value": "\"841454435\""
+        },
+        {
+          "name": "unleash:repository:repo",
+          "value": "[]"
+        },
+        {
+          "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+          "value": "{\"$device_id\":\"01a0824e-3f14-7cc0-a9f5-ebd48db97d96\",\"distinct_id\":\"01a0824e-3f14-7cc0-a9f5-ebd48db97d96\",\"$sesid\":[1788892618520,\"01a0824e-4044-709a-badc-74dd0fc0961a\",1788892561476],\"$user_state\":\"anonymous\",\"$initialization_time\":\"2026-09-08T18:36:34.200Z\",\"$configured_session_timeout_ms\":1800000,\"$autocapture_disabled_server_side\":false,\"$logs_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1788892594216,\"enabled\":true,\"canvasFps\":3,\"canvasQuality\":\"0.4\",\"consoleLogRecordingEnabled\":true,\"endpoint\":\"/s/\",\"eventTriggers\":[],\"linkedFlag\":null,\"masking\":null,\"minimumDurationMilliseconds\":null,\"networkPayloadCapture\":{\"capturePerformance\":false},\"recordCanvas\":true,\"recorderVersion\":\"v2\",\"sampleRate\":null,\"scriptConfig\":{\"script\":\"posthog-recorder\"},\"triggerGroups\":[{\"conditions\":{\"matchType\":\"all\",\"urls\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www\\\\.ycombinator\\\\.com(?!/avatars/kiosk).*$\"}]},\"id\":\"41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\",\"name\":\"Migrated trigger conditions\",\"sampleRate\":1}],\"triggerMatchType\":null,\"urlBlocklist\":[],\"urlTriggers\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"}],\"version\":2,\"canvasRecording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"}},\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$client_session_props\":{\"sessionId\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"props\":{\"r\":\"$direct\",\"u\":\"https://www.workatastartup.com/jobs/106672\"}},\"$posthog_sr_group_sampling_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":{\"sessionId\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"sampleRate\":1,\"sampled\":true},\"$posthog_sr_group_url_trigger_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"$feature_flag_errors\":[],\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"a2a6da2c-26ea-4838-b8af-e989af5a5c26\",\"$feature_flag_evaluated_at\":1788892594319,\"$sess_rec_flush_size\":{\"sessionId\":\"01a0824e-4044-709a-badc-74dd0fc0961a\",\"size\":565298},\"$debug_first_full_snapshot_timestamp\":1788892594211}"
+        }
+      ]
+    }
+  ]
+}

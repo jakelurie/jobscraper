@@ -1,0 +1,759 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "pfSDHvqzcsHNHwqawCbU8mLun55gicrPbBX5NMo6Tecs5__Fn19F!61482975!1047176340",
+      "domain": "eeho.fa.us2.oraclecloud.com",
+      "path": "/hcmUI",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "mQwcOq.3hPpFaIZuw1IDTsUIWxFeqBFzj2lKB_wqo2s-1788906214-1.2.1.1-0TKRPFr.zbqteZqlCVvwIqviD.KKTuxw0hPE_bYAGP09JpQUroqqZPy9joP8PVaQKju3YNTGNSFMYzPI4h5BJdqJoF0U37bYDL41byUad3NREtcVsfg__FXFPglq8XgtPJi.lIUxxctDSnCIB2i0hilxH0mdJwBOrUNgszAPFq02VMZvLFL5BGxvCy62KBwod57fQY8WHdtl1k0JsNKYm2KyCTS3Gmgx7SpoVxlVi5g6IyPvxfsOMZbLaxjEWhP0O2KBGZmqA1n6x6nOpK76fOy41GR2Fd1Ib1TodySW5MuIqLlUqK6nVKnkqMgrTiIoIch3tYZ48_1Xdih05XHWyKmd5R7sExI5eccZ3YrhOOw",
+      "domain": ".smartrecruiters.com",
+      "path": "/",
+      "expires": 1820442214.720929,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://smartrecruiters.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "ORA_FUSION_PREFS",
+      "value": "v1.0~bG9jYWxlPWVufmRlZmF1bHRMYW5ndWFnZU1hcmtlcj10cnVl",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FND_SESSION_US2DZ2V_F",
+      "value": "DEFAULT_PILLAR:45Jmg0FyMCDvW7cD5XjXb2KND3plSDn7PLlLQeFTJtW5LHnhmqU44xpgAK3ZqC2z:1788906240418",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CX_45001_cookieConsentEnabled",
+      "value": "false",
+      "domain": "careers.oracle.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_45001",
+      "domain": "careers.oracle.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_FPC",
+      "value": "id=d984e186-184a-4505-a900-4a8857cdff8d",
+      "domain": "careers.oracle.com",
+      "path": "/",
+      "expires": 1823466284.542717,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID",
+      "value": "58a7d177-5d40-4d4d-b291-334bce52d59c",
+      "domain": "careers.oracle.com",
+      "path": "/",
+      "expires": 1796682284.817905,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID_FUNCTIONAL",
+      "value": "58a7d177-5d40-4d4d-b291-334bce52d59c",
+      "domain": "careers.oracle.com",
+      "path": "/",
+      "expires": 1796682284.818015,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "akaas_aud-seg-ocom-prod",
+      "value": "2147483647~rv=49~id=dcd74e777bbe49ed46f77b1a5f407806",
+      "domain": "www.oracle.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "YSC",
+      "value": "XJRI90exEC0",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "1gNSEERtRiA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804458286.025542,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVUxIEGgAgEQ%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804458286.025556,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&b72bff30-8838-42fd-89c5-489c2a4a6441\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820442243.916446,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908222403d94c99bc-1310-4587-8ccc-ee3469cbe033AQGcPFkmyps10290Yi924Bv1pJLH6GYN\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820442243.916487,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST04:s=O:r=O:a=O:p=O:g=3807:u=1:x=1:i=1788906243:t=1788992643:v=2:sig=AQGAOLu4bbbzZYIkfISx_dkN29CUKvda\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788992643.424394,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "aceKUd137u6GGM.EDrlFdssCPXm2J0QbfgwdDZh5zxA-1788906243.3212297-1.0.1.1-FRKnIW29hVkKSKv___z7OdLRnleKbKqOZWUzHhwiGv0KxC_JoqajJoDnm6Rgh.kKiCAEzLuiEo0N7.0uAZq0tD.cK0xqrMN3nsPyielvTlkoBIocuJPl.LwYEZU6O49L",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788908043.424406,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:9125513809090425999",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pxvid",
+      "value": "0044bc30-abd4-11f1-b9a8-0481184ca707",
+      "domain": ".protechts.net",
+      "path": "/",
+      "expires": 1820442245.152375,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://oracle.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "AWSALB",
+      "value": "ENulgQNroAq1bONF5RrhYEV9yYHIOWHayrUjboqaMBfWau+JDeCnS/HBmLBpkojN5GHppOPKccnU5Tph2/XnJKbsRqYkVm4KH+2/J+9hsWbMMG32vzhZuuCodX33",
+      "domain": "jobs.smartrecruiters.com",
+      "path": "/",
+      "expires": 1789511060.35548,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "ENulgQNroAq1bONF5RrhYEV9yYHIOWHayrUjboqaMBfWau+JDeCnS/HBmLBpkojN5GHppOPKccnU5Tph2/XnJKbsRqYkVm4KH+2/J+9hsWbMMG32vzhZuuCodX33",
+      "domain": "jobs.smartrecruiters.com",
+      "path": "/",
+      "expires": 1789511060.355657,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+18%3A24%3A20+GMT-0400+(Eastern+Daylight+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1&AwaitingReconsent=false",
+      "domain": ".smartrecruiters.com",
+      "path": "/",
+      "expires": 1820442260,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "value": "0JEEAV3odVkwGSMapBVzM_RDcCOuFmKlM_hOmc2g2bpjQRC6dfjlVMFVpJxQtOpKugYYe8fVOmDI~wuEkfENPyPjQ3SpLe1jzThxiXAUqpt2jjEJW8_BgwRSbg98U9SL",
+      "domain": ".smartrecruiters.com",
+      "path": "/",
+      "expires": 1820442271.427232,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "21.YT=VVEh84MTq-uQgqHsnsHKSPzdKIup34gcLfKIot9xZtZynPQvcTbRzYKd2OS_R-eHp--_D703oiT4nQo2xdh4Wait6Zc535MPR_K_uq0-KT0eGJNtWmm9L8qteAnmWO8EbXKv9GX4XKDmBf4u5wfDg55vGk2dazFLwE1cPQV_-2YnBxBl1j-SmlbJ9GQsdnHih3pCdACOd_F5b4OnkeJ5fNGkxsjlhmu5t7Ec8YwaAftOorr-xJ6NA75cTHoBFPSqchb2_9jzYBI85cpn7jtjmdsrXkG5h020ITWzUBM9wEdcA9UKYa_hkfEWV8PEoLDnBhQYSbnw61YLYsG1NlAaRA",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804458242.025468,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://oracle.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CM3b8uDbqKTaCxCJ65aJg-CWAxjts9Wdg-CWAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804458286.025511,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://oracle.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_px3",
+      "value": "5857df8969cadd9a06b1077a6d268fa38ba223cb7ca0be79cf9bad92ae214d99:TbhUupPhv3jNkQA0JFH1c5e2CxJlIZOzhbTefmsu6N0S7MGyyJ74I0sdoSXgiNkZzdKfVJUGWRjDMEBHazu9Xw==:1000:T7+g2UIUAT2o6fR2fkOHuKJkX/ZSDilHq10ceV8QcBKJOaoY0MdoTPm28QERltS/zyuxeRrSQnYWlfQMQB0LW0xv29wwNs1W/QFklQWul1hfxCKOjDm+s+mP98YxfkHkvnHKW8ObmLICGEqEA41SC2KY3mTBwk4x8fTRmh+wEoGvfzn/Vl1mM4OzygraCXFS/NhtFgZRJ1baMmJ3fgZpFzX7KYheADCA/Bd9t+g+NzbobVjxKJUN9WKm8qYKMOK2hzK7hwfmFQdY5DnKzBIABbt/0MpGMTF6jPReog45v1BNrYFFjxNeLESOwBAHhizlIUQqp7/TgYMP74QBklvn3rwX7asVja7NA9Z6G9eqqpJv7L/zUXalrHoLusHoyHVV66QHc75htHVxQ5N5WQaPcL2UaUQNFUhYqcsoaiTHH7QIzuIdkwguAiV+89CaDnk/yYYLjTM3V9ivoSF7VU/QTB2yiv3+3W3b+ne6BvkQGdyo93tqRm356cY3Br8Df/cU",
+      "domain": ".protechts.net",
+      "path": "/",
+      "expires": 1788906618.684011,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://oracle.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "pxcts",
+      "value": "825nTjGthnsoiCx5a0yn2lo3xjLEfCHC1oblKLdaFGw=:Q0f5vNDHNHZWqZxeB7-kF9H5aOPlyiWDVRL/818AuYMhCNvo-KaPpPsRF0FWPIeljEixoj1SSDu/KKamu-WLuF-PU5GEBU6GUBwVUqzVYiHuA0dZ5PVKi8yFK7qpeSnKL2u6QAnEsQKsOFfxyOasKpqsVk1xB-jMd23ebVIPcLK20W0Z0xZ5J2G3l7Y9-72Y",
+      "domain": ".protechts.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://oracle.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "DefaultAsserted",
+      "value": "Asserted",
+      "domain": "jobs.boeing.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "viewedJobs",
+      "value": "TMPIzekrMisOvhFhq3nnvE3PUvNvQdT4iAI4c4lLeE4eCGs8eWFjDQNxcr685h4ENKDzoSgph1JIPYqX1XQfUVCw4YctiA7owNXaTMXbY8U%253d",
+      "domain": "jobs.boeing.com",
+      "path": "/",
+      "expires": 1791498305.057651,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+18%3A25%3A06+GMT-0400+(Eastern+Daylight+Time)&version=202608.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=244b972c-c64b-4964-90e4-5178371f2414&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fjobs.boeing.com%2Fjob%2Fel-segundo%2Fsenior-software-engineer%2F185%2F98140912832&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1%2CPRIV%3A1",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1796682306,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SearchVisitorId",
+      "value": "515feb56-8cd8-c4e9-8e14-a6158dda014f",
+      "domain": "jobs.boeing.com",
+      "path": "/",
+      "expires": 1820442306,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SearchSessionId",
+      "value": "{%22SearchSessionId%22:%2232abc46d-0809-bf85-a3fd-d4dc4bdd95f8%22%2C%22ImpressionParentId%22:%22%22%2C%22ViewParentId%22:%22%22%2C%22GoogleSearchRequestId%22:%22%22%2C%22GoogleJobId%22:%22%22%2C%22Created%22:%221788906306523%22}",
+      "domain": "jobs.boeing.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.501378352.1788906307",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1788992706,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1788906366,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.463733228.1788906307",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1796682307,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PersonalizationCookie",
+      "value": "[{%22Locations%22:[{%22Path%22:%226252001-4482348-4462997-4474186-4049950%22%2C%22FacetType%22:4%2C%22GeolocationLatitude%22:35.5668%2C%22GeolocationLongitude%22:-75.4685%2C%22LocationName%22:%22Waves%252C%2520NC%22%2C%22GeoType%22:%22ip2ifnohtml5%22%2C%22SetByHtml5%22:false}]%2C%22Categories%22:[]%2C%22PersonalizationType%22:0%2C%22DateCreated%22:%222026-09-08T22:25:07.032Z%22%2C%22CustomFacets%22:[]%2C%22TenantId%22:185%2C%22OnetCode%22:null%2C%22Served%22:false}%2C{%22Locations%22:[{%22Path%22:%226252001-5332921-5368381-5345860%22%2C%22FacetType%22:4}]%2C%22Categories%22:[%229285%22]%2C%22PersonalizationType%22:1%2C%22DateCreated%22:%222026-09-08T22:25:07.032Z%22%2C%22CustomFacets%22:[{%22CustomFacetValue%22:%226J7JI5(6J6)%22%2C%22CustomFacetTerm%22:%22campaign%22}]%2C%22TenantId%22:185}]",
+      "domain": "jobs.boeing.com",
+      "path": "/",
+      "expires": 1791498307,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1788906307143.7405305101640444",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1822602307.153736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "jobs.boeing.com",
+      "path": "/",
+      "expires": 1820442307,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.efe0",
+      "value": "*",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1788908107,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.efe0",
+      "value": "b62bdcc2-c09e-419b-9da7-95179b856e91.1788906307.1.1788906307..cc4f5764-0d20-4400-bb97-06309891aaa3..41b51494-b625-47c4-a4dc-771f8c4f898d.1788906307209.2",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1823466307.220468,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.946996189.1788906307",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1823466307.272034,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_3N2PEGZ4HD",
+      "value": "GS2.1.s1788906307$o1$g0$t1788906307$j60$l0$h0",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1823466307.275575,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "2553fae0abd411f1b20f314e61c2083a",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1788992707,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "25540d90abd411f1aba5bb56c9352d9a",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1822602307,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1788907207.324559,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "0E1365C301A163A02501720D00356206",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822602308.358397,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1789511108.358426,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1788906307373.914300137417810186",
+      "domain": ".boeing.com",
+      "path": "/",
+      "expires": 1796682307,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "muc_ads",
+      "value": "1a9251cb-33b4-4f66-a589-dd5c37e771d3",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1823466307.404307,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "TkzzBL78t_fay8ojJRBsY1PlbF65bHdyZyLsQgchTvY-1788906307.3986723-1.0.1.1-XpXZjnvmL9XZ1cS55px7Yr9fWh83_.1G7ZV75kukGX4hS_lZ3IpKtB2ZD.HUZ1jokG3i4ViTQhzfL7V7NK.KtbNCBp1jIU6hGXUuHvNxbk2mqpGrqS5AaBi9N8Gv9pwk",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1788908107.404333,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_SwGXhSyWl11gjBi1089xCg==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1823466307.419792,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "uLDkm1zh.79ieqCzpqRfKYi1g_YtTsko6krBX.aZcTE-1788906307.4108655-1.0.1.1-6bvxkjzvEaclIRB3FkJSEGuue4vHeovu0M2.QIfy.pbeOMqQO_pI88gW8IjiCq_uemnqeq45.klNK7e1z2y84EeRrEBhrt2XNkS02JawqpGdLi3x6xwOZDUfu.omV_v0",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1788908107.419813,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_SESSION",
+      "value": "3634a068be6fe47c5c1391957aaa657f98471d96-boeing_pSessionId=mafoc9bgj2nptvtmfe54pjuubd&instance=vps-prod-joppnydg.prod-vps.pr502.cust.ash.wd",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "7150abde-8b76-41d8-b1a7-ace3bd2086cf",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "c1312aac-c8cf-4e41-a880-15c9c9ff19fc",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "514caa1e-cdaa-4608-a02e-7f32c282ba7f.Ym9laW5n.V0RDQzEuMIQAJQAAIEO7k4e9C0hVWyi8/p/PUdepdihgxPqmZv1FI4S+ookFAACMABYBMQAQu2zWnRGiVK83rcEFHKpJMwAAADUxNGNhYTFlLWNkYWEtNDYwOC1hMDJlLTdmMzJjMjgyYmE3Zg==",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wday_vps_cookie",
+      "value": "2608429066.53810.0000",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "wuupnxKONC82BMGel6kJEQQd8GgPLP6Ddps4oeXQqgc-1788906307.0433462-1.0.1.1-gF4szpY012nHAD4V2QLkkTBYW6Mu7osyvjCMMLUEel4nmOGMv8rxQ0d_6M5AW_bgr1C_Oe5vpaP7lcAGgV93vzIg0LB9o8rriAWaycM5u2xT0P4xRCO8iePv605q1RkW",
+      "domain": ".boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788908107.494615,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEyZJzFVW6zKk23dzrfyh8dkkAVvMr3QTmRcgoHnL",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": 1788989107.494638,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "BRlrSQStZWQB_DTwW0_SixQ2uC_NIanRfctJrDZcMHE-1788906307.0433462-1.0.1.1-vT4ilpyq1P9MyJQmfw8oOj6ULhZtX7W09x0MYgmQHJ0",
+      "domain": ".boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "boeing.wd1.myworkdayjobs.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "RYtsqBmlp0nFt3iRlADHy9DoM1mQqdPm4kGC70ipN3M-1788906311.3483737-1.0.1.1-MHT_AYyZhP1wH9FgbZ6oGygeKEb.F3JWHWW8rjZu6danrj5nxVfiQ1maSpUcXNwcgu.J.sKLjDqpwGrOQUYUP_Ey6fPCrMWXp5ihVwHsw.eLClHGwW.vJOYIX0Os9W_0",
+      "domain": ".applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788908111.413115,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEhzEqcmmVbuV8B8iXV23tNdM98u6qEhZgo7zg4rQ",
+      "domain": "applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788989111.413155,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://jobs.smartrecruiters.com",
+      "localStorage": [
+        {
+          "name": "pa-l",
+          "value": "sid=tflxt8o1&sst=1788906215&sis=3&rv=0&r1=1"
+        },
+        {
+          "name": "pa-l_enabled",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "origin": "https://careers.oracle.com",
+      "localStorage": [
+        {
+          "name": "ORA_COOK_STORE",
+          "value": "{\"ORA_FPC\":\"ORA_FPC=id=d984e186-184a-4505-a900-4a8857cdff8d; expires=Fri, 08 Sep 2028 10:02:16 GMT; path=/\"}"
+        },
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1791498288372,\"creation\":1788906288372}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1788906286188"
+        }
+      ]
+    },
+    {
+      "origin": "https://li.protechts.net",
+      "localStorage": [
+        {
+          "name": "PXdOjV695v_px-ff",
+          "value": "eyJjYyI6eyJ0dGwiOjE3ODg5MDYzNDcsInZhbCI6IlUyRnRaVk5wZEdVOVRtOXVaVHNnVTJWamRYSmxPeUJRWVhKMGFYUnBiMjVsWkRzZyJ9LCJ1aWk0Ijp7InR0bCI6MTc4ODkwNjM0NywidmFsIjoiMSJ9fQ=="
+        },
+        {
+          "name": "PXdOjV695v_px_hvd",
+          "value": "88db227cedca16015d438895e0578115"
+        }
+      ]
+    },
+    {
+      "origin": "https://jobs.boeing.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1788906307365"
+        },
+        {
+          "name": "survale_first_visit",
+          "value": "1788906307476"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 03 Oct 2027 22:25:07 GMT"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 09 Sep 2026 22:25:07 GMT"
+        },
+        {
+          "name": "snowplowOutQueue_boeing-185-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://jobs.boeing.com/job/el-segundo/senior-software-engineer/185/98140912832\",\"page\":\"Senior Software Engineer at Boeing\",\"eid\":\"41b51494-b625-47c4-a4dc-771f8c4f898d\",\"tv\":\"js-4.3.1\",\"tna\":\"boeing-185-tracker\",\"aid\":\"boeing-185\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1366x850\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788906307209\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJjNGZlOTFmOS1hOTZlLTQ4NGQtOWUyZS00ZmIwYTA0NTE5YTgifX1dfQ\",\"vp\":\"1366x850\",\"ds\":\"1366x6399\",\"vid\":1,\"sid\":\"cc4f5764-0d20-4400-bb97-06309891aaa3\",\"duid\":\"b62bdcc2-c09e-419b-9da7-95179b856e91\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"talentbrew\",\"se_ac\":\"page-view\",\"se_la\":\"JR2026519490\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"4258987a-9195-43b6-85a2-3f004a936b1a\",\"tv\":\"js-4.3.1\",\"tna\":\"boeing-185-tracker\",\"aid\":\"boeing-185\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1366x850\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788906307210\",\"vp\":\"1366x850\",\"ds\":\"1366x6399\",\"vid\":1,\"sid\":\"cc4f5764-0d20-4400-bb97-06309891aaa3\",\"duid\":\"b62bdcc2-c09e-419b-9da7-95179b856e91\",\"url\":\"https://jobs.boeing.com/job/el-segundo/senior-software-engineer/185/98140912832\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJjNGZlOTFmOS1hOTZlLTQ4NGQtOWUyZS00ZmIwYTA0NTE5YTgifX1dfQ\"},\"svrAnon\":false}]"
+        },
+        {
+          "name": "survale_parsed_job_info",
+          "value": "{\"2809\":\"Senior Software Engineer\",\"2810\":\"El Segundo~California~United States|Los Angeles~California~United States\",\"3947\":\"185,\",\"3948\":\"Security Clearance|Engineering - Software|Engineering\",\"3949\":\"JobDetails\",\"3950\":\"Basic JD\",\"3965\":\"98140912832\",\"3966\":\"JR2026519490\",\"3975\":\"185\"}"
+        },
+        {
+          "name": "_uetvid",
+          "value": "25540d90abd411f1aba5bb56c9352d9a"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"OFKjTb69HlYsvbk4DjjzxsDsAkx5qjAXVw\",\"lastJoinedTimeMs\":1788906306851},\"expires\":1788906606851},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788906306852},\"expires\":1796682306852}}"
+        },
+        {
+          "name": "_uetsid",
+          "value": "2553fae0abd411f1b20f314e61c2083a"
+        }
+      ]
+    }
+  ]
+}

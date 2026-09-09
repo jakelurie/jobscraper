@@ -1,0 +1,138 @@
+{
+  "id": "successfactors__sap__forward-deployed-senior-ai-engineer-f-m-",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "sap",
+    "atsLabel": "SAP (SuccessFactors)",
+    "company": "sap",
+    "board": "sap",
+    "title": "Forward Deployed (Senior) AI Engineer (f/m/d)",
+    "location": "",
+    "jobUrl": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Forward-Deployed-%28Senior%29-AI-Engineer-%28fmd%29-85748/1421692233/",
+    "startUrl": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Forward-Deployed-%28Senior%29-AI-Engineer-%28fmd%29-85748/1421692233/"
+  },
+  "platform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://jobs.sap.com/job/Garching-bei-M%C3%BCnchen-%28Munich%29-Forward-Deployed-%28Senior%29-AI-Engineer-%28fmd%29-85748/1421692233/",
+  "applyTrail": [
+    "clicked: Apply now »",
+    "saved-session:sap__sap.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Forward Deployed (Senior) AI Engineer (f/m/d) Job Details | SAP",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "frequency",
+      "id": "j_idt118",
+      "label": "Select how often (in days) to receive an alert:",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "2",
+      "selector": "#j_idt118",
+      "visible": true,
+      "normLabel": "select how often in days to receive an alert",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-number": 1
+    },
+    "byAction": {
+      "type": 1
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Forward Deployed (Senior) AI Engineer (f/m/d)",
+    "How is your experience with this page?"
+  ],
+  "buttons": [
+    "Apply now »",
+    "Apply now »",
+    "Create Alert"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/sap__forward-deployed-senior-ai-engineer-f-m-.png",
+    "html": "data/html/_unreached/successfactors/sap__forward-deployed-senior-ai-engineer-f-m-.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 3036,
+    "lowestField": 1267.515625,
+    "coversAllFields": true
+  },
+  "ms": 50960,
+  "fingerprint": {
+    "labelSig": "9885c6c5b1ad",
+    "shapeSig": "af04e842a54e",
+    "controlSig": "690f6cb04a54",
+    "controls": {
+      "text-number": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "eef75c84bb99",
+    "typeCounts": {
+      "number": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "successfactors",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

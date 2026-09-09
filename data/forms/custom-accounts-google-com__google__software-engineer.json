@@ -1,0 +1,179 @@
+{
+  "id": "custom-accounts-google-com__google__software-engineer",
+  "group": "custom-accounts-google-com",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "google",
+    "atsLabel": "Google (in-house)",
+    "company": "google",
+    "board": "google",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://www.google.com/about/careers/applications/jobs/results/121538506244661958-senior-software-engineer-core?q=senior%20software%20engineer",
+    "startUrl": "https://www.google.com/about/careers/applications/jobs/results/121538506244661958-senior-software-engineer-core?q=senior%20software%20engineer"
+  },
+  "platform": "custom:accounts.google.com",
+  "platformLabel": "accounts.google.com",
+  "finalUrl": "https://accounts.google.com/signin/v2/usernamerecovery?continue=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fapply%3FjobId%3DCiUAL2FckfoAhMVdn3nNqxwGySnNy9zxYkUeNQ8Dz_ak85FF1T16EjsA1Ny_izgGy9AejlakmFlvYzGDRoe5T-aoHYYg4WrZuY_xV-129_Z8tki3Cq3szicNT1UNPixY2qtClQ%253D%253D_V2%26loc%3DIN%26title%3DSenior%2BSoftware%2BEngineer%26q%3Dsenior%2Bsoftware%2Bengineer&dsh=S-150842116%3A1788892267599213&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fwww.google.com%2Fabout%2Fcareers%2Fapplications%2Fapply%3FjobId%3DCiUAL2FckfoAhMVdn3nNqxwGySnNy9zxYkUeNQ8Dz_ak85FF1T16EjsA1Ny_izgGy9AejlakmFlvYzGDRoe5T-aoHYYg4WrZuY_xV-129_Z8tki3Cq3szicNT1UNPixY2qtClQ%253D%253D_V2%26loc%3DIN%26title%3DSenior%2BSoftware%2BEngineer%26q%3Dsenior%2Bsoftware%2Bengineer",
+  "applyTrail": [
+    "clicked: Apply",
+    "clicked: Forgot email?",
+    "clicked: Next",
+    "saved-session:google__google.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Find your email Enter your phone number or recovery email",
+  "fieldCount": 2,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "identifier",
+      "id": "recoveryIdentifierId",
+      "label": "Phone number or email",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#recoveryIdentifierId",
+      "visible": true,
+      "normLabel": "phone number or email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "‪English (United States)‬",
+      "labelSource": "aria-labelledby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "footer > div > div > div > div:nth-of-type(1)",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "english united states",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 1,
+      "combobox": 1
+    },
+    "byAction": {
+      "type": 1,
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Find your email"
+  ],
+  "buttons": [
+    "Next"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-accounts-google-com/google__software-engineer.png",
+    "html": "data/html/_unreached/custom-accounts-google-com/google__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 7,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 900,
+    "lowestField": 658,
+    "coversAllFields": true
+  },
+  "ms": 105290,
+  "fingerprint": {
+    "labelSig": "c69db66665f6",
+    "shapeSig": "ca4d97f7314a",
+    "controlSig": "095fda976b10",
+    "controls": {
+      "text-email": 1,
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "bb7e41051746",
+    "typeCounts": {
+      "email": 1,
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "email",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:accounts.google.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

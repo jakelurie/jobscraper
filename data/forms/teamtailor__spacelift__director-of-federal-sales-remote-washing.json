@@ -1,0 +1,639 @@
+{
+  "id": "teamtailor__spacelift__director-of-federal-sales-remote-washing",
+  "group": "teamtailor",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "spacelift",
+    "board": "spacelift",
+    "title": "Director of Federal Sales (Remote Washington DC) Remote United States · Fully Remote",
+    "location": "",
+    "jobUrl": "https://careers.spacelift.io/jobs/7764743-director-of-federal-sales-remote-washington-dc",
+    "startUrl": "https://careers.spacelift.io/jobs/7764743-director-of-federal-sales-remote-washington-dc"
+  },
+  "platform": "teamtailor",
+  "detectedPlatform": "custom:careers.spacelift.io",
+  "platformLabel": "careers.spacelift.io (teamtailor)",
+  "finalUrl": "https://careers.spacelift.io/jobs/7764743-director-of-federal-sales-remote-washington-dc",
+  "applyTrail": [
+    "clicked: Apply for this job"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Director of Federal Sales (Remote Washington DC) - Spacelift",
+  "fieldCount": 14,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionSelector": "li.w-full"
+      },
+      "name": "",
+      "id": "trigger-dropdown-00f99e71",
+      "label": "Share page",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-00f99e71",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "share page",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[answers_attributes][0][text]",
+      "id": "candidate_answers_attributes_0_text",
+      "label": "Do you have previous experience managing Partnerships programs for Federal Government customers?* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_answers_attributes_0_text",
+      "visible": true,
+      "normLabel": "do you have previous experience managing partnerships progra",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[answers_attributes][1][boolean]",
+      "label": "Do you have the right to live and work in the US without requiring visa sponsorship? * Required",
+      "labelSource": "legend",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[answers_attributes][1][boolean]\"]",
+      "normLabel": "do you have the right to live and work in the us without req",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[answers_attributes][2][text]",
+      "id": "candidate_answers_attributes_2_text",
+      "label": "Are you based in the DC area? If so please name your location* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_answers_attributes_2_text",
+      "visible": true,
+      "normLabel": "are you based in the dc area if so please name your location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[first_name]",
+      "id": "candidate_first_name",
+      "label": "First name* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "given-name",
+      "maxlength": "50",
+      "selector": "#candidate_first_name",
+      "visible": true,
+      "normLabel": "first name required",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[last_name]",
+      "id": "candidate_last_name",
+      "label": "Last name* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "family-name",
+      "maxlength": "50",
+      "selector": "#candidate_last_name",
+      "visible": true,
+      "normLabel": "last name required",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[email]",
+      "id": "candidate_email",
+      "label": "Email* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#candidate_email",
+      "visible": true,
+      "normLabel": "email required",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "",
+      "label": "Change country, selected United States (+1)",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(6) > div:nth-of-type(2) > div > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 244,
+        "optionsAfterTyping": 5,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Afghanistan +93",
+          "Åland Islands +358",
+          "Albania +355",
+          "Algeria +213",
+          "American Samoa +1",
+          "Andorra +376",
+          "Angola +244",
+          "Anguilla +1"
+        ],
+        "sampleAfterTyping": [
+          "United Arab Emirates +971",
+          "United Kingdom +44",
+          "United States +1",
+          "Réunion +262",
+          "Tunisia +216"
+        ]
+      },
+      "optionCount": 244,
+      "options": [
+        "Afghanistan +93",
+        "Åland Islands +358",
+        "Albania +355",
+        "Algeria +213",
+        "American Samoa +1",
+        "Andorra +376",
+        "Angola +244",
+        "Anguilla +1",
+        "Antigua & Barbuda +1",
+        "Argentina +54",
+        "Armenia +374",
+        "Aruba +297",
+        "Ascension Island +247",
+        "Australia +61",
+        "Austria +43",
+        "Azerbaijan +994",
+        "Bahamas +1",
+        "Bahrain +973",
+        "Bangladesh +880",
+        "Barbados +1",
+        "Belarus +375",
+        "Belgium +32",
+        "Belize +501",
+        "Benin +229",
+        "Bermuda +1",
+        "Bhutan +975",
+        "Bolivia +591",
+        "Bosnia & Herzegovina +387",
+        "Botswana +267",
+        "Brazil +55",
+        "British Indian Ocean Territory +246",
+        "British Virgin Islands +1",
+        "Brunei +673",
+        "Bulgaria +359",
+        "Burkina Faso +226",
+        "Burundi +257",
+        "Cambodia +855",
+        "Cameroon +237",
+        "Canada +1",
+        "Cape Verde +238"
+      ],
+      "normLabel": "change country selected united states +1",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionSelector": "li.w-full"
+      },
+      "name": "candidate[phone]",
+      "id": "candidate_phone",
+      "label": "Phone number with country code",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "tel",
+      "maxlength": "",
+      "selector": "#candidate_phone",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone number with country code",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "candidate_resume_remote_url",
+      "label": "Drop your file or upload, Upload CV",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_resume_remote_url",
+      "visible": false,
+      "accept": ".doc,.docx,.pptx,.pdf,.pages,.txt,.rtf",
+      "multiple": false,
+      "normLabel": "drop your file or upload upload cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "candidate_file_remote_url",
+      "label": "Drop your file or upload, Additional files",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_file_remote_url",
+      "visible": false,
+      "accept": "",
+      "multiple": true,
+      "normLabel": "drop your file or upload additional files",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[job_applications_attributes][0][cover_letter]",
+      "id": "candidate_job_applications_attributes_0_cover_letter",
+      "label": "Cover letter",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_job_applications_attributes_0_cover_letter",
+      "visible": true,
+      "normLabel": "cover letter",
+      "canonical": "cover_letter"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[consent_given]",
+      "label": "Required. By submitting this application, I confirm that I am aware that Spacelift, Inc. will store my personal data to be able to process my job applications according to its Privacy Policy. For any ",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Required. By submitting this application, I confirm that I am aware that Spacelift, Inc. will store my personal data to be able to process my job applications according to its Privacy Policy. For any ",
+      "required": true,
+      "options": [
+        "0",
+        "Required. By submitting this application, I confirm that I am aware that Spacelift, Inc. will store my personal data to be able to process my job applications according to its Privacy Policy. For any "
+      ],
+      "optionValues": [
+        {
+          "label": "0",
+          "value": "0"
+        },
+        {
+          "label": "Required. By submitting this application, I confirm that I am aware that Spacelift, Inc. will store my personal data to be able to process my job applications according to its Privacy Policy. For any ",
+          "value": "1"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[consent_given]\"]",
+      "normLabel": "required by submitting this application i confirm that i am ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[consent_given_future_jobs]",
+      "label": "Yes, I agree that the personal data I have provided to Spacelift Inc. may be used for the purposes of future recruitment processes conducted by Spacelift, Inc. I am aware that I may withdraw this cons",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Yes, I agree that the personal data I have provided to Spacelift Inc. may be used for the purposes of future recruitment processes conducted by Spacelift, Inc. I am aware that I may withdraw this cons",
+      "required": false,
+      "options": [
+        "0",
+        "Yes, I agree that the personal data I have provided to Spacelift Inc. may be used for the purposes of future recruitment processes conducted by Spacelift, Inc. I am aware that I may withdraw this cons"
+      ],
+      "optionValues": [
+        {
+          "label": "0",
+          "value": "0"
+        },
+        {
+          "label": "Yes, I agree that the personal data I have provided to Spacelift Inc. may be used for the purposes of future recruitment processes conducted by Spacelift, Inc. I am aware that I may withdraw this cons",
+          "value": "1"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[consent_given_future_jobs]\"]",
+      "normLabel": "yes i agree that the personal data i have provided to spacel",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 2,
+      "textarea": 3,
+      "radio-group": 1,
+      "text": 2,
+      "text-email": 1,
+      "phone-intl": 1,
+      "file-upload": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 7,
+      "choose-one": 1,
+      "click-type-pick": 1,
+      "type-then-pick-country": 1,
+      "upload": 2,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "none-observed": 1,
+      "dom-static": 3,
+      "dom-on-open": 1,
+      "country-picker-unprobed": 1
+    }
+  },
+  "widgetsProbed": 3,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Director of Federal Sales (Remote Washington DC)",
+    "Colleagues",
+    "Job Openings",
+    "About Spacelift",
+    "Director of Federal Sales (Remote Washington DC)",
+    "Do you have the right to live and work in the US without requiring visa sponsorship? * Required",
+    "Personal information",
+    "Career site",
+    "Departments",
+    "Already working at Spacelift?"
+  ],
+  "buttons": [
+    "Career menu",
+    "Share page",
+    "Apply for this job",
+    "Apply for this job",
+    "Submit application",
+    "Close modal",
+    "Manage cookies",
+    "Log in"
+  ],
+  "resumeUpload": [
+    "Remote United States · Fully Remote Director of Federal Sales (Remote Washington DC) Do you have previous experience managing Partnerships programs for Federal Government customers?*Required Did you m",
+    "Do you have previous experience managing Partnerships programs for Federal Government customers?*Required Did you mean Do you have the right to live and work in the US without requiring visa sponsorsh",
+    "Do you have previous experience managing Partnerships programs for Federal Government customers?*Required Did you mean Do you have the right to live and work in the US without requiring visa sponsorsh",
+    "Upload CV*Required Drop your file or upload Click to upload Drop to upload Upload more",
+    "Upload CV*Required Drop your file or upload Click to upload Drop to upload Upload more"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/teamtailor/spacelift__director-of-federal-sales-remote-washing.png",
+    "html": "data/html/teamtailor/spacelift__director-of-federal-sales-remote-washing.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 6,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 2,
+    "docHeight": 11062,
+    "lowestField": 9902.828125,
+    "coversAllFields": true
+  },
+  "ms": 45430,
+  "fingerprint": {
+    "labelSig": "163e1b9f2e13",
+    "shapeSig": "a775053162d7",
+    "controlSig": "1e3d8fb3f246",
+    "controls": {
+      "combobox": 2,
+      "textarea": 3,
+      "radio-group": 1,
+      "text": 2,
+      "text-email": 1,
+      "phone-intl": 1,
+      "file-upload": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "7f5355c2e719",
+    "typeCounts": {
+      "button-dropdown": 2,
+      "textarea": 3,
+      "radio": 1,
+      "text": 2,
+      "email": 1,
+      "tel": 1,
+      "file": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "cover_letter",
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "phone",
+      "resume"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 5,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

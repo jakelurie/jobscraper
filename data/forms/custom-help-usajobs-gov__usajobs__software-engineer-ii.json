@@ -1,0 +1,284 @@
+{
+  "id": "custom-help-usajobs-gov__usajobs__software-engineer-ii",
+  "group": "custom-help-usajobs-gov",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "nasa",
+    "atsLabel": "USAJOBS (federal)",
+    "company": "usajobs",
+    "board": "nasa",
+    "title": "Software Engineer II",
+    "location": "",
+    "jobUrl": "https://www.usajobs.gov/job/882002700",
+    "startUrl": "https://www.usajobs.gov/job/882002700"
+  },
+  "platform": "custom:help.usajobs.gov",
+  "platformLabel": "help.usajobs.gov",
+  "finalUrl": "https://help.usajobs.gov/Help/ContactUs?selectedContactReason=/how-to/job-announcement/how-to-apply%20How%20to%20apply",
+  "applyTrail": [
+    "clicked: How to apply",
+    "clicked: Help (new tab)",
+    "clicked: Contact us"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "USAJOBS - Contact us",
+  "fieldCount": 6,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "FirstName",
+      "id": "FirstName",
+      "label": "First name *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "20",
+      "selector": "#FirstName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "LastName",
+      "id": "LastName",
+      "label": "Last name *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "30",
+      "selector": "#LastName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "EmailAddress",
+      "id": "EmailAddress",
+      "label": "Primary email address *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "128",
+      "selector": "#EmailAddress",
+      "visible": true,
+      "normLabel": "primary email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "text-tel",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "PhoneNumber",
+      "id": "PhoneNumber",
+      "label": "Telephone number (optional)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#PhoneNumber",
+      "visible": true,
+      "normLabel": "telephone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Comment",
+      "id": "Comment",
+      "label": "Question / Comment * Please do not include your Social Security Number.",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "2000",
+      "selector": "#Comment",
+      "visible": true,
+      "normLabel": "question / comment please do not include your social securit",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "altcha-checkbox-altcha",
+      "label": "I'm not a robot",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#altcha-checkbox-altcha",
+      "visible": true,
+      "normLabel": "i m not a robot",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 2,
+      "text-email": 1,
+      "text-tel": 1,
+      "textarea": 1,
+      "checkbox": 1
+    },
+    "byAction": {
+      "type": 5,
+      "check": 1
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Contact us",
+    "Enter your contact information and question / comment.",
+    "Captcha"
+  ],
+  "buttons": [
+    "An official website of the United States government",
+    "Send",
+    "Return to top"
+  ],
+  "resumeUpload": [
+    "An official website of the United States government Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock",
+    "MENU Sign in My jobs Profile Resumes & documents Notifications Talent networks Sign out My jobs Profile Resumes & documents Notifications Talent networks Sign out Events Help Center Search",
+    "Sign in My jobs Profile Resumes & documents Notifications Talent networks Sign out My jobs Profile Resumes & documents Notifications Talent networks Sign out Events Help Center Search",
+    "Resumes & documents",
+    "Resumes & documents"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-help-usajobs-gov/usajobs__software-engineer-ii.png",
+    "html": "data/html/_unreached/custom-help-usajobs-gov/usajobs__software-engineer-ii.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1473,
+    "lowestField": 1107.328125,
+    "coversAllFields": true
+  },
+  "ms": 83705,
+  "fingerprint": {
+    "labelSig": "f53ba360dc24",
+    "shapeSig": "a86758e25b08",
+    "controlSig": "6ea79ea9fe2e",
+    "controls": {
+      "text": 2,
+      "text-email": 1,
+      "text-tel": 1,
+      "textarea": 1,
+      "checkbox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "0e3dfedbc4b0",
+    "typeCounts": {
+      "text": 2,
+      "email": 1,
+      "tel": 1,
+      "textarea": 1,
+      "checkbox": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "phone"
+    ],
+    "requiredCount": 5,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:help.usajobs.gov",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

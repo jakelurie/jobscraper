@@ -1,0 +1,1393 @@
+{
+  "id": "lever__shieldai__principal-engineer-fluid-thermal-systems",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "shieldai",
+    "board": "shieldai",
+    "title": "Principal Engineer, Fluid & Thermal Systems (R4793)",
+    "location": "Seattle, Washington",
+    "jobUrl": "https://jobs.lever.co/shieldai/3dddb78e-4ade-48e3-95d3-84a160dc421d",
+    "startUrl": "https://jobs.lever.co/shieldai/3dddb78e-4ade-48e3-95d3-84a160dc421d/apply"
+  },
+  "platform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/shieldai/3dddb78e-4ade-48e3-95d3-84a160dc421d/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Shield AI - Principal Engineer, Fluid & Thermal Systems (R4793)",
+  "fieldCount": 36,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "opportunityLocationId",
+      "id": "",
+      "label": "Which location are you applying for?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"opportunityLocationId\"]",
+      "visible": true,
+      "options": [
+        "Select...",
+        "Seattle, Washington",
+        "Dallas, Texas"
+      ],
+      "optionValues": [
+        {
+          "label": "Select...",
+          "value": ""
+        },
+        {
+          "label": "Seattle, Washington",
+          "value": "c7e31208-88e7-4eff-b054-cc3b989f739e"
+        },
+        {
+          "label": "Dallas, Texas",
+          "value": "58494029-2a2d-433e-b0c0-e3dfaee904ed"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "which location are you applying for",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Twitter]",
+      "id": "",
+      "label": "Twitter URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Twitter]\"]",
+      "visible": true,
+      "normLabel": "twitter url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Other]",
+      "id": "",
+      "label": "Other website",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Other]\"]",
+      "visible": true,
+      "normLabel": "other website",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[115d9079-dcfa-4a25-aff3-f213bf88362e][field0]",
+      "label": "Are you authorized to work in the United States? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[115d9079-dcfa-4a25-aff3-f213bf88362e][field0]\"]",
+      "normLabel": "are you authorized to work in the united states",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[115d9079-dcfa-4a25-aff3-f213bf88362e][field1]",
+      "label": "Will you require sponsorship for employment now or in the future? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[115d9079-dcfa-4a25-aff3-f213bf88362e][field1]\"]",
+      "normLabel": "will you require sponsorship for employment now or in the fu",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[115d9079-dcfa-4a25-aff3-f213bf88362e][field2]",
+      "id": "",
+      "label": "If yes, what type of sponsorship?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[115d9079-dcfa-4a25-aff3-f213bf88362e][field2]\"]",
+      "visible": true,
+      "normLabel": "if yes what type of sponsorship",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[7e99ef70-58ab-4a59-bc31-cc1c35935935][field0]",
+      "label": "This position may require access to information and technology that is subject to export controls, such as EAR. Are you any of the following? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "A United States Citizen",
+      "required": true,
+      "options": [
+        "A United States Citizen",
+        "A lawful permanent resident of the United States (i.e. Greencard holder)",
+        "A protected individual",
+        "Other"
+      ],
+      "optionValues": [
+        {
+          "label": "A United States Citizen",
+          "value": "A United States Citizen"
+        },
+        {
+          "label": "A lawful permanent resident of the United States (i.e. Greencard holder)",
+          "value": "A lawful permanent resident of the United States (i.e. Greencard holder)"
+        },
+        {
+          "label": "A protected individual",
+          "value": "A protected individual"
+        },
+        {
+          "label": "Other",
+          "value": "Other"
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"cards[7e99ef70-58ab-4a59-bc31-cc1c35935935][field0]\"]",
+      "normLabel": "this position may require access to information and technolo",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[7e99ef70-58ab-4a59-bc31-cc1c35935935][field1]",
+      "id": "",
+      "label": "If you selected \"A protected Individual\" OR \"Other\" to the above question, please explain further.",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[7e99ef70-58ab-4a59-bc31-cc1c35935935][field1]\"]",
+      "visible": true,
+      "normLabel": "if you selected a protected individual or other to the above",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[5f2a739c-bb0e-4283-92c6-1dc8c09b459c][field0]",
+      "label": "Shield AI provides technology, services, and support to the United States military and allied forces with their various missions. If selected for employment with Shield AI, your contributions will dir",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No",
+        "Other"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "Other",
+          "value": "Other"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"cards[5f2a739c-bb0e-4283-92c6-1dc8c09b459c][field0]\"]",
+      "normLabel": "shield ai provides technology services and support to the un",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[5f2a739c-bb0e-4283-92c6-1dc8c09b459c][field1]",
+      "id": "",
+      "label": "(Optional) If you selected other or would like to expand on the above, feel free to do so below:",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[5f2a739c-bb0e-4283-92c6-1dc8c09b459c][field1]\"]",
+      "visible": true,
+      "normLabel": "if you selected other or would like to expand on the above f",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[a90569ad-6b52-448e-9792-055f7c122285][field0]",
+      "label": "How did you hear about us? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Campus visit",
+      "required": true,
+      "options": [
+        "Campus visit",
+        "LinkedIn Post",
+        "LinkedIn Sponsored Job/Ad",
+        "Industry Conference",
+        "Twitter/X",
+        "Instagram",
+        "Referral",
+        "Handshake",
+        "Other"
+      ],
+      "optionValues": [
+        {
+          "label": "Campus visit",
+          "value": "Campus visit"
+        },
+        {
+          "label": "LinkedIn Post",
+          "value": "LinkedIn Post"
+        },
+        {
+          "label": "LinkedIn Sponsored Job/Ad",
+          "value": "LinkedIn Sponsored Job/Ad"
+        },
+        {
+          "label": "Industry Conference",
+          "value": "Industry Conference"
+        },
+        {
+          "label": "Twitter/X",
+          "value": "Twitter/X"
+        },
+        {
+          "label": "Instagram",
+          "value": "Instagram"
+        },
+        {
+          "label": "Referral",
+          "value": "Referral"
+        },
+        {
+          "label": "Handshake",
+          "value": "Handshake"
+        },
+        {
+          "label": "Other",
+          "value": "Other"
+        }
+      ],
+      "optionCount": 9,
+      "selector": "input[name=\"cards[a90569ad-6b52-448e-9792-055f7c122285][field0]\"]",
+      "normLabel": "how did you hear about us",
+      "canonical": "referral"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[a90569ad-6b52-448e-9792-055f7c122285][field1]",
+      "id": "",
+      "label": "If \"Industry Conference\" or \"Other,\" please provide more details:",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[a90569ad-6b52-448e-9792-055f7c122285][field1]\"]",
+      "visible": true,
+      "normLabel": "if industry conference or other please provide more details",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[eb3750bb-e1f0-473c-a54d-012919c5e349][field0]",
+      "id": "",
+      "label": "Please state your full legal name: ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[eb3750bb-e1f0-473c-a54d-012919c5e349][field0]\"]",
+      "visible": true,
+      "normLabel": "please state your full legal name",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field0]",
+      "label": "Are you a transitioning service member? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "No",
+      "required": true,
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "optionValues": [
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field0]\"]",
+      "normLabel": "are you a transitioning service member",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field1]",
+      "label": "If yes, what partnership program are you working with?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Hiring our Heroes",
+      "required": false,
+      "options": [
+        "Hiring our Heroes",
+        "NextOp",
+        "Skillbridge general (no program)"
+      ],
+      "optionValues": [
+        {
+          "label": "Hiring our Heroes",
+          "value": "Hiring our Heroes"
+        },
+        {
+          "label": "NextOp",
+          "value": "NextOp"
+        },
+        {
+          "label": "Skillbridge general (no program)",
+          "value": "Skillbridge general (no program)"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field1]\"]",
+      "normLabel": "if yes what partnership program are you working with",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field2]",
+      "id": "",
+      "label": "If other, please provide further details",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field2]\"]",
+      "visible": true,
+      "normLabel": "if other please provide further details",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field3]",
+      "id": "",
+      "label": "When are you available to start your fellowship?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field3]\"]",
+      "visible": true,
+      "normLabel": "when are you available to start your fellowship",
+      "canonical": "start_date"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field4]",
+      "id": "",
+      "label": "When are you available for full time work?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field4]\"]",
+      "visible": true,
+      "normLabel": "when are you available for full time work",
+      "canonical": "start_date"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field5]",
+      "id": "",
+      "label": "What full time job(s) are you applying for? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[07fdf1f1-9952-493d-a9b7-320969a56fed][field5]\"]",
+      "visible": true,
+      "normLabel": "what full time job s are you applying for",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f27077c2-d069-4885-b031-ee14b393fd41][field0]",
+      "id": "",
+      "label": "Are you local to or willing to relocate? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"cards[f27077c2-d069-4885-b031-ee14b393fd41][field0]\"]",
+      "visible": true,
+      "options": [
+        "Please select an option",
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Please select an option",
+          "value": ""
+        },
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "are you local to or willing to relocate",
+      "canonical": "relocation"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f27077c2-d069-4885-b031-ee14b393fd41][field1]",
+      "label": "What office(s) would you be willing to relocate to? (Select all that apply)",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "San Diego, California",
+      "required": false,
+      "options": [
+        "San Diego, California",
+        "Dallas, Texas",
+        "Washington, DC",
+        "Boston, MA",
+        "International",
+        "San Francisco, California"
+      ],
+      "optionValues": [
+        {
+          "label": "San Diego, California",
+          "value": "San Diego, California"
+        },
+        {
+          "label": "Dallas, Texas",
+          "value": "Dallas, Texas"
+        },
+        {
+          "label": "Washington, DC",
+          "value": "Washington, DC"
+        },
+        {
+          "label": "Boston, MA",
+          "value": "Boston, MA"
+        },
+        {
+          "label": "International",
+          "value": "International"
+        },
+        {
+          "label": "San Francisco, California",
+          "value": "San Francisco, California"
+        }
+      ],
+      "optionCount": 6,
+      "selector": "input[name=\"cards[f27077c2-d069-4885-b031-ee14b393fd41][field1]\"]",
+      "normLabel": "what office s would you be willing to relocate to select all",
+      "canonical": "relocation"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f27077c2-d069-4885-b031-ee14b393fd41][field2]",
+      "id": "",
+      "label": "If you selected international, what location(s)?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[f27077c2-d069-4885-b031-ee14b393fd41][field2]\"]",
+      "visible": true,
+      "normLabel": "if you selected international what location s",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[657522f5-cc60-482f-939e-1ce0f87d019a][field0]",
+      "label": "Do you have, or are you able to obtain, a S/SAR clearance?",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No",
+        "Unsure"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "Unsure",
+          "value": "Unsure"
+        }
+      ],
+      "optionCount": 3,
+      "selector": "input[name=\"cards[657522f5-cc60-482f-939e-1ce0f87d019a][field0]\"]",
+      "normLabel": "do you have or are you able to obtain a s/sar clearance",
+      "canonical": "security_clearance"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[gender]",
+      "id": "",
+      "label": "Gender Select ... Male Female Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[gender]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Male",
+        "Female",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "gender select male female decline to self identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[race]",
+      "label": "Race",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+      "required": false,
+      "options": [
+        "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+        "White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+        "Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.",
+        "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+        "Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan",
+        "American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affilia",
+        "Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Race Hispanic or Latino A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. White (Not Hispanic or Latino) A person having origi",
+          "value": "Hispanic or Latino"
+        },
+        {
+          "label": "White (Not Hispanic or Latino) A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.",
+          "value": "White (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Black or African American (Not Hispanic or Latino) A person having origins in any of the black racial groups of Africa.",
+          "value": "Black or African American (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+          "value": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Asian (Not Hispanic or Latino) A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan",
+          "value": "Asian (Not Hispanic or Latino)"
+        },
+        {
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino) A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affilia",
+          "value": "American Indian or Alaska Native (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Two or More Races (Not Hispanic or Latino) All persons who identify with more than one of the above five races.",
+          "value": "Two or More Races (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 8,
+      "selector": "input[name=\"eeo[race]\"]",
+      "normLabel": "race",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I identify as one or more of the classifications of protected veteran listed above I am not a protected veteran I decline to self-identify for protected veteran status",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I identify as one or more of the classifications of protected veteran listed above",
+        "I am not a protected veteran",
+        "I decline to self-identify for protected veteran status"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I identify as one or more of the classifications of protected veteran listed above",
+          "value": "I am a Protected Veteran"
+        },
+        {
+          "label": "I am not a protected veteran",
+          "value": "I am not a Protected Veteran"
+        },
+        {
+          "label": "I decline to self-identify for protected veteran status",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i identify as one or more of the class",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[disability]",
+      "id": "disabilitySelectElement",
+      "label": "Disability status Select ... Yes, I have a disability, or have had one in the past No, I do not have a disability and have not had one in the past I do not want to answer",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#disabilitySelectElement",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Yes, I have a disability, or have had one in the past",
+        "No, I do not have a disability and have not had one in the past",
+        "I do not want to answer"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Yes, I have a disability, or have had one in the past",
+          "value": "Yes, I have a disability, or have had one in the past"
+        },
+        {
+          "label": "No, I do not have a disability and have not had one in the past",
+          "value": "No, I do not have a disability and have not had one in the past"
+        },
+        {
+          "label": "I do not want to answer",
+          "value": "I do not want to answer "
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "disability status select yes i have a disability or have had",
+      "canonical": "disability_status"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "native-select": 5,
+      "file-upload": 1,
+      "text": 10,
+      "text-email": 1,
+      "radio-group": 9,
+      "textarea": 9,
+      "checkbox-group": 1
+    },
+    "byAction": {
+      "select-option": 5,
+      "upload": 1,
+      "type": 20,
+      "choose-one": 9,
+      "check-many": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 15
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Principal Engineer, Fluid & Thermal Systems (R4793)",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "COMPLIANCE WITH WORK AUTHORIZATION",
+    "EXPORT CONTROL REQUIREMENTS",
+    "MISSION",
+    "HOW DID YOU HEAR ABOUT US?",
+    "FULL LEGAL NAME",
+    "FELLOWSHIP QUESTION/TRANSITIONING SERVICE MEMBER",
+    "WORK LOCATION AVAILABILITY",
+    "X-BAT - S/SAR CLEARANCE ELIGIBILITY",
+    "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION (Completion is voluntary and will not subject you to adverse treatment)",
+    "SELF-IDENTIFICATION OF VETERAN STATUS (Completion is voluntary and will not subject you to adverse treatment)",
+    "VOLUNTARY SELF-IDENTIFICATION OF DISABILITY"
+  ],
+  "buttons": [
+    "Apply with LinkedIn",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Principal Engineer, Fluid & Thermal Systems (R4793)Seattle, Washington / Dallas, TexasX-BAT Division – X-BAT Engineering - Mechanical /Full Time Employee /On-siteSubmit your applicationWhich location ",
+    "Principal Engineer, Fluid & Thermal Systems (R4793)Seattle, Washington / Dallas, TexasX-BAT Division – X-BAT Engineering - Mechanical /Full Time Employee /On-siteSubmit your applicationWhich location ",
+    "Submit your applicationWhich location are you applying for?Select...Seattle, WashingtonDallas, TexasLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn prof",
+    "Submit your applicationWhich location are you applying for?Select...Seattle, WashingtonDallas, TexasLinkedIn profileLoading...Apply with LinkedInProfile addedAuthorize sharing of selectedLinkedIn prof",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": true,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/shieldai__principal-engineer-fluid-thermal-systems.png",
+    "html": "data/html/lever/shieldai__principal-engineer-fluid-thermal-systems.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 11245,
+    "lowestField": 10109.234375,
+    "coversAllFields": true
+  },
+  "ms": 10153,
+  "fingerprint": {
+    "labelSig": "7c6b1f4ebd01",
+    "shapeSig": "e06e01608f78",
+    "controlSig": "5213d3ac1266",
+    "controls": {
+      "native-select": 5,
+      "file-upload": 1,
+      "text": 10,
+      "text-email": 1,
+      "radio-group": 9,
+      "textarea": 9,
+      "checkbox-group": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "f9466dffde96",
+    "typeCounts": {
+      "select": 5,
+      "file": 1,
+      "text": 10,
+      "email": 1,
+      "radio": 9,
+      "textarea": 9,
+      "checkbox": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "disability_status",
+      "email",
+      "employer",
+      "full_name",
+      "gender",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "race_ethnicity",
+      "referral",
+      "relocation",
+      "resume",
+      "security_clearance",
+      "start_date",
+      "veteran_status",
+      "visa_sponsorship"
+    ],
+    "requiredCount": 11,
+    "customQuestionCount": 9,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "lever",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,185 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "w2~E44185F9510C58D321FA5606CF28F4DE",
+      "domain": "careers.jetblue.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&5baa7289-fa11-475d-8392-712917e088e9\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820437144.629459,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908205904452bb2e2-c770-4d95-8bce-10566475c5ccAQGrPEdWeYn6wC3mi_Q33bfOUqfy2zsv\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820437144.629482,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3763:u=1:x=1:i=1788901144:t=1788987544:v=2:sig=AQGfn4no8LSuV-Ey_PRJ8H57FIVOl8xK\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788987544.144906,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "qn9XcJ0dy9FbXX6poVA8rdUkyse.hcgevjcdHoMuotc-1788901144.0845966-1.0.1.1-in_tn3LJ272qfV0dkuJbUO4Q8OdtBVsxpMlVHPPnbNKNHGLVBRxlE.OeI4ACA6uHbF86AEC70YPg4dyr1shmPhBWzSeyrolKIN7O5PSJ6I2aoqnvynPfPfO3yPrxO9PI",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788902944.144919,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:1669424797060994242",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rmk12",
+      "value": "1",
+      "domain": "careers.jetblue.com",
+      "path": "/",
+      "expires": 1823461153.119294,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w1~A0F174CB736654755B23449017259FA6",
+      "domain": "jobs.l3harris.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "route",
+      "value": "9faedc20c7e35ffea1d3ccfc9c2c483b|8b9d6a7da49c46b0f8b875e5553002b7",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "23B70EC53DE939C40818AA6D1BA8817D.bizx-car-6989998c59-pzppj",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "L3HHCM20",
+      "domain": "career-hcm20.ns2cloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w6~8BA6477261843544011EC396F61E8A4E",
+      "domain": "careers.paramount.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "C0DF6AFFE0C3118CD8E624BA8CEC9009.pc41bcar104",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "viacomcbsi",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "route",
+      "value": "af875450a51ed8f2e04b4bd6fec2e0186b4f6c5d",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w5~755D4553D63F548D1A4791F23E458B5F",
+      "domain": "jobs.eastman.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rmk12",
+      "value": "1",
+      "domain": "jobs.eastman.com",
+      "path": "/",
+      "expires": 1823461551.317359,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

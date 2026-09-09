@@ -1,0 +1,156 @@
+{
+  "id": "teamtailor__humana__ohjaaja-sairaanhoitaja-nuorisokoti-satam",
+  "group": "teamtailor",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "humana",
+    "board": "humana",
+    "title": "Ohjaaja (sairaanhoitaja) Nuorisokoti Satama",
+    "location": "",
+    "jobUrl": "https://ura.humana.fi/jobs/8281155-ohjaaja-sairaanhoitaja-nuorisokoti-satama",
+    "startUrl": "https://ura.humana.fi/jobs/8281155-ohjaaja-sairaanhoitaja-nuorisokoti-satama"
+  },
+  "platform": "teamtailor",
+  "detectedPlatform": "custom:ura.humana.fi",
+  "platformLabel": "ura.humana.fi (teamtailor)",
+  "finalUrl": "https://ura.humana.fi/jobs/8281155-ohjaaja-sairaanhoitaja-nuorisokoti-satama",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Ohjaaja (sairaanhoitaja) Nuorisokoti Satama - Humana",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-603e8341",
+      "label": "Jaa sivu",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-603e8341",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "jaa sivu",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1
+    },
+    "byAction": {
+      "click-pick": 1
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Tämä sivusto käyttää evästeitä varmistaakseen, että saat parhaan kokemuksen.",
+    "Ohjaaja (sairaanhoitaja) Nuorisokoti Satama",
+    "Haluaisitko olla mukana toteuttamassa turvallista ja laadukasta lastensuojelutyötä osaavien ammattilaisten kanssa? Haluaisitko työn, jossa pääset hyödyntämään omia vahvuuksiasi? Hae meille ohjaajaksi!",
+    "Etsimme sairaanhoitajaa ohjaajaaksi Nuorisokoti Satamaan!",
+    "Helsinki, Nuorisokoti Satama",
+    "Miksi Humana?",
+    "Humana yrityksenä",
+    "Ohjaaja (sairaanhoitaja) Nuorisokoti Satama",
+    "Haluaisitko olla mukana toteuttamassa turvallista ja laadukasta lastensuojelutyötä osaavien ammattilaisten kanssa? Haluaisitko työn, jossa pääset hyödyntämään omia vahvuuksiasi? Hae meille ohjaajaksi!",
+    "Urasivusto",
+    "Uramahdollisuudet",
+    "Työskenteletkö jo yrityksessä Humana?"
+  ],
+  "buttons": [
+    "Hyväksy kaikki evästeet",
+    "Kieltäydy kaikista ei-välttämättömistä evästeistä",
+    "Evästeasetukset",
+    "URAVALIKKO",
+    "Jaa sivu",
+    "Hae helposti",
+    "Go to slide 1",
+    "Go to slide 2",
+    "Go to slide 3",
+    "Go to slide 4",
+    "Go to slide 5",
+    "Go to slide 6",
+    "Hae helposti",
+    "Hallitse evästeitä",
+    "Kirjaudu sisään"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/teamtailor/humana__ohjaaja-sairaanhoitaja-nuorisokoti-satam.png",
+    "html": "data/html/_unreached/teamtailor/humana__ohjaaja-sairaanhoitaja-nuorisokoti-satam.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 1,
+    "docHeight": 8967,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 4472,
+  "fingerprint": {
+    "labelSig": "b00db9c105d0",
+    "shapeSig": "1d94131616a3",
+    "controlSig": "edf5c3c0cf93",
+    "controls": {
+      "combobox": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "7bb6c32bc5b5",
+    "typeCounts": {
+      "button-dropdown": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

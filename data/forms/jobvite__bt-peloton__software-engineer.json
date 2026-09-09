@@ -1,0 +1,96 @@
+{
+  "id": "jobvite__bt-peloton__software-engineer",
+  "group": "jobvite",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "jobvite",
+    "atsLabel": "jobvite",
+    "company": "bt-peloton",
+    "board": "peloton",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.jobvite.com/peloton/search",
+    "startUrl": "https://jobs.jobvite.com/peloton/search"
+  },
+  "platform": "jobvite",
+  "platformLabel": "Jobvite",
+  "finalUrl": "https://jobs.jobvite.com/peloton/search",
+  "applyTrail": [
+    "saved-session:jobvite__peloton.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Peloton Group Careers",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Peloton Group Careers"
+  ],
+  "buttons": [],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/jobvite/bt-peloton__software-engineer.png",
+    "html": "data/html/_unreached/jobvite/bt-peloton__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 982,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 26242,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "1e1488ec816e",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "jobvite",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

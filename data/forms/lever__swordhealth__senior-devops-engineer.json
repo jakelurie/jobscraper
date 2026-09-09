@@ -1,0 +1,1238 @@
+{
+  "id": "lever__swordhealth__senior-devops-engineer",
+  "group": "lever",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "lever",
+    "atsLabel": "Lever",
+    "company": "swordhealth",
+    "board": "swordhealth",
+    "title": "Senior DevOps Engineer",
+    "location": "United States",
+    "jobUrl": "https://jobs.lever.co/swordhealth/1dcd9aa9-3432-4664-8ca6-ab8b9655b2a3",
+    "startUrl": "https://jobs.lever.co/swordhealth/1dcd9aa9-3432-4664-8ca6-ab8b9655b2a3/apply"
+  },
+  "platform": "lever",
+  "detectedPlatform": "lever",
+  "platformLabel": "Lever",
+  "finalUrl": "https://jobs.lever.co/swordhealth/1dcd9aa9-3432-4664-8ca6-ab8b9655b2a3/apply",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Sword Health - Senior DevOps Engineer",
+  "fieldCount": 27,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "resume",
+      "id": "resume-upload-input",
+      "label": "Resume/CV ✱ ATTACH RESUME/CV",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#resume-upload-input",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "resume/cv attach resume/cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "",
+      "label": "Full name ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"name\"]",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "pronouns",
+      "label": "Custom",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "He/him",
+      "required": false,
+      "options": [
+        "He/him",
+        "She/her",
+        "They/them",
+        "Xe/xem",
+        "Ze/hir",
+        "Ey/em",
+        "Hir/hir",
+        "Fae/faer",
+        "Hu/hu",
+        "Use name only"
+      ],
+      "optionValues": [
+        {
+          "label": "He/him",
+          "value": "He/him"
+        },
+        {
+          "label": "She/her",
+          "value": "She/her"
+        },
+        {
+          "label": "They/them",
+          "value": "They/them"
+        },
+        {
+          "label": "Xe/xem",
+          "value": "Xe/xem"
+        },
+        {
+          "label": "Ze/hir",
+          "value": "Ze/hir"
+        },
+        {
+          "label": "Ey/em",
+          "value": "Ey/em"
+        },
+        {
+          "label": "Hir/hir",
+          "value": "Hir/hir"
+        },
+        {
+          "label": "Fae/faer",
+          "value": "Fae/faer"
+        },
+        {
+          "label": "Hu/hu",
+          "value": "Hu/hu"
+        },
+        {
+          "label": "Use name only",
+          "value": "Use name only"
+        }
+      ],
+      "optionCount": 11,
+      "selector": "input[name=\"pronouns\"]",
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "checkbox",
+      "control": "checkbox",
+      "fill": {
+        "action": "check",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "customPronounsOption",
+      "label": "Custom",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#customPronounsOption",
+      "visible": true,
+      "normLabel": "custom",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "",
+      "label": "Email ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "phone",
+      "id": "",
+      "label": "Phone ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"phone\"]",
+      "visible": true,
+      "normLabel": "phone",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "location",
+      "id": "location-input",
+      "label": "Current location ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "100",
+      "selector": "#location-input",
+      "visible": true,
+      "normLabel": "current location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "org",
+      "id": "",
+      "label": "Current company",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"org\"]",
+      "visible": true,
+      "normLabel": "current company",
+      "canonical": "employer"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[LinkedIn]",
+      "id": "",
+      "label": "LinkedIn URL ✱",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[LinkedIn]\"]",
+      "visible": true,
+      "normLabel": "linkedin url",
+      "canonical": "linkedin"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Twitter]",
+      "id": "",
+      "label": "Twitter URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Twitter]\"]",
+      "visible": true,
+      "normLabel": "twitter url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[GitHub]",
+      "id": "",
+      "label": "GitHub URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[GitHub]\"]",
+      "visible": true,
+      "normLabel": "github url",
+      "canonical": "github"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "urls[Portfolio]",
+      "id": "",
+      "label": "Portfolio URL",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"urls[Portfolio]\"]",
+      "visible": true,
+      "normLabel": "portfolio url",
+      "canonical": "portfolio"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[912de6a8-e28d-4b8e-82a0-ee016d834205][field0]",
+      "label": "Will you now or in the future require sponsorship to continue working in the United States? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[912de6a8-e28d-4b8e-82a0-ee016d834205][field0]\"]",
+      "normLabel": "will you now or in the future require sponsorship to continu",
+      "canonical": "visa_sponsorship"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[4e5a9a11-bbd2-4ec1-9e39-f2d462fbfbd8][field0]",
+      "id": "",
+      "label": "What is your expected total annual compensation (gross), in US Dollars ($)? (e.g. $45,000) ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Type your response",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"cards[4e5a9a11-bbd2-4ec1-9e39-f2d462fbfbd8][field0]\"]",
+      "visible": true,
+      "normLabel": "what is your expected total annual compensation gross in us ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f14b1554-d643-4037-b9c7-33caf4ac6020][field0]",
+      "label": "English is our primary language for written and verbal communication. How would you describe your English proficiency? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Fluent/Native - Full proficiency in all contexts",
+      "required": true,
+      "options": [
+        "Fluent/Native - Full proficiency in all contexts",
+        "Advanced - Confident in most professional and social situations",
+        "Intermediate - Manages routine, everyday interactions",
+        "Basic - Understands and uses simple, familiar expressions"
+      ],
+      "optionValues": [
+        {
+          "label": "Fluent/Native - Full proficiency in all contexts",
+          "value": "Fluent/Native - Full proficiency in all contexts"
+        },
+        {
+          "label": "Advanced - Confident in most professional and social situations",
+          "value": "Advanced - Confident in most professional and social situations"
+        },
+        {
+          "label": "Intermediate - Manages routine, everyday interactions",
+          "value": "Intermediate - Manages routine, everyday interactions"
+        },
+        {
+          "label": "Basic - Understands and uses simple, familiar expressions",
+          "value": "Basic - Understands and uses simple, familiar expressions"
+        }
+      ],
+      "optionCount": 4,
+      "selector": "input[name=\"cards[f14b1554-d643-4037-b9c7-33caf4ac6020][field0]\"]",
+      "normLabel": "english is our primary language for written and verbal commu",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[f45b7110-9c59-4194-9927-4e7860325613][field0]",
+      "id": "",
+      "label": "What is your desired salary range? Please consider the gross salary, the currency and whether monthly or yearly expectation. ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[f45b7110-9c59-4194-9927-4e7860325613][field0]\"]",
+      "visible": true,
+      "normLabel": "what is your desired salary range please consider the gross ",
+      "canonical": "salary"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[5bf0e263-4a4f-43c9-9ab3-1b26caeba21b][field0]",
+      "label": "Do you hold U.S. citizenship? ✱",
+      "labelSource": "group-prev-sibling",
+      "firstOptionLabel": "Yes",
+      "required": true,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"cards[5bf0e263-4a4f-43c9-9ab3-1b26caeba21b][field0]\"]",
+      "normLabel": "do you hold u s citizenship",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[9702d4fe-efc5-41ec-a9b5-e6f3d0f9811d][field0]",
+      "id": "",
+      "label": "Do you have professional experience with Kubernetes? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[9702d4fe-efc5-41ec-a9b5-e6f3d0f9811d][field0]\"]",
+      "visible": true,
+      "normLabel": "do you have professional experience with kubernetes",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[9702d4fe-efc5-41ec-a9b5-e6f3d0f9811d][field1]",
+      "id": "",
+      "label": "How many years of experience do you have with Kubernetes?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[9702d4fe-efc5-41ec-a9b5-e6f3d0f9811d][field1]\"]",
+      "visible": true,
+      "normLabel": "how many years of experience do you have with kubernetes",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[388e5dd5-a0dc-40a6-8de0-c775f0c81493][field0]",
+      "id": "",
+      "label": "Do you have professional experience with Database management? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[388e5dd5-a0dc-40a6-8de0-c775f0c81493][field0]\"]",
+      "visible": true,
+      "normLabel": "do you have professional experience with database management",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[388e5dd5-a0dc-40a6-8de0-c775f0c81493][field1]",
+      "id": "",
+      "label": "How many years of experience do you have with database management?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[388e5dd5-a0dc-40a6-8de0-c775f0c81493][field1]\"]",
+      "visible": true,
+      "normLabel": "how many years of experience do you have with database manag",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[72ee7321-a82a-4d3d-96aa-395ed79b26b9][field0]",
+      "id": "",
+      "label": "Do you have professional experience with Cloud management? ✱",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[72ee7321-a82a-4d3d-96aa-395ed79b26b9][field0]\"]",
+      "visible": true,
+      "normLabel": "do you have professional experience with cloud management",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "cards[72ee7321-a82a-4d3d-96aa-395ed79b26b9][field1]",
+      "id": "",
+      "label": "How many years of experience do you have with Cloud management?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "textarea[name=\"cards[72ee7321-a82a-4d3d-96aa-395ed79b26b9][field1]\"]",
+      "visible": true,
+      "normLabel": "how many years of experience do you have with cloud manageme",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[gender]",
+      "id": "",
+      "label": "Gender Select ... Male Female Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[gender]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Male",
+        "Female",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "label": "Female",
+          "value": "Female"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "gender select male female decline to self identify",
+      "canonical": "gender"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[race]",
+      "id": "",
+      "label": "Race Select ... Hispanic or Latino White (Not Hispanic or Latino) Black or African American (Not Hispanic or Latino) Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino) Asian (Not Hispa",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[race]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "Hispanic or Latino",
+        "White (Not Hispanic or Latino)",
+        "Black or African American (Not Hispanic or Latino)",
+        "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+        "Asian (Not Hispanic or Latino)",
+        "American Indian or Alaska Native (Not Hispanic or Latino)",
+        "Two or More Races (Not Hispanic or Latino)",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "Hispanic or Latino",
+          "value": "Hispanic or Latino"
+        },
+        {
+          "label": "White (Not Hispanic or Latino)",
+          "value": "White (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Black or African American (Not Hispanic or Latino)",
+          "value": "Black or African American (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)",
+          "value": "Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Asian (Not Hispanic or Latino)",
+          "value": "Asian (Not Hispanic or Latino)"
+        },
+        {
+          "label": "American Indian or Alaska Native (Not Hispanic or Latino)",
+          "value": "American Indian or Alaska Native (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Two or More Races (Not Hispanic or Latino)",
+          "value": "Two or More Races (Not Hispanic or Latino)"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 9,
+      "normLabel": "race select hispanic or latino white not hispanic or latino ",
+      "canonical": "race_ethnicity"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "eeo[veteran]",
+      "id": "",
+      "label": "Veteran status Select ... I am a veteran I am not a veteran Decline to self-identify",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"eeo[veteran]\"]",
+      "visible": true,
+      "options": [
+        "Select ...",
+        "I am a veteran",
+        "I am not a veteran",
+        "Decline to self-identify"
+      ],
+      "optionValues": [
+        {
+          "label": "Select ...",
+          "value": ""
+        },
+        {
+          "label": "I am a veteran",
+          "value": "I am a veteran"
+        },
+        {
+          "label": "I am not a veteran",
+          "value": "I am not a veteran"
+        },
+        {
+          "label": "Decline to self-identify",
+          "value": "Decline to self-identify"
+        }
+      ],
+      "optionCount": 4,
+      "normLabel": "veteran status select i am a veteran i am not a veteran decl",
+      "canonical": "veteran_status"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "What is your location? Select... Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain ",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > label > div:nth-of-type(2) > div > select",
+      "visible": true,
+      "options": [
+        "Select...",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia",
+        "Bonaire, Sint Eustatius and Saba",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cambodia",
+        "Cameroon",
+        "Canada"
+      ],
+      "optionValues": [
+        {
+          "label": "Select...",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AF"
+        },
+        {
+          "label": "Albania",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra",
+          "value": "AD"
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua and Barbuda",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba",
+          "value": "AW"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Belize",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BT"
+        },
+        {
+          "label": "Bolivia",
+          "value": "BO"
+        },
+        {
+          "label": "Bonaire, Sint Eustatius and Saba",
+          "value": "BQ"
+        },
+        {
+          "label": "Bosnia and Herzegovina",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi",
+          "value": "BI"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CM"
+        },
+        {
+          "label": "Canada",
+          "value": "CA"
+        }
+      ],
+      "optionCount": 251,
+      "normLabel": "what is your location select afghanistan albania algeria ame",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 1,
+      "text": 9,
+      "checkbox-group": 2,
+      "checkbox": 1,
+      "text-email": 1,
+      "radio-group": 2,
+      "textarea": 7,
+      "native-select": 4
+    },
+    "byAction": {
+      "upload": 1,
+      "type": 17,
+      "check-many": 2,
+      "check": 1,
+      "choose-one": 2,
+      "select-option": 4
+    },
+    "byOptionsSource": {
+      "dom-static": 8
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Privacy Notice",
+    "Senior DevOps Engineer",
+    "SUBMIT YOUR APPLICATION",
+    "LINKS",
+    "ELIGIBILITY - LEGAL STATUS - US",
+    "USD DESIRED SALARY",
+    "ENGLISH LEVEL",
+    "DESIRED SALARY (DETAILED)",
+    "US CITIZENSHIP",
+    "EXPERIENCE W/ KUBERNETES",
+    "EXPERIENCE W/ DATABASE MANAGEMENT",
+    "EXPERIENCE W/ CLOUD MANAGEMENT",
+    "U.S. EQUAL EMPLOYMENT OPPORTUNITY INFORMATION (Completion is voluntary and will not subject you to adverse treatment)",
+    "DEMOGRAPHIC SURVEY"
+  ],
+  "buttons": [
+    "dismiss",
+    "ATTACH RESUME/CV",
+    "SUBMIT APPLICATION"
+  ],
+  "resumeUpload": [
+    "Senior DevOps EngineerUnited StatesTechnology & AI – Technology : Infrastructure /Full Time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Succes",
+    "Senior DevOps EngineerUnited StatesTechnology & AI – Technology : Infrastructure /Full Time /RemoteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Succes",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱PronounsHe/him",
+    "Submit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱PronounsHe/him",
+    "Resume/CV ✱"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/lever/swordhealth__senior-devops-engineer.png",
+    "html": "data/html/lever/swordhealth__senior-devops-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 3,
+    "docHeight": 6748,
+    "lowestField": 5733.921875,
+    "coversAllFields": true
+  },
+  "ms": 5616,
+  "fingerprint": {
+    "labelSig": "1559dab5ec3c",
+    "shapeSig": "f0175da05ec1",
+    "controlSig": "c92dd3b2653a",
+    "controls": {
+      "file-upload": 1,
+      "text": 9,
+      "checkbox-group": 2,
+      "checkbox": 1,
+      "text-email": 1,
+      "radio-group": 2,
+      "textarea": 7,
+      "native-select": 4
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "be8e83922ef0",
+    "typeCounts": {
+      "file": 1,
+      "text": 9,
+      "checkbox": 3,
+      "email": 1,
+      "radio": 2,
+      "textarea": 7,
+      "select": 4
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "employer",
+      "full_name",
+      "gender",
+      "github",
+      "linkedin",
+      "location",
+      "phone",
+      "portfolio",
+      "race_ethnicity",
+      "resume",
+      "salary",
+      "veteran_status",
+      "visa_sponsorship",
+      "years_experience"
+    ],
+    "requiredCount": 13,
+    "customQuestionCount": 8,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

@@ -1,0 +1,456 @@
+{
+  "cookies": [
+    {
+      "name": "_dd_s_v2",
+      "value": "aid=f1e35699-8ebf-400e-9487-edc492c6979c&id=ae15eda1-0d5a-42b9-be12-1d6d78469bd9&created=1788842749706&expire=1788843657513&c=0",
+      "domain": "jobs.ashbyhq.com",
+      "path": "/",
+      "expires": 1820378757.513,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_bf_session_exists",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6ImRISjFaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJjb29raWUuX2JmX3Nlc3Npb25fZXhpc3RzIn19--c09bf3da17accf4c53e92f910eef613c6f99527b",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "0LAx5Wmj1gSWMRbCx7zfKnzmtHugk6UHxSfWJvk4KZyEQhpj6N9mGxdGg534JvPO3wfstFoVF_i2HuswUuhvCw",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_key",
+      "value": "ZciqPTdC6pHEvnEn4tRuC9g4LVeoLPfxamZbSGbedT9f%2FisiT%2FEFOyTUGCBniQhM9gVnnTG9H8pGqidF%2Bm6IKrOCAdUvlf3JCNP1P%2BtvIo1Rk49cNhTODebqBHILi5A9%2BeHxn82WTUn899rU8rBcBq9B%2FuldCR0mm%2FhbGiu7%2BC0D3ARHRnCv793CpKNbnl5qSd%2BcLMm%2BBNKa24WEPYam9ji3GERXspi6auYY29t0wZzJEoFmgQbxoQXVyEN2P24k089Wgh4pHTygZpz3Ln4FZlOeyAcsn7CciXWm47r5pO3K%2FFMdQiurBqUYjW3R2Ft1P%2FI1--ozIEt8JB8igRdrhv--stNsnRegB95Z0PXxodrVpQ%3D%3D",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a07f56-6304-70f6-9eb8-4c954d0df5b0%22%2C%22distinct_id%22%3A%2201a07f56-6304-70f6-9eb8-4c954d0df5b0%22%2C%22%24sesid%22%3A%5B1788842787499%2C%2201a07f56-645d-7057-a02d-7d653a878f9f%22%2C1788842763357%5D%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".workatastartup.com",
+      "path": "/",
+      "expires": 1820378787,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "EA5083B5B564845074AD0CB0FF7730F9",
+      "domain": "careers-costco.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie_icims_iframe_content_height",
+      "value": "2007",
+      "domain": "careers-costco.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "icimsCookiesEnabledCheck",
+      "value": "1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1361368848.1788842816",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1796618816,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1788842816090.763592310644832399",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1822538819.75895,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_mkto_trk",
+      "value": "id:566-KWJ-784&token:_mch-coalitioninc.com-3ea2c4fd59372243d87d72ab10801fd6",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1823402820.567173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "muc_ads",
+      "value": "af18a1fa-7616-437c-93b2-28cd69ea7aa0",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1823402816.297682,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "V_dcP0itdIK41XByGVGTCTZ.XViqE02Vmy7o5XF1BGI-1788842816.387152-1.0.1.1-zeHxo2Gr5rD.FGifK8pFLKm.owixERT6JiIOc2pHGpISm1C7X1.0RBBobsFFAJF_malE1oP2qMoMI.MFfsoyA4qudptHuMjOabCrYSjncQzmettlJ6BaoG5CBQTqewtp",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1788844616.297707,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A178884281640983549",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1823402816.312576,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A178884281640983549",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1823402816.312597,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_I/jRrGqEDW9ZjW6UnIy09w==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1823402816.312605,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A178884281640983549",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1823402816.312613,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "NTcDo3Gxi9W9lOcipXe2hw_ME9xUnxYj.Nf.Zb0nOa0-1788842816.400991-1.0.1.1-E_4B5zlvLdr_hVNT_mTkmTBqCsRNgkWnCn0uwQwtQ6rFdCm9ZvgjPUTUA32gpG0azAjL8d0av7qytkHOixZF3c2tgoFzIOiuFUT0svAFuFlvZPL9DIbEbNW75LqP3m1d",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1788844616.312619,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1788842816353.965951015187206156",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1796618820,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_zitok",
+      "value": "1a4c12420c580a5147d61788842816",
+      "domain": ".www.coalitioninc.com",
+      "path": "/",
+      "expires": 1820378820,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "li_sugr",
+      "value": "103fa9e5-4173-462a-a63b-64cf78daa425",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1796618820.661835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&2dd035aa-9c97-4149-857d-a4f7bae3bfba\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820378820.661897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3763:u=1:x=1:i=1788842816:t=1788929216:v=2:sig=AQFs3T7DRwpZmSyXky3V2cmAGHKamGPA\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788929216.40601,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "BMyzXgjFJDnDNcqqs.DOwsi3vYlDFDm6emVwHI_qjXc-1788842816.471811-1.0.1.1-PiCexdsg665jQcB.447JAhaAzGY2X.p83Vn0kns6wK3.2un5kBYYyD05j6cEOcXSFIkOJFNrNYAPfWUIDilbiqIR78EK94sacpvaOOGGzZknnwpS3AmFsWEE0JuJTU0E",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788844616.406028,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLpsGTX5eJ8nAAAAaB_VzRNdbd8SwbWNhRbUh_IAjdNReyO72mPK4qDW9UKbGiyGEvhY6MlosDeZw",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791434816.495178,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQLeQgJmiJHCrQAAAaB_VzRNlZzwhwaGbhVftIEvHQEvz3OFH0O8jlduC0hvmW0B1EpTFkVu3IIknOvysj3wSg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791434816.495198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1993222221.1788842817",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1823402820.498759,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908044656b5269548-2599-4e78-889b-8b726b1387c6AQHLrHDIlwYZ2AKJPc7JjDocOtRdm6TV\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820378816.619787,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "Ihi59DMwT1bsxlawyCMNspMkqgv2HPGQC8JyjSDNL0U-1788842816.7319033-1.0.1.1-caj1sLnCik06et2chLcMrSso9XzT_mBjWA7ddIwRaoQ",
+      "domain": ".zoominfo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "1F9A3A2DCFBB614709952DE3CE9260C0",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822538818.79876,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1789447618.798842,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-09-08T04:46:59.734Z",
+      "domain": ".www.coalitioninc.com",
+      "path": "/",
+      "expires": 1820378819,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUlbek9cKlVHhTz3tbqfa9YxDfA6hhl6BbRiNibPcEVdvuUj8FGQe_tDrnwD",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823402819.828677,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+00%3A47%3A00+GMT-0400+(Eastern+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c6dd0ff-17f1-47b3-b7ca-92e53d4cba80&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0001%3A1%2CC0002%3A1%2CC0004%3A1%2COSSTA_BG%3A1&intType=1&geolocation=US%3BNC&AwaitingReconsent=false",
+      "domain": ".www.coalitioninc.com",
+      "path": "/",
+      "expires": 1820378820,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_5GJ7CDW0L7",
+      "value": "GS2.1.s1788842816$o1$g1$t1788842820$j56$l0$h0",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1823402820.501653,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "5291d6b0ab4011f194d95b7219381f6c|po2rug|2|g9a|0|2442",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1788929220,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "5291da20ab4011f193ae85d4a9636d22|1u5xrfu|1788842820741|2|1|bat.bing.com/p/conversions/c/i",
+      "domain": ".coalitioninc.com",
+      "path": "/",
+      "expires": 1822538820,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.coalitioninc.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1788842816349"
+        },
+        {
+          "name": "_ziVisitorInfo",
+          "value": "{\"status\":\"success\",\"ziDetails\":{\"ip\":\"47.133.197.102\"}}"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 03 Oct 2027 04:47:00 GMT"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 09 Sep 2026 04:47:00 GMT"
+        },
+        {
+          "name": "00DDn0000012wUy_WEB_STORAGE",
+          "value": "{}"
+        },
+        {
+          "name": "_uetvid",
+          "value": "5291da20ab4011f193ae85d4a9636d22|1u5xrfu|1788842820741|2|1|bat.bing.com/p/conversions/c/i"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"p-KifvdzkIyY6I3UXkmYJNyO4wYyykku0A\",\"lastJoinedTimeMs\":1788842815819},\"expires\":1788843115819},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788842815821},\"expires\":1796618815821}}"
+        },
+        {
+          "name": "_uetsid",
+          "value": "5291d6b0ab4011f194d95b7219381f6c|po2rug|2|g9a|0|2442"
+        },
+        {
+          "name": "li_adsId",
+          "value": "bfa620a6-72b0-4aad-88e9-16878b3c1b09"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.recaptcha.net",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MTAyb2ZubDEwNjJwdHA="
+        }
+      ]
+    },
+    {
+      "origin": "https://www.workatastartup.com",
+      "localStorage": [
+        {
+          "name": "unleash:repository:sessionId",
+          "value": "\"667004781\""
+        },
+        {
+          "name": "unleash:repository:repo",
+          "value": "[]"
+        },
+        {
+          "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+          "value": "{\"$initialization_time\":\"2026-09-08T04:46:03.010Z\",\"$configured_session_timeout_ms\":1800000,\"distinct_id\":\"01a07f56-6304-70f6-9eb8-4c954d0df5b0\",\"$device_id\":\"01a07f56-6304-70f6-9eb8-4c954d0df5b0\",\"$user_state\":\"anonymous\",\"$autocapture_disabled_server_side\":false,\"$logs_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1788842763358,\"enabled\":true,\"canvasFps\":3,\"canvasQuality\":\"0.4\",\"consoleLogRecordingEnabled\":true,\"endpoint\":\"/s/\",\"eventTriggers\":[],\"linkedFlag\":null,\"masking\":null,\"minimumDurationMilliseconds\":null,\"networkPayloadCapture\":{\"capturePerformance\":false},\"recordCanvas\":true,\"recorderVersion\":\"v2\",\"sampleRate\":null,\"scriptConfig\":{\"script\":\"posthog-recorder\"},\"triggerGroups\":[{\"conditions\":{\"matchType\":\"all\",\"urls\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www\\\\.ycombinator\\\\.com(?!/avatars/kiosk).*$\"}]},\"id\":\"41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\",\"name\":\"Migrated trigger conditions\",\"sampleRate\":1}],\"triggerMatchType\":null,\"urlBlocklist\":[],\"urlTriggers\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"}],\"version\":2,\"canvasRecording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"}},\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$sesid\":[1788842787499,\"01a07f56-645d-7057-a02d-7d653a878f9f\",1788842763357],\"$client_session_props\":{\"sessionId\":\"01a07f56-645d-7057-a02d-7d653a878f9f\",\"props\":{\"r\":\"$direct\",\"u\":\"https://www.workatastartup.com/jobs/103933\"}},\"$posthog_sr_group_sampling_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":{\"sessionId\":\"01a07f56-645d-7057-a02d-7d653a878f9f\",\"sampleRate\":1,\"sampled\":true},\"$posthog_sr_group_url_trigger_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":\"01a07f56-645d-7057-a02d-7d653a878f9f\",\"$debug_first_full_snapshot_timestamp\":1788842763374,\"$feature_flag_errors\":[],\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"d2cda148-ba27-4566-ac29-d8182b75a871\",\"$feature_flag_evaluated_at\":1788842763618,\"$sess_rec_flush_size\":{\"sessionId\":\"01a07f56-645d-7057-a02d-7d653a878f9f\",\"size\":145713}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://coalition22.my.site.com",
+      "localStorage": [
+        {
+          "name": "00DDn0000012wUy_WEB_STORAGE",
+          "value": "{}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "id": "teamtailor__doodle__value-consultant",
+  "group": "teamtailor",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "doodle",
+    "board": "doodle",
+    "title": "Value Consultant",
+    "location": "",
+    "jobUrl": "https://careers.doodle.com/jobs/8014071-value-consultant",
+    "startUrl": "https://careers.doodle.com/jobs/8014071-value-consultant"
+  },
+  "platform": "teamtailor",
+  "detectedPlatform": "custom:careers.doodle.com",
+  "platformLabel": "careers.doodle.com (teamtailor)",
+  "finalUrl": "https://careers.doodle.com/jobs/8014071-value-consultant",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Value Consultant - Doodle",
+  "fieldCount": 13,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionSelector": "li.w-full"
+      },
+      "name": "",
+      "id": "trigger-dropdown-5f4746b7",
+      "label": "Share page",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-5f4746b7",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "share page",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[answers_attributes][0][boolean]",
+      "label": "Are you fluent in English (written and spoken, business level)?* Required",
+      "labelSource": "legend",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[answers_attributes][0][boolean]\"]",
+      "normLabel": "are you fluent in english written and spoken business level ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "radio",
+      "control": "radio-group",
+      "fill": {
+        "action": "choose-one",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[answers_attributes][1][boolean]",
+      "label": "Are you eligible to work in Germany (Berlin) without the need for a visa sponsorship?* Required",
+      "labelSource": "legend",
+      "firstOptionLabel": "Yes",
+      "required": false,
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "optionValues": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[answers_attributes][1][boolean]\"]",
+      "normLabel": "are you eligible to work in germany berlin without the need ",
+      "canonical": "work_authorization"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[answers_attributes][2][text]",
+      "id": "candidate_answers_attributes_2_text",
+      "label": "What is your notice period?* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_answers_attributes_2_text",
+      "visible": true,
+      "normLabel": "what is your notice period required",
+      "canonical": "start_date"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[first_name]",
+      "id": "candidate_first_name",
+      "label": "First name* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "given-name",
+      "maxlength": "50",
+      "selector": "#candidate_first_name",
+      "visible": true,
+      "normLabel": "first name required",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[last_name]",
+      "id": "candidate_last_name",
+      "label": "Last name* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "family-name",
+      "maxlength": "50",
+      "selector": "#candidate_last_name",
+      "visible": true,
+      "normLabel": "last name required",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[email]",
+      "id": "candidate_email",
+      "label": "Email* Required",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#candidate_email",
+      "visible": true,
+      "normLabel": "email required",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionSelector": "li.w-full"
+      },
+      "name": "",
+      "id": "",
+      "label": "Change country, selected Germany (+49)",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(4) > div:nth-of-type(2) > div > div > button",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "change country selected germany +49",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "phone-intl",
+      "fill": {
+        "action": "type-then-pick-country",
+        "openBy": "click-country-button",
+        "optionsFrom": "country-picker-unprobed",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionSelector": "li.w-full"
+      },
+      "name": "candidate[phone]",
+      "id": "candidate_phone",
+      "label": "Phone number with country code",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "+49 1512 3456789",
+      "autocomplete": "tel",
+      "maxlength": "",
+      "selector": "#candidate_phone",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "Uni",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "phone number with country code",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "candidate_resume_remote_url",
+      "label": "Drop your file or upload, Upload CV",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_resume_remote_url",
+      "visible": false,
+      "accept": ".doc,.docx,.pptx,.pdf,.pages,.txt,.rtf",
+      "multiple": false,
+      "normLabel": "drop your file or upload upload cv",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "candidate_file_remote_url",
+      "label": "Drop your file or upload, Additional files",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#candidate_file_remote_url",
+      "visible": false,
+      "accept": "",
+      "multiple": true,
+      "normLabel": "drop your file or upload additional files",
+      "canonical": "resume"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[consent_given]",
+      "label": "Required. By submitting this application, I agree that I have read the Privacy Policy and confirm that Doodle store my personal details to be able to process my job application.*",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Required. By submitting this application, I agree that I have read the Privacy Policy and confirm that Doodle store my personal details to be able to process my job application.*",
+      "required": true,
+      "options": [
+        "0",
+        "Required. By submitting this application, I agree that I have read the Privacy Policy and confirm that Doodle store my personal details to be able to process my job application.*"
+      ],
+      "optionValues": [
+        {
+          "label": "0",
+          "value": "0"
+        },
+        {
+          "label": "Required. By submitting this application, I agree that I have read the Privacy Policy and confirm that Doodle store my personal details to be able to process my job application.*",
+          "value": "1"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[consent_given]\"]",
+      "normLabel": "required by submitting this application i agree that i have ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "candidate[consent_given_future_jobs]",
+      "label": "Yes, Doodle can contact me directly about specific future job opportunities.",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Yes, Doodle can contact me directly about specific future job opportunities.",
+      "required": false,
+      "options": [
+        "0",
+        "Yes, Doodle can contact me directly about specific future job opportunities."
+      ],
+      "optionValues": [
+        {
+          "label": "0",
+          "value": "0"
+        },
+        {
+          "label": "Yes, Doodle can contact me directly about specific future job opportunities.",
+          "value": "1"
+        }
+      ],
+      "optionCount": 2,
+      "selector": "input[name=\"candidate[consent_given_future_jobs]\"]",
+      "normLabel": "yes doodle can contact me directly about specific future job",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 2,
+      "radio-group": 2,
+      "text": 3,
+      "text-email": 1,
+      "phone-intl": 1,
+      "file-upload": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 6,
+      "choose-one": 2,
+      "type-then-pick-country": 1,
+      "upload": 2,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "none-observed": 2,
+      "dom-static": 4,
+      "country-picker-unprobed": 1
+    }
+  },
+  "widgetsProbed": 3,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Value Consultant",
+    "What You'll Do (Responsibilities)",
+    "Our Ideal Candidate (What You Bring)",
+    "Why You'll Love It Here",
+    "Hiring Journey",
+    "Apply now and join our international team at Doodle!",
+    "Team & Culture",
+    "Value Consultant",
+    "Are you fluent in English (written and spoken, business level)?* Required",
+    "Are you eligible to work in Germany (Berlin) without the need for a visa sponsorship?* Required",
+    "Personal information",
+    "Career site"
+  ],
+  "buttons": [
+    "CAREER MENU",
+    "Share page",
+    "Apply Now",
+    "Apply Now",
+    "Submit application",
+    "Close modal",
+    "Manage cookies"
+  ],
+  "resumeUpload": [
+    "Customer Success · Berlin · Hybrid Value Consultant Are you fluent in English (written and spoken, business level)?*Required Yes No Are you eligible to work in Germany (Berlin) without the need for a ",
+    "What is your notice period?*Required Did you mean Personal information api_key: 86u8cdm3lmqjhy extensions:AwliWidget@https://www.linkedin.com/talentwidgets/extensions/apply-with-linkedin-widget-v3 Pre",
+    "What is your notice period?*Required Did you mean Personal information api_key: 86u8cdm3lmqjhy extensions:AwliWidget@https://www.linkedin.com/talentwidgets/extensions/apply-with-linkedin-widget-v3 Pre",
+    "Upload CV*Required Drop your file or upload Click to upload Drop to upload Upload more",
+    "Upload CV*Required Drop your file or upload Click to upload Drop to upload Upload more"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/teamtailor/doodle__value-consultant.png",
+    "html": "data/html/teamtailor/doodle__value-consultant.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 6,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 9167,
+    "lowestField": 8582.59375,
+    "coversAllFields": true
+  },
+  "ms": 56626,
+  "fingerprint": {
+    "labelSig": "cd02d2e0166f",
+    "shapeSig": "261b699967e9",
+    "controlSig": "523b9e9f3d4e",
+    "controls": {
+      "combobox": 2,
+      "radio-group": 2,
+      "text": 3,
+      "text-email": 1,
+      "phone-intl": 1,
+      "file-upload": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "75bf8432c044",
+    "typeCounts": {
+      "button-dropdown": 2,
+      "radio": 2,
+      "text": 3,
+      "email": 1,
+      "tel": 1,
+      "file": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "phone",
+      "resume",
+      "start_date",
+      "work_authorization"
+    ],
+    "requiredCount": 7,
+    "customQuestionCount": 4,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  }
+}e
+  }
+}

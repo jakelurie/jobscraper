@@ -1,0 +1,141 @@
+{
+  "id": "amazon__amazon__senior-software-development-engineer-ai",
+  "group": "amazon",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "amazon",
+    "atsLabel": "Amazon (in-house)",
+    "company": "amazon",
+    "board": "amazon",
+    "title": "Senior Software Development Engineer, AI",
+    "location": "",
+    "jobUrl": "https://www.amazon.jobs/en/jobs/10373372/senior-software-development-engineer-ai",
+    "startUrl": "https://www.amazon.jobs/en/jobs/10373372/senior-software-development-engineer-ai"
+  },
+  "platform": "amazon",
+  "platformLabel": "Amazon (in-house)",
+  "finalUrl": "https://passport.amazon.jobs/",
+  "applyTrail": [
+    "opened posting: Software Development Engineer – 2026",
+    "opened posting: Software Development Engineer – 2026",
+    "opened posting: 2026 Software Dev Engineer Intern - UK",
+    "clicked: Apply now",
+    "clicked: Continue",
+    "saved-session:amazon__amazon.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Log in or create account | Amazon.jobs",
+  "fieldCount": 1,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "preLoginEmailField",
+      "label": "Email*",
+      "labelSource": "aria-labelledby",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#preLoginEmailField",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-email": 1
+    },
+    "byAction": {
+      "type": 1
+    },
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Log in or create account"
+  ],
+  "buttons": [
+    "Learn more",
+    "Continue",
+    "English"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/amazon/amazon__senior-software-development-engineer-ai.png",
+    "html": "data/html/_unreached/amazon/amazon__senior-software-development-engineer-ai.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 900,
+    "lowestField": 461,
+    "coversAllFields": true
+  },
+  "ms": 91974,
+  "fingerprint": {
+    "labelSig": "34cadf0b8760",
+    "shapeSig": "cb655c28b611",
+    "controlSig": "6df80704a616",
+    "controls": {
+      "text-email": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "0a89aafc7d06",
+    "typeCounts": {
+      "email": 1
+    },
+    "canonicals": [
+      "email"
+    ],
+    "requiredCount": 1,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "amazon",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

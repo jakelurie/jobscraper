@@ -1,0 +1,277 @@
+{
+  "id": "avature__massmutual__investment-professional-boston-ma",
+  "group": "avature",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "avature",
+    "atsLabel": "avature",
+    "company": "massmutual",
+    "board": "massmutual",
+    "title": "Investment Professional Boston, MA",
+    "location": "",
+    "jobUrl": "https://careers.massmutual.com/job/boston/investment-professional/724/98076193248",
+    "startUrl": "https://careers.massmutual.com/job/boston/investment-professional/724/98076193248"
+  },
+  "platform": "avature",
+  "detectedPlatform": "custom:careers.massmutual.com",
+  "platformLabel": "careers.massmutual.com (avature)",
+  "finalUrl": "https://careers.massmutual.com/job/boston/investment-professional/724/98076193248",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Investment Professional at MassMutual",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "search-keyword-b94d0c66fa",
+      "label": "Search jobs by keyword",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g., job title, category or skills",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-keyword-b94d0c66fa",
+      "visible": true,
+      "normLabel": "search jobs by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://careers.massmutual.com/search-jobs/locations?term=San&countryCodes=&lat=&lon=",
+        "optionSelector": "li"
+      },
+      "name": "l",
+      "id": "search-location-b94d0c66fa",
+      "label": "Job location",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "e.g., city, state or zip",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-location-b94d0c66fa",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 5,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": [
+          "San Antonio, TX",
+          "San Diego, CA",
+          "San Jose, CA",
+          "San Francisco, CA",
+          "San Miguel De Tucumán, Tucuman"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "San Antonio, TX",
+        "San Diego, CA",
+        "San Jose, CA",
+        "San Francisco, CA",
+        "San Miguel De Tucumán, Tucuman"
+      ],
+      "normLabel": "job location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "form-field-4b14161987",
+      "label": "Add Resume (Optional)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-4b14161987",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "add resume",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-search": 1,
+      "combobox": 1,
+      "file-upload": 1
+    },
+    "byAction": {
+      "type": 1,
+      "click-type-wait-pick": 1,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "network-on-type": 1
+    }
+  },
+  "widgetsProbed": 1,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Investment Professional",
+    "Overview",
+    "Job Description",
+    "Share This Job",
+    "Hiring Process",
+    "Explore",
+    "Apply",
+    "Screen",
+    "Interview",
+    "Offer",
+    "Hire",
+    "BY THE NUMBERS*",
+    "Award-Winning Culture",
+    "How We Work",
+    "Benefits for the whole you (and your loved ones)",
+    "Commuter Benefits",
+    "Paid Time Off",
+    "Health & Well-Being",
+    "Financial Well-Being",
+    "Taking Care",
+    "Giving Back",
+    "Commuter Benefits",
+    "Paid Time Off",
+    "Health & Well-Being",
+    "Financial Well-Being",
+    "Taking Care",
+    "Giving Back",
+    "Commuter Benefits",
+    "Why MassMutual?",
+    "WHERE WE WORK"
+  ],
+  "buttons": [
+    "Career Areas",
+    "Culture",
+    "Locations",
+    "Search",
+    "Save Job",
+    "Apply Now",
+    "Apply Now",
+    "Save Job",
+    "Previous",
+    "Next",
+    "Go to slide 1",
+    "Go to slide 2",
+    "Go to slide 3",
+    "Go to slide 4",
+    "Go to slide 5",
+    "Go to slide 6",
+    "Pause",
+    "Sign Up",
+    "Recruitment Fraud Awareness"
+  ],
+  "resumeUpload": [
+    "Skip to main content Menu Career Areas Actuarial Customer Service Corporate Functions Finance Investment Sales Technology Underwriting Culture Benefits Inclusion Students Locations United States India",
+    "Close Join Our Talent Network. Check out why it’s great to work at MassMutual. Please complete the form to join our Talent Network, which means you’ll receive follow-up emails with additional informat",
+    "First Name*Last Name*Email*Country Code+1+1242+1246+1264+1268+1284+1340+1441+1473+1649+1664+1670+1671+1684+1758+1767+1784+1849+1868+1869+1876+1939+20+211+212+213+216+218+220+221+222+223+224+225+226+22"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/avature/massmutual__investment-professional-boston-ma.png",
+    "html": "data/html/avature/massmutual__investment-professional-boston-ma.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 10668,
+    "lowestField": 679.609375,
+    "coversAllFields": true
+  },
+  "ms": 14454,
+  "fingerprint": {
+    "labelSig": "1cf679b93e23",
+    "shapeSig": "ed1390500939",
+    "controlSig": "3ddf2583b8f4",
+    "controls": {
+      "text-search": 1,
+      "combobox": 1,
+      "file-upload": 1
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "0f3b4d968cc2",
+    "typeCounts": {
+      "search": 1,
+      "text": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location",
+      "resume"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

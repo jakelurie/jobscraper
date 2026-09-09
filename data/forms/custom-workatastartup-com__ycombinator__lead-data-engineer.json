@@ -1,0 +1,120 @@
+{
+  "id": "custom-workatastartup-com__ycombinator__lead-data-engineer",
+  "group": "custom-workatastartup-com",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "workatastartup",
+    "atsLabel": "Y Combinator Work at a Startup",
+    "company": "ycombinator",
+    "board": "workatastartup",
+    "title": "Lead data engineer",
+    "location": "",
+    "jobUrl": "https://www.workatastartup.com/jobs/106672",
+    "startUrl": "https://www.workatastartup.com/jobs/106672"
+  },
+  "platform": "custom:workatastartup.com",
+  "platformLabel": "workatastartup.com",
+  "finalUrl": "https://www.workatastartup.com/jobs/99325",
+  "applyTrail": [
+    "opened posting: Founding Data engineer",
+    "opened posting: Founding Software Engineer",
+    "opened posting: Founding Marketing Lead",
+    "saved-session:workatastartup__workatastartup.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Founding Marketing Lead at Ooak Data | Y Combinator's Work at a Startup",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Founding Marketing Lead at Ooak Data(S26)",
+    "We're Ooak Data",
+    "🤝 Our values",
+    "The role : Marketing Lead",
+    "Brand",
+    "Community",
+    "Product Marketing",
+    "👀 What we're looking for",
+    "Perks",
+    "Other jobs at Ooak Data",
+    "Hundreds of YC startups are hiring on Work at a Startup.",
+    "Work at a Startup",
+    "Y Combinator",
+    "Jobs by Role",
+    "Jobs by Location",
+    "Remote Jobs"
+  ],
+  "buttons": [],
+  "resumeUpload": [
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog InFounding Marketing Lead at Ooak Data(S26)€50K - €80K EUR • 0.10% - 0.50%We turn company data in",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog InFounding Marketing Lead at Ooak Data(S26)€50K - €80K EUR • 0.10% - 0.50%We turn company data in",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog In",
+    "Log InOpen main menuCompanies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it WorksLog In",
+    "Companies & jobsWork at a StartupStartup JobsResume ReviewEducationHow it Works"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/custom-workatastartup-com/ycombinator__lead-data-engineer.png",
+    "html": "data/html/_unreached/custom-workatastartup-com/ycombinator__lead-data-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 3334,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 59201,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "b3b2475b195c",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "custom:workatastartup.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

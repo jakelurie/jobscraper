@@ -1,0 +1,846 @@
+{
+  "id": "successfactors__exxonmobil__advanced-instrument-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "successfactors",
+    "atsLabel": "successfactors",
+    "company": "exxonmobil",
+    "board": "exxonmobil",
+    "title": "Advanced Instrument Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.exxonmobil.com/job/Huizhou-Advanced-Instrument-Engineer-GD-516281/1408525000/",
+    "startUrl": "https://jobs.exxonmobil.com/job/Huizhou-Advanced-Instrument-Engineer-GD-516281/1408525000/"
+  },
+  "platform": "successfactors",
+  "detectedPlatform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career4.successfactors.com/career?company=exxonmobilP&site=&lang=en_US&requestParams=PjQ2rzAku2scmSAQCL2EI6L8bYp42n2Sz04bMRDGTWhKaFELQuLWy56jaDdKkxAObQSCRgIJiT9S%0ahaqt450kJo5txrNko4g%2bUfsQVZ%2bgPfYFqh76DvUCEkkb4YNljz%2fP95uxP%2f9hRYds45Jf80pKUlXe%0acTc44ra48vPrt62P35dZYZ89U4Yn%2b1yQwQ5bpQGCGxiVZPbNW5aPtXHJz%2bv5itgTJwlSZJsXh7dZ%0aFdf9ygmh1P2dLz%2fOf%2f1%2bNT0oMJZZL18ixoiVhJKgqZOkV%2bwTW76Lly5N11XH0CW2ITgCYOwjMcJV%0aLOeET6OwUW3WiD13Rkiu2taqyayg2OPKgT%2f394%2blBSU1zCXYkwiCiL0QBhEUJ2l0PE%2bzFoXNatTY%0arm9HYeiV0nU0AWquzhzgIrcVYUaW6weSgieALDN6ZLpSHf%2b7W70vUrvZbC%2fzmrmvSIpbLN%2fevJ9z%0ahqDjsxNi6%2f5Nxm0FSLsInCBZRLWJo2GceuTYIvQAQYvZXixVp0Ev1SK34mrXmKEEF7QupsF9NUEr%0aOJcjMEE5EAMQQ0iCVnRTnj1%2fb9LTtAvzig%2flwAL2DI64d3xI7OM8ufbM0vn%2fsdjwwJi%2bgrYHmpAU%0a7hHrO%2bUp7x9xzfuAj0gPpfbhjv4PU5hUE05oYsHLjCWZaxLfUMis%2fyieLmqGtde1MKo3mo36TfYX%0aVBoA6Q%3d%3d&login_ns=register&career_ns=job%5fapplication&career_job_req_id=107284&jobPipeline=Direct&clientId=jobs2web&_s.crb=or9tR5Z4t1NUsGRgmI%2b3Hdd38zGmc95jK4eOGy8oIno%3d",
+  "applyTrail": [
+    "clicked: Apply now »",
+    "clicked: Create an account",
+    "clicked: Create Account",
+    "filled:email+password+password-confirm+select+select+required-field+required-field+required-field",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account",
+    "filled:email+password+password-confirm",
+    "submit:Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "stuck on register screen: Please complete all required fields and re-submit. The following fields require a valid input: Retype Email Address, Please open the data p",
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Career Opportunities: Create an Account",
+  "fieldCount": 11,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Retype Email Address: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "retype email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Choose Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "choose password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Retype Password: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "retype password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "First Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "first name",
+      "canonical": "first_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Last Name: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "last name",
+      "canonical": "last_name"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_ituCode",
+      "id": "fbclc_ituCode",
+      "label": "Country/Region Code:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_ituCode",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Afghanistan (+93)",
+        "Albania (+355)",
+        "Algeria (+213)",
+        "American Samoa (+1)",
+        "Andorra (+376)",
+        "Angola (+244)",
+        "Anguilla (+1)",
+        "Antarctica (+672)",
+        "Antigua and Barbuda (+1)",
+        "Argentina (+54)",
+        "Armenia (+374)",
+        "Aruba (+297)",
+        "Australia (+61)",
+        "Austria (+43)",
+        "Azerbaijan (+994)",
+        "Bahamas (+1)",
+        "Bahrain (+973)",
+        "Bangladesh (+880)",
+        "Barbados (+1)",
+        "Belarus (+375)",
+        "Belgium (+32)",
+        "Belize (+501)",
+        "Benin (+229)",
+        "Bermuda (+1)",
+        "Bhutan (+975)",
+        "Bolivia (Plurinational State of) (+591)",
+        "Bosnia and Herzegovina (+387)",
+        "Botswana (+267)",
+        "Bouvet Island (+47)",
+        "Brazil (+55)",
+        "British Indian Ocean Territory (+246)",
+        "Brunei Darussalam (+673)",
+        "Bulgaria (+359)",
+        "Burkina Faso (+226)",
+        "Burundi (+257)",
+        "Cabo Verde (+238)",
+        "Cambodia (+855)",
+        "Cameroon (+237)",
+        "Canada (+1)"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan (+93)",
+          "value": "AF"
+        },
+        {
+          "label": "Albania (+355)",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria (+213)",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa (+1)",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra (+376)",
+          "value": "AD"
+        },
+        {
+          "label": "Angola (+244)",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla (+1)",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica (+672)",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua and Barbuda (+1)",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina (+54)",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia (+374)",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba (+297)",
+          "value": "AW"
+        },
+        {
+          "label": "Australia (+61)",
+          "value": "AU"
+        },
+        {
+          "label": "Austria (+43)",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan (+994)",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas (+1)",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain (+973)",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh (+880)",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados (+1)",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus (+375)",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium (+32)",
+          "value": "BE"
+        },
+        {
+          "label": "Belize (+501)",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin (+229)",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda (+1)",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan (+975)",
+          "value": "BT"
+        },
+        {
+          "label": "Bolivia (Plurinational State of) (+591)",
+          "value": "BO"
+        },
+        {
+          "label": "Bosnia and Herzegovina (+387)",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana (+267)",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island (+47)",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil (+55)",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory (+246)",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam (+673)",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria (+359)",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso (+226)",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi (+257)",
+          "value": "BI"
+        },
+        {
+          "label": "Cabo Verde (+238)",
+          "value": "CV"
+        },
+        {
+          "label": "Cambodia (+855)",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon (+237)",
+          "value": "CM"
+        },
+        {
+          "label": "Canada (+1)",
+          "value": "CA"
+        }
+      ],
+      "optionCount": 234,
+      "normLabel": "country/region code",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_phoneNumber",
+      "id": "fbclc_phoneNumber",
+      "label": "Phone Number:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_phoneNumber",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_country",
+      "id": "fbclc_country",
+      "label": "Country/Region of Residence",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_country",
+      "visible": true,
+      "options": [
+        "- Select -",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua and Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia (Plurinational State of)",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cabo Verde",
+        "Cambodia",
+        "Cameroon",
+        "Canada"
+      ],
+      "optionValues": [
+        {
+          "label": "- Select -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AF"
+        },
+        {
+          "label": "Albania",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra",
+          "value": "AD"
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua and Barbuda",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba",
+          "value": "AW"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Belize",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BT"
+        },
+        {
+          "label": "Bolivia (Plurinational State of)",
+          "value": "BO"
+        },
+        {
+          "label": "Bosnia and Herzegovina",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi",
+          "value": "BI"
+        },
+        {
+          "label": "Cabo Verde",
+          "value": "CV"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CM"
+        },
+        {
+          "label": "Canada",
+          "value": "CA"
+        }
+      ],
+      "optionCount": 234,
+      "normLabel": "country/region of residence",
+      "canonical": "location"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notification:",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notification:",
+      "required": false,
+      "options": [
+        "Notification:"
+      ],
+      "optionValues": [
+        {
+          "label": "Notification:",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notification",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_campaignEmailEnabled",
+      "label": "Hear more about career opportunities",
+      "labelSource": "group-prompt",
+      "firstOptionLabel": "Hear more about career opportunities",
+      "required": false,
+      "options": [
+        "Hear more about career opportunities"
+      ],
+      "optionValues": [
+        {
+          "label": "Hear more about career opportunities",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_campaignEmailEnabled\"]",
+      "normLabel": "hear more about career opportunities",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 5,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 2
+    },
+    "byAction": {
+      "type": 7,
+      "select-option": 2,
+      "check-many": 2
+    },
+    "byOptionsSource": {
+      "dom-static": 4
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Career Opportunities: Create an Account",
+    "About Us",
+    "Contact",
+    "Accessibility",
+    "Privacy",
+    "Site Information",
+    "Find us on"
+  ],
+  "buttons": [
+    "Career fields",
+    "Read and accept the data privacy statement.",
+    "Create Account",
+    "Manage my cookies"
+  ],
+  "resumeUpload": [
+    "By clicking “Accept all cookies”, you agree to the storing of optional cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. By clicking “Reject a",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/verp/vmod_v1/ui/juic"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/exxonmobil__advanced-instrument-engineer.png",
+    "html": "data/html/_unreached/successfactors/exxonmobil__advanced-instrument-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1575,
+    "lowestField": 1038.25,
+    "coversAllFields": true
+  },
+  "ms": 93893,
+  "fingerprint": {
+    "labelSig": "73ec04c29688",
+    "shapeSig": "06962094950c",
+    "controlSig": "49f2524f32e3",
+    "controls": {
+      "text": 5,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "089261201f03",
+    "typeCounts": {
+      "text": 5,
+      "password": 2,
+      "select": 2,
+      "checkbox": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "first_name",
+      "last_name",
+      "location",
+      "password",
+      "phone"
+    ],
+    "requiredCount": 9,
+    "customQuestionCount": 2,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

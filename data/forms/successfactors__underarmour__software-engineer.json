@@ -1,0 +1,1752 @@
+{
+  "id": "successfactors__underarmour__software-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "underarmour",
+    "board": "underarmour",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.underarmour.com/jobs/search?ss=1",
+    "startUrl": "https://careers.underarmour.com/jobs/search?ss=1"
+  },
+  "platform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://career8.successfactors.com/careers?company=ua",
+  "applyTrail": [
+    "opened posting: Sales Associate, PT",
+    "opened posting: Español (España)",
+    "clicked: Enviar candidatura ahora »"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Puestos vacantes: Agente de Ventas Asociado (166857)",
+  "fieldCount": 27,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "a",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": true,
+        "waitForOptions": false,
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "54:",
+      "label": "Español ‎(Spanish)‎",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div > div > a",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 9,
+        "optionsAfterTyping": 9,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Deutsch ‎(German)‎",
+          "English US ‎(English US)‎",
+          "Español ‎(Mexico)‎",
+          "Español ‎(Spanish)‎",
+          "Français ‎(French)‎",
+          "Français canadien ‎(Canadian French)‎",
+          "Italiano ‎(Italian)‎",
+          "Nederlands ‎(Dutch)‎"
+        ],
+        "sampleAfterTyping": [
+          "Deutsch ‎(German)‎",
+          "English US ‎(English US)‎",
+          "Español ‎(Mexico)‎",
+          "Español ‎(Spanish)‎",
+          "Français ‎(French)‎",
+          "Français canadien ‎(Canadian French)‎",
+          "Italiano ‎(Italian)‎",
+          "Nederlands ‎(Dutch)‎"
+        ]
+      },
+      "optionCount": 9,
+      "options": [
+        "Deutsch ‎(German)‎",
+        "English US ‎(English US)‎",
+        "Español ‎(Mexico)‎",
+        "Español ‎(Spanish)‎",
+        "Français ‎(French)‎",
+        "Français canadien ‎(Canadian French)‎",
+        "Italiano ‎(Italian)‎",
+        "Nederlands ‎(Dutch)‎",
+        "Português ‎(Portuguese)‎"
+      ],
+      "normLabel": "espa ol spanish",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_userName",
+      "id": "fbclc_userName",
+      "label": "Direc. e-mail: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_userName",
+      "visible": true,
+      "normLabel": "direc e mail",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailConf",
+      "id": "fbclc_emailConf",
+      "label": "Reescriba la dirección de correo electrónico: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_emailConf",
+      "visible": true,
+      "normLabel": "reescriba la direcci n de correo electr nico",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwd",
+      "id": "fbclc_pwd",
+      "label": "Elegir contraseña: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwd",
+      "visible": true,
+      "normLabel": "elegir contrase a",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_pwdConf",
+      "id": "fbclc_pwdConf",
+      "label": "Volver a escribir la contraseña: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_pwdConf",
+      "visible": true,
+      "normLabel": "volver a escribir la contrase a",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_fName",
+      "id": "fbclc_fName",
+      "label": "Nombre: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_fName",
+      "visible": true,
+      "normLabel": "nombre",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_lName",
+      "id": "fbclc_lName",
+      "label": "Apellidos: *",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "40",
+      "selector": "#fbclc_lName",
+      "visible": true,
+      "normLabel": "apellidos",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_ituCode",
+      "id": "fbclc_ituCode",
+      "label": "Código de país/región:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_ituCode",
+      "visible": true,
+      "options": [
+        "- Seleccionar -",
+        "Afghanistan (+93)",
+        "Albania (+355)",
+        "Algeria (+213)",
+        "American Samoa (+1)",
+        "Andorra (+376)",
+        "Angola (+244)",
+        "Anguilla (+1)",
+        "Antarctica (+672)",
+        "Antigua And Barbuda (+1)",
+        "Argentina (+54)",
+        "Armenia (+374)",
+        "Aruba (+297)",
+        "Australia (+61)",
+        "Austria (+43)",
+        "Azerbaijan (+994)",
+        "Bahamas (+1)",
+        "Bahrain (+973)",
+        "Bangladesh (+880)",
+        "Barbados (+1)",
+        "Belarus (+375)",
+        "Belgium (+32)",
+        "Belize (+501)",
+        "Benin (+229)",
+        "Bermuda (+1)",
+        "Bhutan (+975)",
+        "Bosnia And Herzegovina (+387)",
+        "Botswana (+267)",
+        "Bouvet Island (+47)",
+        "Brazil (+55)",
+        "British Indian Ocean Territory (+246)",
+        "Brunei Darussalam (+673)",
+        "Bulgaria (+359)",
+        "Burkina Faso (+226)",
+        "Burundi (+257)",
+        "Cambodia (+855)",
+        "Cameroon (+237)",
+        "Canada (+1)",
+        "Cayman Islands (+1)",
+        "Central African Republic (+236)"
+      ],
+      "optionValues": [
+        {
+          "label": "- Seleccionar -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan (+93)",
+          "value": "AF"
+        },
+        {
+          "label": "Albania (+355)",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria (+213)",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa (+1)",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra (+376)",
+          "value": "AD"
+        },
+        {
+          "label": "Angola (+244)",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla (+1)",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica (+672)",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua And Barbuda (+1)",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina (+54)",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia (+374)",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba (+297)",
+          "value": "AW"
+        },
+        {
+          "label": "Australia (+61)",
+          "value": "AU"
+        },
+        {
+          "label": "Austria (+43)",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan (+994)",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas (+1)",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain (+973)",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh (+880)",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados (+1)",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus (+375)",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium (+32)",
+          "value": "BE"
+        },
+        {
+          "label": "Belize (+501)",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin (+229)",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda (+1)",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan (+975)",
+          "value": "BT"
+        },
+        {
+          "label": "Bosnia And Herzegovina (+387)",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana (+267)",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island (+47)",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil (+55)",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory (+246)",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam (+673)",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria (+359)",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso (+226)",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi (+257)",
+          "value": "BI"
+        },
+        {
+          "label": "Cambodia (+855)",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon (+237)",
+          "value": "CM"
+        },
+        {
+          "label": "Canada (+1)",
+          "value": "CA"
+        },
+        {
+          "label": "Cayman Islands (+1)",
+          "value": "KY"
+        },
+        {
+          "label": "Central African Republic (+236)",
+          "value": "CF"
+        }
+      ],
+      "optionCount": 237,
+      "normLabel": "c digo de pa s/regi n",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_phoneNumber",
+      "id": "fbclc_phoneNumber",
+      "label": "Número de teléfono:*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "99",
+      "selector": "#fbclc_phoneNumber",
+      "visible": true,
+      "normLabel": "n mero de tel fono",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__fpreferredFirstName",
+      "id": "tor__fpreferredFirstName",
+      "label": "Nombre preferido",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__fpreferredFirstName",
+      "visible": true,
+      "normLabel": "nombre preferido",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__fpreferredLastName",
+      "id": "tor__fpreferredLastName",
+      "label": "Apellido preferido",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__fpreferredLastName",
+      "visible": true,
+      "normLabel": "apellido preferido",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__faddress",
+      "id": "tor__faddress",
+      "label": "Calle",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__faddress",
+      "visible": true,
+      "normLabel": "calle",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__fcity",
+      "id": "tor__fcity",
+      "label": "Ciudad",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__fcity",
+      "visible": true,
+      "normLabel": "ciudad",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "9:_input",
+      "label": "País",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Sin selección",
+          "Afghanistan",
+          "Argentina",
+          "Aland Islands",
+          "Armenia",
+          "Albania",
+          "Aruba",
+          "Algeria"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 100,
+      "options": [
+        "Sin selección",
+        "Afghanistan",
+        "Argentina",
+        "Aland Islands",
+        "Armenia",
+        "Albania",
+        "Aruba",
+        "Algeria",
+        "Australia",
+        "American Samoa",
+        "Austria",
+        "Andorra",
+        "Azerbaijan",
+        "Angola",
+        "Bahamas",
+        "Anguilla",
+        "Bahrain",
+        "Antarctica",
+        "Bangladesh",
+        "Antigua And Barbuda",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia, Plurinational State Of",
+        "Bonaire Sint Eustatius and Saba",
+        "Bosnia And Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cambodia",
+        "Cameroon"
+      ],
+      "normLabel": "pa s",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "13:_input",
+      "label": "Estado",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Hong Kong",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran, Islamic Republic Of",
+          "Iraq",
+          "Ireland"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 100,
+      "options": [
+        "Hong Kong",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Iran, Islamic Republic Of",
+        "Iraq",
+        "Ireland",
+        "Isle Of Man",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jersey",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Korea, Democratic People's Republic Of",
+        "Korea, Republic Of",
+        "Kuwait",
+        "Kyrgyzstan",
+        "Lao People's Democratic Republic",
+        "Latvia",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macao",
+        "Macedonia, The Former Yugoslav Republic Of",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Marshall Islands"
+      ],
+      "normLabel": "estado",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__fzip",
+      "id": "tor__fzip",
+      "label": "Código postal",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__fzip",
+      "visible": true,
+      "normLabel": "c digo postal",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "17:_input",
+      "label": "Idioma preferido",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Hong Kong",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran, Islamic Republic Of",
+          "Iraq",
+          "Ireland"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 100,
+      "options": [
+        "Hong Kong",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Iran, Islamic Republic Of",
+        "Iraq",
+        "Ireland",
+        "Isle Of Man",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jersey",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Korea, Democratic People's Republic Of",
+        "Korea, Republic Of",
+        "Kuwait",
+        "Kyrgyzstan",
+        "Lao People's Democratic Republic",
+        "Latvia",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macao",
+        "Macedonia, The Former Yugoslav Republic Of",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Marshall Islands"
+      ],
+      "normLabel": "idioma preferido",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "21:_input",
+      "label": "Método de contacto preferido:",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Hong Kong",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran, Islamic Republic Of",
+          "Iraq",
+          "Ireland"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 100,
+      "options": [
+        "Hong Kong",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Iran, Islamic Republic Of",
+        "Iraq",
+        "Ireland",
+        "Isle Of Man",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jersey",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Korea, Democratic People's Republic Of",
+        "Korea, Republic Of",
+        "Kuwait",
+        "Kyrgyzstan",
+        "Lao People's Democratic Republic",
+        "Latvia",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macao",
+        "Macedonia, The Former Yugoslav Republic Of",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Marshall Islands"
+      ],
+      "normLabel": "m todo de contacto preferido",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__fcurrentEmployer1",
+      "id": "tor__fcurrentEmployer1",
+      "label": "Empresa actual/más reciente",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__fcurrentEmployer1",
+      "visible": true,
+      "normLabel": "empresa actual/m s reciente",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "tor__fcurrentTitle1",
+      "id": "tor__fcurrentTitle1",
+      "label": "Cargo actual/más reciente",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "100",
+      "selector": "#tor__fcurrentTitle1",
+      "visible": true,
+      "normLabel": "cargo actual/m s reciente",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "25:_input",
+      "label": "¿Estás trabajando actualmente o has trabajado anteriormente para Under Armour, incluido puestos como trabajador temporal o contratista?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Hong Kong",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran, Islamic Republic Of",
+          "Iraq",
+          "Ireland"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 100,
+      "options": [
+        "Hong Kong",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Iran, Islamic Republic Of",
+        "Iraq",
+        "Ireland",
+        "Isle Of Man",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jersey",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Korea, Democratic People's Republic Of",
+        "Korea, Republic Of",
+        "Kuwait",
+        "Kyrgyzstan",
+        "Lao People's Democratic Republic",
+        "Latvia",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macao",
+        "Macedonia, The Former Yugoslav Republic Of",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Marshall Islands"
+      ],
+      "normLabel": "est s trabajando actualmente o has trabajado anteriormente p",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "29:_input",
+      "label": "¿Estás legalmente autorizado para trabajar en el país donde se desempeña esta función?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "est s legalmente autorizado para trabajar en el pa s donde s",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": "none-observed",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "33:_input",
+      "label": "¿Necesitas ahora o necesitarás en el futuro patrocinio para obtener una visa de trabajo u otro tipo de autorización laboral en el país donde se desempeña esta función?",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": []
+      },
+      "normLabel": "necesitas ahora o necesitar s en el futuro patrocinio para o",
+      "canonical": "security_clearance"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "37:_input",
+      "label": "¿Está dispuesto y puede realizar las funciones esenciales del puesto con o sin adaptaciones?",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 200,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Sin selección",
+          "Afghanistan",
+          "Argentina",
+          "Aland Islands",
+          "Armenia",
+          "Albania",
+          "Aruba",
+          "Algeria"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 200,
+      "options": [
+        "Sin selección",
+        "Afghanistan",
+        "Argentina",
+        "Aland Islands",
+        "Armenia",
+        "Albania",
+        "Aruba",
+        "Algeria",
+        "Australia",
+        "American Samoa",
+        "Austria",
+        "Andorra",
+        "Azerbaijan",
+        "Angola",
+        "Bahamas",
+        "Anguilla",
+        "Bahrain",
+        "Antarctica",
+        "Bangladesh",
+        "Antigua And Barbuda",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bolivia, Plurinational State Of",
+        "Bonaire Sint Eustatius and Saba",
+        "Bosnia And Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cambodia",
+        "Cameroon"
+      ],
+      "normLabel": "est dispuesto y puede realizar las funciones esenciales del ",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "dom-on-open",
+        "typeToFilter": false,
+        "waitForOptions": false,
+        "optionsRequest": "https://career8.successfactors.com/xi/ajax/remoting/call/plaincall/picklistControllerProxy.getPicklistByPageWithExcludeOption.dwr",
+        "optionSelector": "li.dropdown"
+      },
+      "name": "",
+      "id": "41:_input",
+      "label": "Sexo",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "Sin selección",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "td > div:nth-of-type(1) > span > div > input",
+      "visible": true,
+      "probe": {
+        "optionsOnOpen": 100,
+        "optionsAfterTyping": 0,
+        "typedProbe": "a",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "Hong Kong",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran, Islamic Republic Of",
+          "Iraq",
+          "Ireland"
+        ],
+        "sampleAfterTyping": []
+      },
+      "optionCount": 100,
+      "options": [
+        "Hong Kong",
+        "Hungary",
+        "Iceland",
+        "India",
+        "Indonesia",
+        "Iran, Islamic Republic Of",
+        "Iraq",
+        "Ireland",
+        "Isle Of Man",
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Jersey",
+        "Jordan",
+        "Kazakhstan",
+        "Kenya",
+        "Kiribati",
+        "Korea, Democratic People's Republic Of",
+        "Korea, Republic Of",
+        "Kuwait",
+        "Kyrgyzstan",
+        "Lao People's Democratic Republic",
+        "Latvia",
+        "Lebanon",
+        "Lesotho",
+        "Liberia",
+        "Libya",
+        "Liechtenstein",
+        "Lithuania",
+        "Luxembourg",
+        "Macao",
+        "Macedonia, The Former Yugoslav Republic Of",
+        "Madagascar",
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Marshall Islands"
+      ],
+      "normLabel": "sexo",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_country",
+      "id": "fbclc_country",
+      "label": "País/Región de residencia",
+      "labelSource": "aria-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#fbclc_country",
+      "visible": true,
+      "options": [
+        "- Seleccionar -",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antarctica",
+        "Antigua And Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Bosnia And Herzegovina",
+        "Botswana",
+        "Bouvet Island",
+        "Brazil",
+        "British Indian Ocean Territory",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi",
+        "Cambodia",
+        "Cameroon",
+        "Canada",
+        "Cayman Islands",
+        "Central African Republic"
+      ],
+      "optionValues": [
+        {
+          "label": "- Seleccionar -",
+          "value": ""
+        },
+        {
+          "label": "Afghanistan",
+          "value": "AF"
+        },
+        {
+          "label": "Albania",
+          "value": "AL"
+        },
+        {
+          "label": "Algeria",
+          "value": "DZ"
+        },
+        {
+          "label": "American Samoa",
+          "value": "AS"
+        },
+        {
+          "label": "Andorra",
+          "value": "AD"
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Anguilla",
+          "value": "AI"
+        },
+        {
+          "label": "Antarctica",
+          "value": "AQ"
+        },
+        {
+          "label": "Antigua And Barbuda",
+          "value": "AG"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Armenia",
+          "value": "AM"
+        },
+        {
+          "label": "Aruba",
+          "value": "AW"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Azerbaijan",
+          "value": "AZ"
+        },
+        {
+          "label": "Bahamas",
+          "value": "BS"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Bangladesh",
+          "value": "BD"
+        },
+        {
+          "label": "Barbados",
+          "value": "BB"
+        },
+        {
+          "label": "Belarus",
+          "value": "BY"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Belize",
+          "value": "BZ"
+        },
+        {
+          "label": "Benin",
+          "value": "BJ"
+        },
+        {
+          "label": "Bermuda",
+          "value": "BM"
+        },
+        {
+          "label": "Bhutan",
+          "value": "BT"
+        },
+        {
+          "label": "Bosnia And Herzegovina",
+          "value": "BA"
+        },
+        {
+          "label": "Botswana",
+          "value": "BW"
+        },
+        {
+          "label": "Bouvet Island",
+          "value": "BV"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "British Indian Ocean Territory",
+          "value": "IO"
+        },
+        {
+          "label": "Brunei Darussalam",
+          "value": "BN"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Burkina Faso",
+          "value": "BF"
+        },
+        {
+          "label": "Burundi",
+          "value": "BI"
+        },
+        {
+          "label": "Cambodia",
+          "value": "KH"
+        },
+        {
+          "label": "Cameroon",
+          "value": "CM"
+        },
+        {
+          "label": "Canada",
+          "value": "CA"
+        },
+        {
+          "label": "Cayman Islands",
+          "value": "KY"
+        },
+        {
+          "label": "Central African Republic",
+          "value": "CF"
+        }
+      ],
+      "optionCount": 237,
+      "normLabel": "pa s/regi n de residencia",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "group",
+      "type": "checkbox",
+      "control": "checkbox-group",
+      "fill": {
+        "action": "check-many",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "fbclc_emailEnabled",
+      "label": "Notificación:",
+      "labelSource": "label[for]",
+      "firstOptionLabel": "Notificación:",
+      "required": false,
+      "options": [
+        "Notificación:"
+      ],
+      "optionValues": [
+        {
+          "label": "Notificación:",
+          "value": "on"
+        }
+      ],
+      "optionCount": 1,
+      "selector": "input[name=\"fbclc_emailEnabled\"]",
+      "normLabel": "notificaci n",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 10,
+      "text": 12,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 1
+    },
+    "byAction": {
+      "click-type-pick": 1,
+      "type": 16,
+      "select-option": 2,
+      "click-pick": 7,
+      "check-many": 1
+    },
+    "byOptionsSource": {
+      "dom-on-open": 8,
+      "dom-static": 3,
+      "none-observed": 2
+    }
+  },
+  "widgetsProbed": 10,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 1
+    },
+    {
+      "widget": "combobox",
+      "count": 9
+    }
+  ],
+  "sections": [
+    "Puestos vacantes: Agente de Ventas Asociado (166857)"
+  ],
+  "buttons": [
+    "Trabajar en UA",
+    "Áreas de talento",
+    "Dónde estamos",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Lea y acepte la declaración de privacidad de datos.",
+    "Solicitar"
+  ],
+  "resumeUpload": [
+    "Saltar al contenido principal cxapplyplaceholderdropdowntoggle cxapplyplaceholderlistitemtext Inicio de sesión de empleado Áreas de talento Nuestra cultura Misión y valores Dónde estamos Beneficios Ap",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "/* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"IMAGES\",{ \"/ui/uicore/img/black.gif\":\"/ui/uicore/img/black_abb41d1cd8e98e62cb7ec27fa",
+    "Español ‎(Spanish)‎ /* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/",
+    "Español ‎(Spanish)‎ /* verp-client: SMRF Globals */!function(w){function set(k,v){Object.assign(k==='window'?w:(w[k]=w[k]||{}),v)} set(\"DEPS_VERSION_MAP\",{ \"/ui/juic/css/components/sfScrollBox.css\":\"/"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/successfactors/underarmour__software-engineer.png",
+    "html": "data/html/successfactors/underarmour__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 4,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 3127,
+    "lowestField": 2780.734375,
+    "coversAllFields": true
+  },
+  "ms": 63362,
+  "fingerprint": {
+    "labelSig": "a02f14705472",
+    "shapeSig": "aa3ad63553a0",
+    "controlSig": "3f05fbb113a9",
+    "controls": {
+      "combobox": 10,
+      "text": 12,
+      "text-password": 2,
+      "native-select": 2,
+      "checkbox-group": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "9474173d75c2",
+    "typeCounts": {
+      "button-dropdown": 1,
+      "text": 21,
+      "password": 2,
+      "select": 2,
+      "checkbox": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location",
+      "password",
+      "security_clearance"
+    ],
+    "requiredCount": 20,
+    "customQuestionCount": 23,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": true,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "successfactors",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

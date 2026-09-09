@@ -1,0 +1,2020 @@
+{
+  "cookies": [
+    {
+      "name": "S",
+      "value": "spreadsheet_forms=FM1XfvEWpuAdKNU-K3GH8slQF3G8BZx8h-WLZBeNo-o",
+      "domain": ".docs.google.com",
+      "path": "/forms/d/e/1FAIpQLSdaxk_eF4utznQoVHlxmL9jVFJbOkM4Oe5CAdKOg-h9EPdLfg",
+      "expires": 1788896734.228772,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "COMPASS",
+      "value": "spreadsheet_forms=CjIACWuJV_zbAkSrNJPSLl0MPMDtKiiKXfzkaM5eJY19bpLNeCvG8y2hOjOaVePkmCao6hDey4HVBho0AAlriVfLv0dpfNuwQ7Y-XaYGMxe7SW4vX_RAdav9Vy8WiELCa6spSAFZLD9DrDnA9i2Vgw==",
+      "domain": ".docs.google.com",
+      "path": "/forms/d/e/1FAIpQLSdaxk_eF4utznQoVHlxmL9jVFJbOkM4Oe5CAdKOg-h9EPdLfg",
+      "expires": 1788896734.228815,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "hG6CUFtE2Htk14TTvBjClNYH1Mt6vcJYM2Pg2X4DiqgxB1kDAyPK!-1359899267!-1786490740",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/hcmUI",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "advertising_id",
+      "value": "c21a01dc-aae6-4d0d-90c0-295b6a4b7fb1",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823020251.631266,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferred_locale",
+      "value": "en-US",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1820428271.096186,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "analytics_id",
+      "value": "f9cb7d6c-5734-4962-acc2-f87d49a9aa78",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823020251.631332,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-mons-sid",
+      "value": "140-4757713-4288732",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820428252.631345,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "23138214940116452754063198945962783401",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1804444255.994693,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "1",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cwr_u",
+      "value": "6f2d45bc-bd33-42d9-8e1e-33fde3f5cfdd",
+      "domain": ".www.amazon.jobs",
+      "path": "/",
+      "expires": 1791484269,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "tb_utm",
+      "value": "{}",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820428269,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.2cc9",
+      "value": "*",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788894071,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-mons-ubid",
+      "value": "131-2548994-6532720",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820428255.959515,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csm-sid",
+      "value": "475-6880892-5313535",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1791259025,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dpm",
+      "value": "23138214940116452754063198945962783401",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1804444255.994721,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_CCBC879D5572070E7F000101%40AdobeOrg",
+      "value": "179643557%7CMCIDTS%7C20705%7CMCMID%7C23110305843243789354066002350313565893%7CMCAAMLH-1789497053%7C7%7CMCAAMB-1789497053%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1788899455s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20712%7CvVersion%7C5.5.0",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823452255.995483,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_plt",
+      "value": "NaN",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_pltp",
+      "value": "undefined",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_lv_s",
+      "value": "First%20Visit",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788894099,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_cc",
+      "value": "true",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-mons-st",
+      "value": "y+pXeicAFLFzaF9Lbh170+k7u3SWfOaSSET9cYV4ACslsIsJDhG/o14U4Er8LtBtWY3UwVIJVj3f1m69rjyCR1cG+riRC9S00lZT6Yrn78jqKJrw+soGb1jkq0phfYvl7q9TTXkFOyLiFZZY6/P4Ynnt8fTl3ZkVWHskWtBL+915hVX9WcDKz/Wmi6tSNhaUu4FN9IAGOI9PitohRkFN9GHOndQMHhEO",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1820428256.398236,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "raw_session_id",
+      "value": "lMMOtCAHGepnd90p1LI6IY4nESa3MmD7Q9",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1788921056.957461,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUk1IMa2QOFEU-2-9JHAV1777-YlllhFJpdZbm5ym2F3NOJCO3Zv2b0y6Al68g4",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1823452257.058544,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "c3d4a156-0f10-4565-a7cc-9fed51da34ac",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820428260.104755,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBGNUoGoCELbtkndGMSgr0RFRkK1epQcFEgEBAQGloWqqatxI0iMA_eMDAA&S=AQAAAriRrw2-SzFLmIuyecdsjNE",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1820449859.850693,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|zM/pYiDpRSMYMcBjkBaAMRLaVLxNtjUy2sODjCpy+lWfIMz7Zz7aazq7dv268I+LG89aKoI9gNyM1KxoLazIt9i2Wk5FrGos0XY24Ec+XLu2NnNKtvZVIxEL1VyT1UhFT57rUQra8YA3bxtoSoVn6PS9GVfKhK5C2AKTx5PcvAFbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820428260.042789,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.jobs",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MTT09HWR-1O-IEXS",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820428260.042824,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MTT09HWR-1O-IEXS",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820428260.042836,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.jobs",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|zM/pYiDpRSMYMcBjkBaAMRLaVLxNtjUy2sODjCpy+lWfIMz7Zz7aazq7dv268I+LG89aKoI9gNyM1KxoLazIt9i2Wk5FrGos0XY24Ec+XLu2NnNKtvZVIxEL1VyT1UhFT57rUQra8YA3bxtoSoVn6PS9GVfKhK5C2AKTx5PcvAFbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1820428260.042851,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFwoIYXBwbmV4dXMSCwjmrv7Nq_jGPxAFEhUKBmdvb2dsZRILCIrVm9Cr-MY_EAUSFgoHcnViaWNvbhILCPzx_s2r-MY_EAUYBSACKAYyCwiOiYH7wfjGPxAFWgd6dTh5OTkyYAF6CQoFdGllcjMQAQ..",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1820428260.104804,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie_preferences",
+      "value": "%7B%22advertising%22%3Atrue%2C%22analytics%22%3Atrue%2C%22version%22%3A2%7D",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823020261.890526,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "0bC0NjycYQs",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "Lj_5R1n9i4E",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444437.695932,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVUxIEGgAgWg%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444437.69595,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "5cd86712-f897-4656-b60c-d899ae0a2a7c",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1796668273.430606,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST04:s=T:r=T:a=T:p=T:g=3763:u=1:x=1:i=1788892263:t=1788978663:v=2:sig=AQF15b6muJ_nOHCrBF-nnX8bwSMXOwIm\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788978663.858334,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "xfYA29tPrOTNTX8Gsp9Th5XdMgDa8byq0MP3N4InC9I-1788892263.8165803-1.0.1.1-kErznNTV18s7SOrC_LejD03xxsgJ2ZQClXNcOqT8nsPGEqCZb1HFbbIpPDTMSE3RD1LX8DsxwM2cfFlXuK5eSeevMJLOgpLPbBemHRf02s4Jqh3ZiIytEd9Opo8OWzfz",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1788894063.85835,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQJ_2nkiHRxNcgAAAaCCSbYMH0fObSuhlFSEnm2D0dLuhLG2RdP2aI37ONP-0gmbLnLQ71lS8hEUkg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791484263.932396,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQICRogOrhCwDQAAAaCCSbYMx0ulXSYuFHT8VcwnnUhTsMSqeDX6k83E2-5HQH3054Kn7ErpE3xsKSdagC3y_A",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1791484263.932407,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&11364007-dd64-41d1-8e7a-44890459636f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1820428875.048946,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20260908183104323e5532-bc11-4369-82a6-034358ba75cbAQFhMRXWkpsnVU5W8ofCfSgGTH2RTCYE\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1820428875.048995,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "21.YT=oJ01n0aiZFrrluEyN7c8uJh7YvmnJ86_fc3gamDxWYuYEEnHGk3lkUT_lKrP1IDAjPas_CGBjDKuPFeYSLW8lPxTLUNVO2fJ360qv8mREPWHHLXDlFq9pRQyPtjo3sUugQu9okl_C91fRz2Lh7GAEwms9hD4BFCTRD6LkEuuZpaZZt_spckLTfkq6T8RAivjlE6NhO_ZUSIhzVhgkS00mK8zIvcJrfshVSr3qI6jlIcmf74XUG2foogL7lgSeozV5iJTPwiaB6CXbyLZp1zw5lyK3dbpwXtsFyJXCBC_vyrwiVbM9iHbIpobEFaBgO36Kv-z00hpbHviU5dJKwESfw",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444263.431253,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.jobs",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CIv7yMi3q4WjWhDtjZ3_zt-WAxjTxZGBz9-WAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444267.431311,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://amazon.jobs",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.698719593.1788892254",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823452273.345012,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "raw_session_ts",
+      "value": "1788892270032",
+      "domain": "www.amazon.jobs",
+      "path": "/",
+      "expires": 1788921070.032019,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1753562115.1788892256.-.-.1788892271.640700751.1788892272.1788892271",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1796668256,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.2cc9",
+      "value": "1808f256-5242-4169-9b8d-e0f1436efcc1.1788892254.1.1788892272..a8caabdb-72fd-4e2b-ac02-da96a90c8bad..ef907b0e-c5e0-483f-94dc-5c1a20005ff6.1788892253714.9",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823452271.799586,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tracking_id",
+      "value": "",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1820428271.096222,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "check_for_eu_countries",
+      "value": "false",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1820428271.096249,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amazon_jobs_session",
+      "value": "bFIxZE53eVVCVEx5ZzFRdWhYNTNCT1pvYU1TNXYzbDg3S0o5elVIVUdaVGJOL1JFaUNXQzVVakpRQ1M2SWt2NXRKRGtndE9FZWRlRmxOSDhOOGhuUzhTaEtLR3lWYm9uZ1VldW4ranN2ZnR0aVpCOHVzcnJ1K3F5bk42U3V1NkpJUUUwTldua3JUSXpTZTVFSFV1dU5JOWM0U1NqWDdqdHoxOE1oRUVhODRwcnlmdEt0MmZDZmR1V1pmenkwZXg3dWZTOWRJNzlpTVd2cldjY3RDSUwyMk9QOU1pVHJJU2x3ZlVZVUM3UUtFMERJZFdNazAyUEZzWlNOREQ5UnRRRm1ueUFybHcydTdWRURmVkk3OFAweVkyRnpDZGt2dU45LzdTZWcvRVRsTzVWOWUrdjBWdDBaNFd5MDJkeER2cC9uaXNKZUhjUDRORjRVSDZjZXFRTWp6d2l2b0ttQTBUQzdzbGd5czFuTlpNTlRyNDBtRmpiOTZkSWhXMDRxMDFhQjR5YmhDZCtOZFROdmFIcGVhNTV5QT09LS1Pd0RqVG1sN2ZpbVpRbkNxM2dYUzR3PT0%3D--de3a45e7f3bcc57a6fa4c69f8cf95e459f27341e",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788978671.096264,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DebugId",
+      "value": "05d5382f-f6e2-4260-8285-b38b8a74e35d",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": 1823452276.465595,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "7B23FDF1AB2D73C197DD35B230CA0801",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OidcRelyingParty",
+      "value": "A2D1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "LastSetRelyingParty",
+      "value": "A2D1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": 1823452276.465638,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "amzn-pp-locale",
+      "value": "en_US",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": 1823452273.068818,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "hLm5ZCVRByxXmt9nk+JV2E8gdX2TZ0YlOifrY2HhA5lHAAAAAGqgVHFiNjE4OTlhMS0yNzAyLTRiMjAtOTNmNi1kODlmZWY2ZjhmYzE=",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geolocation",
+      "value": "US",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823452276.465654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PASSPORT_V2_CAPTCHA_ACCOUNT_CREATION",
+      "value": "T1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PPV2_PRELOGIN",
+      "value": "T1",
+      "domain": "passport.amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cwr_s_a727750b-28d3-4e1d-81fe-8eece247d35b",
+      "value": "eyJzZXNzaW9uSWQiOiI0NmZiNTBlMC1mNDIwLTRjMTgtODYzMS0zYTZlYjVkMjA3YzUiLCJyZWNvcmQiOnRydWUsImV2ZW50Q291bnQiOjIxNywicGFnZSI6eyJwYWdlSWQiOiIvZW4vam9icy8xMDUxNjU0Mi9hdXRvbWF0aW9uLWVuZ2luZWVyLWNmIiwicGFyZW50UGFnZUlkIjoiL2VuL2pvYnMvMTA0NzYzNDMvc29mdHdhcmUtZGV2ZWxvcG1lbnQtZW5naW5lZXItYW1hem9uLXVuaXZlcnNpdHktdGFsZW50LWFxdWlzaXRpb24tYXV0YSIsImludGVyYWN0aW9uIjozLCJyZWZlcnJlciI6IiIsInJlZmVycmVyRG9tYWluIjoiIiwic3RhcnQiOjE3ODg4OTIyNjk2OTl9fQ==",
+      "domain": ".www.amazon.jobs",
+      "path": "/",
+      "expires": 1788894073,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_uetsid",
+      "value": "78a72a10abb311f1b3a07f8f6face55d",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788978673,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "78a74b70abb311f18c6b81af618d323d",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1822588273,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1789497076.106034,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "1092096F82D6643E213D1EA183FF653A",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1822588736.545361,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gpv",
+      "value": "Passport%20%7C%20Pre-Login",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1788894099,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppvl",
+      "value": "Passport%2520%257C%2520Pre-Login%2C92%2C92%2C982%2C1512%2C982%2C1512%2C982%2C1%2CP",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "725467c6-dff6-41eb-9011-a441d8eca7a9:FAoAnJiBmH1bAAAA:CD0aikrhdck+HEXHckLZe2lpX0YHglylmTftSZTRLKBXivpEHqtgBDU46ctYNFKbhDi/MBiBoUx6Pwoo8+TygFvc2j1wtns1Sn7IRWH0TJqWjKo9IOK7QhpQNySAWceZnwlG9s8UPFgWBDJxWIXCnsHDUU34aOGT5Oj5VkaK9/UyVVsmFhkQjDuanUQHU5RpYf/5eBNswO3Puz2vLOi0yilwmeNYfkrc5exoLDXLJ72SzQZkwMrnIOvFYdCH+YIoNrYNDrNQvet8CgFBh22bX3J+aDZfnonAqUPA8Cl0LKvD/JQaY6so+bPBSb6v0VxztP5hVd67IaACPxj6RwwtqWybfow=",
+      "domain": ".passport.amazon.jobs",
+      "path": "/",
+      "expires": 1789237887,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_lv",
+      "value": "1788892299701",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823452299.701499,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_nr30",
+      "value": "1788892299701-New",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1791484299,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_sq",
+      "value": "amazonhrprod%3D%2526c.%2526a.%2526activitymap.%2526page%253DPassport%252520%25257C%252520Pre-Login%2526link%253DContinue%2526region%253DmasterLayout%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253DPassport%252520%25257C%252520Pre-Login%2526pidt%253D1%2526oid%253DContinue%2526oidt%253D3%2526ot%253DSUBMIT",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "s_ppv",
+      "value": "Passport%2520%257C%2520Pre-Login%2C100%2C92%2C982%2C1512%2C982%2C1512%2C982%2C1%2CP",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_XB330LEGLS",
+      "value": "GS2.1.s1788892256$o1$g1$t1788892343$j60$l0$h0",
+      "domain": ".amazon.jobs",
+      "path": "/",
+      "expires": 1823452343.142181,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "838CFC7D91FBAC71A462A92402299D88",
+      "domain": "careers-costco.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookie_icims_iframe_content_height",
+      "value": "2007",
+      "domain": "careers-costco.icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "icimsCookiesEnabledCheck",
+      "value": "1",
+      "domain": ".icims.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w2~38A35DD5485BA6940D569EC5EC1BA3A1",
+      "domain": "jobs.mcdonalds.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "00EA400D969D4D5F3FE44AB884756B19.pc41bcar101",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "mcdonaldsc",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "route",
+      "value": "85b5c75bba03b40e4f87607299454dcf5c184182",
+      "domain": "career41.sapsf.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ahoy_visitor",
+      "value": "d223c15d-535f-442a-a38a-cdbe88d0b7d4",
+      "domain": "kpmg.pinpointhq.com",
+      "path": "/",
+      "expires": 1823452436.269543,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ahoy_visit",
+      "value": "75c6e51b-caaa-4042-91e7-b4a2a6261c65",
+      "domain": "kpmg.pinpointhq.com",
+      "path": "/",
+      "expires": 1788906835.269739,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pinpoint_session",
+      "value": "YWI86G87RKLUXKLq9ikLtEw2A7Vz0kZsgBM%2BKNgyBWAhlMuKo4AA3FAyUPCjrQ2VQRSs7jBYMR6g7UMflPfQrKH1%2BAsP%2BvNfncdRf%2FhUnw9AwXSsAh60ud%2FQGKgs%2BeXUb0l%2Bet3t1MOYi04xLV%2FbnfX%2FQrxIl98uSkf1ZXzcjgR3S0h%2BCmJlpJTvjQ2PZmRSaIaF7Ts04SNGAn%2BI%2BHO4V0EmSSi6nweJq0WXyl%2BKi0913pyHPSk2%2BUhXNuSdp%2F%2FwfUliGk6blZCNXuUrvh8AfWwlDy4BTlXrCBw4PoPo18AKjtaLCTu4W056QLZsKm6fTJK9f3yOT2owNWC4L9EAx8AGgDOPmHl998UWVuRzvLPkl4IYezC%2BKr%2FvYKzQ%2FFDl6U6Lp0oUWuuN0CgVbjIS--nGmhdaOKEjrgCBjO--WPIP2%2FpK7U1RBbBlZWEJOg%3D%3D",
+      "domain": ".pinpointhq.com",
+      "path": "/",
+      "expires": 1789497237.551205,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-YNID",
+      "value": "21.YT=K2FhV1ZGr7ONUPkyLgXnVfeuvwimI0r7Kqyw5gUyBt9XdxNhrV8I76aaHcUURqNzlB7V4wyPtVvhNco1Tn5jVxIwgZ6MWvwbYlyCdAGTVMnxyRlS0NIxA29aE0bMLt2saN6sPkzk_YLBeYCkuydl4UgeDz9f0u0LsjG_gGgpEqeLZeE1kL9A0c6ksCkMub20QM2bgtGG24u63zyip3J5zjMthNI-9_T0F_H3ktItWYZ9BJOecqNeqPj3k4Hc6IPglJy0is2VoYCrzS24vXzjqV_wwbhb_56Xqb_EKhVnMbx2ZGSplhsX9LfnFvIgVoo4PefVLpNRjMnoWkDgUOfNIw",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444437.695852,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://pinpointhq.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CKzdrMKnlMLFIhCOoZ_Sz9-WAxjCqaPSz9-WAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1804444437.695894,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://pinpointhq.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "cc_cookie",
+      "value": "%7B%22categories%22%3A%5B%22necessary%22%2C%22analytics%22%5D%2C%22revision%22%3A0%2C%22data%22%3Anull%2C%22consentTimestamp%22%3A%222026-09-08T18%3A34%3A00.388Z%22%2C%22consentId%22%3A%22468d668b-aa60-431a-83a0-0d64279a36bd%22%2C%22services%22%3A%7B%22necessary%22%3A%5B%5D%2C%22analytics%22%3A%5B%5D%7D%2C%22languageCode%22%3A%22en%22%2C%22lastConsentTimestamp%22%3A%222026-09-08T18%3A34%3A00.388Z%22%2C%22expirationTime%22%3A1804617240388%7D",
+      "domain": ".kpmg.pinpointhq.com",
+      "path": "/",
+      "expires": 1804617240,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "L.2_xv.P889UKWcOyxkJjychaaCOa0nrqSEu5xyx.Ag-1788892443.4669802-1.0.1.1-_eW8vbJKNpmaqwBtWuqSHUIhJmNR8G2XW81dZbJTOBoIFbC9bvxJqiF9cVfO01ED2fM_wRB3CPgEek6MYYqz0pLtSzJLRldUEZrVe6qgHaynSg9q7zkZLWuamogbnm02",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": 1788894243.559342,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.790120432.1788892444",
+      "domain": ".kpmgcareers.co.uk",
+      "path": "/",
+      "expires": 1796668444,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2024880400.1788892444",
+      "domain": ".kpmgcareers.co.uk",
+      "path": "/",
+      "expires": 1823452444.241173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_W44PJP0EJE",
+      "value": "GS2.1.s1788892444$o1$g1$t1788892553$j22$l0$h91289222",
+      "domain": ".kpmgcareers.co.uk",
+      "path": "/",
+      "expires": 1823452553.009843,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_exists",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6ImRISjFaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJjb29raWUuX2JmX3Nlc3Npb25fZXhpc3RzIn19--c09bf3da17accf4c53e92f910eef613c6f99527b",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "yDimIwzgIm8NvFQS6hGv8Xlkt2icjJOGb7UiknsY1jGnZTl39LELrX3wnoixvD64jsY3crpvql7cBnS1GuiK8w",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bf_session_key",
+      "value": "oMoYk689oCS%2F1SPM71nmpzxj83zrs9Q1nyzbWewOO4WSNKc9kRxkCdQaibFvBc6AK1VP0XVDaKrPhHGsFtlLyaXCMxgBMSxaEPxLBlYLKs4LZcubh6jHvEhp6rSx21D%2B0vKUpnOEmCKgzOy0oCqqsMmOdlIvUpa39mHEPoCtJIujXimqVe6rHkZb62J1he%2FLFWQ%2B2x7o8SNQy2TAKdqu0%2Fcch9eyHMO87VmU78YAy1SA44J0ulZ5fxPZjnsmPSs3mEWqWFw6uaxt5FZ3LGJjnUj3aepEbnwemJX5wN7DBTXWg0jE1qU2wNyco5%2BT9Wpx0NXI--n0bviq8p6VY20%2FDA--08gvmt6I%2F0JeINHhROprwQ%3D%3D",
+      "domain": "www.workatastartup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+      "value": "%7B%22%24device_id%22%3A%2201a0824f-0de1-7ff0-b78e-689de704195c%22%2C%22distinct_id%22%3A%2201a0824f-0de1-7ff0-b78e-689de704195c%22%2C%22%24sesid%22%3A%5B1788892671626%2C%2201a0824f-0f95-7f3f-98d6-b05fc905f062%22%2C1788892614549%5D%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".workatastartup.com",
+      "path": "/",
+      "expires": 1820428672,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_FUSION_PREFS",
+      "value": "v1.0~bG9jYWxlPWVufmRlZmF1bHRMYW5ndWFnZU1hcmtlcj10cnVl",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ORA_FND_SESSION_US2BH6V_F",
+      "value": "DEFAULT_PILLAR:ZwJOqybeD6Nzg1fijxb81x83cS3rgb1ReF3H2MYGbl6omgvKmS4FXUcWImu9M4Aw:1788892684872",
+      "domain": ".oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CX_3002_cookieConsentEnabled",
+      "value": "false",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_SITE_NUMBER",
+      "value": "CX_3002",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_FPC",
+      "value": "id=c0aaba99-8f8a-4003-befc-e114cfd6f00f",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1823452699.919935,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID",
+      "value": "4270a78c-85fc-469e-8b10-56691fe18e73",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796668700.280315,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ORA_CX_USERID_FUNCTIONAL",
+      "value": "4270a78c-85fc-469e-8b10-56691fe18e73",
+      "domain": "hdpc.fa.us2.oraclecloud.com",
+      "path": "/",
+      "expires": 1796668700.280416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=2&id=5625339c-120e-46e2-beee-bccd13048da6&created=1788892672962&expire=1788893584462",
+      "domain": "higher.gs.com",
+      "path": "/",
+      "expires": 1788893598,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_vs",
+      "value": "1851514870179116843:1788892731.1385746:383468232876194722",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1820428731.356047,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "value": "d84136a4-fd83-481b-9c0f-25c435279303",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428732.00851,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MS0",
+      "value": "016ff4e336d74f18917faa8b6705ba77",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1788894534.064322,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSCC",
+      "value": "NR",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1788979135,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "handleWcpConsentGCSVNext",
+      "value": "{%22Required%22:true%2C%22Analytics%22:true%2C%22SocialMedia%22:true%2C%22Advertising%22:true}",
+      "domain": ".careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428735,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ai_user",
+      "value": "WY8ad|2026-09-08T18:38:55.462Z",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428735,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1789497536.545401,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MC1",
+      "value": "GUID%3D94a5b30a58774e2eb7d9035544cb69f9%26HASH%3D94a5%26LV%3D202609%26V%3D4%26LU%3D1788892736094",
+      "domain": ".microsoft.com",
+      "path": "/",
+      "expires": 1820428835.112959,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSFPC",
+      "value": "GUID=94a5b30a58774e2eb7d9035544cb69f9&HASH=94a5&LV=202609&V=4&LU=1788892736094",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428736.093763,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_vscid",
+      "value": "0",
+      "domain": ".apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1820428747.203873,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "L51w/0fTmpM8PLX+fLpSdj|1788892732011|1788892804057",
+      "domain": "apply.careers.microsoft.com",
+      "path": "/",
+      "expires": 1788894604,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALB",
+      "value": "ymf53GaitrCBC2yF/NsIdvz04SBfNJntHEZXK+hqmH24TS2qUwWfrykElS/M+voJatFiniuohK0YRzLROF1k6ZAAiDklcZtwxsUI/q4tjLFjNsR0z/ONYY0Plawz",
+      "domain": "jobs.smartrecruiters.com",
+      "path": "/",
+      "expires": 1789497634.656116,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "ymf53GaitrCBC2yF/NsIdvz04SBfNJntHEZXK+hqmH24TS2qUwWfrykElS/M+voJatFiniuohK0YRzLROF1k6ZAAiDklcZtwxsUI/q4tjLFjNsR0z/ONYY0Plawz",
+      "domain": "jobs.smartrecruiters.com",
+      "path": "/",
+      "expires": 1789497634.656162,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "iTHPxMdu8kvnTyugYp_6gaaeC5DKodZD9xxONGR6m3A-1788892835-1.2.1.1-JMBamNp5lYBnS1G810oHwWgluZtSay0D0Rd9zjfDK5Rr564OwcI3SnoufaYhZ8Bu8MSkxupAlwocMBGxzfWx6yzRICBGPkap5.hFzWkPruhESJEOuHOZef4yzf_6P5XNNbjaDlq4mXHPyTjlMz9C7gLXoU0lI.9tIoR7Bn9N3qFhTnSBfi8ri4WRDtiMmdBvlut1xbJ89x_ugmEPQmyKWtULzYt5w4Lb0UADCMMfoGJ8FDFJ.yWyTaoGlslYI7LTRN9a5EI3Cz9WCbZKHK7NTTsK0yp8EccBmkNAIkCIYskXbckWEVWL8QTuSuZhi1vN.Gufzjak9u7V18cwsMJQuBMPGE5s7h0fcA1FB3HF3Lo",
+      "domain": ".smartrecruiters.com",
+      "path": "/",
+      "expires": 1820428835.379493,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://smartrecruiters.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+Sep+08+2026+14%3A40%3A35+GMT-0400+(Eastern+Daylight+Time)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fjobs.smartrecruiters.com%2FEquinox%2F744000138711935&groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1",
+      "domain": ".smartrecruiters.com",
+      "path": "/",
+      "expires": 1820428835,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "value": "Ec8aSecLfOuVaL10wFaAX6UuCX~cbRaAAPf~R4NSRsRohk9r6qpcSwjWW1XkMgJLxEeqp_qRW6BZhjOEWzxIC1oNgOBC9teHuSlqIxwgDlOyqezJQPIpehkiaPxjEK0i",
+      "domain": ".smartrecruiters.com",
+      "path": "/",
+      "expires": 1820428846.664888,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sc-wcid",
+      "value": "8027d55f-7bd0-4720-88a4-d049abc21b34",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sc-cookies-accepted",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "EssentialSession",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Preferences",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Performance",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Marketing",
+      "value": "true",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1820428859,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "blizzard_client_id",
+      "value": "86b2c4ab-aabd-4f05-bac8-6bcefd536575:1788892861270",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1791484861,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "blizzard_web_session_id",
+      "value": "icpi/+COmHYr9D/B",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1788894671,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.346697247.1788892862",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1823452862.152991,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_SESSION",
+      "value": "1f2b4d280e1924e82f95f010f2670cc726c859f8-snapchat_pSessionId=bg1ggkaqpsl5odb4se0qtvhec8&instance=vps-prod-lken691l.prod-vps.pr502.cust.ash.wd",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wd-browser-id",
+      "value": "5c79375a-8e4b-4c09-8ef5-e598dfa38098",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_CSRF_TOKEN",
+      "value": "3caeee9b-ff1a-43c5-b7ff-fd8bbc5350a9",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CALYPSO_SESSION",
+      "value": "1dd61a4e-e1b3-43ca-ae58-9c289538f7ce.c25hcGNoYXQ=.V0RDQzEuMIQAJQAAINbtP78DoXdwCdrWwzqbhoTEBUU+A/edUMh8AetqHnOSAACMABYBMQAQLp9hIkw310Rnea6/pf+HbQAAADFkZDYxYTRlLWUxYjMtNDNjYS1hZTU4LTljMjg5NTM4ZjdjZQ==",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wday_vps_cookie",
+      "value": "2977527818.53810.0000",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28w13JawehWKrLnxrs9ZDMWgizHBzsdhzB9qXPvKn",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": 1788975671.049084,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": ".TTscNlRELRtxoI_5NUv_5bqN.3SSD6SOSYqFORh0uo-1788892870.7321093-1.0.1.1-ZypiJAGVZXb7.LYMjpRWLclXpqGVieE48lDwpE8kvA0",
+      "domain": ".wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "timezoneOffset",
+      "value": "240",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "u5mVkFJlaDko.Uk_3ok5FOB7_K4yjA8u1qIW0vV5XwU-1788892872.773392-1.0.1.1-dTMSfT8hMPOj7bJ0IZLEGiQgkMEnBS1TMDYw80l2mm.PfEZtFVVnX0umHYFFQrlVoCSLGew_TD4wuwDcTJIUPkgQCsrFewmtowYqnCUHGgeEOw_F5KuZWSJ5cffvLgiJ",
+      "domain": ".myworkdaycdn.com",
+      "path": "/",
+      "expires": 1788894672.75017,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.2124078442.1788892873",
+      "domain": ".wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": 1823452991.922037,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "QEtmpUHyrn7vHnCvdYCSHzqj7MNrjLLYLU4QeNAPYAs-1788892874.6199818-1.0.1.1-689PiUgqj86J.vJx.4HCVlTp.R6GjJAf3jwL_1ARzothp4hfYgVeo3d6ETZdojYw0H3qRqEvwSNxVXX8QNe9HnGd6Aet5P0rhsUdk66DKQsQYu9tVstK2v_UoU3L8x.3",
+      "domain": ".applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788894674.686161,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "02DiuEhzEqcmmVbuV88irKngXNdjTxKA3T4fmZWbqToTS",
+      "domain": "applywithlinkedin.myworkdaygadgets.com",
+      "path": "/",
+      "expires": 1788975674.686198,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "v=2&lang=en-us",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "ajax:8356286739541002270",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_GKBE1PEVE6",
+      "value": "GS2.1.s1788892861$o1$g1$t1788892886$j44$l0$h0",
+      "domain": ".snap.com",
+      "path": "/",
+      "expires": 1823452886.113519,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "oAFi4a_HM0Gg0pTjbZSv8YgG3sHV0gpE1.Mq_dUwSAk-1788892990.5067618-1.0.1.1-9LqULab.5oA83hYpkPgEYERoztI2XsKbAM3Ug1lPP3J96V5nYbp0DaEHXiotAfhCSn_m_4QASz0rjzCTg0CRW4u0gqdMdMYXmL7bzF07mM2XOkvaSjWeMqJ_mUgeXBQx",
+      "domain": ".wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": 1788894790.461146,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PLAY_LANG",
+      "value": "en-US",
+      "domain": "wd1.myworkdaysite.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "M_O2bW_5867_qAXmzJ6KNBms8QrF0sYheTlMhg7bOxE-1788892992.0691135-1.0.1.1-lU4SbBUW.pEACJYajVGaLhqQ9PkIzdpDPVRenwUC64ka.AtYiNRDXFpdpygb99hBiuH6FXskMtw0kjsUO6UQwPo5bRvpxadmQXpbWI4QUjH7UNp2OLEWgYG81QiSpEvT",
+      "domain": ".www.myworkday.com",
+      "path": "/",
+      "expires": 1788894791.930581,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cflb",
+      "value": "0H28vBEge8AEKDYKqHtAuDwMAFqeyjYFqtFfA6D8P8Y",
+      "domain": "www.myworkday.com",
+      "path": "/",
+      "expires": 1788975793.512353,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "w5~5F362835369E1C9523028BCF0932BC51",
+      "domain": "jobs.colgate.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TAsessionID",
+      "value": "f19c1419-494e-4d0d-bd40-f3c8920a23a9|NEW",
+      "domain": ".jobs.colgate.com",
+      "path": "/",
+      "expires": 1788894814,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "implied,us",
+      "domain": ".jobs.colgate.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.264934645.1788893014",
+      "domain": ".colgate.com",
+      "path": "/",
+      "expires": 1796669014,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1468602142.1788893014",
+      "domain": ".colgate.com",
+      "path": "/",
+      "expires": 1823453032.955987,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_preferences",
+      "value": "2:",
+      "domain": ".jobs.colgate.com",
+      "path": "/",
+      "expires": 1823021032,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_gdpr_prefs",
+      "value": "0,1,2:",
+      "domain": ".jobs.colgate.com",
+      "path": "/",
+      "expires": 1823021032,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cmapi_gtm_bl",
+      "value": "",
+      "domain": ".jobs.colgate.com",
+      "path": "/",
+      "expires": 1823021032,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cmapi_cookie_privacy",
+      "value": "permit 1,2,3",
+      "domain": ".jobs.colgate.com",
+      "path": "/",
+      "expires": 1823021032,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "3351A7668743140B038B58AC30BFD851.pc68bcar1008",
+      "domain": "career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "careerSiteCompanyId",
+      "value": "colgate",
+      "domain": "career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "route",
+      "value": "ed8b7c7cc98411ef0ab301cdfb98809f96579524",
+      "domain": "career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_X70PQDNXJK",
+      "value": "GS2.1.s1788893014$o1$g1$t1788893053$j21$l0$h0",
+      "domain": ".colgate.com",
+      "path": "/",
+      "expires": 1823453053.357974,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TAsessionID",
+      "value": "33eb56ab-3643-40be-a0f2-9be4134d6dfc|NEW",
+      "domain": ".career4.successfactors.com",
+      "path": "/",
+      "expires": 1788894854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "implied,us",
+      "domain": ".career4.successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1678114690.1788893055",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1796669055,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__gtm_referrer",
+      "value": "https%3A%2F%2Fjobs.colgate.com%2F",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1051957953.1788893055",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1823453079.424326,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cc_ut",
+      "value": "1788893055481m6adcrz2o",
+      "domain": ".appcast.io",
+      "path": "/",
+      "expires": 1820361600.045862,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ccid",
+      "value": "1788893055481m6adcrz2o",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1820361600,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_preferences",
+      "value": "2:",
+      "domain": ".career4.successfactors.com",
+      "path": "/",
+      "expires": 1823021072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_gdpr_prefs",
+      "value": "0,1,2:",
+      "domain": ".career4.successfactors.com",
+      "path": "/",
+      "expires": 1823021072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cmapi_gtm_bl",
+      "value": "",
+      "domain": ".career4.successfactors.com",
+      "path": "/",
+      "expires": 1823021072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cmapi_cookie_privacy",
+      "value": "permit 1,2,3",
+      "domain": ".career4.successfactors.com",
+      "path": "/",
+      "expires": 1823021072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "CvIBCAESpAEBp2sxron8SghmOk-3miYhRgT33-2DYtka5j5HwhueN3ViZr_VF7hFVnrdaBBXWvQ46KMPTCCjbA6vAIe0u9EePQTzwF6hy15f9eIFhKf6fv_Hfcj9eWcwM3t3QeMB0u6pae7WRZQ71ePO1P-Gtbd494GF5hdg-eSwxvIucWvkS5SG_YMdgm4FFEXriRHwP4oF2jsaA82wWRRoaxW-_h7jpgqL0ygBMkUBDiveEUPgyEIOIov0P9N8U5FNOMKbelGUmGkjXo2LQVOkD0kRmZhMDC_DB2xz0lKFlDJAUPKWJwjy-kpG6Z02CKidngc",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1804704334.232092,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_X70PQDNXJK",
+      "value": "GS2.1.s1788893055$o1$g1$t1788893148$j45$l0$h0",
+      "domain": ".successfactors.com",
+      "path": "/",
+      "expires": 1823453148.733239,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.amazon.jobs",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"hdt4V1PXUSNahAoWdSIAo0I4RYUsAKDLoA\",\"lastJoinedTimeMs\":1788892256204},\"expires\":1788892556204},\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892273293},\"expires\":1796668273293}}"
+        },
+        {
+          "name": "cwr_c",
+          "value": "{\"accessKeyId\":\"ASIAZQLFLHDXZNTC3TGD\",\"secretAccessKey\":\"YsgrBaIneUwizxi97PQ/C5Se+XDo9t9AYSz69xEo\",\"sessionToken\":\"IQoJb3JpZ2luX2VjEJP//////////wEaCXVzLWVhc3QtMSJIMEYCIQDSgy66WIsvrZ7gZWOZsHiBkTqAEujq+U8IK13umG+nLwIhANRphisMIj+qoX9kwfg04g0XHip05dz6Vd63sY1/iC1/KoYDCFsQAxoMNjUzNTg0NDQ3NzI3Igy2TkfQ3psYIoh6CSYq4wIS51IUie6GHlHzFM3VJebJddgtz+zmVq+JrEXsfyZI1Y/oMFfTk0jGIMiHkAnoCfsVsn6ZBG5hRhy93xlKP60xuLXa2K7dpj8Af+kMtoyTIyhexV4AWWtFakCVUihhyypVm2cRzlmn29JLFIVXarEZb91ey0sYouQaihdBOE3CTKXT10mx1lfqQs0wI5BaRLarrBz52zHoz4HabkqSa9J++argO8raAfsAbm+1oA/FAF5cB/pT9qx+zYnJvU17VfNbdMgdaQhovm/uy0aCAC8m+XFQdLVwLdbs3LYrzJwCSiUWcdHfQkm+6yg5XhJU2sMlMCqXR1wFsCYuxbJQ+Xo7ACCcj2+o0oZ/K7HUf1HWSyp17wngZZVUaRaO5sxNaWtFup7jUOj4VKdEom2qz0i60PG1ynaULJEdHMbcQU9GjuBabP8nVxYLphE85axhI8OAwokYKmU1IfMNfnoyo5i4y7P/MOCogdUGOoQCPB58uBMPUsdOT/eosBdseLc7w1ey9xdK3lbvTZYQmF7ylAVlb71dnx9u52EAFTfpcJw1Cf6wHSbV9V0Bjesxr/vmvY5RplewZo2en5gz6VMHnF/e09s9/QoA2+pgK+NWmESarqNRGWI1TfjDEycZ+VUntKAjtt5mgtPduOcTL7DGWl5KHChPoaVL0L3RsyKi+cOjpbWNVas1lFvcSwCSsJI88w+EOQq0BBAT7CS8QCvtOZAHNJZglFVFBWgLKHuXPOZh6Npza+TaO4Y3tPrzRoRSKE9StwNRlaas8LUIlPJcB5Ir2HzGUGbOCEOzpmhyiaIZSDflt+YaGP2xPU18bwoOXQs=\",\"expiration\":\"2026-09-08T19:30:56.000Z\"}"
+        },
+        {
+          "name": "snowplowOutQueue_amazon-75-tracker",
+          "value": "[{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.amazon.jobs/en/jobs/10521208/senior-software-development-engineer-aws-secdevops\",\"page\":\"Senior Software Development Engineer, AWS SecDevOps - Job ID: 10521208 | Amazon.jobs\",\"eid\":\"ef907b0e-c5e0-483f-94dc-5c1a20005ff6\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892253714\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiYTRjYjAxZC02YTdiLTRlY2UtYjQ3My1jMjhhZTk4NjhlOTEifX1dfQ\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"page-view\",\"se_la\":\"10521208\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"d18c6e67-e9d6-4d04-a4c4-70919724757a\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892253716\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"url\":\"https://www.amazon.jobs/en/jobs/10521208/senior-software-development-engineer-aws-secdevops\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJiYTRjYjAxZC02YTdiLTRlY2UtYjQ3My1jMjhhZTk4NjhlOTEifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026\",\"page\":\"Software Development Engineer – 2026 - Job ID: 3175845 | Amazon.jobs\",\"eid\":\"485cba3c-d638-4859-8844-e970a5817fb2\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892263269\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIzNTFkMzNlNi04MDFlLTRkZGQtYWFmYi1jMTM5MWQ4NDRmYjcifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"page-view\",\"se_la\":\"3175845\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"9c128736-e326-4083-b8ab-3ff2fefe53bd\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892263272\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"url\":\"https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiIzNTFkMzNlNi04MDFlLTRkZGQtYWFmYi1jMTM5MWQ4NDRmYjcifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.amazon.jobs/en/jobs/10476343/software-development-engineer-amazon-university-talent-aquisition-auta\",\"page\":\"Software Development Engineer , Amazon University Talent Aquisition (AUTA) - Job ID: 10476343 | Amazon.jobs\",\"eid\":\"8177eb2b-eb57-4f48-8dc4-ad19b3edd4ba\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892266904\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI2NTVhOGY5ZC0wM2JiLTQ0NGUtOTE2Zi03NDYyOWIxYTFmY2EifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"page-view\",\"se_la\":\"10476343\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"17c5bc92-b408-4f47-bd65-9fb1de703246\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892266904\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"url\":\"https://www.amazon.jobs/en/jobs/10476343/software-development-engineer-amazon-university-talent-aquisition-auta\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI2NTVhOGY5ZC0wM2JiLTQ0NGUtOTE2Zi03NDYyOWIxYTFmY2EifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"pv\",\"url\":\"https://www.amazon.jobs/en/jobs/10516542/automation-engineer-cf\",\"page\":\"Automation Engineer, CF - Job ID: 10516542 | Amazon.jobs\",\"eid\":\"4dcf2f2a-ef58-4f82-b736-e42b7db7feec\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892269707\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI0Yjk1ZjA2ZC02MTUzLTQ0MTgtODMzNi1iZjRlYjVmMDE0YzgifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"page-view\",\"se_la\":\"10516542\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"bab67120-08d1-4098-86fc-f0b1663a2927\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892269708\",\"vp\":\"1512x982\",\"ds\":\"1512x982\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"url\":\"https://www.amazon.jobs/en/jobs/10516542/automation-engineer-cf\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI0Yjk1ZjA2ZC02MTUzLTQ0MTgtODMzNi1iZjRlYjVmMDE0YzgifX1dfQ\"},\"svrAnon\":false},{\"payload\":{\"e\":\"se\",\"se_ca\":\"careersite\",\"se_ac\":\"apply-click\",\"se_la\":\"10516542\",\"se_pr\":\"1\",\"se_va\":\"10.0\",\"eid\":\"a43c75b3-e33f-41df-87aa-8b28358b47ed\",\"tv\":\"js-4.3.1\",\"tna\":\"amazon-75-tracker\",\"aid\":\"amazon-75\",\"p\":\"web\",\"cookie\":\"1\",\"cs\":\"UTF-8\",\"lang\":\"en-US\",\"res\":\"1512x982\",\"cd\":\"24\",\"tz\":\"America/New_York\",\"dtm\":\"1788892271778\",\"vp\":\"1512x982\",\"ds\":\"1512x2811\",\"vid\":1,\"sid\":\"a8caabdb-72fd-4e2b-ac02-da96a90c8bad\",\"duid\":\"1808f256-5242-4169-9b8d-e0f1436efcc1\",\"url\":\"https://www.amazon.jobs/en/jobs/10516542/automation-engineer-cf\",\"f_pdf\":\"1\",\"f_qt\":\"0\",\"f_realp\":\"0\",\"f_wma\":\"0\",\"f_dir\":\"0\",\"f_fla\":\"0\",\"f_java\":\"0\",\"f_gears\":\"0\",\"f_ag\":\"0\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiI0Yjk1ZjA2ZC02MTUzLTQ0MTgtODMzNi1iZjRlYjVmMDE0YzgifX1dfQ\"},\"svrAnon\":false}]"
+        },
+        {
+          "name": "cwr_i",
+          "value": "{\"IdentityId\":\"us-east-1:982cab38-efc0-c52a-bc43-66599ce3f52b\"}"
+        },
+        {
+          "name": "li_adsId",
+          "value": "2846e51d-084f-4819-9fa4-2feda770f88a"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube-nocookie.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1791484267583,\"creation\":1788892267583}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1788892267706"
+        }
+      ]
+    },
+    {
+      "origin": "https://passport.amazon.jobs",
+      "localStorage": [
+        {
+          "name": "_uetvid_exp",
+          "value": "Sun, 03 Oct 2027 18:31:13 GMT"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Wed, 09 Sep 2026 18:31:13 GMT"
+        },
+        {
+          "name": "persist:socialLogin",
+          "value": "{\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_uetvid",
+          "value": "78a74b70abb311f18c6b81af618d323d"
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1788892276861"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"wccM3fSiUQs2IbIL7IIYCNoS5FT0D77jNg\",\"lastJoinedTimeMs\":1788892273319},\"expires\":1788892573319},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892273319},\"expires\":1796668273319}}"
+        },
+        {
+          "name": "awswaf_session_storage",
+          "value": "725467c6-dff6-41eb-9011-a441d8eca7a9:FAoAnJiBmH5bAAAA:GzW+FJfcNX3QE+kL85h1iRRj7ljLr8o5iaxdWc42z6wASnZ8uS+NylMKhs44vEp57GApRdoIFw7p6r1CKxsag2Wwa3ZQRmKqF7+4fq2J4cTKxOTK2uUoKx91bdWnNYfL2k6j9tuNT3PpvsPPCQ6/SF4CdEvPTBBMyXuvtWUoIVTWodSCTkoUWznlnu92Y2r54cX1ktpf7EskhIko1A2PiZdwRKXX87P7TKFmzpls4Gx3QJ7zNOMG10k09z0z4SFbATP167JLLr4I/MKdC/cT+IX9nyyZ+DxmW7g7nmNPV+BmbZw5gUxIhYxmQKGTF9gJJDba4MHS3IuY3FVt+SKgKLr6RWUE+axwZyLDp/qJ92goGolQzRuXmEW7qfnY0XfhZvnWgcWkW6AQIo8o8dg8y2pN8Wq3/Nb6w9OSC9E5nfw6XHqocvkvho+/9a1/3mGXVja3nBtJm3b72AJYlvWZp63Oq7sElf3O8P3k9z/E21z5Qtoiy0wyuCZYmZs43dKzpE5fE+a1wYqG7w+DD7QM0QppdvvC8ZPSF588FY3ZMxaHG5NYCcDx4VBYcd9FFPfLSSYf58D1qxBj6ZK2ohRZioNOSg=="
+        },
+        {
+          "name": "_uetsid",
+          "value": "78a72a10abb311f1b3a07f8f6face55d"
+        },
+        {
+          "name": "li_adsId",
+          "value": "fcf81c48-dd40-47b0-9438-7cf8ff472892"
+        },
+        {
+          "name": "persist:password",
+          "value": "{\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:registration",
+          "value": "{\"username\":\"\\\"\\\"\",\"expiredTime\":\"0\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:root",
+          "value": "{\"socialLogin\":\"{\\\"errorResponse\\\":\\\"\\\",\\\"action\\\":\\\"\\\",\\\"loading\\\":false,\\\"linkedToPassportAccount\\\":false,\\\"_persist\\\":{\\\"version\\\":-1,\\\"rehydrated\\\":true}}\",\"password\":\"{\\\"password\\\":\\\"\\\",\\\"errorResponse\\\":\\\"\\\",\\\"action\\\":\\\"\\\",\\\"loading\\\":false,\\\"_persist\\\":{\\\"version\\\":-1,\\\"rehydrated\\\":true}}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    },
+    {
+      "origin": "https://kpmg.pinpointhq.com",
+      "localStorage": [
+        {
+          "name": "cache-sprite-plyr",
+          "value": "{\"content\":\"<?xml version=\\\"1.0\\\" encoding=\\\"UTF-8\\\"?><!DOCTYPE svg PUBLIC \\\"-//W3C//DTD SVG 1.1//EN\\\" \\\"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\\\"><svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\"><symbol id=\\\"plyr-airplay\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M16 1H2a1 1 0 00-1 1v10a1 1 0 001 1h3v-2H3V3h12v8h-2v2h3a1 1 0 001-1V2a1 1 0 00-1-1z\\\"/><path d=\\\"M4 17h10l-5-6z\\\"/></symbol><symbol id=\\\"plyr-captions-off\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M1 1c-.6 0-1 .4-1 1v11c0 .6.4 1 1 1h4.6l2.7 2.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3l2.7-2.7H17c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1H1zm4.52 10.15c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41C8.47 4.96 7.46 3.76 5.5 3.76c-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69zm7.57 0c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41c-.28-1.15-1.29-2.35-3.25-2.35-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69z\\\" fill-rule=\\\"evenodd\\\" fill-opacity=\\\".5\\\"/></symbol><symbol id=\\\"plyr-captions-on\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M1 1c-.6 0-1 .4-1 1v11c0 .6.4 1 1 1h4.6l2.7 2.7c.2.2.4.3.7.3.3 0 .5-.1.7-.3l2.7-2.7H17c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1H1zm4.52 10.15c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41C8.47 4.96 7.46 3.76 5.5 3.76c-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69zm7.57 0c1.99 0 3.01-1.32 3.28-2.41l-1.29-.39c-.19.66-.78 1.45-1.99 1.45-1.14 0-2.2-.83-2.2-2.34 0-1.61 1.12-2.37 2.18-2.37 1.23 0 1.78.75 1.95 1.43l1.3-.41c-.28-1.15-1.29-2.35-3.25-2.35-1.9 0-3.61 1.44-3.61 3.7 0 2.26 1.65 3.69 3.63 3.69z\\\" fill-rule=\\\"evenodd\\\"/></symbol><symbol id=\\\"plyr-download\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z\\\"/></symbol><symbol id=\\\"plyr-enter-fullscreen\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M10 3h3.6l-4 4L11 8.4l4-4V8h2V1h-7zM7 9.6l-4 4V10H1v7h7v-2H4.4l4-4z\\\"/></symbol><symbol id=\\\"plyr-exit-fullscreen\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M1 12h3.6l-4 4L2 17.4l4-4V17h2v-7H1zM16 .6l-4 4V1h-2v7h7V6h-3.6l4-4z\\\"/></symbol><symbol id=\\\"plyr-fast-forward\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M7.875 7.171L0 1v16l7.875-6.171V17L18 9 7.875 1z\\\"/></symbol><symbol id=\\\"plyr-logo-vimeo\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M17 5.3c-.1 1.6-1.2 3.7-3.3 6.4-2.2 2.8-4 4.2-5.5 4.2-.9 0-1.7-.9-2.4-2.6C5 10.9 4.4 6 3 6c-.1 0-.5.3-1.2.8l-.8-1c.8-.7 3.5-3.4 4.7-3.5 1.2-.1 2 .7 2.3 2.5.3 2 .8 6.1 1.8 6.1.9 0 2.5-3.4 2.6-4 .1-.9-.3-1.9-2.3-1.1.8-2.6 2.3-3.8 4.5-3.8 1.7.1 2.5 1.2 2.4 3.3z\\\"/></symbol><symbol id=\\\"plyr-logo-youtube\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M16.8 5.8c-.2-1.3-.8-2.2-2.2-2.4C12.4 3 9 3 9 3s-3.4 0-5.6.4C2 3.6 1.3 4.5 1.2 5.8 1 7.1 1 9 1 9s0 1.9.2 3.2c.2 1.3.8 2.2 2.2 2.4C5.6 15 9 15 9 15s3.4 0 5.6-.4c1.4-.3 2-1.1 2.2-2.4.2-1.3.2-3.2.2-3.2s0-1.9-.2-3.2zM7 12V6l5 3-5 3z\\\"/></symbol><symbol id=\\\"plyr-muted\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M12.4 12.5l2.1-2.1 2.1 2.1 1.4-1.4L15.9 9 18 6.9l-1.4-1.4-2.1 2.1-2.1-2.1L11 6.9 13.1 9 11 11.1zM3.786 6.008H.714C.286 6.008 0 6.31 0 6.76v4.512c0 .452.286.752.714.752h3.072l4.071 3.858c.5.3 1.143 0 1.143-.602V2.752c0-.601-.643-.977-1.143-.601L3.786 6.008z\\\"/></symbol><symbol id=\\\"plyr-pause\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M6 1H3c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1zm6 0c-.6 0-1 .4-1 1v14c0 .6.4 1 1 1h3c.6 0 1-.4 1-1V2c0-.6-.4-1-1-1h-3z\\\"/></symbol><symbol id=\\\"plyr-pip\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M13.293 3.293L7.022 9.564l1.414 1.414 6.271-6.271L17 7V1h-6z\\\"/><path d=\\\"M13 15H3V5h5V3H2a1 1 0 00-1 1v12a1 1 0 001 1h12a1 1 0 001-1v-6h-2v5z\\\"/></symbol><symbol id=\\\"plyr-play\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M15.562 8.1L3.87.225c-.818-.562-1.87 0-1.87.9v15.75c0 .9 1.052 1.462 1.87.9L15.563 9.9c.584-.45.584-1.35 0-1.8z\\\"/></symbol><symbol id=\\\"plyr-restart\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M9.7 1.2l.7 6.4 2.1-2.1c1.9 1.9 1.9 5.1 0 7-.9 1-2.2 1.5-3.5 1.5-1.3 0-2.6-.5-3.5-1.5-1.9-1.9-1.9-5.1 0-7 .6-.6 1.4-1.1 2.3-1.3l-.6-1.9C6 2.6 4.9 3.2 4 4.1 1.3 6.8 1.3 11.2 4 14c1.3 1.3 3.1 2 4.9 2 1.9 0 3.6-.7 4.9-2 2.7-2.7 2.7-7.1 0-9.9L16 1.9l-6.3-.7z\\\"/></symbol><symbol id=\\\"plyr-rewind\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M10.125 1L0 9l10.125 8v-6.171L18 17V1l-7.875 6.171z\\\"/></symbol><symbol id=\\\"plyr-settings\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M16.135 7.784a2 2 0 01-1.23-2.969c.322-.536.225-.998-.094-1.316l-.31-.31c-.318-.318-.78-.415-1.316-.094a2 2 0 01-2.969-1.23C10.065 1.258 9.669 1 9.219 1h-.438c-.45 0-.845.258-.997.865a2 2 0 01-2.969 1.23c-.536-.322-.999-.225-1.317.093l-.31.31c-.318.318-.415.781-.093 1.317a2 2 0 01-1.23 2.969C1.26 7.935 1 8.33 1 8.781v.438c0 .45.258.845.865.997a2 2 0 011.23 2.969c-.322.536-.225.998.094 1.316l.31.31c.319.319.782.415 1.316.094a2 2 0 012.969 1.23c.151.607.547.865.997.865h.438c.45 0 .845-.258.997-.865a2 2 0 012.969-1.23c.535.321.997.225 1.316-.094l.31-.31c.318-.318.415-.781.094-1.316a2 2 0 011.23-2.969c.607-.151.865-.547.865-.997v-.438c0-.451-.26-.846-.865-.997zM9 12a3 3 0 110-6 3 3 0 010 6z\\\"/></symbol><symbol id=\\\"plyr-volume\\\" viewBox=\\\"0 0 18 18\\\"><path d=\\\"M15.6 3.3c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4C15.4 5.9 16 7.4 16 9c0 1.6-.6 3.1-1.8 4.3-.4.4-.4 1 0 1.4.2.2.5.3.7.3.3 0 .5-.1.7-.3C17.1 13.2 18 11.2 18 9s-.9-4.2-2.4-5.7z\\\"/><path d=\\\"M11.282 5.282a.909.909 0 000 1.316c.735.735.995 1.458.995 2.402 0 .936-.425 1.917-.995 2.487a.909.909 0 000 1.316c.145.145.636.262 1.018.156a.725.725 0 00.298-.156C13.773 11.733 14.13 10.16 14.13 9c0-.17-.002-.34-.011-.51-.053-.992-.319-2.005-1.522-3.208a.909.909 0 00-1.316 0zm-7.496.726H.714C.286 6.008 0 6.31 0 6.76v4.512c0 .452.286.752.714.752h3.072l4.071 3.858c.5.3 1.143 0 1.143-.602V2.752c0-.601-.643-.977-1.143-.601L3.786 6.008z\\\"/></symbol></svg>\"}"
+        },
+        {
+          "name": "plyr",
+          "value": "{\"volume\":1,\"muted\":false}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1791484438165,\"creation\":1788892438165}"
+        },
+        {
+          "name": "yt-icons-last-purged",
+          "value": "1784486038501"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.kpmgcareers.co.uk",
+      "localStorage": [
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"2tSTRELONKD1GUOrPJ3-PuD2fQuPogeD-w\",\"lastJoinedTimeMs\":1788892515895},\"expires\":1788892815895},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788892444061},\"expires\":1796668444061}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.workatastartup.com",
+      "localStorage": [
+        {
+          "name": "unleash:repository:sessionId",
+          "value": "\"775100504\""
+        },
+        {
+          "name": "unleash:repository:repo",
+          "value": "[]"
+        },
+        {
+          "name": "ph_phc_kqzJJG8aN5nevL0k1oW4Z8iAGswsxBnsWqIBcOuxjah_posthog",
+          "value": "{\"$device_id\":\"01a0824f-0de1-7ff0-b78e-689de704195c\",\"distinct_id\":\"01a0824f-0de1-7ff0-b78e-689de704195c\",\"$sesid\":[1788892671626,\"01a0824f-0f95-7f3f-98d6-b05fc905f062\",1788892614549],\"$user_state\":\"anonymous\",\"$initialization_time\":\"2026-09-08T18:37:27.007Z\",\"$configured_session_timeout_ms\":1800000,\"$autocapture_disabled_server_side\":false,\"$logs_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$session_recording_remote_config\":{\"cache_timestamp\":1788892647023,\"enabled\":true,\"canvasFps\":3,\"canvasQuality\":\"0.4\",\"consoleLogRecordingEnabled\":true,\"endpoint\":\"/s/\",\"eventTriggers\":[],\"linkedFlag\":null,\"masking\":null,\"minimumDurationMilliseconds\":null,\"networkPayloadCapture\":{\"capturePerformance\":false},\"recordCanvas\":true,\"recorderVersion\":\"v2\",\"sampleRate\":null,\"scriptConfig\":{\"script\":\"posthog-recorder\"},\"triggerGroups\":[{\"conditions\":{\"matchType\":\"all\",\"urls\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www\\\\.ycombinator\\\\.com(?!/avatars/kiosk).*$\"}]},\"id\":\"41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\",\"name\":\"Migrated trigger conditions\",\"sampleRate\":1}],\"triggerMatchType\":null,\"urlBlocklist\":[],\"urlTriggers\":[{\"matching\":\"regex\",\"url\":\"^https://bookface.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://investors.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://events.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://messages.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.startupschool.org.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.workatastartup.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.ycombinator.com.*$\"},{\"matching\":\"regex\",\"url\":\"^https://www.apply.ycombinator.com.*$\"}],\"version\":2,\"canvasRecording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"}},\"$product_tours_enabled_server_side\":false,\"$heatmaps_enabled_server_side\":false,\"$web_vitals_enabled_server_side\":false,\"$exception_capture_enabled_server_side\":false,\"$dead_clicks_enabled_server_side\":false,\"$client_session_props\":{\"sessionId\":\"01a0824f-0f95-7f3f-98d6-b05fc905f062\",\"props\":{\"r\":\"$direct\",\"u\":\"https://www.workatastartup.com/jobs/100469\"}},\"$posthog_sr_group_sampling_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":{\"sessionId\":\"01a0824f-0f95-7f3f-98d6-b05fc905f062\",\"sampleRate\":1,\"sampled\":true},\"$posthog_sr_group_url_trigger_41ae1d16-fcd9-4b57-8c5d-063e2022a9c5\":\"01a0824f-0f95-7f3f-98d6-b05fc905f062\",\"$feature_flag_errors\":[],\"$active_feature_flags\":[],\"$enabled_feature_flags\":{},\"$feature_flag_payloads\":{},\"$feature_flag_details\":{},\"$minimal_flag_called_events\":false,\"$feature_flag_request_id\":\"9f8c5296-e247-4577-b2d2-7d519d9361b6\",\"$feature_flag_evaluated_at\":1788892647258,\"$sess_rec_flush_size\":{\"sessionId\":\"01a0824f-0f95-7f3f-98d6-b05fc905f062\",\"size\":549222},\"$debug_first_full_snapshot_timestamp\":1788892647018}"
+        }
+      ]
+    },
+    {
+      "origin": "https://hdpc.fa.us2.oraclecloud.com",
+      "localStorage": [
+        {
+          "name": "ORA_COOK_STORE",
+          "value": "{\"ORA_FPC\":\"ORA_FPC=id=c0aaba99-8f8a-4003-befc-e114cfd6f00f; expires=Fri, 08 Sep 2028 06:15:51 GMT; path=/\"}"
+        },
+        {
+          "name": "ceSessionExpire",
+          "value": "[]"
+        },
+        {
+          "name": "quick-apply-enabled",
+          "value": "false"
+        },
+        {
+          "name": "recent-searches",
+          "value": "[]"
+        }
+      ]
+    },
+    {
+      "origin": "https://apply.careers.microsoft.com",
+      "localStorage": [
+        {
+          "name": "efUserInteractionHistory",
+          "value": "[]"
+        },
+        {
+          "name": "obf-CampaignDefinitions",
+          "value": "[{\"CampaignId\":\"5ac3a929-71dd-4455-b2dc-3f9dec5fd7f2\",\"StartTimeUtc\":\"2023-06-28T00:00:00Z\",\"GovernedChannelType\":0,\"NominationScheme\":{\"Type\":0,\"PercentageNumerator\":50,\"PercentageDenominator\":100,\"NominationPeriod\":{\"Type\":0,\"IntervalSeconds\":\"2592000\"},\"CooldownPeriod\":{\"Type\":0,\"IntervalSeconds\":\"7776000\"}},\"SurveyTemplate\":{\"Type\":2,\"ActivationEvent\":{\"Type\":0,\"Activity\":\"AppUsageTime\",\"Count\":1,\"IsAggregate\":true},\"Content\":{\"Prompt\":{\"Title\":\"FPS_Prompt_Title\",\"Question\":\"FPS_Prompt_Question\",\"YesLabel\":\"FPS_Prompt_YesLabel\",\"NoLabel\":\"FPS_Prompt_NoLabel\"},\"Rating\":{\"IsZeroBased\":false,\"Question\":\"FPS_Rating_Question\",\"RatingValuesAscending\":[\"FPS_Rating_Values_5\",\"FPS_Rating_Values_4\",\"FPS_Rating_Values_3\",\"FPS_Rating_Values_2\",\"FPS_Rating_Values_1\"]},\"Question\":{\"Question\":\"FPS_Question_Question\"}}}}]"
+        },
+        {
+          "name": "obf-SurveyActivationStats",
+          "value": "{\"Surveys\":{}}"
+        },
+        {
+          "name": "obf-SurveyEventActivityStats",
+          "value": "{\"Surveys\":{}}"
+        },
+        {
+          "name": "obf-CampaignStates",
+          "value": "{\"CampaignStates\":[{\"CampaignId\":\"5ac3a929-71dd-4455-b2dc-3f9dec5fd7f2\",\"LastNominationTimeUtc\":\"2026-09-08T18:40:25.487Z\",\"LastNominationBuildNumber\":\"0.0.0.0\",\"DeleteAfterSecondsWhenStale\":\"2592000\",\"ForceCandidacy\":false,\"IsCandidate\":false,\"DidCandidateTriggerSurvey\":false,\"LastSurveyActivatedTimeUtc\":\"1601-01-01T00:00:00.000Z\",\"LastSurveyId\":\"\",\"LastSurveyStartTimeUtc\":\"1601-01-01T00:00:00.000Z\",\"LastSurveyExpirationTimeUtc\":\"1601-01-01T00:00:00.000Z\",\"LastCooldownEndTimeUtc\":\"1601-01-01T00:00:00.000Z\"}]}"
+        },
+        {
+          "name": "obf-GovernedChannelStates",
+          "value": "{\"ChannelStates\":[{\"ChannelType\":0,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":1,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":2,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":3,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"},{\"ChannelType\":4,\"CooldownStartTimeUtc\":\"1601-01-01T00:00:00.000Z\"}]}"
+        },
+        {
+          "name": "obf-FloodgateSettings",
+          "value": "null"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.recaptcha.net",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MWZrMnR6YnJydTltNg=="
+        }
+      ]
+    },
+    {
+      "origin": "https://jobs.smartrecruiters.com",
+      "localStorage": [
+        {
+          "name": "pa-l",
+          "value": "sid=ml9fvgv0&sst=1788892835&sis=2&rv=0&r1=1"
+        },
+        {
+          "name": "pa-l_enabled",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "origin": "https://wd1.myworkdaysite.com",
+      "localStorage": [
+        {
+          "name": "localStorageLocale",
+          "value": "en-US"
+        }
+      ]
+    },
+    {
+      "origin": "https://jobs.colgate.com",
+      "localStorage": [
+        {
+          "name": "truste.eu.cookie.cmapi_gtm_bl",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_gtm_bl\",\"value\":\"\",\"path\":\"/\",\"expires\":1823035432131}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_preferences",
+          "value": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"2:\",\"path\":\"/\",\"expires\":1823035432116}"
+        },
+        {
+          "name": "truste.eu.cookie.cmapi_cookie_privacy",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_cookie_privacy\",\"value\":\"permit 1,2,3\",\"path\":\"/\",\"expires\":1823035432131}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"HjvhrrLjURDJKhqbuP4E03B6DbSctmY75Q\",\"lastJoinedTimeMs\":1788893014163},\"expires\":1788893314163},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788893014165},\"expires\":1796669014165}}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_gdpr_prefs",
+          "value": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0,1,2:\",\"path\":\"/\",\"expires\":1823035432116}"
+        },
+        {
+          "name": "optout_domains",
+          "value": "{\"Required Cookies\":{\"domains\":{\"jobs2web.com\":\"2\",\"jobs.colgate.com\":\"2\"},\"value\":\"0\"},\"Advertising Cookies\":{\"domains\":{\"doubleclick.net\":\"1\",\"www.facebook.com\":\"1\",\"atdmt.com\":\"1\",\"facebook.com\":\"1\",\"addthis.com\":\"1\",\"youtube.com\":\"1\"},\"value\":\"2\"},\"Functional Cookies\":{\"domains\":{\"infotrust.com\":\"1\"},\"value\":\"1\"}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://career4.successfactors.com",
+      "localStorage": [
+        {
+          "name": "truste.eu.cookie.cmapi_gtm_bl",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_gtm_bl\",\"value\":\"\",\"path\":\"/\",\"expires\":1823035472396}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_preferences",
+          "value": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"2:\",\"path\":\"/\",\"expires\":1823035472382}"
+        },
+        {
+          "name": "truste.eu.cookie.cmapi_cookie_privacy",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_cookie_privacy\",\"value\":\"permit 1,2,3\",\"path\":\"/\",\"expires\":1823035472396}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"JgUHyQ5ToQyJCL43-nU830nQOgzyYwwxVA\",\"lastJoinedTimeMs\":1788893055025},\"expires\":1788893355025},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1788893055026},\"expires\":1796669055026}}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_gdpr_prefs",
+          "value": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0,1,2:\",\"path\":\"/\",\"expires\":1823035472382}"
+        },
+        {
+          "name": "_ccid",
+          "value": "1788893055481m6adcrz2o"
+        },
+        {
+          "name": "optout_domains",
+          "value": "{\"Required Cookies\":{\"domains\":{\"jobs2web.com\":\"2\",\"jobs.colgate.com\":\"2\"},\"value\":\"0\"},\"Advertising Cookies\":{\"domains\":{\"doubleclick.net\":\"1\",\"www.facebook.com\":\"1\",\"atdmt.com\":\"1\",\"facebook.com\":\"1\",\"addthis.com\":\"1\",\"youtube.com\":\"1\"},\"value\":\"2\"},\"Functional Cookies\":{\"domains\":{\"infotrust.com\":\"1\"},\"value\":\"1\"}}"
+        }
+      ]
+    }
+  ]
+}

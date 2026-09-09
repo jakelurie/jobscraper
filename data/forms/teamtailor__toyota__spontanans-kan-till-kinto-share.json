@@ -1,0 +1,263 @@
+{
+  "id": "teamtailor__toyota__spontanans-kan-till-kinto-share",
+  "group": "teamtailor",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "teamtailor",
+    "atsLabel": "teamtailor",
+    "company": "toyota",
+    "board": "toyota",
+    "title": "Spontanansökan till KINTO Share",
+    "location": "",
+    "jobUrl": "https://jobs.kinto-nordic.com/jobs/1077816-spontanansokan-till-kinto-share",
+    "startUrl": "https://jobs.kinto-nordic.com/jobs/1077816-spontanansokan-till-kinto-share"
+  },
+  "platform": "teamtailor",
+  "detectedPlatform": "custom:jobs.kinto-nordic.com",
+  "platformLabel": "jobs.kinto-nordic.com (teamtailor)",
+  "finalUrl": "https://jobs.kinto-nordic.com/jobs/1077816-spontanansokan-till-kinto-share",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Spontanansökan till KINTO Share - KINTO Mobility Nordic",
+  "fieldCount": 4,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-f65a7a22",
+      "label": "Dela sidan",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-f65a7a22",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "dela sidan",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "Välj plats",
+      "id": "",
+      "label": "Välj plats",
+      "labelSource": "name-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "select[name=\"Välj plats\"]",
+      "visible": true,
+      "options": [
+        "Stockholm",
+        "Göteborg",
+        "Malmö"
+      ],
+      "optionValues": [
+        {
+          "label": "Stockholm",
+          "value": "160188"
+        },
+        {
+          "label": "Göteborg",
+          "value": "160233"
+        },
+        {
+          "label": "Malmö",
+          "value": "160232"
+        }
+      ],
+      "optionCount": 3,
+      "normLabel": "v lj plats",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "trigger-dropdown-4c84ee3d",
+      "label": "Byt språk",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#trigger-dropdown-4c84ee3d",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "byt spr k",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "div",
+      "control": "rich-text",
+      "fill": {
+        "action": "type",
+        "openBy": "click",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "",
+      "label": "E-postadress utan domän",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div > div > form > div:nth-of-type(1) > div",
+      "visible": true,
+      "normLabel": "e postadress utan dom n",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 2,
+      "native-select": 1,
+      "rich-text": 1
+    },
+    "byAction": {
+      "click-pick": 2,
+      "select-option": 1,
+      "type": 1
+    },
+    "byOptionsSource": {
+      "unknown": 2,
+      "dom-static": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "rich-text",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Webbplatsen använder cookies för att säkerställa att du får den bästa upplevelsen.",
+    "Spontanansökan till KINTO Share",
+    "Vill du bli vår nya stjärna? Brinner du för hållbarhet och tycker det är roligt att göra affärer? Vill du jobba med ett grymt gäng?",
+    "Vår kultur",
+    "Om KINTO Mobility Nordic",
+    "Spontanansökan till KINTO Share",
+    "Vill du bli vår nya stjärna? Brinner du för hållbarhet och tycker det är roligt att göra affärer? Vill du jobba med ett grymt gäng?",
+    "Karriärsida",
+    "Toyota",
+    "Jobbar du redan på KINTO Mobility Nordic?"
+  ],
+  "buttons": [
+    "Acceptera alla cookies",
+    "Neka alla icke-nödvändiga cookies",
+    "Inställningar för cookies",
+    "KARRIÄRMENY",
+    "Dela sidan",
+    "Ansök här",
+    "Go to slide 1",
+    "Go to slide 2",
+    "Go to slide 3",
+    "Go to slide 4",
+    "Ansök här",
+    "Hantera cookies",
+    "Byt språk Svenska",
+    "Logga in"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/teamtailor/toyota__spontanans-kan-till-kinto-share.png",
+    "html": "data/html/_unreached/teamtailor/toyota__spontanans-kan-till-kinto-share.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 1,
+    "unpinnedElements": 1,
+    "docHeight": 4848,
+    "lowestField": 4588.953125,
+    "coversAllFields": true
+  },
+  "ms": 5551,
+  "fingerprint": {
+    "labelSig": "74db74ad49be",
+    "shapeSig": "074b108dbf16",
+    "controlSig": "2da98c69b6dc",
+    "controls": {
+      "combobox": 2,
+      "native-select": 1,
+      "rich-text": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "76ca0e0938c3",
+    "typeCounts": {
+      "button-dropdown": 2,
+      "select": 1,
+      "div": 1
+    },
+    "canonicals": [
+      "custom_question"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 4,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

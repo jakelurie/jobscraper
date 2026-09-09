@@ -1,0 +1,253 @@
+{
+  "id": "workday__warnerbros__senior-software-engineer",
+  "group": "workday",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "workday",
+    "atsLabel": "Workday",
+    "company": "warnerbros",
+    "board": "warnerbros",
+    "title": "Senior Software Engineer",
+    "location": "GA Atlanta 1050 Techwood Drive NW",
+    "jobUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Software-Developer_R000100418",
+    "startUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Software-Developer_R000100418/apply"
+  },
+  "platform": "workday",
+  "detectedPlatform": "workday",
+  "platformLabel": "Workday",
+  "finalUrl": "https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Software-Developer_R000100418/apply/applyManually",
+  "applyTrail": [
+    "clicked: Apply Manually",
+    "clicked: Create Account",
+    "clicked: Create Account"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Create Account",
+  "fieldCount": 5,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "button",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-pick",
+        "openBy": "click",
+        "optionsFrom": "unknown",
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "languageSelectorButton",
+      "label": "language Selector Button",
+      "labelSource": "id-attr",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#languageSelectorButton",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "normLabel": "language selector button",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "input-4",
+      "label": "Email Address*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "email",
+      "maxlength": "",
+      "selector": "#input-4",
+      "visible": true,
+      "normLabel": "email address",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "input-5",
+      "label": "Password*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "new-password",
+      "maxlength": "",
+      "selector": "#input-5",
+      "visible": true,
+      "normLabel": "password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "input-6",
+      "label": "Verify New Password*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "new-password",
+      "maxlength": "",
+      "selector": "#input-6",
+      "visible": true,
+      "normLabel": "verify new password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "website",
+      "id": "351e579d-466f-41a6-843d-51103b2a89e9",
+      "label": "Enter website. This input is for robots only, do not enter if you're human.",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"website\"]",
+      "visible": true,
+      "normLabel": "enter website this input is for robots only do not enter if ",
+      "canonical": "portfolio"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "combobox": 1,
+      "text": 2,
+      "text-password": 2
+    },
+    "byAction": {
+      "click-pick": 1,
+      "type": 4
+    },
+    "byOptionsSource": {
+      "unknown": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Senior Software Engineer",
+    "Create Account",
+    "Follow Us"
+  ],
+  "buttons": [
+    "English",
+    "Sign In",
+    "Search for Jobs",
+    "Back to Job Posting",
+    "Create Account",
+    "Sign In",
+    "Forgot your password?"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": true,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/workday/warnerbros__senior-software-engineer.png",
+    "html": "data/html/_unreached/workday/warnerbros__senior-software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 2,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 1236,
+    "lowestField": 966.5050048828125,
+    "coversAllFields": true
+  },
+  "ms": 64265,
+  "fingerprint": {
+    "labelSig": "92d9f178e2a2",
+    "shapeSig": "ae803a31f9ff",
+    "controlSig": "a3ebaf545617",
+    "controls": {
+      "combobox": 1,
+      "text": 2,
+      "text-password": 2
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "9841f46c1a54",
+    "typeCounts": {
+      "button-dropdown": 1,
+      "text": 2,
+      "password": 2
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "password",
+      "portfolio"
+    ],
+    "requiredCount": 3,
+    "customQuestionCount": 1,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

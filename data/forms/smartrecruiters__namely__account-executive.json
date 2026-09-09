@@ -1,0 +1,96 @@
+{
+  "id": "smartrecruiters__namely__account-executive",
+  "group": "smartrecruiters",
+  "ok": false,
+  "isApplicationForm": false,
+  "blocked": true,
+  "status": 200,
+  "seed": {
+    "ats": "smartrecruiters",
+    "atsLabel": "smartrecruiters",
+    "company": "namely",
+    "board": "namely",
+    "title": "Account Executive",
+    "location": "New York, us",
+    "jobUrl": "https://jobs.smartrecruiters.com/Namely/99599596",
+    "startUrl": "https://jobs.smartrecruiters.com/Namely/99599596"
+  },
+  "platform": "smartrecruiters",
+  "detectedPlatform": "smartrecruiters",
+  "platformLabel": "SmartRecruiters",
+  "finalUrl": "https://jobs.smartrecruiters.com/external-referrals/company/Namely/publication/08a43ac8-3277-4df8-abef-00d2d8ad68a2?dcr_ci=Namely",
+  "applyTrail": [
+    "opened posting: Refer a friend"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": false,
+    "why": "captcha",
+    "via": null
+  },
+  "inIframe": true,
+  "pageTitle": "You have been blocked",
+  "fieldCount": 0,
+  "fields": [],
+  "controls": {
+    "byControl": {},
+    "byAction": {},
+    "byOptionsSource": {}
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [],
+  "buttons": [
+    "Submit feedback."
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/smartrecruiters/namely__account-executive.png",
+    "html": "data/html/_unreached/smartrecruiters/namely__account-executive.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 0,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 0,
+    "docHeight": 890,
+    "lowestField": 0,
+    "coversAllFields": true
+  },
+  "ms": 24079,
+  "fingerprint": {
+    "labelSig": "da39a3ee5e6b",
+    "shapeSig": "f1c3c72a49a4",
+    "controlSig": "da39a3ee5e6b",
+    "controls": {},
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "3b7568ff8d12",
+    "typeCounts": {},
+    "canonicals": [],
+    "requiredCount": 0,
+    "customQuestionCount": 0,
+    "hasFileUpload": false,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

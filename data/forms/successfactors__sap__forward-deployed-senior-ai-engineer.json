@@ -1,0 +1,603 @@
+{
+  "id": "successfactors__sap__forward-deployed-senior-ai-engineer",
+  "group": "successfactors",
+  "ok": true,
+  "isApplicationForm": false,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "sap",
+    "atsLabel": "SAP (SuccessFactors)",
+    "company": "sap",
+    "board": "sap",
+    "title": "Forward Deployed Senior AI Engineer",
+    "location": "",
+    "jobUrl": "https://jobs.sap.com/job/New-York-Forward-Deployed-Senior-AI-Engineer-NY-10001/1421516633/",
+    "startUrl": "https://jobs.sap.com/job/New-York-Forward-Deployed-Senior-AI-Engineer-NY-10001/1421516633/"
+  },
+  "platform": "successfactors",
+  "platformLabel": "SAP SuccessFactors",
+  "finalUrl": "https://jobs.sap.com/",
+  "applyTrail": [
+    "clicked: Apply now »",
+    "saved-session:sap__sap.json"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": {
+    "ok": true,
+    "why": null,
+    "via": null
+  },
+  "inIframe": false,
+  "pageTitle": "Jobs at SAP | SAP Careers",
+  "fieldCount": 5,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "q",
+      "id": "",
+      "label": "Search by keyword",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Search by keyword",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"q\"]",
+      "visible": true,
+      "normLabel": "search by keyword",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "locationsearch",
+      "id": "",
+      "label": "Search by location",
+      "labelSource": "aria-label",
+      "required": false,
+      "placeholder": "Search by location",
+      "autocomplete": "",
+      "maxlength": "50",
+      "selector": "input[name=\"locationsearch\"]",
+      "visible": true,
+      "normLabel": "search by location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "optionsFacetsDD_department",
+      "id": "optionsFacetsDD_department",
+      "label": "Work area",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#optionsFacetsDD_department",
+      "visible": true,
+      "options": [
+        "All",
+        "Administration",
+        "Communication",
+        "Consulting and Professional Services",
+        "Corporate Operations",
+        "Customer Service and Support",
+        "Education and Training",
+        "Finance",
+        "Human Resources",
+        "Information Technology",
+        "Legal",
+        "Marketing",
+        "Presales",
+        "Sales",
+        "Sales Operations",
+        "Sales Support",
+        "Software-Design and Development",
+        "Software-Development Operations",
+        "Software-Quality Assurance",
+        "Software-Research",
+        "Software-User Experience",
+        "Solution and Product Management"
+      ],
+      "optionValues": [
+        {
+          "label": "All",
+          "value": ""
+        },
+        {
+          "label": "Administration",
+          "value": "Administration"
+        },
+        {
+          "label": "Communication",
+          "value": "Communication"
+        },
+        {
+          "label": "Consulting and Professional Services",
+          "value": "Consulting  and Professional Services"
+        },
+        {
+          "label": "Corporate Operations",
+          "value": "Corporate Operations"
+        },
+        {
+          "label": "Customer Service and Support",
+          "value": "Customer Service and Support"
+        },
+        {
+          "label": "Education and Training",
+          "value": "Education and Training"
+        },
+        {
+          "label": "Finance",
+          "value": "Finance"
+        },
+        {
+          "label": "Human Resources",
+          "value": "Human Resources"
+        },
+        {
+          "label": "Information Technology",
+          "value": "Information Technology"
+        },
+        {
+          "label": "Legal",
+          "value": "Legal"
+        },
+        {
+          "label": "Marketing",
+          "value": "Marketing"
+        },
+        {
+          "label": "Presales",
+          "value": "Presales"
+        },
+        {
+          "label": "Sales",
+          "value": "Sales"
+        },
+        {
+          "label": "Sales Operations",
+          "value": "Sales Operations"
+        },
+        {
+          "label": "Sales Support",
+          "value": "Sales Support"
+        },
+        {
+          "label": "Software-Design and Development",
+          "value": "Software-Design and Development"
+        },
+        {
+          "label": "Software-Development Operations",
+          "value": "Software-Development Operations"
+        },
+        {
+          "label": "Software-Quality Assurance",
+          "value": "Software-Quality Assurance"
+        },
+        {
+          "label": "Software-Research",
+          "value": "Software-Research"
+        },
+        {
+          "label": "Software-User Experience",
+          "value": "Software-User Experience"
+        },
+        {
+          "label": "Solution and Product Management",
+          "value": "Solution and Product Management"
+        }
+      ],
+      "optionCount": 22,
+      "normLabel": "work area",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "optionsFacetsDD_customfield3",
+      "id": "optionsFacetsDD_customfield3",
+      "label": "Career status",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#optionsFacetsDD_customfield3",
+      "visible": true,
+      "options": [
+        "All",
+        "Executive",
+        "Graduate",
+        "Management",
+        "Professional",
+        "Student",
+        "Vocational"
+      ],
+      "optionValues": [
+        {
+          "label": "All",
+          "value": ""
+        },
+        {
+          "label": "Executive",
+          "value": "Executive"
+        },
+        {
+          "label": "Graduate",
+          "value": "Graduate"
+        },
+        {
+          "label": "Management",
+          "value": "Management"
+        },
+        {
+          "label": "Professional",
+          "value": "Professional"
+        },
+        {
+          "label": "Student",
+          "value": "Student"
+        },
+        {
+          "label": "Vocational",
+          "value": "Vocational"
+        }
+      ],
+      "optionCount": 7,
+      "normLabel": "career status",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "optionsFacetsDD_country",
+      "id": "optionsFacetsDD_country",
+      "label": "Country",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#optionsFacetsDD_country",
+      "visible": true,
+      "options": [
+        "All",
+        "Angola",
+        "Argentina",
+        "Australia",
+        "Austria",
+        "Bahrain",
+        "Belgium",
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark",
+        "Egypt",
+        "Finland",
+        "France",
+        "Germany",
+        "Hungary",
+        "India",
+        "Indonesia",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Kenya",
+        "Malaysia",
+        "Mexico",
+        "Netherlands",
+        "New Zealand",
+        "Nigeria",
+        "Norway",
+        "Pakistan",
+        "Peru",
+        "Philippines",
+        "Poland",
+        "Portugal",
+        "Qatar"
+      ],
+      "optionValues": [
+        {
+          "label": "All",
+          "value": ""
+        },
+        {
+          "label": "Angola",
+          "value": "AO"
+        },
+        {
+          "label": "Argentina",
+          "value": "AR"
+        },
+        {
+          "label": "Australia",
+          "value": "AU"
+        },
+        {
+          "label": "Austria",
+          "value": "AT"
+        },
+        {
+          "label": "Bahrain",
+          "value": "BH"
+        },
+        {
+          "label": "Belgium",
+          "value": "BE"
+        },
+        {
+          "label": "Brazil",
+          "value": "BR"
+        },
+        {
+          "label": "Bulgaria",
+          "value": "BG"
+        },
+        {
+          "label": "Canada",
+          "value": "CA"
+        },
+        {
+          "label": "Chile",
+          "value": "CL"
+        },
+        {
+          "label": "China",
+          "value": "CN"
+        },
+        {
+          "label": "Colombia",
+          "value": "CO"
+        },
+        {
+          "label": "Cyprus",
+          "value": "CY"
+        },
+        {
+          "label": "Czech Republic",
+          "value": "CZ"
+        },
+        {
+          "label": "Denmark",
+          "value": "DK"
+        },
+        {
+          "label": "Egypt",
+          "value": "EG"
+        },
+        {
+          "label": "Finland",
+          "value": "FI"
+        },
+        {
+          "label": "France",
+          "value": "FR"
+        },
+        {
+          "label": "Germany",
+          "value": "DE"
+        },
+        {
+          "label": "Hungary",
+          "value": "HU"
+        },
+        {
+          "label": "India",
+          "value": "IN"
+        },
+        {
+          "label": "Indonesia",
+          "value": "ID"
+        },
+        {
+          "label": "Ireland",
+          "value": "IE"
+        },
+        {
+          "label": "Israel",
+          "value": "IL"
+        },
+        {
+          "label": "Italy",
+          "value": "IT"
+        },
+        {
+          "label": "Japan",
+          "value": "JP"
+        },
+        {
+          "label": "Kenya",
+          "value": "KE"
+        },
+        {
+          "label": "Malaysia",
+          "value": "MY"
+        },
+        {
+          "label": "Mexico",
+          "value": "MX"
+        },
+        {
+          "label": "Netherlands",
+          "value": "NL"
+        },
+        {
+          "label": "New Zealand",
+          "value": "NZ"
+        },
+        {
+          "label": "Nigeria",
+          "value": "NG"
+        },
+        {
+          "label": "Norway",
+          "value": "NO"
+        },
+        {
+          "label": "Pakistan",
+          "value": "PK"
+        },
+        {
+          "label": "Peru",
+          "value": "PE"
+        },
+        {
+          "label": "Philippines",
+          "value": "PH"
+        },
+        {
+          "label": "Poland",
+          "value": "PL"
+        },
+        {
+          "label": "Portugal",
+          "value": "PT"
+        },
+        {
+          "label": "Qatar",
+          "value": "QA"
+        }
+      ],
+      "optionCount": 57,
+      "normLabel": "country",
+      "canonical": "location"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 2,
+      "native-select": 3
+    },
+    "byAction": {
+      "type": 2,
+      "select-option": 3
+    },
+    "byOptionsSource": {
+      "dom-static": 3
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "Find your next role",
+    "How is your experience with this page?"
+  ],
+  "buttons": [
+    "Search jobs"
+  ],
+  "resumeUpload": [],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": false,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/_unreached/successfactors/sap__forward-deployed-senior-ai-engineer.png",
+    "html": "data/html/_unreached/successfactors/sap__forward-deployed-senior-ai-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 3667,
+    "lowestField": 952.40625,
+    "coversAllFields": true
+  },
+  "ms": 50953,
+  "fingerprint": {
+    "labelSig": "9196ee68bd4f",
+    "shapeSig": "e4f97bfc28a0",
+    "controlSig": "2fd951fb97fa",
+    "controls": {
+      "text": 2,
+      "native-select": 3
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "67893a06f334",
+    "typeCounts": {
+      "text": 2,
+      "select": 3
+    },
+    "canonicals": [
+      "custom_question",
+      "location"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 3,
+    "hasFileUpload": false,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "detectedPlatform": "successfactors",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}

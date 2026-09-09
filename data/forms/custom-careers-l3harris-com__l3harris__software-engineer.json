@@ -1,0 +1,285 @@
+{
+  "id": "icims__l3harris__software-engineer",
+  "group": "custom-careers-l3harris-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "icims",
+    "atsLabel": "icims",
+    "company": "l3harris",
+    "board": "l3harris",
+    "title": "Software Engineer",
+    "location": "",
+    "jobUrl": "https://careers.l3harris.com/en",
+    "startUrl": "https://careers.l3harris.com/en"
+  },
+  "platform": "icims",
+  "platformLabel": "careers.l3harris.com",
+  "finalUrl": "https://careers.l3harris.com/en",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Working at L3Harris Technologies",
+  "fieldCount": 3,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "search",
+      "control": "text-search",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "k",
+      "id": "search-keyword-31a3c5d057",
+      "label": "Keyword Search",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Enter keywords...",
+      "autocomplete": "off",
+      "maxlength": "150",
+      "selector": "#search-keyword-31a3c5d057",
+      "visible": true,
+      "normLabel": "keyword search",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "select",
+      "type": "select",
+      "control": "native-select",
+      "fill": {
+        "action": "select-option",
+        "openBy": null,
+        "optionsFrom": "dom-static",
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "",
+      "id": "select-location",
+      "label": "Select a Country",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#select-location",
+      "visible": true,
+      "options": [
+        "Select a Country",
+        "Australia",
+        "Canada",
+        "India",
+        "Japan",
+        "Republic of Korea",
+        "Saudi Arabia",
+        "Singapore",
+        "Taiwan",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "optionValues": [
+        {
+          "label": "Select a Country",
+          "value": ""
+        },
+        {
+          "label": "Australia",
+          "value": "australia"
+        },
+        {
+          "label": "Canada",
+          "value": "canada"
+        },
+        {
+          "label": "India",
+          "value": "india"
+        },
+        {
+          "label": "Japan",
+          "value": "japan"
+        },
+        {
+          "label": "Republic of Korea",
+          "value": "republic-of-korea"
+        },
+        {
+          "label": "Saudi Arabia",
+          "value": "saudi-arabia"
+        },
+        {
+          "label": "Singapore",
+          "value": ">singapore"
+        },
+        {
+          "label": "Taiwan",
+          "value": "taiwan"
+        },
+        {
+          "label": "United Arab Emirates",
+          "value": "united-arab-emirates"
+        },
+        {
+          "label": "United Kingdom",
+          "value": "united-kingdom"
+        },
+        {
+          "label": "United States",
+          "value": "united-states"
+        }
+      ],
+      "optionCount": 12,
+      "normLabel": "select a country",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "Resume",
+      "id": "form-field-09dcf76d5e",
+      "label": "Upload Resume",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-field-09dcf76d5e",
+      "visible": false,
+      "accept": "",
+      "multiple": false,
+      "normLabel": "upload resume",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text-search": 1,
+      "native-select": 1,
+      "file-upload": 1
+    },
+    "byAction": {
+      "type": 1,
+      "select-option": 1,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "dom-static": 1
+    }
+  },
+  "widgetsProbed": 0,
+  "widgetsSkipped": 0,
+  "widgets": [],
+  "sections": [
+    "YOUR NEXTCHALLENGEAWAITS",
+    "FIND YOUR CAREER",
+    "GLOBAL EVENTS",
+    "ENGINEERING HIRING EVENT",
+    "ENGINEERING AND TECHNICIAN CAREER FAIR HIRING EVENT",
+    "L3HARRIS LOCATIONS",
+    "EMPLOYEES ACROSS THE GLOBE MAKING A DIFFERENCE",
+    "How a little blue dot changed the world.",
+    "JOIN OUR TALENT COMMUNITY"
+  ],
+  "buttons": [
+    "GO",
+    "Open Info",
+    "Open Info",
+    "Open Info",
+    "Pause",
+    "HIRING EVENT",
+    "HIRING EVENT",
+    "USE MY LOCATION",
+    "SIGN UP",
+    "FEATURED JOB",
+    "RECENTLY VIEWED JOBS",
+    "RELATED JOBS",
+    "SAVED JOBS",
+    "COOKIE SETTINGS"
+  ],
+  "resumeUpload": [
+    "Skip to main content L3Harris Search L3Harris.com Menu Search Search L3Harris NYSE: LHX $255.71 -$0.74 Portals US|EN Canada English Français United States English All Jobs Working Here Life at L3Harri",
+    "Join Our Talent Community Sign up for job alerts and be the first to know about our job openings. Sign Up Select a job category and location, then click \"Add\" for each saved search. Finally, click \"Si",
+    "Join Our Talent Community Sign up for job alerts and be the first to know about our job openings. Sign Up Select a job category and location, then click \"Add\" for each saved search. Finally, click \"Si",
+    "Select a job category and location, then click \"Add\" for each saved search. Finally, click \"Sign Up\" to create your job alert. Interested InJob Category*Job CategoryBusiness Development & SalesBusines",
+    "Select a job category and location, then click \"Add\" for each saved search. Finally, click \"Sign Up\" to create your job alert. Interested InJob Category*Job CategoryBusiness Development & SalesBusines"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": false,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "data/screenshots/icims/l3harris__software-engineer.png",
+    "html": "data/html/icims/l3harris__software-engineer.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 5,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 3,
+    "docHeight": 6228,
+    "lowestField": 4189.84375,
+    "coversAllFields": true
+  },
+  "ms": 6047,
+  "fingerprint": {
+    "labelSig": "e9338129ba2d",
+    "shapeSig": "05ffcdfb9966",
+    "controlSig": "9851008d8764",
+    "controls": {
+      "text-search": 1,
+      "native-select": 1,
+      "file-upload": 1
+    },
+    "needsTypeahead": false,
+    "needsCalendar": false,
+    "uiSig": "aea6d95f7927",
+    "typeCounts": {
+      "search": 1,
+      "select": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "location",
+      "resume"
+    ],
+    "requiredCount": 0,
+    "customQuestionCount": 1,
+    "hasFileUpload": true,
+    "hasNativeSelect": true,
+    "hasCustomDropdown": false,
+    "hasDropzone": false
+  },
+  "reclassified": true,
+  "detectedPlatform": "custom:careers.l3harris.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false
+}
