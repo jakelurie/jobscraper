@@ -1,0 +1,480 @@
+{
+  "id": "custom-wellfound-com__wellfound__senior-software-engineer-ii-auth",
+  "group": "custom-wellfound-com",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "wellfound",
+    "atsLabel": "Wellfound (AngelList)",
+    "company": "wellfound",
+    "board": "wellfound",
+    "title": "Senior Software Engineer II (Auth)",
+    "location": "",
+    "jobUrl": "https://wellfound.com/jobs/4630062-senior-software-engineer-ii-auth",
+    "startUrl": "https://wellfound.com/jobs/4630062-senior-software-engineer-ii-auth"
+  },
+  "platform": "custom:wellfound.com",
+  "platformLabel": "wellfound.com",
+  "finalUrl": "https://wellfound.com/jobs/4630062-senior-software-engineer-ii-auth?autoOpenApplication=true",
+  "applyTrail": [
+    "clicked: Apply Now"
+  ],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Senior Software Engineer II (Auth) at Bitwarden \u2022 Remote (Work from Home)",
+  "fieldCount": 10,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "name",
+      "id": "form-input--name",
+      "label": "Full Name*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Jane Doe",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-input--name",
+      "visible": true,
+      "normLabel": "full name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "email",
+      "id": "form-input--email",
+      "label": "Email*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "mail@website.com",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-input--email",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "password",
+      "id": "form-input--password",
+      "label": "Set a Password* Create a password to protect and access your account",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "min 12 characters",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-input--password",
+      "visible": true,
+      "normLabel": "set a password create a password to protect and access your ",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "password",
+      "control": "text-password",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "passwordConfirmation",
+      "id": "form-input--passwordConfirmation",
+      "label": "Confirm Password*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "repeat password",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-input--passwordConfirmation",
+      "visible": true,
+      "normLabel": "confirm password",
+      "canonical": "password"
+    },
+    {
+      "kind": "field",
+      "tag": "div",
+      "type": "button-dropdown",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://wellfound.com/graphql",
+        "optionSelector": "div.styles_suggestions__fh_AH"
+      },
+      "name": "",
+      "id": "",
+      "label": "Set Your Location*",
+      "labelSource": "wrapping-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "form > div:nth-of-type(5) > div:nth-of-type(1) > label > div:nth-of-type(2)",
+      "visible": true,
+      "widgetHint": "button-opens-listbox",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 6,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": [
+          "San Francisco, California 1.2M followers San Francisco Bay A",
+          "San Francisco, California 1.2M followers",
+          "San Francisco Bay Area, United States 324K followers",
+          "San Diego, San Diego County 203K followers",
+          "San Jose, California 196K followers",
+          "Santa Monica, Los Angeles County 57K followers"
+        ]
+      },
+      "optionCount": 6,
+      "options": [
+        "San Francisco, California 1.2M followers San Francisco Bay A",
+        "San Francisco, California 1.2M followers",
+        "San Francisco Bay Area, United States 324K followers",
+        "San Diego, San Diego County 203K followers",
+        "San Jose, California 196K followers",
+        "Santa Monica, Los Angeles County 57K followers"
+      ],
+      "normLabel": "set your location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unresolved-selector",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "downshift-0-input",
+      "label": "Set Your Location*",
+      "labelSource": "wrapping-label",
+      "required": true,
+      "placeholder": "e.g. San Francisco",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#downshift-0-input",
+      "visible": true,
+      "normLabel": "set your location",
+      "canonical": "location"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-pick",
+        "openBy": "click",
+        "optionsFrom": "unresolved-selector",
+        "typeToFilter": true,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "react-select-form-input--yearsOfExperience-input",
+      "label": "Years of experience* Select",
+      "labelSource": "wrapping-label",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "#react-select-form-input--yearsOfExperience-input",
+      "visible": true,
+      "widgetHint": "select__input",
+      "normLabel": "years of experience select",
+      "canonical": "years_experience"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "number",
+      "control": "text-number",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "desiredSalary",
+      "id": "form-input--desiredSalary",
+      "label": "Desired Salary*",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "enter amount in USD",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-input--desiredSalary",
+      "visible": true,
+      "normLabel": "desired salary",
+      "canonical": "salary"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "userNote",
+      "id": "form-input--userNote",
+      "label": "Cover letter",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Write a note to Bitwarden.",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#form-input--userNote",
+      "visible": true,
+      "normLabel": "cover letter",
+      "canonical": "cover_letter"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-dropzone",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files-on-hidden-input",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Full Name*",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "off",
+      "maxlength": "",
+      "selector": "div > div:nth-of-type(2) > form > div:nth-of-type(9) > input",
+      "visible": false,
+      "accept": ".doc,.docx,.pdf,.txt",
+      "multiple": true,
+      "normLabel": "full name",
+      "canonical": "resume"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "text": 1,
+      "text-email": 1,
+      "text-password": 2,
+      "combobox": 3,
+      "text-number": 1,
+      "textarea": 1,
+      "file-dropzone": 1
+    },
+    "byAction": {
+      "type": 6,
+      "click-type-wait-pick": 1,
+      "click-type-pick": 2,
+      "upload": 1
+    },
+    "byOptionsSource": {
+      "network-on-type": 1,
+      "unresolved-selector": 2
+    }
+  },
+  "widgetsProbed": 1,
+  "widgetsSkipped": 2,
+  "widgets": [
+    {
+      "widget": "react-select",
+      "count": 1
+    },
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "dropzone",
+      "count": 1
+    },
+    {
+      "widget": "typeahead",
+      "count": 2
+    }
+  ],
+  "sections": [
+    "Senior Software Engineer II (Auth) at Bitwarden",
+    "Bitwarden at a glance",
+    "Similar jobs to Senior Software Engineer II (Auth) at Bitwarden",
+    "ABOUT BITWARDEN",
+    "JOBS AT BITWARDEN",
+    "For Candidates",
+    "For Recruiters",
+    "Company",
+    "Apply To:",
+    "Your Application",
+    "US work authorization *"
+  ],
+  "buttons": [
+    "Log In",
+    "Sign Up",
+    "Share",
+    "Follow",
+    "Save",
+    "Apply",
+    "Apply now",
+    "bitwarden.com/",
+    "Designer 7 jobs",
+    "Engineering 17 jobs",
+    "Marketing 1 job",
+    "Operations 1 job",
+    "Other Engineering 2 jobs",
+    "Product 3 jobs",
+    "Sales 5 jobs",
+    "Featured Lists",
+    "Remote Jobs",
+    "Jobs by Location",
+    "Jobs by Role",
+    "Jobs by Role & Location",
+    "Drag to upload your resume, or browse",
+    "Submit application"
+  ],
+  "resumeUpload": [
+    "Apply To:BitwardenSenior Software Engineer II (Auth)Hires RemotelyUnited StatesJob TypeFull TimeVisa SponsorshipNot availableYour ApplicationComplete the fields below or Log in with your account to ap",
+    "Apply To:BitwardenSenior Software Engineer II (Auth)Hires RemotelyUnited StatesJob TypeFull TimeVisa SponsorshipNot availableYour ApplicationComplete the fields below or Log in with your account to ap",
+    "Apply To:BitwardenSenior Software Engineer II (Auth)Hires RemotelyUnited StatesJob TypeFull TimeVisa SponsorshipNot availableYour ApplicationComplete the fields below or Log in with your account to ap",
+    "Apply To:BitwardenSenior Software Engineer II (Auth)Hires RemotelyUnited StatesJob TypeFull TimeVisa SponsorshipNot availableYour ApplicationComplete the fields below or Log in with your account to ap",
+    "Apply To:BitwardenSenior Software Engineer II (Auth)Hires RemotelyUnited StatesJob TypeFull TimeVisa SponsorshipNot availableYour ApplicationComplete the fields below or Log in with your account to ap"
+  ],
+  "signals": {
+    "hasPasswordField": true,
+    "authWall": true,
+    "captcha": true,
+    "eeoSection": false,
+    "demographicQuestions": false,
+    "coverLetter": true,
+    "linkedin": true,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "jobs/wellfound/8d5590a18bd11a0c/screenshot.png",
+    "html": "jobs/wellfound/8d5590a18bd11a0c/page.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 5,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 7535,
+    "lowestField": 6346.0400390625,
+    "coversAllFields": true
+  },
+  "ms": 34428,
+  "fingerprint": {
+    "labelSig": "83f569f3a535",
+    "shapeSig": "462ac60e8e85",
+    "controlSig": "a689f8febeb3",
+    "controls": {
+      "text": 1,
+      "text-email": 1,
+      "text-password": 2,
+      "combobox": 3,
+      "text-number": 1,
+      "textarea": 1,
+      "file-dropzone": 1
+    },
+    "needsTypeahead": true,
+    "needsCalendar": false,
+    "uiSig": "113ac3b76495",
+    "typeCounts": {
+      "text": 3,
+      "email": 1,
+      "password": 2,
+      "button-dropdown": 1,
+      "number": 1,
+      "textarea": 1,
+      "file": 1
+    },
+    "canonicals": [
+      "cover_letter",
+      "email",
+      "full_name",
+      "location",
+      "password",
+      "resume",
+      "salary",
+      "years_experience"
+    ],
+    "requiredCount": 8,
+    "customQuestionCount": 0,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": true
+  },
+  "detectedPlatform": "custom:wellfound.com",
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "starterProvenance": {
+    "sourceRecord": "data/forms/custom-wellfound-com__wellfound__senior-software-engineer-ii-auth.json",
+    "originalArtifacts": {
+      "screenshot": "data/screenshots/custom-wellfound-com/wellfound__senior-software-engineer-ii-auth.png",
+      "html": "data/html/custom-wellfound-com/wellfound__senior-software-engineer-ii-auth.html"
+    },
+    "originalRecordSha256": "a4c7f967bca99fc16883ea73d2381652859bf26c491aa49d0dbb8ad785d15bef",
+    "note": "Artifact paths relative to starter-corpus root. Original retention flags are historical; use manifest membership."
+  }
+}

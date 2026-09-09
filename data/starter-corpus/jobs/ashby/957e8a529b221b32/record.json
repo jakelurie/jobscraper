@@ -1,0 +1,464 @@
+{
+  "id": "ashby__openai__principal-software-engineer-infrastructu",
+  "group": "ashby",
+  "ok": true,
+  "isApplicationForm": true,
+  "blocked": false,
+  "status": 200,
+  "seed": {
+    "ats": "ashby",
+    "atsLabel": "Ashby",
+    "company": "openai",
+    "board": "openai",
+    "title": "Principal Software Engineer, Infrastructure Security",
+    "location": "US - Remote",
+    "jobUrl": "https://jobs.ashbyhq.com/openai/ace42c6d-8663-4b30-9337-ec70cf071d73",
+    "startUrl": "https://jobs.ashbyhq.com/openai/ace42c6d-8663-4b30-9337-ec70cf071d73/application"
+  },
+  "platform": "ashby",
+  "platformLabel": "Ashby",
+  "finalUrl": "https://jobs.ashbyhq.com/openai/ace42c6d-8663-4b30-9337-ec70cf071d73/application",
+  "applyTrail": [],
+  "steps": [],
+  "stepCount": 1,
+  "auth": null,
+  "inIframe": false,
+  "pageTitle": "Principal Software Engineer, Infrastructure Security @ OpenAI",
+  "fieldCount": 9,
+  "fields": [
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "",
+      "label": "Legal Name",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > div > input",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md",
+      "multiple": false,
+      "normLabel": "legal name",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_name",
+      "id": "_systemfield_name",
+      "label": "Legal Name",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_name\"]",
+      "visible": true,
+      "normLabel": "legal name",
+      "canonical": "full_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "text",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "09a328e0-8d57-4f88-86ab-688de1657b17",
+      "id": "09a328e0-8d57-4f88-86ab-688de1657b17",
+      "label": "Preferred Name (if applicable)",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"09a328e0-8d57-4f88-86ab-688de1657b17\"]",
+      "visible": true,
+      "normLabel": "preferred name if applicable",
+      "canonical": "preferred_name"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "email",
+      "control": "text-email",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "_systemfield_email",
+      "id": "_systemfield_email",
+      "label": "Email",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "hello@example.com...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"_systemfield_email\"]",
+      "visible": true,
+      "normLabel": "email",
+      "canonical": "email"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "file",
+      "control": "file-upload",
+      "fill": {
+        "action": "upload",
+        "openBy": "set-input-files",
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": true
+      },
+      "name": "",
+      "id": "_systemfield_resume",
+      "label": "Resume",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(4) > div > input",
+      "visible": true,
+      "accept": "application/pdf,.pdf,application/msword,.doc,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,application/vnd.oasis.opendocument.text,.odt,application/rtf,.rtf,text/plain,.txt,text/markdown,.md,image/*,video/*,audio/*",
+      "multiple": false,
+      "normLabel": "resume",
+      "canonical": "resume"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "tel",
+      "control": "text-tel",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "20f8883c-d278-427c-9465-dc614f612e1f",
+      "id": "20f8883c-d278-427c-9465-dc614f612e1f",
+      "label": "Phone Number",
+      "labelSource": "label[for]",
+      "required": true,
+      "placeholder": "1-415-555-1234...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "input[name=\"20f8883c-d278-427c-9465-dc614f612e1f\"]",
+      "visible": true,
+      "normLabel": "phone number",
+      "canonical": "phone"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "combobox",
+      "fill": {
+        "action": "click-type-wait-pick",
+        "openBy": "click",
+        "optionsFrom": "network-on-type",
+        "typeToFilter": true,
+        "waitForOptions": true,
+        "optionsRequest": "https://jobs.ashbyhq.com/api/non-user-graphql?op=ApiAutocompleteGeoLocation",
+        "optionSelector": "button._container_pjyt6_1"
+      },
+      "name": "",
+      "id": "",
+      "label": "Where are you currently located?",
+      "labelSource": "nearby",
+      "required": false,
+      "placeholder": "Start typing...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(6) > div > input",
+      "visible": true,
+      "widgetHint": "_input_d7ago_28 ashby-application-form-input-autocomplete",
+      "probe": {
+        "optionsOnOpen": 0,
+        "optionsAfterTyping": 5,
+        "typedProbe": "San",
+        "networkOnType": true,
+        "calendarOpened": false,
+        "sampleOnOpen": [],
+        "sampleAfterTyping": [
+          "San Marino",
+          "San Francisco, California, United States",
+          "Santorini, South Aegean, Greece",
+          "San Diego, California, United States",
+          "Santiago, Santiago Metropolitan Region, Chile"
+        ]
+      },
+      "optionCount": 5,
+      "options": [
+        "San Marino",
+        "San Francisco, California, United States",
+        "Santorini, South Aegean, Greece",
+        "San Diego, California, United States",
+        "Santiago, Santiago Metropolitan Region, Chile"
+      ],
+      "normLabel": "where are you currently located",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "input",
+      "type": "text",
+      "control": "date-picker",
+      "fill": {
+        "action": "click-open-calendar-pick-day",
+        "openBy": "click",
+        "optionsFrom": "calendar-widget",
+        "typeToFilter": false,
+        "waitForOptions": true,
+        "optionSelector": "[role=\"option\"]"
+      },
+      "name": "",
+      "id": "",
+      "label": "When can you start a new role?",
+      "labelSource": "nearby",
+      "required": true,
+      "placeholder": "Pick date...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "div:nth-of-type(1) > div:nth-of-type(7) > div > div > input",
+      "visible": true,
+      "dateFormat": "Pick date...",
+      "probe": {
+        "optionsOnOpen": 31,
+        "optionsAfterTyping": 31,
+        "typedProbe": "a",
+        "networkOnType": false,
+        "calendarOpened": false,
+        "sampleOnOpen": [
+          "30",
+          "31",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "sampleAfterTyping": [
+          "30",
+          "31",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      "normLabel": "when can you start a new role",
+      "canonical": "custom_question"
+    },
+    {
+      "kind": "field",
+      "tag": "textarea",
+      "type": "textarea",
+      "control": "textarea",
+      "fill": {
+        "action": "type",
+        "openBy": null,
+        "optionsFrom": null,
+        "typeToFilter": false,
+        "waitForOptions": false
+      },
+      "name": "f189fed2-624b-41a1-a76f-0c67a2611d1a",
+      "id": "f189fed2-624b-41a1-a76f-0c67a2611d1a",
+      "label": "Additional Information",
+      "labelSource": "label[for]",
+      "required": false,
+      "placeholder": "Type here...",
+      "autocomplete": "",
+      "maxlength": "",
+      "selector": "#f189fed2-624b-41a1-a76f-0c67a2611d1a",
+      "visible": true,
+      "normLabel": "additional information",
+      "canonical": "custom_question"
+    }
+  ],
+  "controls": {
+    "byControl": {
+      "file-upload": 2,
+      "text": 2,
+      "text-email": 1,
+      "text-tel": 1,
+      "combobox": 1,
+      "date-picker": 1,
+      "textarea": 1
+    },
+    "byAction": {
+      "upload": 2,
+      "type": 5,
+      "click-type-wait-pick": 1,
+      "click-open-calendar-pick-day": 1
+    },
+    "byOptionsSource": {
+      "network-on-type": 1,
+      "calendar-widget": 1
+    }
+  },
+  "widgetsProbed": 2,
+  "widgetsSkipped": 0,
+  "widgets": [
+    {
+      "widget": "combobox",
+      "count": 1
+    },
+    {
+      "widget": "dropzone",
+      "count": 3
+    },
+    {
+      "widget": "date-picker",
+      "count": 2
+    },
+    {
+      "widget": "typeahead",
+      "count": 1
+    }
+  ],
+  "sections": [
+    "Principal Software Engineer, Infrastructure Security",
+    "Location",
+    "Employment Type",
+    "Location Type",
+    "Department",
+    "Compensation",
+    "Autofill from resume"
+  ],
+  "buttons": [
+    "Upload file",
+    "Upload File",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "Yes",
+    "No",
+    "Submit Application"
+  ],
+  "resumeUpload": [
+    "Principal Software Engineer, Infrastructure Security LocationUS - Remote; New York City; San Francisco; SeattleEmployment TypeFull timeLocation TypeRemoteDepartmentSecurityCompensation$401K \u2013 $510K \u2022 ",
+    "Principal Software Engineer, Infrastructure Security LocationUS - Remote; New York City; San Francisco; SeattleEmployment TypeFull timeLocation TypeRemoteDepartmentSecurityCompensation$401K \u2013 $510K \u2022 ",
+    "LocationUS - Remote; New York City; San Francisco; SeattleEmployment TypeFull timeLocation TypeRemoteDepartmentSecurityCompensation$401K \u2013 $510K \u2022 Offers EquityThe base pay offered may vary depending ",
+    "OverviewApplicationAutofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your resume. Autofilling key fields...This job has applicatio",
+    "Autofill from resumeUpload your resume here to autofill key application fields.Upload fileDrop your resume here!Parsing your resume. Autofilling key fields...This job has application limitsPlease Note"
+  ],
+  "signals": {
+    "hasPasswordField": false,
+    "authWall": false,
+    "captcha": true,
+    "eeoSection": true,
+    "demographicQuestions": true,
+    "coverLetter": false,
+    "linkedin": false,
+    "multiStep": false,
+    "oauthApply": false,
+    "accountRequired": false
+  },
+  "artifacts": {
+    "screenshot": "jobs/ashby/957e8a529b221b32/screenshot.png",
+    "html": "jobs/ashby/957e8a529b221b32/page.html"
+  },
+  "shot": {
+    "ok": true,
+    "viewportOnly": false,
+    "clipped": false,
+    "expandedContainers": 1,
+    "hiddenOverlays": 0,
+    "unpinnedElements": 1,
+    "docHeight": 7160,
+    "lowestField": 6898.78125,
+    "coversAllFields": true
+  },
+  "ms": 13094,
+  "fingerprint": {
+    "labelSig": "af4c510c7fce",
+    "shapeSig": "0c2a94bf9f2c",
+    "controlSig": "448ed2d09416",
+    "controls": {
+      "file-upload": 2,
+      "text": 2,
+      "text-email": 1,
+      "text-tel": 1,
+      "combobox": 1,
+      "date-picker": 1,
+      "textarea": 1
+    },
+    "needsTypeahead": true,
+    "needsCalendar": true,
+    "uiSig": "b18f12fe51d8",
+    "typeCounts": {
+      "file": 2,
+      "text": 4,
+      "email": 1,
+      "tel": 1,
+      "textarea": 1
+    },
+    "canonicals": [
+      "custom_question",
+      "email",
+      "full_name",
+      "phone",
+      "preferred_name",
+      "resume"
+    ],
+    "requiredCount": 5,
+    "customQuestionCount": 3,
+    "hasFileUpload": true,
+    "hasNativeSelect": false,
+    "hasCustomDropdown": true,
+    "hasDropzone": true
+  },
+  "detectedPlatform": "ashby",
+  "duplicateOfSameForm": false,
+  "nonUS": false,
+  "starterProvenance": {
+    "sourceRecord": "data/forms/ashby__openai__principal-software-engineer-infrastructu.json",
+    "originalArtifacts": {
+      "screenshot": "data/screenshots/ashby/openai__principal-software-engineer-infrastructu.png",
+      "html": "data/html/ashby/openai__principal-software-engineer-infrastructu.html"
+    },
+    "originalRecordSha256": "c89e6ef67986655664478c7ad4356ce4e28123cd7bb100f711bb8e1cce4d291a",
+    "note": "Artifact paths relative to starter-corpus root. Original retention flags are historical; use manifest membership."
+  }
+}
