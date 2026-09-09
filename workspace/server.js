@@ -43,6 +43,8 @@ export async function createWorkspace({directory=path.join(root,'workspace/.loca
  case '/api/defer':{const q=db.get('questions',b.id);if(!q||q.state!=='open')throw Error('Task not open');db.put('questions',{...q,state:'deferred'});break;}
  case '/api/authorize':if(b.confirmed!==true)throw Error('Individual confirmation required');result=await gate.authorize(b.runId,b.reviewId);break;
  case '/api/submit':result=await gate.submit(b.authorizationId);break;
+ case '/api/delete-run':{const run=db.get('runs',b.id);if(!run)throw Error('Unknown run');if(run.state==='submitting')throw Error('Reconcile submission first');if(!['cancelled','submitted','expired','submission_unknown'].includes(run.state))await scheduler.control(run.id,'cancel');await browsers.close(run.id);const images=db.all('reviews').filter(r=>r.runId===run.id).map(r=>r.screenshot);db.tx(()=>{for(const t of ['sessions','steps','answers','questions','reviews','authorizations','attempts','receipts'])for(const row of db.all(t))if(row.runId===run.id)db.del(t,row.id);db.del('runs',run.id);db.db.prepare('DELETE FROM active_jobs WHERE run_id=?').run(run.id);db.event(run.id,'private_run_data_deleted',{});});for(const image of images)await unlink(image).catch(()=>{});break;}
+ case '/api/delete-profile':db.tx(()=>{for(const row of db.all('facts'))db.del('facts',row.id);for(const row of db.all('profiles'))db.del('profiles',row.id);});break;
  case '/api/delete-document':{const d=db.get('documents',b.id);if(!d)throw Error('Unknown document');if(db.all('answers').some(a=>a.value===d.id))throw Error('Document is referenced by a run; delete the run first');await unlink(d.path);db.del('documents',d.id);break;}
  default:return send(404,{error:'Unknown endpoint'});
  }
