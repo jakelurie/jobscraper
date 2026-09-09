@@ -1,7 +1,14 @@
 // Controlled employer contracts. Only this server's exact fixture origin may use
 // these boundaries; data attributes on external pages never grant capabilities.
-export const fixtureNames=['greenhouse','lever','ashby','workday','phenom'];
-export function fixturePage(name){return `<!doctype html><html><head><meta charset="utf-8"><title>${name} fixture</title><style>body{font:18px system-ui;max-width:760px;margin:40px auto;padding:20px}label,fieldset{display:block;margin:20px 0}input,select,textarea,button{font:inherit;padding:10px}button{margin:8px} [hidden]{display:none!important}</style></head><body><h1>Senior Software Engineer</h1><h2>Fixture ${name}</h2><p>Controlled local employer. No real application.</p><main id="app"></main><script>
+export const fixtureNames = [
+  "greenhouse",
+  "lever",
+  "ashby",
+  "workday",
+  "phenom",
+];
+export function fixturePage(name) {
+  return `<!doctype html><html><head><meta charset="utf-8"><title>${name} fixture</title><style>body{font:18px system-ui;max-width:760px;margin:40px auto;padding:20px}label,fieldset{display:block;margin:20px 0}input,select,textarea,button{font:inherit;padding:10px}button{margin:8px} [hidden]{display:none!important}</style></head><body><h1>Senior Software Engineer</h1><h2>Fixture ${name}</h2><p>Controlled local employer. No real application.</p><main id="app"></main><script>
 const employer=${JSON.stringify(name)}, values={}, app=document.querySelector('#app');let step=1;const max=['workday','phenom'].includes(employer)?6:employer==='ashby'?3:2;
 function save(){document.querySelectorAll('[name]').forEach(e=>{if(e.type==='radio'){if(e.checked)values[e.name]=e.value;}else if(e.type==='checkbox')values[e.name]=e.checked;else if(e.type==='file')values[e.name]=Array.from(e.files).map(f=>f.name).join(',');else values[e.name]=e.value;});document.querySelectorAll('[role=radiogroup]').forEach(e=>values[e.id]=e.querySelector('[aria-checked=true]')?.textContent||'');}
 function render(){app.dataset.step=String(step);app.dataset.job=employer;app.dataset.final=String(step===max);app.innerHTML='<h3>Step '+step+' of '+max+'</h3>';
@@ -11,4 +18,5 @@ app.querySelectorAll('[role=radio]').forEach(b=>b.onclick=()=>{b.parentElement.q
 } else {app.innerHTML+='<h3>Review application</h3><pre id="values"></pre><label><input name="attestation" type="checkbox" required>I confirm these answers are accurate</label><button type="button" data-action="final">Submit application</button>';document.querySelector('#values').textContent=JSON.stringify(values,null,2);app.querySelector('[data-action=final]').onclick=async()=>{save();if(!values.attestation){alert('Confirm accuracy');return;}const response=await fetch('/receipt/'+employer,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(values)});const receipt=await response.json();app.innerHTML='<h2>Application received</h2><p data-receipt="'+receipt.id+'">Receipt '+receipt.id+'</p>';};}
 const next=app.querySelector('[data-action=advance]');if(next)next.onclick=()=>{const form=app.querySelector('form');if(!form.reportValidity())return;const group=app.querySelector('[role=radiogroup]');if(group&&!group.querySelector('[aria-checked=true]'))return;const combo=app.querySelector('[role=combobox]');if(combo&&!combo.dataset.committed)return;save();step++;render();};
 }
-render();document.addEventListener('submit',e=>e.preventDefault());</script></body></html>`;}
+render();document.addEventListener('submit',e=>e.preventDefault());</script></body></html>`;
+}

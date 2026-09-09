@@ -1,61 +1,586 @@
-import {id,now,hash,transition,terminal} from './db.js';
-import {observe} from './observe.js';
-import {FixtureAdapter} from './adapters.js';
-const basic={fullName:'fullName',email:'email',country:'country',phone:'phone',phoneCode:'phoneCode'};
-const sensitive=/consent|agree|accurate|attest|privacy|recording|nda|gender|race|ethnic|veteran|disab|authoriz|sponsor|visa|salary|relocat|accommodation/i;
-export const fieldSignature=f=>hash({frameUrl:f.frameUrl,step:f.step,name:f.name,context:f.context,kind:f.kind,options:f.options,required:f.required,constraints:f.constraints});
-export const stateFingerprint=(ob,answers,docs)=>hash({url:ob.url,step:ob.step,job:ob.job,fields:ob.fields.map(f=>({name:f.name,context:f.context,kind:f.kind,options:f.options,value:f.value,valid:f.valid,committed:f.committed})),answers:answers.map(a=>({id:a.id,version:a.version,value:a.value})),docs:docs.map(d=>({id:d.id,sha:d.sha}))});
+import { id, now, hash, transition, terminal } from "./db.js";
+import { observe } from "./observe.js";
+import { FixtureAdapter } from "./adapters.js";
+const basic = {
+  fullName: "fullName",
+  email: "email",
+  country: "country",
+  phone: "phone",
+  phoneCode: "phoneCode",
+};
+const sensitive =
+  /consent|agree|accurate|attest|privacy|recording|nda|gender|race|ethnic|veteran|disab|authoriz|sponsor|visa|salary|relocat|accommodation/i;
+export const fieldSignature = (f) =>
+  hash({
+    frameUrl: f.frameUrl,
+    step: f.step,
+    name: f.name,
+    context: f.context,
+    kind: f.kind,
+    options: f.options,
+    required: f.required,
+    constraints: f.constraints,
+  });
+export const stateFingerprint = (ob, answers, docs) =>
+  hash({
+    url: ob.url,
+    step: ob.step,
+    job: ob.job,
+    fields: ob.fields.map((f) => ({
+      name: f.name,
+      context: f.context,
+      kind: f.kind,
+      options: f.options,
+      value: f.value,
+      valid: f.valid,
+      committed: f.committed,
+    })),
+    answers: answers.map((a) => ({
+      id: a.id,
+      version: a.version,
+      value: a.value,
+    })),
+    docs: docs.map((d) => ({ id: d.id, sha: d.sha })),
+  });
 export class Scheduler {
- constructor(db,browsers,{concurrency=3,perOrigin=1,fixtureOrigin,artifacts}={}){this.db=db;this.browsers=browsers;this.concurrency=Math.max(1,Math.min(5,concurrency));this.perOrigin=perOrigin;this.fixtureOrigin=fixtureOrigin;this.adapter=new FixtureAdapter(fixtureOrigin);this.artifacts=artifacts;this.active=new Map();this.stopping=false;}
- recover(){this.db.tx(()=>{for(const s of this.db.all('sessions'))this.db.put('sessions',{...s,retained:false,owner:'none'});for(const r of this.db.all('runs'))if(!terminal.has(r.state)){const state=r.state==='submitting'?'submission_unknown':'expired';transition(this.db,r,state,{owner:'none',error:'App restarted; original unsaved page cannot be restored. Retry requires fresh observation.'});}for(const a of this.db.all('authorizations'))if(!a.consumed)this.db.put('authorizations',{...a,expired:true});});}
- start(){this.timer=setInterval(()=>this.tick(),250);}
- create(jobIds){return this.db.tx(()=>jobIds.map(jobId=>{const j=this.db.get('jobs',jobId);if(!j||!['active','fixture'].includes(j.status))throw Error('Verify posting identity before preparation');const existing=this.db.db.prepare('SELECT run_id FROM active_jobs WHERE job_id=?').get(jobId);if(existing){const r=this.db.get('runs',existing.run_id);if(r&&r.state!=='cancelled')return r;}const r={id:id(),jobId,state:'queued',owner:'auto',created:now(),updated:now(),step:'Not opened',generation:0};this.db.put('runs',r);this.db.db.prepare('INSERT OR REPLACE INTO active_jobs VALUES(?,?)').run(jobId,r.id);this.db.event(r.id,'scheduled',{jobId});return r;}));}
- tick(){if(this.stopping)return;for(const r of this.db.all('runs')){if(this.active.size>=this.concurrency)break;if(r.state!=='queued'||this.active.has(r.id)||(r.notBefore||0)>Date.now())continue;const j=this.db.get('jobs',r.jobId),origin=new URL(j.applicationUrl).origin;const n=[...this.active.keys()].filter(i=>new URL(this.db.get('jobs',this.db.get('runs',i).jobId).applicationUrl).origin===origin).length;if(n>=this.perOrigin)continue;const p=this.execute(r.id).catch(e=>{const latest=this.db.get('runs',r.id);if(latest?.state==='preparing'){transition(this.db,latest,'failed',{error:e.name==='TimeoutError'?'Browser operation timed out; inspect the session':String(e.message).split('\n')[0].slice(0,200),owner:'none'});this.db.event(r.id,'error',{message:'Preparation stopped; see run status'});}}).finally(()=>this.active.delete(r.id));this.active.set(r.id,p);}}
- allowed(runId){const r=this.db.get('runs',runId);return r?.state==='preparing'&&r.owner==='auto';}
- task(run,f,reason,type='factual'){const signature=f?fieldSignature(f):hash(reason);const existing=this.db.all('questions').find(q=>q.runId===run.id&&q.signature===signature&&!['obsolete','applied'].includes(q.state));if(existing)return existing;return this.db.put('questions',{id:id(),runId:run.id,jobId:run.jobId,signature,field:f||null,type,state:'open',reason,created:now(),scope:this.db.get('jobs',run.jobId).canonicalUrl});}
- checkpoint(run,ob){const step={id:id(),runId:run.id,at:now(),observation:ob};this.db.put('steps',step);const latest=this.db.get('runs',run.id);this.db.put('runs',{...latest,step:ob.step,currentUrl:ob.url,observedAt:now(),updated:now()});const s=this.browsers.sessions.get(run.id);if(s)this.db.put('sessions',{id:s.id,runId:run.id,owner:latest.owner,retained:true,heartbeat:now()});return step;}
- async execute(runId){let run=transition(this.db,this.db.get('runs',runId),'preparing',{owner:'auto',error:null});const job=this.db.get('jobs',run.jobId);const session=await this.browsers.open(run,job);session.owner='auto';const page=session.page;
- for(let loops=0;loops<80&&this.allowed(runId);loops++){
-  const ob=await observe(page);if(!this.allowed(runId))return;this.checkpoint(run,ob);
-  if(ob.receipt&&job.source==='fixture'){this.db.put('receipts',{id:id(),runId,evidence:ob.receipt,at:now(),source:'manual observed receipt'});transition(this.db,this.db.get('runs',runId),'needs_input',{owner:'none'});this.task(run,null,'Manual receipt detected. Reconcile this run before any retry.','reconciliation');return;}
-  if(!this.adapter.supports(job,page)){this.task(run,null,'Unverified live flow. Open the same browser session to inspect identity, login, challenges and application controls. Automated advancement and submission are disabled for this flow.','manual');transition(this.db,this.db.get('runs',runId),'needs_input',{owner:'none'});return;}
-  await this.adapter.verify(job,page,ob);
-  const sigs=new Set(ob.fields.map(fieldSignature));for(const q of this.db.all('questions').filter(q=>q.runId===runId&&q.field&&q.field.step===ob.step&&!sigs.has(q.signature)&&['open','answered','deferred'].includes(q.state)))this.db.put('questions',{...q,state:'obsolete'});
-  let acted=false,blocked=false;
-  for(const f of ob.fields){if(!this.allowed(runId))return;const sig=fieldSignature(f);const answered=this.db.all('answers').filter(a=>a.runId===runId&&a.signature===sig).at(-1)||this.db.all('answers').filter(a=>a.reusable&&a.scope===job.canonicalUrl&&a.signature===sig).at(-1);const matching=this.db.all('questions').find(q=>q.runId===runId&&q.signature===sig&&q.state==='answered');
-   const filled=Array.isArray(f.value)?f.value.length>0:typeof f.value==='boolean'?f.value:!!String(f.value).trim();
-   if(filled&&f.valid&&(!matching)&&(!(f.kind==='combobox')||f.committed))continue;
-   let value=answered?.value,document=null,skip=answered?.skip;
-   if(value===undefined&&!skip&&!sensitive.test(f.name+' '+f.context)&&basic[f.nameAttr]){const fact=this.db.all('facts').filter(x=>x.key===basic[f.nameAttr]&&x.confirmedAt).at(-1);if(fact){value=fact.value;this.db.put('answers',{id:id(),runId,signature:sig,question:f.name,context:f.context,scope:job.canonicalUrl,value,version:fact.version,provenance:'confirmed-profile',factId:fact.id,confirmedAt:fact.confirmedAt});}}
-   if(f.kind==='file'&&value!==undefined)document=this.db.get('documents',String(value));
-   if(skip&&!f.required){if(matching)this.db.put('questions',{...matching,state:'applied'});continue;}
-   if(value===undefined){this.task(run,f,f.name?'An explicit answer or optional skip is needed':'Unlabeled field requires live context',sensitive.test(f.name+' '+f.context)?'consent':'factual');blocked=true;continue;}
-   this.db.event(runId,'before_fill',{field:f.name,kind:f.kind});
-   try{await this.adapter.fill(page,f,value,document);if(matching)this.db.put('questions',{...matching,state:'applied'});this.db.event(runId,'after_fill',{field:f.name,verified:true});acted=true;break;}catch(e){if(matching)this.db.put('questions',{...matching,state:'obsolete'});this.task(run,f,e.name==='TimeoutError'?'Control timed out; inspect the live widget':e.message.split('\n')[0],'validation');blocked=true;}
+  constructor(
+    db,
+    browsers,
+    { concurrency = 3, perOrigin = 1, fixtureOrigin, artifacts } = {},
+  ) {
+    this.db = db;
+    this.browsers = browsers;
+    this.concurrency = Math.max(1, Math.min(5, concurrency));
+    this.perOrigin = perOrigin;
+    this.fixtureOrigin = fixtureOrigin;
+    this.adapter = new FixtureAdapter(fixtureOrigin);
+    this.artifacts = artifacts;
+    this.active = new Map();
+    this.stopping = false;
   }
-  if(acted)continue;
-  if(blocked){transition(this.db,this.db.get('runs',runId),'needs_input',{owner:'none'});return;}
-  if(!this.allowed(runId))return;
-  if(await this.adapter.review(page,ob)){
-   const answers=this.db.all('answers').filter(a=>a.runId===runId),docs=this.db.all('documents').filter(d=>answers.some(a=>a.value===d.id));const fingerprint=stateFingerprint(ob,answers,docs);const screenshot=await page.screenshot({fullPage:true});const {writeFile}=await import('node:fs/promises');const shot=this.artifacts+'/'+id()+'.png';await writeFile(shot,screenshot,{mode:0o600});if(!this.allowed(runId))return;const review={id:id(),runId,fingerprint,observation:ob,answers,documents:docs.map(({path,...d})=>d),screenshot:shot,created:now(),job:{title:job.title,company:job.company,url:job.canonicalUrl}};this.db.put('reviews',review);transition(this.db,this.db.get('runs',runId),'ready_for_review',{owner:'none',reviewId:review.id});return;
+  recover() {
+    this.db.tx(() => {
+      for (const s of this.db.all("sessions"))
+        this.db.put("sessions", { ...s, retained: false, owner: "none" });
+      for (const r of this.db.all("runs"))
+        if (!terminal.has(r.state)) {
+          const state =
+            r.state === "submitting" ? "submission_unknown" : "expired";
+          transition(this.db, r, state, {
+            owner: "none",
+            error:
+              "App restarted; original unsaved page cannot be restored. Retry requires fresh observation.",
+          });
+        }
+      for (const a of this.db.all("authorizations"))
+        if (!a.consumed) this.db.put("authorizations", { ...a, expired: true });
+    });
   }
-  this.db.event(runId,'before_advance',{step:ob.step});await this.adapter.advance(page);const next=await observe(page);this.db.event(runId,'after_advance',{step:next.step});if(next.step===ob.step){this.task(run,null,'Step did not advance; inspect validation or unsupported required controls.','validation');transition(this.db,this.db.get('runs',runId),'needs_input',{owner:'none'});return;}
- }
- if(this.allowed(runId)){this.task(run,null,'Action budget reached. Inspect the session before resuming.','manual');transition(this.db,this.db.get('runs',runId),'needs_input',{owner:'none'});}
- }
- async control(runId,action){let r=this.db.get('runs',runId);if(!r)throw Error('Unknown run');if(action==='pause'||action==='takeover'||action==='cancel'){
-  if(terminal.has(r.state)||r.state==='submitting')throw Error('Run is locked');const target=action==='cancel'?'cancelled':action==='takeover'?'manual_control':'paused';
-  // Revoke execution before awaiting outstanding action. Manual lease is not
-  // granted until the in-flight operation completes.
-  this.db.put('runs',{...r,owner:'revoking'});await this.active.get(runId);r=this.db.get('runs',runId);transition(this.db,r,target,{owner:action==='takeover'?'manual':'none',generation:r.generation+1});
-  const s=this.browsers.sessions.get(runId);if(s)s.owner=action==='takeover'?'manual':'none';if(action==='cancel')await this.browsers.close(runId);if(action==='takeover'){if(!s)throw Error('Browser state lost; retry to open a fresh session');await s.page.bringToFront();}return;
- }
- if(action==='resume'||action==='retry'){
-  if(!['paused','manual_control','needs_input','failed','expired','ready_for_review'].includes(r.state))throw Error('Cannot resume this state');
-  const s=this.browsers.sessions.get(runId);if(s){const ob=await observe(s.page);const job=this.db.get('jobs',r.jobId);if(ob.receipt&&job.source==='fixture'){this.db.put('receipts',{id:id(),runId,evidence:ob.receipt,source:'manual',at:now()});if(r.state!=='manual_control')throw Error('Receipt requires manual reconciliation');transition(this.db,r,'submitted',{owner:'none'});return;}if(job.source==='fixture')await this.adapter.verify(job,s.page,ob);this.checkpoint(r,ob);}
-  for(const a of this.db.all('authorizations').filter(a=>a.runId===runId&&!a.consumed))this.db.put('authorizations',{...a,expired:true});transition(this.db,this.db.get('runs',runId),'queued',{owner:'auto',reviewId:null,retries:action==='retry'?(r.retries||0)+1:r.retries||0,notBefore:action==='retry'?Date.now()+Math.min(30000,1000*2**(r.retries||0)):0});
- }
- }
- answer(questionId,value,{skip=false,reuse=false}={}){return this.db.tx(()=>{const q=this.db.get('questions',questionId);if(!q||!['open','deferred'].includes(q.state)||!q.field)throw Error('This task requires opening the live browser');const run=this.db.get('runs',q.runId);if(run.state!=='needs_input')throw Error('Run is not waiting for answers');if(skip&&q.field.required)throw Error('Required answers cannot be skipped');if(!skip&&(value===undefined||value===''||value===null))throw Error('Answer required');if(q.field.kind==='file'&&!skip&&!this.db.get('documents',String(value)))throw Error('Choose an uploaded document');const a={id:id(),runId:q.runId,signature:q.signature,question:q.field.name,context:q.field.context,scope:q.scope,value,skip,confirmedAt:now(),provenance:'user-confirmed',version:this.db.all('answers').filter(x=>x.runId===q.runId&&x.signature===q.signature).length+1,reusable:reuse};this.db.put('answers',a);this.db.put('questions',{...q,state:'answered',answerId:a.id});transition(this.db,run,'queued',{owner:'auto'});return a;});}
- async shutdown(){this.stopping=true;clearInterval(this.timer);for(const r of this.db.all('runs'))if(r.state==='preparing')this.db.put('runs',{...r,owner:'revoking'});await Promise.allSettled([...this.active.values()]);await this.browsers.shutdown();}
+  start() {
+    this.timer = setInterval(() => this.tick(), 250);
+  }
+  create(jobIds) {
+    return this.db.tx(() =>
+      jobIds.map((jobId) => {
+        const j = this.db.get("jobs", jobId);
+        if (!j || !["active", "fixture"].includes(j.status))
+          throw Error("Verify posting identity before preparation");
+        const existing = this.db.db
+          .prepare("SELECT run_id FROM active_jobs WHERE job_id=?")
+          .get(jobId);
+        if (existing) {
+          const r = this.db.get("runs", existing.run_id);
+          if (r && r.state !== "cancelled") return r;
+        }
+        const r = {
+          id: id(),
+          jobId,
+          state: "queued",
+          owner: "auto",
+          created: now(),
+          updated: now(),
+          step: "Not opened",
+          generation: 0,
+        };
+        this.db.put("runs", r);
+        this.db.db
+          .prepare("INSERT OR REPLACE INTO active_jobs VALUES(?,?)")
+          .run(jobId, r.id);
+        this.db.event(r.id, "scheduled", { jobId });
+        return r;
+      }),
+    );
+  }
+  tick() {
+    if (this.stopping) return;
+    for (const r of this.db.all("runs")) {
+      if (this.active.size >= this.concurrency) break;
+      if (
+        r.state !== "queued" ||
+        this.active.has(r.id) ||
+        (r.notBefore || 0) > Date.now()
+      )
+        continue;
+      const j = this.db.get("jobs", r.jobId),
+        origin = new URL(j.applicationUrl).origin;
+      const n = [...this.active.keys()].filter(
+        (i) =>
+          new URL(
+            this.db.get("jobs", this.db.get("runs", i).jobId).applicationUrl,
+          ).origin === origin,
+      ).length;
+      if (n >= this.perOrigin) continue;
+      const p = this.execute(r.id)
+        .catch((e) => {
+          const latest = this.db.get("runs", r.id);
+          if (latest?.state === "preparing") {
+            transition(this.db, latest, "failed", {
+              error:
+                e.name === "TimeoutError"
+                  ? "Browser operation timed out; inspect the session"
+                  : String(e.message).split("\n")[0].slice(0, 200),
+              owner: "none",
+            });
+            this.db.event(r.id, "error", {
+              message: "Preparation stopped; see run status",
+            });
+          }
+        })
+        .finally(() => this.active.delete(r.id));
+      this.active.set(r.id, p);
+    }
+  }
+  allowed(runId) {
+    const r = this.db.get("runs", runId);
+    return r?.state === "preparing" && r.owner === "auto";
+  }
+  task(run, f, reason, type = "factual") {
+    const signature = f ? fieldSignature(f) : hash(reason);
+    const existing = this.db
+      .all("questions")
+      .find(
+        (q) =>
+          q.runId === run.id &&
+          q.signature === signature &&
+          !["obsolete", "applied"].includes(q.state),
+      );
+    if (existing) return existing;
+    return this.db.put("questions", {
+      id: id(),
+      runId: run.id,
+      jobId: run.jobId,
+      signature,
+      field: f || null,
+      type,
+      state: "open",
+      reason,
+      created: now(),
+      scope: this.db.get("jobs", run.jobId).canonicalUrl,
+    });
+  }
+  checkpoint(run, ob) {
+    const step = { id: id(), runId: run.id, at: now(), observation: ob };
+    this.db.put("steps", step);
+    const latest = this.db.get("runs", run.id);
+    this.db.put("runs", {
+      ...latest,
+      step: ob.step,
+      currentUrl: ob.url,
+      observedAt: now(),
+      updated: now(),
+    });
+    const s = this.browsers.sessions.get(run.id);
+    if (s)
+      this.db.put("sessions", {
+        id: s.id,
+        runId: run.id,
+        owner: latest.owner,
+        retained: true,
+        heartbeat: now(),
+      });
+    return step;
+  }
+  async execute(runId) {
+    let run = transition(this.db, this.db.get("runs", runId), "preparing", {
+      owner: "auto",
+      error: null,
+    });
+    const job = this.db.get("jobs", run.jobId);
+    const session = await this.browsers.open(run, job);
+    session.owner = "auto";
+    const page = session.page;
+    for (let loops = 0; loops < 80 && this.allowed(runId); loops++) {
+      const ob = await observe(page);
+      if (!this.allowed(runId)) return;
+      this.checkpoint(run, ob);
+      if (ob.receipt && job.source === "fixture") {
+        this.db.put("receipts", {
+          id: id(),
+          runId,
+          evidence: ob.receipt,
+          at: now(),
+          source: "manual observed receipt",
+        });
+        transition(this.db, this.db.get("runs", runId), "needs_input", {
+          owner: "none",
+        });
+        this.task(
+          run,
+          null,
+          "Manual receipt detected. Reconcile this run before any retry.",
+          "reconciliation",
+        );
+        return;
+      }
+      if (!this.adapter.supports(job, page)) {
+        this.task(
+          run,
+          null,
+          "Unverified live flow. Open the same browser session to inspect identity, login, challenges and application controls. Automated advancement and submission are disabled for this flow.",
+          "manual",
+        );
+        transition(this.db, this.db.get("runs", runId), "needs_input", {
+          owner: "none",
+        });
+        return;
+      }
+      await this.adapter.verify(job, page, ob);
+      const sigs = new Set(ob.fields.map(fieldSignature));
+      for (const q of this.db
+        .all("questions")
+        .filter(
+          (q) =>
+            q.runId === runId &&
+            q.field &&
+            q.field.step === ob.step &&
+            !sigs.has(q.signature) &&
+            ["open", "answered", "deferred"].includes(q.state),
+        ))
+        this.db.put("questions", { ...q, state: "obsolete" });
+      let acted = false,
+        blocked = false;
+      for (const f of ob.fields) {
+        if (!this.allowed(runId)) return;
+        const sig = fieldSignature(f);
+        const answered =
+          this.db
+            .all("answers")
+            .filter((a) => a.runId === runId && a.signature === sig)
+            .at(-1) ||
+          this.db
+            .all("answers")
+            .filter(
+              (a) =>
+                a.reusable &&
+                a.scope === job.canonicalUrl &&
+                a.signature === sig,
+            )
+            .at(-1);
+        const matching = this.db
+          .all("questions")
+          .find(
+            (q) =>
+              q.runId === runId &&
+              q.signature === sig &&
+              q.state === "answered",
+          );
+        const filled = Array.isArray(f.value)
+          ? f.value.length > 0
+          : typeof f.value === "boolean"
+            ? f.value
+            : !!String(f.value).trim();
+        if (
+          filled &&
+          f.valid &&
+          !matching &&
+          (!(f.kind === "combobox") || f.committed)
+        )
+          continue;
+        let value = answered?.value,
+          document = null,
+          skip = answered?.skip;
+        if (
+          value === undefined &&
+          !skip &&
+          !sensitive.test(f.name + " " + f.context) &&
+          basic[f.nameAttr]
+        ) {
+          const fact = this.db
+            .all("facts")
+            .filter((x) => x.key === basic[f.nameAttr] && x.confirmedAt)
+            .at(-1);
+          if (fact) {
+            value = fact.value;
+            this.db.put("answers", {
+              id: id(),
+              runId,
+              signature: sig,
+              question: f.name,
+              context: f.context,
+              scope: job.canonicalUrl,
+              value,
+              version: fact.version,
+              provenance: "confirmed-profile",
+              factId: fact.id,
+              confirmedAt: fact.confirmedAt,
+            });
+          }
+        }
+        if (f.kind === "file" && value !== undefined)
+          document = this.db.get("documents", String(value));
+        if (skip && !f.required) {
+          if (matching)
+            this.db.put("questions", { ...matching, state: "applied" });
+          continue;
+        }
+        if (value === undefined) {
+          this.task(
+            run,
+            f,
+            f.name
+              ? "An explicit answer or optional skip is needed"
+              : "Unlabeled field requires live context",
+            sensitive.test(f.name + " " + f.context) ? "consent" : "factual",
+          );
+          blocked = true;
+          continue;
+        }
+        this.db.event(runId, "before_fill", { field: f.name, kind: f.kind });
+        try {
+          await this.adapter.fill(page, f, value, document);
+          if (matching)
+            this.db.put("questions", { ...matching, state: "applied" });
+          this.db.event(runId, "after_fill", { field: f.name, verified: true });
+          acted = true;
+          break;
+        } catch (e) {
+          if (matching)
+            this.db.put("questions", { ...matching, state: "obsolete" });
+          this.task(
+            run,
+            f,
+            e.name === "TimeoutError"
+              ? "Control timed out; inspect the live widget"
+              : e.message.split("\n")[0],
+            "validation",
+          );
+          blocked = true;
+        }
+      }
+      if (acted) continue;
+      if (blocked) {
+        transition(this.db, this.db.get("runs", runId), "needs_input", {
+          owner: "none",
+        });
+        return;
+      }
+      if (!this.allowed(runId)) return;
+      if (await this.adapter.review(page, ob)) {
+        const answers = this.db.all("answers").filter((a) => a.runId === runId),
+          docs = this.db
+            .all("documents")
+            .filter((d) => answers.some((a) => a.value === d.id));
+        const fingerprint = stateFingerprint(ob, answers, docs);
+        const screenshot = await page.screenshot({ fullPage: true });
+        const { writeFile } = await import("node:fs/promises");
+        const shot = this.artifacts + "/" + id() + ".png";
+        await writeFile(shot, screenshot, { mode: 0o600 });
+        if (!this.allowed(runId)) return;
+        const review = {
+          id: id(),
+          runId,
+          fingerprint,
+          observation: ob,
+          answers,
+          documents: docs.map(({ path, ...d }) => d),
+          screenshot: shot,
+          created: now(),
+          job: {
+            title: job.title,
+            company: job.company,
+            url: job.canonicalUrl,
+          },
+        };
+        this.db.put("reviews", review);
+        transition(this.db, this.db.get("runs", runId), "ready_for_review", {
+          owner: "none",
+          reviewId: review.id,
+        });
+        return;
+      }
+      this.db.event(runId, "before_advance", { step: ob.step });
+      await this.adapter.advance(page);
+      const next = await observe(page);
+      this.db.event(runId, "after_advance", { step: next.step });
+      if (next.step === ob.step) {
+        this.task(
+          run,
+          null,
+          "Step did not advance; inspect validation or unsupported required controls.",
+          "validation",
+        );
+        transition(this.db, this.db.get("runs", runId), "needs_input", {
+          owner: "none",
+        });
+        return;
+      }
+    }
+    if (this.allowed(runId)) {
+      this.task(
+        run,
+        null,
+        "Action budget reached. Inspect the session before resuming.",
+        "manual",
+      );
+      transition(this.db, this.db.get("runs", runId), "needs_input", {
+        owner: "none",
+      });
+    }
+  }
+  async control(runId, action) {
+    let r = this.db.get("runs", runId);
+    if (!r) throw Error("Unknown run");
+    if (action === "pause" || action === "takeover" || action === "cancel") {
+      if (terminal.has(r.state) || r.state === "submitting")
+        throw Error("Run is locked");
+      const target =
+        action === "cancel"
+          ? "cancelled"
+          : action === "takeover"
+            ? "manual_control"
+            : "paused";
+      // Revoke execution before awaiting outstanding action. Manual lease is not
+      // granted until the in-flight operation completes.
+      this.db.put("runs", { ...r, owner: "revoking" });
+      await this.active.get(runId);
+      r = this.db.get("runs", runId);
+      transition(this.db, r, target, {
+        owner: action === "takeover" ? "manual" : "none",
+        generation: r.generation + 1,
+      });
+      const s = this.browsers.sessions.get(runId);
+      if (s) s.owner = action === "takeover" ? "manual" : "none";
+      if (action === "cancel") await this.browsers.close(runId);
+      if (action === "takeover") {
+        if (!s)
+          throw Error("Browser state lost; retry to open a fresh session");
+        await s.page.bringToFront();
+      }
+      return;
+    }
+    if (action === "resume" || action === "retry") {
+      if (
+        ![
+          "paused",
+          "manual_control",
+          "needs_input",
+          "failed",
+          "expired",
+          "ready_for_review",
+        ].includes(r.state)
+      )
+        throw Error("Cannot resume this state");
+      const s = this.browsers.sessions.get(runId);
+      if (s) {
+        const ob = await observe(s.page);
+        const job = this.db.get("jobs", r.jobId);
+        if (ob.receipt && job.source === "fixture") {
+          this.db.put("receipts", {
+            id: id(),
+            runId,
+            evidence: ob.receipt,
+            source: "manual",
+            at: now(),
+          });
+          if (r.state !== "manual_control")
+            throw Error("Receipt requires manual reconciliation");
+          transition(this.db, r, "submitted", { owner: "none" });
+          return;
+        }
+        if (job.source === "fixture")
+          await this.adapter.verify(job, s.page, ob);
+        if (r.state === "manual_control") {
+          for (const field of ob.fields) {
+            const signature = fieldSignature(field);
+            const previous = this.db.all("answers").filter(a => a.runId === runId && a.signature === signature).at(-1);
+            if (field.kind === "file" || !field.valid || JSON.stringify(previous?.value) === JSON.stringify(field.value)) continue;
+            const hasValue = field.value !== "" && field.value !== null;
+            if (!hasValue) continue;
+            this.db.put("answers", {id: id(), runId, signature, question: field.name,
+              context: field.context, scope: job.canonicalUrl, value: field.value,
+              version: (previous?.version || 0) + 1, provenance: "manual-observed",
+              confirmedAt: now(), reusable: false});
+            for (const q of this.db.all("questions").filter(q => q.runId === runId && q.signature === signature && ["open", "answered", "deferred"].includes(q.state)))
+              this.db.put("questions", {...q, state: "applied"});
+          }
+          this.db.event(runId, "manual_values_reconciled", {step: ob.step});
+        }
+        this.checkpoint(r, ob);
+      }
+      for (const a of this.db
+        .all("authorizations")
+        .filter((a) => a.runId === runId && !a.consumed))
+        this.db.put("authorizations", { ...a, expired: true });
+      transition(this.db, this.db.get("runs", runId), "queued", {
+        owner: "auto",
+        reviewId: null,
+        retries: action === "retry" ? (r.retries || 0) + 1 : r.retries || 0,
+        notBefore:
+          action === "retry"
+            ? Date.now() + Math.min(30000, 1000 * 2 ** (r.retries || 0))
+            : 0,
+      });
+    }
+  }
+  answer(questionId, value, { skip = false, reuse = false } = {}) {
+    return this.db.tx(() => {
+      const q = this.db.get("questions", questionId);
+      if (!q || !["open", "deferred"].includes(q.state) || !q.field)
+        throw Error("This task requires opening the live browser");
+      const run = this.db.get("runs", q.runId);
+      if (run.state !== "needs_input")
+        throw Error("Run is not waiting for answers");
+      if (skip && q.field.required)
+        throw Error("Required answers cannot be skipped");
+      if (!skip && (value === undefined || value === "" || value === null))
+        throw Error("Answer required");
+      if (
+        q.field.kind === "file" &&
+        !skip &&
+        !this.db.get("documents", String(value))
+      )
+        throw Error("Choose an uploaded document");
+      const a = {
+        id: id(),
+        runId: q.runId,
+        signature: q.signature,
+        question: q.field.name,
+        context: q.field.context,
+        scope: q.scope,
+        value,
+        skip,
+        confirmedAt: now(),
+        provenance: "user-confirmed",
+        version:
+          this.db
+            .all("answers")
+            .filter((x) => x.runId === q.runId && x.signature === q.signature)
+            .length + 1,
+        reusable: reuse,
+      };
+      this.db.put("answers", a);
+      this.db.put("questions", { ...q, state: "answered", answerId: a.id });
+      transition(this.db, run, "queued", { owner: "auto" });
+      return a;
+    });
+  }
+  async shutdown() {
+    this.stopping = true;
+    clearInterval(this.timer);
+    for (const r of this.db.all("runs"))
+      if (r.state === "preparing")
+        this.db.put("runs", { ...r, owner: "revoking" });
+    await Promise.allSettled([...this.active.values()]);
+    await this.browsers.shutdown();
+  }
 }
